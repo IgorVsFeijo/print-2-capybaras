@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+ul{
+    list-style: none;
+}
+ul li{
+    display: inline-block;
+    padding: 1.3em;
+    text-align: center;
+}
+.hide{
+    display: none;
+}
+#obrigatorias ul li{
+    padding: .4em 1.2em
+}
+#escondidas{
+    padding: 0em;
+}
+menu {
+    margin: 0;
+}
+
+.nav-item {
+    padding: 0 2em 0 2em;
+}
+
+.topo {
+    margin-top: 3.9em;
+}
+
+img {
+    margin: 0 2em 0 2em;
+}
+
+.acess {
+    width: 600px;
+}
