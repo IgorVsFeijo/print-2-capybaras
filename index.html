@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="pt-br">
   <head>
     <meta charset="UTF-8" />
@@ -9,6 +10,7 @@
       integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
       crossorigin="anonymous"
     />
+    <link rel="stylesheet" href="style/style.css" />
   </head>
   <body>
     <!-- Inicio Header -->
@@ -250,40 +252,46 @@
 
     <!-- Inicio Main -->
 
-    <main id="home-principal" class="container-lg">
-      <article id="secoes-portais" class="row row-cols-2">
+    <main id="home-principal" class="container-lg p-3">
+      <article id="secoes-portais" class="row row-cols-2 gy-3">
         <!--Inicio article das secoes portais-->
 
         <h1 class="d-none">Áreas do Portal São Roque</h1>
 
-        <section class="prefeitura col-7">
-          <!--Inicio secao prefeitura-->
-          <h2>Prefeitura SR</h2>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. A, autem
-            exercitationem ratione eum nostrum veritatis labore impedit
-            voluptatibus, ipsam id quisquam natus repellat minus totam.
-            Perferendis tempore esse nisi quod!
-          </p>
-        </section>
+        <div class="col-md-7">
+            <section class="prefeitura">
+              <!--Inicio secao prefeitura-->
+              <div>
+                  <h2>Prefeitura SR</h2>
+                  <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. A, autem
+                    exercitationem ratione eum nostrum veritatis labore impedit
+                    voluptatibus, ipsam id quisquam natus repellat minus totam.
+                    Perferendis tempore esse nisi quod!
+                  </p>
+              </div>
+            </section>
+        </div>
 
-        <a href="cidade/index.html" class="col-5">
+        <a href="cidade/index.html" class="col-md-5">
           <section class="cidade">
             <!--Inicio secao cidade-->
-            <h2>Cidade</h2>
-            <p>
-              Magnam accusantium quod eligendi. Quasi sint iure iste
-              necessitatibus adipisci iusto explicabo ullam odio, vitae nihil
-              veritatis voluptates, sunt hic sapiente id minus maxime quis
-              labore veniam laudantium consequatur reprehenderit.
-            </p>
+            <div>
+                <h2>Cidade</h2>
+                <p>
+                  Magnam accusantium quod eligendi. Quasi sint iure iste
+                  necessitatibus adipisci iusto explicabo ullam odio, vitae nihil
+                  veritatis voluptates, sunt hic sapiente id minus maxime quis
+                  labore veniam laudantium consequatur reprehenderit.
+                </p>
+            </div>
           </section>
         </a>
 
-        <div class="row col-12">
-            <a href="cidadao/index.html">
-              <section class="cidadao">
-                <!--Inicio secao ciadadao-->
+        <a href="cidadao/index.html">
+          <section class="cidadao">
+            <!--Inicio secao ciadadao-->
+            <div>
                 <h2>Cidadão</h2>
                 <p>
                   Numquam saepe excepturi, illum obcaecati expedita perferendis. Vel
@@ -291,62 +299,69 @@
                   tempora voluptate quibusdam reprehenderit, quo tenetur eos iure,
                   quis veniam vitae incidunt magni. Vel?
                 </p>
-              </section>
-            </a>
-            <a href="cultura/index.html">
-              <section class="cultura">
-                <!--Inicio secao cultura-->
-                <h2>Cultura</h2>
-                <p>
-                  Officia dolorum quia quibusdam molestias nam nemo esse quo error
-                  commodi cumque! Dolores nulla error minus facilis quo nostrum
-                  temporibus dolore vero, suscipit ullam expedita aliquam
-                  accusantium. Corporis, consectetur dignissimos.
-                </p>
-              </section>
-            </a>
-            <a href="turismo/index.html">
-              <section class="turismo">
-                <!-- Inicio secao turismo -->
-                <h2>Turismo</h2>
-                <p>
-                  Minus, repellendus ut accusamus similique ad incidunt sunt
-                  voluptatibus quaerat laudantium, beatae ipsam veritatis. Vero,
-                  maiores vel, corporis deleniti eaque illum ad rerum ab possimus
-                  voluptatibus assumenda expedita tenetur numquam.
-                </p>
-              </section>
-            </a>
+            </div>
+          </section>
+        </a>
+
+        <div class="cultura-e-turismo row mx-0 gy-3">
+          <a href="cultura/index.html">
+            <section class="cultura">
+              <!--Inicio secao cultura-->
+              <div>
+                  <h2>Cultura</h2>
+                  <p>
+                    Officia dolorum quia quibusdam molestias nam nemo esse quo error
+                    commodi cumque!
+                  </p>
+              </div>
+            </section>
+          </a>
+          <a href="turismo/index.html">
+            <section class="turismo">
+              <!-- Inicio secao turismo -->
+              <div>
+                  <h2>Turismo</h2>
+                  <p>
+                    Minus, repellendus ut accusamus similique ad incidunt sunt
+                    voluptatibus quaerat laudantium, beatae ipsam veritatis.
+                  </p>
+              </div>
+            </section>
+          </a>
         </div>
 
         <a href="governo/index.html">
           <section class="governo">
             <!--Inicio secao governo-->
-            <h2>Governo</h2>
-            <p>
-              Recusandae natus incidunt tempora dolore delectus odit, veniam
-              debitis illo odio similique ad iure reprehenderit, est ipsam nam
-              distinctio dolores magnam nemo quidem molestias. Delectus quidem
-              perferendis odio illum mollitia.
-            </p>
+            <div>
+                <h2>Governo</h2>
+                <p>
+                  Recusandae natus incidunt tempora dolore delectus odit, veniam
+                  debitis illo odio similique ad iure reprehenderit, est ipsam nam
+                  distinctio dolores magnam nemo quidem molestias. Delectus quidem
+                  perferendis odio illum mollitia.
+                </p>
+            </div>
           </section>
         </a>
 
         <a href="empresa/index.html">
           <section class="empresa">
-            <h2>Empresa</h2>
             <!-- inicio secao empresa -->
-            <p>
-              Temporibus cupiditate dolorum veritatis recusandae maiores
-              accusantium, reiciendis eligendi ullam, at vero similique dolorem,
-              distinctio nesciunt. Quia, similique officia. Ipsum, ipsa incidunt
-              hic in veniam assumenda consectetur. Tenetur, reprehenderit
-              asperiores?
-            </p>
+            <div>
+                <h2>Empresa</h2>
+                <p>
+                  Temporibus cupiditate dolorum veritatis recusandae maiores
+                  accusantium, reiciendis eligendi ullam, at vero similique dolorem,
+                  distinctio nesciunt. Quia, similique officia. Ipsum, ipsa incidunt
+                  hic in veniam assumenda consectetur. Tenetur, reprehenderit
+                  asperiores?
+                </p>
+            </div>
           </section>
         </a>
       </article>
-      
+
       <!-- Fim article secoes portais -->
 
       <!-- Inicio da secao veja mais  -->
@@ -354,16 +369,15 @@
       <section class="veja-mais">
         <h3>Veja Mais</h3>
         <ul>
-            <li>Item 1</li>
-            <li>Item 2</li>
-            <li>Item 3</li>
-            <li>Item 4</li>
+          <li>Item 1</li>
+          <li>Item 2</li>
+          <li>Item 3</li>
+          <li>Item 4</li>
         </ul>
       </section>
-
-        <!-- Fim da secao veja mais -->
     </main>
 
+    <!-- Fim da secao veja mais -->
 
     <!-- Fim Main -->
 

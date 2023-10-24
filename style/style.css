@@ -64,3 +64,47 @@ header, header > div{
     background-color: #1d2f6f;
     color: white;
 }
+
+/*Home principal*/
+
+#secoes-portais > *{
+    min-height: 420px;
+}
+
+#secoes-portais a{
+    color: black;
+    text-decoration: none;
+}
+
+#secoes-portais > * > section, div.cultura-e-turismo a{
+    background-color: rgb(89, 89, 89);
+}
+
+#secoes-portais > * > section, div.cultura-e-turismo section{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    flex-grow: 1;
+}
+
+#secoes-portais > * > section, div.cultura-e-turismo{
+    height: 100%;
+}
+
+div.cultura-e-turismo{
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+}
+
+div.cultura-e-turismo > *{
+    display: flex;
+    flex-grow: 1;
+    margin: 0;
+    padding: 0;
+}
+
+#secoes-portais section div{
+    background-color: rgb(184, 184, 184);
+    padding: 1em;
+}
