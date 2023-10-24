@@ -26,7 +26,7 @@ menu {
 }
 
 .topo {
-    margin-top: 3.9em;
+    margin-top: 3.4em;
 }
 
 img {
@@ -34,5 +34,33 @@ img {
 }
 
 .acess {
-    width: 600px;
+    width: 300px;
+    margin: auto;
+    background-color: #00a6a6;
+    padding: 0.2em;
+}
+
+header, header > div{
+    max-width: 100%;
+}
+
+#barra-acessibilidade img{
+    margin: 0;
+
+}
+
+.btn{
+    padding: 0;
+    background-color: #3552B9;
+    color: white;
+}
+
+.btnacs{
+    padding: 0;
+    background-color: #00a6a6;
+}
+
+.secnav {
+    background-color: #1d2f6f;
+    color: white;
 }
