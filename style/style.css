@@ -1,5 +1,9 @@
 @charset "UTF-8";
 
+body{
+    overflow-x: hidden;
+}
+
 ul{
     list-style: none;
 }
@@ -107,4 +111,17 @@ div.cultura-e-turismo > *{
 #secoes-portais section div{
     background-color: rgb(184, 184, 184);
     padding: 1em;
+}
+
+/* Home Cidade */
+
+.home-cidade{
+    background-color: rgb(184, 184, 184);
+}
+
+/* Dados Gerais Cidade */
+
+main#dados-gerais li{
+    display: block;
+    text-align: left;
 }
