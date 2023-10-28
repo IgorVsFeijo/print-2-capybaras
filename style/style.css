@@ -1,26 +1,31 @@
 @charset "UTF-8";
 
-body{
+body {
     overflow-x: hidden;
 }
 
-ul{
+header ul {
     list-style: none;
 }
-ul li{
+
+header ul li {
     display: inline-block;
     padding: 1.3em;
     text-align: center;
 }
-.hide{
+
+.hide {
     display: none;
 }
-#obrigatorias ul li{
+
+#obrigatorias ul li {
     padding: .4em 1.2em
 }
-#escondidas{
+
+#escondidas {
     padding: 0em;
 }
+
 menu {
     margin: 0;
 }
@@ -34,7 +39,8 @@ menu {
 }
 
 img {
-    margin: 0 2em 0 2em;
+
+    max-width: 100%;
 }
 
 .acess {
@@ -44,84 +50,168 @@ img {
     padding: 0.2em;
 }
 
-header, header > div{
+header,
+header>div {
     max-width: 100%;
 }
 
-#barra-acessibilidade img{
+#barra-acessibilidade img {
     margin: 0;
 
 }
 
-.btn{
+.btn {
     padding: 0;
     background-color: #3552B9;
     color: white;
 }
 
-.btnacs{
+.btnacs {
     padding: 0;
     background-color: #00a6a6;
 }
 
-.secnav {
+.barra-acess {
     background-color: #1d2f6f;
     color: white;
 }
 
-/*Home principal*/
+/* Atualização Header*/
 
-#secoes-portais > *{
+/* Navbar Principal */
+
+.placeholder-acess {
+    height: 55px;
+    width: 10px;
+}
+
+.nav-item {
+    display: flex;
+    align-items: center;
+}
+
+.collapse:not(.show) li {
+    display: flex;
+}
+
+/* Navbar Secundario */
+
+div.nav-secundario{
+    background-color: rgb(228, 225, 225);
+}
+
+#navSecundario > menu{
+    max-width: 1000px;
+}
+
+.nav-item.btn > a{
+    padding: 0;
+    text-transform: uppercase;
+}
+
+.nav-item.btn > .nav-link{
+    color: white;
+}
+
+.nav-item.btn:hover > .nav-link, .nav-item.btn:hover > .dropdown-toggle{
+    color: black;
+}
+
+.dropdown-toggle{
+    background-color: transparent;
+    text-align: center;
+    height: 100%;
+    color: white;
+    border: 0;
+}
+
+.dropdown-toggle:hover{
+    background-color: rgba(0, 0, 0, 0.26);
+}
+
+/*Fim Home principal*/
+
+#secoes-portais>* {
     min-height: 420px;
 }
 
-#secoes-portais a{
+#secoes-portais a {
     color: black;
     text-decoration: none;
 }
 
-#secoes-portais > * > section, div.cultura-e-turismo a{
+#secoes-portais>*>section,
+div.cultura-e-turismo a {
     background-color: rgb(89, 89, 89);
 }
 
-#secoes-portais > * > section, div.cultura-e-turismo section{
+#secoes-portais>*>section,
+div.cultura-e-turismo section {
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
     flex-grow: 1;
 }
 
-#secoes-portais > * > section, div.cultura-e-turismo{
+#secoes-portais>*>section,
+div.cultura-e-turismo {
     height: 100%;
 }
 
-div.cultura-e-turismo{
+div.cultura-e-turismo {
     display: flex;
     flex-direction: column;
     gap: 1em;
 }
 
-div.cultura-e-turismo > *{
+div.cultura-e-turismo>* {
     display: flex;
     flex-grow: 1;
     margin: 0;
     padding: 0;
 }
 
-#secoes-portais section div{
+#secoes-portais section div {
     background-color: rgb(184, 184, 184);
     padding: 1em;
 }
 
 /* Home Cidade */
 
-.home-cidade{
-    background-color: rgb(184, 184, 184);
-}
-
 /* Dados Gerais Cidade */
 
-main#dados-gerais li{
+main#dados-gerais li {
     display: block;
     text-align: left;
+}
+
+@media screen and (max-width: 1400px) {
+    /* Atualização Header */
+
+
+}
+
+@media screen and (max-width: 1200px) {
+    /* Atualização Header */
+
+    #navPrincipal .nav-item {
+        padding: 3px 10px;
+        background-color: rgba(128, 128, 128, 0.068);
+        margin: 2px;
+    }
+}
+
+@media screen and (max-width: 768px){
+    /* Atualização Header*/
+
+    li.dropdown{
+        padding: 2px 20px;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+
+    li.dropdown menu{
+        width: calc(100% + 42px);
+        margin: -3px -21px;
+    }
 }

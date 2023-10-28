@@ -10,11 +10,13 @@
   <link rel="stylesheet" href="../style/style.css">
 </head>
 
-<body>
+<body class="w-100">
 
-  <header>
-    <div class="navbar navbar-expand-lg secnav fixed-top" id="barra-acessibilidade">
-      <!-- Barra de Acessilibidade -->
+  <header class="p-0">
+
+    <!-- Barra de Acessilibidade -->
+
+    <div class="text-center p-2 w-100 barra-acess fixed-top" id="barra-acessibilidade">
       <div class="btn-group acess row justify-content-center">
         <button type="button" class="btn btnacs col-1">
           <img src="https://placekitten.com/30/30" alt="place kitten maneiro" />
@@ -33,332 +35,357 @@
         </button>
       </div>
     </div>
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark topo">
-      <div class="container-fluid container text-center">
-        <img src="https://placekitten.com/250/120" alt="place kitten maneiro" />
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
-          aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" >
-          <menu class="navbar-nav me-auto mb-2 mb-lg-0">
-            <li class="nav-item">
-              <a class="nav-link" href="/noticias.html">Notícias</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="/ouvidoria.html">Ouvidoria</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="/contato.html">Contato</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="/quemsomos.html">Quem Somos</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="/perguntas.html">Perguntas Frequentes</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="/privacidade.html">Privacidade</a>
-            </li>
-          </menu>
-        </div>
+
+    <!-- Essa div serve apenas para preencher o espaço referente a barra de acessibilidade, que está com position absolute -->
+
+    <div class="placeholder-acess"></div>
+
+    <!-- Container Nav Principal e Nav Secundária -->
+    <div class="d-flex flex-wrap align-items-center text-center h-auto">
+
+      <!-- Container Background Dark (Ocupando toda a tela)-->
+
+      <div class="container-fluid bg-dark">
+
+        <!-- Navbar Principal -->
+        <nav
+          class="flex-wrap-lg container-logo-nav container-lg navbar navbar-expand-xl navbar-dark w-100 w-xl-auto flex-shrink-1">
+
+          <a href="/index.html">
+            <figure class="m-0 flex-shrink-1 ">
+              <img src="https://placekitten.com/250/120" alt="Logo Site" class="m-0">
+            </figure>
+          </a>
+
+          <!-- Botao Sanduiche -->
+
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navsComprimidos"
+            aria-controls="navPrincipal navSecundario" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+
+          <!-- Navbar Comprimida -->
+
+          <div class="navbar-collapse collapse navsComprimidos order-1 order-xxl-0" id="navPrincipal">
+            <menu class="navbar-nav justify-content-between w-100 d-flex pt-2 pt-xxl-0">
+              <li class="nav-item">
+                <a class="nav-link" href="/noticias.html">Notícias</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="/ouvidoria.html">Ouvidoria</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="/contato.html">Contato</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="/quemsomos.html">Quem Somos</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="/perguntas.html">Perguntas Frequentes</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="/privacidade.html">Privacidade</a>
+              </li>
+            </menu>
+          </div>
+          <!-- Fim Navbar Comprimida -->
+
+        </nav>
+        <!-- Fim Navbar Principal -->
+
       </div>
-    </nav>
-    <nav class="navbar navbar-expand-lg secnav">
-      <div class="container-fluid container text-center">
-        <div class="collapse navbar-collapse" >
-          <menu class="navbar-nav me-auto mb-2 mb-lg-0">
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle btn" href="/cidade/index.html" role="button" data-bs-toggle="dropdown"
-                aria-expanded="false">
-                A cidade
-              </a>
-              <ul class="dropdown-menu">
-                <li>
-                  <a class="dropdown-item" href="/cidade/historia.html">História</a>
-                </li>
-                <li>
-                  <hr class="dropdown-divider" />
-                </li>
-                <li>
-                  <a class="dropdown-item" href="/cidade/dadosgerais.html">Dados Gerais</a>
-                </li>
-                <li>
-                  <hr class="dropdown-divider" />
-                </li>
-                <li>
-                  <a class="dropdown-item" href="/cidade/pessoasnotaveis.html">Pessoas Notáveis</a>
-                </li>
-                <li>
-                  <hr class="dropdown-divider" />
-                </li>
-                <li>
-                  <a class="dropdown-item" href="/cidade/simbolos.html">Brasão E Bandeira</a>
-                </li>
-                <li>
-                  <hr class="dropdown-divider" />
-                </li>
-                <li>
-                  <a class="dropdown-item" href="/cidade/hino.html">Hino Municipal</a>
-                </li>
-              </ul>
-            </li>
-          </menu>
-          <menu class="navbar-nav me-auto mb-2 mb-lg-0">
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle btn" href="/cidadao/index.html" role="button" data-bs-toggle="dropdown"
-                aria-expanded="false">
-                Cidadão
-              </a>
-              <ul class="dropdown-menu">
-                <li>
-                  <a class="dropdown-item" href="/cidadao/concursos.html">Concursos</a>
-                </li>
-                <li>
-                  <hr class="dropdown-divider" />
-                </li>
-                <li>
-                  <a class="dropdown-item" href="/cidadao/transporte.html">Trânsito e transporte</a>
-                </li>
-                <li>
-                  <hr class="dropdown-divider" />
-                </li>
-                <li>
-                  <a class="dropdown-item" href="/cidadao/saude.html">Saúde</a>
-                </li>
-                <li>
-                  <hr class="dropdown-divider" />
-                </li>
-                <li>
-                  <a class="dropdown-item" href="/cidadao/servicos.html">Serviços</a>
-                </li>
-              </ul>
-            </li>
-          </menu>
-          <menu class="navbar-nav me-auto mb-2 mb-lg-0">
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle btn" href="/governo/index.html" role="button" data-bs-toggle="dropdown"
-                aria-expanded="false">
-                Governo
-              </a>
-              <ul class="dropdown-menu">
-                <li>
-                  <a class="dropdown-item" href="/governo/prefeitura.html">Prefeitura</a>
-                </li>
-                <li>
-                  <hr class="dropdown-divider" />
-                </li>
-                <li>
-                  <a class="dropdown-item" href="/governo/secretarias.html">Secretarias</a>
-                </li>
-                <li>
-                  <hr class="dropdown-divider" />
-                </li>
-                <li>
-                  <a class="dropdown-item" href="/governo/legislacao.html">Legislação</a>
-                </li>
-                <li>
-                  <hr class="dropdown-divider" />
-                </li>
-                <li>
-                  <a class="dropdown-item" href="/governo/legislativo.html">Poder Legislativo</a>
-                </li>
-              </ul>
-            </li>
-          </menu>
-          <menu class="navbar-nav me-auto mb-2 mb-lg-0">
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle btn" href="/empresa/home.html" role="button" data-bs-toggle="dropdown"
-                aria-expanded="false">
-                Empresa
-              </a>
-              <ul class="dropdown-menu">
-                <li>
-                  <a class="dropdown-item" href="/empresa/iptu.html">IPTU</a>
-                </li>
-                <li>
-                  <hr class="dropdown-divider" />
-                </li>
-                <li>
-                  <a class="dropdown-item" href="/empresa/diario_oficial.html">Diário Oficial</a>
-                </li>
-                <li>
-                  <hr class="dropdown-divider" />
-                </li>
-                <li>
-                  <a class="dropdown-item" href="/empresa/cadastro.html">Cadastro de Pessoa Jurídica</a>
-                </li>
-                <li>
-                  <hr class="dropdown-divider" />
-                </li>
-                <li>
-                  <a class="dropdown-item" href="/empresa/aprovação.html">Aprovação de Projetos</a>
-                </li>
-              </ul>
-            </li>
-          </menu>
-          <menu class="navbar-nav me-auto mb-2 mb-lg-0">
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle btn" href="/cultura/index.html" role="button" data-bs-toggle="dropdown"
-                aria-expanded="false">
-                Cultura
-              </a>
-              <ul class="dropdown-menu">
-                <li>
-                  <a class="dropdown-item" href="/cultura/culturaarte.html">Cultura e Arte</a>
-                </li>
-                <li>
-                  <hr class="dropdown-divider" />
-                </li>
-                <li>
-                  <a class="dropdown-item" href="/cultura/tradicoes.html">Tradições</a>
-                </li>
-                <li>
-                  <hr class="dropdown-divider" />
-                </li>
-                <li>
-                  <a class="dropdown-item" href="/cultura/agendamento.html">Agendamento</a>
-                </li>
-                <li>
-                  <hr class="dropdown-divider" />
-                </li>
-                <li>
-                  <a class="dropdown-item" href="/cultura/cadastro.html">Cadastro</a>
-                </li>
-              </ul>
-            </li>
-          </menu>
-          <menu class="navbar-nav me-auto mb-2 mb-lg-0">
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle btn" href="/turismo/index.html" role="button" data-bs-toggle="dropdown"
-                aria-expanded="false">
-                Turismo
-              </a>
-              <ul class="dropdown-menu">
-                <li>
-                  <a class="dropdown-item" href="/turismo/hospedagem.html">Hospedagem</a>
-                </li>
-                <li>
-                  <hr class="dropdown-divider" />
-                </li>
-                <li>
-                  <a class="dropdown-item" href="/turismo/pontos_turisticos.html">Pontos Turisticos</a>
-                </li>
-                <li>
-                  <hr class="dropdown-divider" />
-                </li>
-                <li>
-                  <a class="dropdown-item" href="/turismo/gastronomia.html">Gastronomia</a>
-                </li>
-                <li>
-                  <hr class="dropdown-divider" />
-                </li>
-                <li>
-                  <a class="dropdown-item" href="/turismo/eventos.html">Eventos</a>
-                </li>
-                <li>
-                  <hr class="dropdown-divider" />
-                </li>
-                <li>
-                  <a class="dropdown-item" href="/turismo/galeria.html">Galeria</a>
-                </li>
-              </ul>
-            </li>
-          </menu>
+      <!-- Fim Container Background Dark (Ocupando toda a tela)-->
+
+      <!-- Container Navbar Secundário e Terciário -->
+
+      <nav class="w-100 bg-secondary">
+
+        <!-- Container Background Secundario -->
+        <div class="flex-wrap nav-secundario navbar navbar-expand-md w-100 w-xl-auto flex-shrink-1 p-0"
+          id="backgroundSecundario">
+
+          <!-- Nav Secundário Comprimido -->
+          <div class="navbar-collapse collapse navsComprimidos" id="navSecundario">
+            <menu class="navbar-nav container-lg px-3 gap-2 px-md-0 justify-content-around d-flex py-2">
+              <li class="nav-item btn dropdown">
+
+                <!-- Título da Área -->
+                <a class="nav-link" href="/cidade/">A Cidade</a>
+                <button class="dropdown-toggle dropdown-toggle-split" type="button" data-bs-toggle="dropdown"
+                  aria-expanded="false" data-bs-reference="#navSecundario">
+                </button>
+                <!--Submenu -->
+                <menu class="dropdown-menu">
+                  <li class="dropdown-item">
+                    <a class="nav-link" href="/cidade/historia.html">História</a>
+                  </li>
+                  <li class="dropdown-item">
+                    <a class="nav-link" href="/cidade/dadosgerais.html">Dados Gerais</a>
+                  </li>
+                  <li class="dropdown-item">
+                    <a class="nav-link" href="/cidade/pessoasnotaveis.html">Pessoas Notáveis</a>
+                  </li>
+                  <li class="dropdown-item">
+                    <a class="nav-link" href="/cidade/simbolos.html">Brasão e Bandeira</a>
+                  </li>
+                  <li class="dropdown-item">
+                    <a class="nav-link" href="/cidade/hino.html">Hino da Cidade</a>
+                  </li>
+                </menu>
+
+              </li>
+              <li class="nav-item btn dropdown">
+
+                <!-- Título da Área -->
+                <a class="nav-link" href="/cidadao/">Cidadão</a>
+                <button class="dropdown-toggle dropdown-toggle-split" type="button" data-bs-toggle="dropdown"
+                  aria-expanded="false" data-bs-reference="#navSecundario">
+                </button>
+                <!--Submenu -->
+                <menu class="dropdown-menu">
+                  <li class="dropdown-item">
+                    <a class="nav-link" href="/cidadao/saude.html">Saúde</a>
+                  </li>
+                  <li class="dropdown-item">
+                    <a class="nav-link" href="/cidadao/servicos.html">Serviços</a>
+                  </li>
+                  <li class="dropdown-item">
+                    <a class="nav-link" href="/cidadao/transporte.html">Trânsito e Transporte</a>
+                  </li>
+                  <li class="dropdown-item">
+                    <a class="nav-link" href="/cidadao/concursos.html">Concursos</a>
+                  </li>
+                </menu>
+
+              </li>
+              <li class="nav-item btn dropdown">
+
+                <!-- Título da Área -->
+                <a class="nav-link" href="/governo/">Governo</a>
+                <button class="dropdown-toggle dropdown-toggle-split" type="button" data-bs-toggle="dropdown"
+                  aria-expanded="false" data-bs-reference="#navSecundario">
+                </button>
+                <!--Submenu -->
+                <menu class="dropdown-menu">
+                  <li class="dropdown-item">
+                    <a class="nav-link" href="/governo/prefeitura.html">Prefeitura</a>
+                  </li>
+                  <li class="dropdown-item">
+                    <a class="nav-link" href="/governo/secretarias.html">Secretarias</a>
+                  </li>
+                  <li class="dropdown-item">
+                    <a class="nav-link" href="/governo/legislacao.html">Legislação</a>
+                  </li>
+                  <li class="dropdown-item">
+                    <a class="nav-link" href="/governo/legislativo.html">Poder Legislativo</a>
+                  </li>
+                </menu>
+
+              </li>
+              <li class="nav-item btn dropdown">
+
+                <!-- Título da Área -->
+                <a class="nav-link" href="/empresa/home.html">Empresa</a>
+                <button class="dropdown-toggle dropdown-toggle-split" type="button" data-bs-toggle="dropdown"
+                  aria-expanded="false" data-bs-reference="#navSecundario">
+                </button>
+                <!--Submenu -->
+                <menu class="dropdown-menu">
+                  <li class="dropdown-item">
+                    <a class="nav-link" href="/empresa/iptu.html">IPTU</a>
+                  </li>
+                  <li class="dropdown-item">
+                    <a class="nav-link" href="/empresa/diario_oficial.html">Diário Oficial</a>
+                  </li>
+                  <li class="dropdown-item">
+                    <a class="nav-link" href="/empresa/cadastro.html">Cadastro de Pessoa Jurídica</a>
+                  </li>
+                  <li class="dropdown-item">
+                    <a class="nav-link" href="/empresa/apr">Aprovação de Projetos</a>
+                  </li>
+                </menu>
+
+              </li>
+              <li class="nav-item btn dropdown">
+
+                <!-- Título da Área -->
+                <a class="nav-link" href="/cultura/">Cultura</a>
+                <button class="dropdown-toggle dropdown-toggle-split" type="button" data-bs-toggle="dropdown"
+                  aria-expanded="false" data-bs-reference="#navSecundario">
+                </button>
+                <!--Submenu -->
+                <menu class="dropdown-menu">
+                  <li class="dropdown-item">
+                    <a class="nav-link" href="/cultura/culturaarte.html">Cultura e Arte</a>
+                  </li>
+                  <li class="dropdown-item">
+                    <a class="nav-link" href="/cultura/tradicoes.html">Tradições</a>
+                  </li>
+                  <li class="dropdown-item">
+                    <a class="nav-link" href="/cultura/agendamento.html">Agendamento</a>
+                  </li>
+                  <li class="dropdown-item">
+                    <a class="nav-link" href="/cultura/cadastro.html">Cadastro</a>
+                  </li>
+                </menu>
+
+              </li>
+              <li class="nav-item btn dropdown">
+
+                <!-- Título da Área -->
+                <a class="nav-link" href="/turismo/">Turismo</a>
+                <button class="dropdown-toggle dropdown-toggle-split" type="button" data-bs-toggle="dropdown"
+                  aria-expanded="false" data-bs-reference="#navSecundario">
+                </button>
+                <!--Submenu -->
+                <menu class="dropdown-menu">
+                  <li class="dropdown-item">
+                    <a class="nav-link" href="/turismo/hospedagem.html">Hospedagem</a>
+                  </li>
+                  <li class="dropdown-item">
+                    <a class="nav-link" href="/turismo/pontos_turisticos.html">Pontos Turísticos</a>
+                  </li>
+                  <li class="dropdown-item">
+                    <a class="nav-link" href="/turismo/gastronomia.html">Gastronomia</a>
+                  </li>
+                  <li class="dropdown-item">
+                    <a class="nav-link" href="/turismo/eventos.html">Eventos</a>
+                  </li>
+                  <li class="dropdown-item">
+                    <a class="nav-link" href="/turismo/galeria.html">Galeria</a>
+                  </li>
+                </menu>
+              </li>
+            </menu>
+          </div>
+          <!-- Fim Nav Secundário Comprimido -->
         </div>
-      </div>
-    </nav>
+        <!-- Container Background Secundario -->
+      </nav>
+    </div>
   </header>
 
   <main class="container-lg home-cidade">
-    <section class="mt-5">
-      <h1>A CIDADE de São Roque</h1>
-    </section>
+    <article>
+      <hgroup>
+        <h1>A CIDADE</h1>
+        <p>de São Roque</p>
+      </hgroup>
 
-    <section class="mt-5">
-      <h2>HISTÓRIA</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum.</p>
-      <a href="historia.html" class="btn btn-primary">Saiba Mais</a>
-    </section>
-
-    <section class="mt-5">
-      <h2>PESSOAS NOTÁVEIS</h2>
-      <div class="row">
-        <div class="col-md-4">
-          <img src="https://via.placeholder.com/300x200?text=Imagem+1" alt="Descrição da Imagem 1" class="img-fluid">
+      <section id="hc-sessao-historia">
+        <h2>HISTÓRIA</h2>
+        <figure>
+          <img src="https://placekitten.com/600/300" alt="">
           <figcaption>LEGENDA DA IMAGEM</figcaption>
-          <p>PESSOA NOTÁVEL</p>
-        </div>
-        <div class="col-md-4">
-          <img src="https://via.placeholder.com/300x200?text=Imagem+2" alt="Descrição da Imagem 2" class="img-fluid">
-          <figcaption>LEGENDA DA IMAGEM</figcaption>
-          <p>PESSOA NOTÁVEL</p>
-        </div>
-        <div class="col-md-4">
-          <img src="https://via.placeholder.com/300x200?text=Imagem+3" alt="Descrição da Imagem 3" class="img-fluid">
-          <figcaption>LEGENDA DA IMAGEM</figcaption>
-          <p>PESSOA NOTÁVEL</p>
-        </div>
-        <a href="pessoasnotaveis.html" class="btn btn-primary mt-3">Saiba Mais</a>
-      </div>
-    </section>
+        </figure>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci doloribus perspiciatis qui blanditiis
+          eveniet cupiditate molestias cumque error ratione est sint accusamus, eos distinctio minima vitae numquam
+          inventore unde velit! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta ab doloribus distinctio
+          sunt id quia, incidunt consequuntur veniam animi rem eveniet tenetur, temporibus magni necessitatibus!
+          Officiis quia adipisci distinctio eos!</p>
+        <a href="historia.html" class="btn btn-primary btn-veja-mais">VEJA MAIS</a>
+      </section>
 
-    <section class="mt-5">
-      <h2>DADOS GERAIS</h2>
-      <ul>
-        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
-        <li>Donec ullamcorper at massa nec aliquam.</li>
-        <li>Proin mauris mauris, et viverra nibh.</li>
-        <li>Morbi nec dignissim purus.</li>
-        <li>Pellentesque tempus posuere elit et maximus.</li>
-      </ul>
-      <a href="dadosgerais.html" class="btn btn-primary mt-3">Saiba Mais</a>
-    </section>
+      <section id="hc-sessao-pessoas">
+        <h2>PESSOAS NOTÁVEIS</h2>
+        <section class="hc-cards-pessoas row row-cols-md-3">
+          <h3 class="d-none">Cartões Pessoas Notáveis</h3>
+          <section class="hc-card-pessoa">
+            <h2>PESSOA NOTÁVEL</h2>
+            <figure>
+              <img src="https://placekitten.com/200/350" alt="">
+              <figcaption>LEGENDA DA IMAGEM</figcaption>
+            </figure>
+          </section>
+          <section class="hc-card-pessoa">
+            <h2>PESSOA NOTÁVEL</h2>
+            <figure>
+              <img src="https://placekitten.com/200/350" alt="">
+              <figcaption>LEGENDA DA IMAGEM</figcaption>
+            </figure>
+          </section>
+          <section class="hc-card-pessoa">
+            <h2>PESSOA NOTÁVEL</h2>
+            <figure>
+              <img src="https://placekitten.com/200/350" alt="">
+              <figcaption>LEGENDA DA IMAGEM</figcaption>
+            </figure>
+          </section>
+        </section>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur nemo ut, corrupti placeat a temporibus
+          architecto, aliquam eligendi id quibusdam consectetur facere saepe ipsa doloribus, repellendus error quidem
+          ullam nam? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Pariatur consequatur recusandae, labore
+          quidem unde quo quasi explicabo beatae nihil fugit obcaecati ullam, quis at ipsa repudiandae totam libero est!
+          Inventore!</p>
+        <a href="pessoasnotaveis.html" class="btn btn-primary btn-veja-mais">VEJA MAIS</a>
+      </section>
 
-    <section class="mt-5">
-      <h2>BRASÃO E BANDEIRA</h2>
-      <div class="row">
-        <div class="col-md-6">
-          <img src="https://via.placeholder.com/300x200?text=Brasão" alt="Brasão de São Roque" class="img-fluid">
-          <figcaption>BRASÃO</figcaption>
+      <section id="hc-sessao-dados">
+        <div class="row row-cols-md-2">
+          <div>
+            <figure><img src="https://placekitten.com/300/300" alt=""><img src="https://placekitten.com/80/80" alt="">
+            </figure>
+          </div>
+          <div>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic iusto sed consequatur rem saepe officiis,
+              aspernatur provident velit fuga eius voluptas odio temporibus enim labore vero. Voluptas exercitationem
+              velit molestias?</p>
+            <ul>
+              <li>Dado Geral 1</li>
+              <li>Dado Geral 2</li>
+              <li>Dado Geral 3</li>
+              <li>Dado Geral 4</li>
+              <li>Dado Geral 5</li>
+            </ul>
+          </div>
         </div>
-        <div class="col-md-6">
-          <img src="https://via.placeholder.com/300x200?text=Bandeira" alt="Bandeira de São Roque" class="img-fluid">
-          <figcaption>BANDEIRA</figcaption>
+        <a href="dadosgerais.html" class="btn btn-primary btn-veja-mais">VEJA MAIS</a>
+      </section>
+
+      <section id="hc-sessao-simbolos">
+        <h2 class="titulo-sessao">BRASÃO E BANDEIRA</h2>
+        <div class="row row-cols-2">
+          <section>
+            <h3>BRASÃO</h3>
+            <img src="https://placekitten.com/400/400" alt="">
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rerum optio at delectus voluptatem fugit,
+              voluptatum nostrum atque possimus dolorum excepturi qui ut explicabo dolor dolore beatae eveniet error,
+              omnis quis.</p>
+          </section>
+          <section>
+            <h3>BANDEIRA</h3>
+            <img src="https://placekitten.com/400/400" alt="">
+            <p>Possimus, ipsa dolorem! Illo temporibus minus dolores harum, voluptate impedit eos. Architecto suscipit
+              quasi blanditiis, vel fugit harum commodi enim aperiam voluptas eius sit perferendis autem dignissimos
+              soluta amet aliquid?</p>
+          </section>
         </div>
-        <a href="simbolos.html" class="btn btn-primary mt-3">Saiba Mais</a>
-      </div>
-    </section>
+        <a href="simbolos.html" class="btn btn-primary btn-veja-mais">VEJA MAIS</a>
+      </section>
 
-    <section class="mt-5">
-      <h2>HINO DA CIDADE</h2>
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/DrYRJNrCN3U?si=gZSNXO_koNqRy3Gz"
-        title="YouTube video player" frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-        allowfullscreen></iframe>
-      <p>
-        Surge estância altaneira
-        Um sol ardente por ti
-        Do verde das tuas matas
-        Brotam, águas do Aracaí
-      </p>
+      <section id="hc-sessao-hino">
+        <h2>HINO DA CIDADE</h2>
+        <div class="row row-cols-md-2">
+          <iframe src="https://www.youtube.com/embed/DrYRJNrCN3U?si=0TtCDzLd1wE_-WGR" title="YouTube video player"
+            class="flex-grow-1"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen></iframe>
+          <div class="col-md-4">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas fuga ipsa temporibus suscipit provident
+              molestias. Est accusantium autem consectetur in quaerat fugit delectus consequuntur repellat,
+              reprehenderit hic, nulla dignissimos expedita!</p>
+            <p>Odit accusamus, omnis perferendis quos necessitatibus cumque libero numquam nisi maiores reprehenderit
+              similique aliquam officia suscipit deleniti quisquam fugit, debitis incidunt harum aspernatur obcaecati
+              velit ab optio inventore! Et, harum.</p>
+            <p>Soluta aut officiis voluptate repudiandae ducimus. Quae autem recusandae consequuntur accusantium
+              architecto debitis ipsam repudiandae pariatur dicta tenetur. Esse, quas earum quos minus qui eaque
+              praesentium exercitationem laudantium fugit perferendis.</p>
+          </div>
+        </div>
+        <a href="hino.html" class="btn btn-primary btn-veja-mais">VEJA MAIS</a>
+      </section>
 
-      <p>
-        Embala um sono sereno
-        Berço de colo moreno
-        Poetas da natureza são índios
-        Do Vale Carambeí
-      </p>
-
-      <p>
-        O grande eleva teu nome
-        O forte luta até o fim
-        Rio de sangue nas veias
-        Da terra onde nasci....
-      </p>
-      <a href="hino.html" class="btn btn-primary mt-3">Saiba Mais</a>
-    </section>
-    </div>
+    </article>
   </main>
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
