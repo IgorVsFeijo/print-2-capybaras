@@ -58,7 +58,7 @@ header>div {
     max-width: 100%;
 }
 
-#barra-acessibilidade img {
+#barra-acessibilidade img, #barra-acessibilidade2 img {
     margin: 0;
 
 }
@@ -206,8 +206,6 @@ main#dados-gerais li {
     'opsz' 2
 }
 
-
-
 #page-acessibilidade svg{
     padding: 5px;
     fill: white;
@@ -219,6 +217,20 @@ main#dados-gerais li {
 
 #page-acessibilidade .icon{
     font-size: 4em;
+}
+
+/* Footer */
+
+footer{
+    background-color: rgb(211, 211, 211);
+    text-align: center;
+}
+
+footer .desenvolvido-por{
+    max-width: 300px;
+}
+footer i.btn{
+    font-size: 2em;
 }
 
 
