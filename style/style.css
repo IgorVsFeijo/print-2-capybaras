@@ -219,6 +219,10 @@ main#dados-gerais li {
     font-size: 4em;
 }
 
+#page-acessibilidade span.m-auto{
+    display: block;
+}
+
 /* Footer */
 
 footer{
