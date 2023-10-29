@@ -198,6 +198,16 @@ main#dados-gerais li {
 
 /* Acessibilidade */
 
+.material-symbols-outlined {
+    font-variation-settings:
+    'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 2
+}
+
+
+
 #page-acessibilidade svg{
     padding: 5px;
     fill: white;
@@ -205,6 +215,10 @@ main#dados-gerais li {
 
 #page-acessibilidade i{
     font-size: 3em;
+}
+
+#page-acessibilidade .icon{
+    font-size: 4em;
 }
 
 
