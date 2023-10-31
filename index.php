@@ -15,11 +15,9 @@
   <body>
     <!-- Inicio Header -->
 
-    <header class="p-0">
       <?php
-        include 'includes/header.php';
+        include 'includes/inc_header.php';
       ?>
-    </header>
 
     <!-- Fim Header -->
 
