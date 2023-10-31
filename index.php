@@ -44,7 +44,7 @@
             </section>
         </div>
 
-        <a href="cidade/index.html" class="col-12 col-md-5">
+        <a href="cidade/index.php" class="col-12 col-md-5">
           <section class="cidade">
             <!--Inicio secao cidade-->
             <div>
@@ -59,7 +59,7 @@
           </section>
         </a>
 
-        <a href="cidadao/index.html">
+        <a href="cidadao/index.php">
           <section class="cidadao">
             <!--Inicio secao ciadadao-->
             <div>
@@ -74,7 +74,7 @@
         </a>
 
         <div class="cultura-e-turismo row mx-0 gy-3">
-          <a href="cultura/index.html">
+          <a href="cultura/index.php">
             <section class="cultura">
               <!--Inicio secao cultura-->
               <div>
@@ -86,7 +86,7 @@
               </div>
             </section>
           </a>
-          <a href="turismo/index.html">
+          <a href="turismo/index.php">
             <section class="turismo">
               <!-- Inicio secao turismo -->
               <div>
@@ -100,7 +100,7 @@
           </a>
         </div>
 
-        <a href="governo/index.html">
+        <a href="governo/index.php">
           <section class="governo">
             <!--Inicio secao governo-->
             <div>
@@ -114,7 +114,7 @@
           </section>
         </a>
 
-        <a href="empresa/index.html">
+        <a href="empresa/index.php">
           <section class="empresa">
             <!-- inicio secao empresa -->
             <div>

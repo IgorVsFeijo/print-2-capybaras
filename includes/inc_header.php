@@ -37,7 +37,7 @@
     <nav
       class="flex-wrap-lg container-logo-nav container-lg navbar navbar-expand-xl navbar-dark w-100 w-xl-auto flex-shrink-1">
 
-      <a href="/index.html">
+      <a href="/index.php">
         <figure class="m-0 flex-shrink-1 ">
           <img src="https://placekitten.com/250/120" alt="Logo Site" class="m-0">
         </figure>
@@ -55,22 +55,22 @@
       <div class="navbar-collapse collapse navsComprimidos order-1 order-xxl-0" id="navPrincipal">
         <menu class="navbar-nav justify-content-between w-100 d-flex pt-2 pt-xxl-0">
           <li class="nav-item">
-            <a class="nav-link" href="/noticias.html">Notícias</a>
+            <a class="nav-link" href="/noticias.php">Notícias</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/ouvidoria.html">Ouvidoria</a>
+            <a class="nav-link" href="/ouvidoria.php">Ouvidoria</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/contato.html">Contato</a>
+            <a class="nav-link" href="/contato.php">Contato</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/quemsomos.html">Quem Somos</a>
+            <a class="nav-link" href="/quemsomos.php">Quem Somos</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/perguntas.html">Perguntas Frequentes</a>
+            <a class="nav-link" href="/perguntas.php">Perguntas Frequentes</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/privacidade.html">Privacidade</a>
+            <a class="nav-link" href="/privacidade.php">Privacidade</a>
           </li>
         </menu>
       </div>
@@ -103,19 +103,19 @@
             <!--Submenu -->
             <menu class="dropdown-menu">
               <li class="dropdown-item">
-                <a class="nav-link" href="/cidade/historia.html">História</a>
+                <a class="nav-link" href="/cidade/historia.php">História</a>
               </li>
               <li class="dropdown-item">
-                <a class="nav-link" href="/cidade/dadosgerais.html">Dados Gerais</a>
+                <a class="nav-link" href="/cidade/dadosgerais.php">Dados Gerais</a>
               </li>
               <li class="dropdown-item">
-                <a class="nav-link" href="/cidade/pessoasnotaveis.html">Pessoas Notáveis</a>
+                <a class="nav-link" href="/cidade/pessoasnotaveis.php">Pessoas Notáveis</a>
               </li>
               <li class="dropdown-item">
-                <a class="nav-link" href="/cidade/simbolos.html">Brasão e Bandeira</a>
+                <a class="nav-link" href="/cidade/simbolos.php">Brasão e Bandeira</a>
               </li>
               <li class="dropdown-item">
-                <a class="nav-link" href="/cidade/hino.html">Hino da Cidade</a>
+                <a class="nav-link" href="/cidade/hino.php">Hino da Cidade</a>
               </li>
             </menu>
 
@@ -130,16 +130,16 @@
             <!--Submenu -->
             <menu class="dropdown-menu">
               <li class="dropdown-item">
-                <a class="nav-link" href="/cidadao/saude.html">Saúde</a>
+                <a class="nav-link" href="/cidadao/saude.php">Saúde</a>
               </li>
               <li class="dropdown-item">
-                <a class="nav-link" href="/cidadao/servicos.html">Serviços</a>
+                <a class="nav-link" href="/cidadao/servicos.php">Serviços</a>
               </li>
               <li class="dropdown-item">
-                <a class="nav-link" href="/cidadao/transporte.html">Trânsito e Transporte</a>
+                <a class="nav-link" href="/cidadao/transporte.php">Trânsito e Transporte</a>
               </li>
               <li class="dropdown-item">
-                <a class="nav-link" href="/cidadao/concursos.html">Concursos</a>
+                <a class="nav-link" href="/cidadao/concursos.php">Concursos</a>
               </li>
             </menu>
 
@@ -154,16 +154,16 @@
             <!--Submenu -->
             <menu class="dropdown-menu">
               <li class="dropdown-item">
-                <a class="nav-link" href="/governo/prefeitura.html">Prefeitura</a>
+                <a class="nav-link" href="/governo/prefeitura.php">Prefeitura</a>
               </li>
               <li class="dropdown-item">
-                <a class="nav-link" href="/governo/secretarias.html">Secretarias</a>
+                <a class="nav-link" href="/governo/secretarias.php">Secretarias</a>
               </li>
               <li class="dropdown-item">
-                <a class="nav-link" href="/governo/legislacao.html">Legislação</a>
+                <a class="nav-link" href="/governo/legislacao.php">Legislação</a>
               </li>
               <li class="dropdown-item">
-                <a class="nav-link" href="/governo/legislativo.html">Poder Legislativo</a>
+                <a class="nav-link" href="/governo/legislativo.php">Poder Legislativo</a>
               </li>
             </menu>
 
@@ -171,20 +171,20 @@
           <li class="nav-item btn dropdown">
 
             <!-- Título da Área -->
-            <a class="nav-link" href="/empresa/home.html">Empresa</a>
+            <a class="nav-link" href="/empresa/home.php">Empresa</a>
             <button class="dropdown-toggle dropdown-toggle-split" type="button" data-bs-toggle="dropdown"
               aria-expanded="false" data-bs-reference="#navSecundario">
             </button>
             <!--Submenu -->
             <menu class="dropdown-menu">
               <li class="dropdown-item">
-                <a class="nav-link" href="/empresa/iptu.html">IPTU</a>
+                <a class="nav-link" href="/empresa/iptu.php">IPTU</a>
               </li>
               <li class="dropdown-item">
-                <a class="nav-link" href="/empresa/diario_oficial.html">Diário Oficial</a>
+                <a class="nav-link" href="/empresa/diario_oficial.php">Diário Oficial</a>
               </li>
               <li class="dropdown-item">
-                <a class="nav-link" href="/empresa/cadastro.html">Cadastro de Pessoa Jurídica</a>
+                <a class="nav-link" href="/empresa/cadastro.php">Cadastro de Pessoa Jurídica</a>
               </li>
               <li class="dropdown-item">
                 <a class="nav-link" href="/empresa/apr">Aprovação de Projetos</a>
@@ -202,16 +202,16 @@
             <!--Submenu -->
             <menu class="dropdown-menu">
               <li class="dropdown-item">
-                <a class="nav-link" href="/cultura/culturaarte.html">Cultura e Arte</a>
+                <a class="nav-link" href="/cultura/culturaarte.php">Cultura e Arte</a>
               </li>
               <li class="dropdown-item">
-                <a class="nav-link" href="/cultura/tradicoes.html">Tradições</a>
+                <a class="nav-link" href="/cultura/tradicoes.php">Tradições</a>
               </li>
               <li class="dropdown-item">
-                <a class="nav-link" href="/cultura/agendamento.html">Agendamento</a>
+                <a class="nav-link" href="/cultura/agendamento.php">Agendamento</a>
               </li>
               <li class="dropdown-item">
-                <a class="nav-link" href="/cultura/cadastro.html">Cadastro</a>
+                <a class="nav-link" href="/cultura/cadastro.php">Cadastro</a>
               </li>
             </menu>
 
@@ -226,19 +226,19 @@
             <!--Submenu -->
             <menu class="dropdown-menu">
               <li class="dropdown-item">
-                <a class="nav-link" href="/turismo/hospedagem.html">Hospedagem</a>
+                <a class="nav-link" href="/turismo/hospedagem.php">Hospedagem</a>
               </li>
               <li class="dropdown-item">
-                <a class="nav-link" href="/turismo/pontos_turisticos.html">Pontos Turísticos</a>
+                <a class="nav-link" href="/turismo/pontos_turisticos.php">Pontos Turísticos</a>
               </li>
               <li class="dropdown-item">
-                <a class="nav-link" href="/turismo/gastronomia.html">Gastronomia</a>
+                <a class="nav-link" href="/turismo/gastronomia.php">Gastronomia</a>
               </li>
               <li class="dropdown-item">
-                <a class="nav-link" href="/turismo/eventos.html">Eventos</a>
+                <a class="nav-link" href="/turismo/eventos.php">Eventos</a>
               </li>
               <li class="dropdown-item">
-                <a class="nav-link" href="/turismo/galeria.html">Galeria</a>
+                <a class="nav-link" href="/turismo/galeria.php">Galeria</a>
               </li>
             </menu>
           </li>
