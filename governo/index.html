@@ -9,7 +9,7 @@
       integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT"
       crossorigin="anonymous"
     />
-    <link rel="stylesheet" href="/api/style/style.css" />
+    <link rel="stylesheet" href="style/style.css" />
     <title>Cidadão</title>
   </head>
   <body>

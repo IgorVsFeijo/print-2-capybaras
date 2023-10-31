@@ -55,22 +55,22 @@
       <div class="navbar-collapse collapse navsComprimidos order-1 order-xxl-0" id="navPrincipal">
         <menu class="navbar-nav justify-content-between w-100 d-flex pt-2 pt-xxl-0">
           <li class="nav-item">
-            <a class="nav-link" href="../noticias.php">Notícias</a>
+            <a class="nav-link" href="./noticias.php">Notícias</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="../ouvidoria.php">Ouvidoria</a>
+            <a class="nav-link" href="./ouvidoria.php">Ouvidoria</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="../contato.php">Contato</a>
+            <a class="nav-link" href="./contato.php">Contato</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="../quemsomos.php">Quem Somos</a>
+            <a class="nav-link" href="./quemsomos.php">Quem Somos</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="../perguntas.php">Perguntas Frequentes</a>
+            <a class="nav-link" href="./perguntas.php">Perguntas Frequentes</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="../privacidade.php">Privacidade</a>
+            <a class="nav-link" href="./privacidade.php">Privacidade</a>
           </li>
         </menu>
       </div>
