@@ -96,26 +96,26 @@
           <li class="nav-item btn dropdown">
 
             <!-- Título da Área -->
-            <a class="nav-link" href="./cidade/">A Cidade</a>
+            <a class="nav-link" href="../cidade/">A Cidade</a>
             <button class="dropdown-toggle dropdown-toggle-split" type="button" data-bs-toggle="dropdown"
               aria-expanded="false" data-bs-reference="#navSecundario">
             </button>
             <!--Submenu -->
             <menu class="dropdown-menu">
               <li class="dropdown-item">
-                <a class="nav-link" href="./cidade/historia.php">História</a>
+                <a class="nav-link" href="../cidade/historia.php">História</a>
               </li>
               <li class="dropdown-item">
-                <a class="nav-link" href="./cidade/dadosgerais.php">Dados Gerais</a>
+                <a class="nav-link" href="../cidade/dadosgerais.php">Dados Gerais</a>
               </li>
               <li class="dropdown-item">
-                <a class="nav-link" href="./cidade/pessoasnotaveis.php">Pessoas Notáveis</a>
+                <a class="nav-link" href="../cidade/pessoasnotaveis.php">Pessoas Notáveis</a>
               </li>
               <li class="dropdown-item">
-                <a class="nav-link" href="./cidade/simbolos.php">Brasão e Bandeira</a>
+                <a class="nav-link" href="../cidade/simbolos.php">Brasão e Bandeira</a>
               </li>
               <li class="dropdown-item">
-                <a class="nav-link" href="./cidade/hino.php">Hino da Cidade</a>
+                <a class="nav-link" href="../cidade/hino.php">Hino da Cidade</a>
               </li>
             </menu>
 
@@ -123,23 +123,23 @@
           <li class="nav-item btn dropdown">
 
             <!-- Título da Área -->
-            <a class="nav-link" href="./cidadao/">Cidadão</a>
+            <a class="nav-link" href="../cidadao/">Cidadão</a>
             <button class="dropdown-toggle dropdown-toggle-split" type="button" data-bs-toggle="dropdown"
               aria-expanded="false" data-bs-reference="#navSecundario">
             </button>
             <!--Submenu -->
             <menu class="dropdown-menu">
               <li class="dropdown-item">
-                <a class="nav-link" href="./cidadao/saude.php">Saúde</a>
+                <a class="nav-link" href="../cidadao/saude.php">Saúde</a>
               </li>
               <li class="dropdown-item">
-                <a class="nav-link" href="./cidadao/servicos.php">Serviços</a>
+                <a class="nav-link" href="../cidadao/servicos.php">Serviços</a>
               </li>
               <li class="dropdown-item">
-                <a class="nav-link" href="./cidadao/transporte.php">Trânsito e Transporte</a>
+                <a class="nav-link" href="../cidadao/transporte.php">Trânsito e Transporte</a>
               </li>
               <li class="dropdown-item">
-                <a class="nav-link" href="./cidadao/concursos.php">Concursos</a>
+                <a class="nav-link" href="../cidadao/concursos.php">Concursos</a>
               </li>
             </menu>
 
@@ -147,23 +147,23 @@
           <li class="nav-item btn dropdown">
 
             <!-- Título da Área -->
-            <a class="nav-link" href="./governo/">Governo</a>
+            <a class="nav-link" href="../governo/">Governo</a>
             <button class="dropdown-toggle dropdown-toggle-split" type="button" data-bs-toggle="dropdown"
               aria-expanded="false" data-bs-reference="#navSecundario">
             </button>
             <!--Submenu -->
             <menu class="dropdown-menu">
               <li class="dropdown-item">
-                <a class="nav-link" href="./governo/prefeitura.php">Prefeitura</a>
+                <a class="nav-link" href="../governo/prefeitura.php">Prefeitura</a>
               </li>
               <li class="dropdown-item">
-                <a class="nav-link" href="./governo/secretarias.php">Secretarias</a>
+                <a class="nav-link" href="../governo/secretarias.php">Secretarias</a>
               </li>
               <li class="dropdown-item">
-                <a class="nav-link" href="./governo/legislacao.php">Legislação</a>
+                <a class="nav-link" href="../governo/legislacao.php">Legislação</a>
               </li>
               <li class="dropdown-item">
-                <a class="nav-link" href="./governo/legislativo.php">Poder Legislativo</a>
+                <a class="nav-link" href="../governo/legislativo.php">Poder Legislativo</a>
               </li>
             </menu>
 
@@ -171,23 +171,23 @@
           <li class="nav-item btn dropdown">
 
             <!-- Título da Área -->
-            <a class="nav-link" href="./empresa/home.php">Empresa</a>
+            <a class="nav-link" href="../empresa/home.php">Empresa</a>
             <button class="dropdown-toggle dropdown-toggle-split" type="button" data-bs-toggle="dropdown"
               aria-expanded="false" data-bs-reference="#navSecundario">
             </button>
             <!--Submenu -->
             <menu class="dropdown-menu">
               <li class="dropdown-item">
-                <a class="nav-link" href="./empresa/iptu.php">IPTU</a>
+                <a class="nav-link" href="../empresa/iptu.php">IPTU</a>
               </li>
               <li class="dropdown-item">
-                <a class="nav-link" href="./empresa/diario_oficial.php">Diário Oficial</a>
+                <a class="nav-link" href="../empresa/diario_oficial.php">Diário Oficial</a>
               </li>
               <li class="dropdown-item">
-                <a class="nav-link" href="./empresa/cadastro.php">Cadastro de Pessoa Jurídica</a>
+                <a class="nav-link" href="../empresa/cadastro.php">Cadastro de Pessoa Jurídica</a>
               </li>
               <li class="dropdown-item">
-                <a class="nav-link" href="./empresa/apr">Aprovação de Projetos</a>
+                <a class="nav-link" href="../empresa/apr">Aprovação de Projetos</a>
               </li>
             </menu>
 
@@ -195,23 +195,23 @@
           <li class="nav-item btn dropdown">
 
             <!-- Título da Área -->
-            <a class="nav-link" href="./cultura/">Cultura</a>
+            <a class="nav-link" href="../cultura/">Cultura</a>
             <button class="dropdown-toggle dropdown-toggle-split" type="button" data-bs-toggle="dropdown"
               aria-expanded="false" data-bs-reference="#navSecundario">
             </button>
             <!--Submenu -->
             <menu class="dropdown-menu">
               <li class="dropdown-item">
-                <a class="nav-link" href="./cultura/culturaarte.php">Cultura e Arte</a>
+                <a class="nav-link" href="../cultura/culturaarte.php">Cultura e Arte</a>
               </li>
               <li class="dropdown-item">
-                <a class="nav-link" href="./cultura/tradicoes.php">Tradições</a>
+                <a class="nav-link" href="../cultura/tradicoes.php">Tradições</a>
               </li>
               <li class="dropdown-item">
-                <a class="nav-link" href="./cultura/agendamento.php">Agendamento</a>
+                <a class="nav-link" href="../cultura/agendamento.php">Agendamento</a>
               </li>
               <li class="dropdown-item">
-                <a class="nav-link" href="./cultura/cadastro.php">Cadastro</a>
+                <a class="nav-link" href="../cultura/cadastro.php">Cadastro</a>
               </li>
             </menu>
 
@@ -219,26 +219,26 @@
           <li class="nav-item btn dropdown">
 
             <!-- Título da Área -->
-            <a class="nav-link" href="./turismo/">Turismo</a>
+            <a class="nav-link" href="../turismo/">Turismo</a>
             <button class="dropdown-toggle dropdown-toggle-split" type="button" data-bs-toggle="dropdown"
               aria-expanded="false" data-bs-reference="#navSecundario">
             </button>
             <!--Submenu -->
             <menu class="dropdown-menu">
               <li class="dropdown-item">
-                <a class="nav-link" href="./turismo/hospedagem.php">Hospedagem</a>
+                <a class="nav-link" href="../turismo/hospedagem.php">Hospedagem</a>
               </li>
               <li class="dropdown-item">
-                <a class="nav-link" href="./turismo/pontos_turisticos.php">Pontos Turísticos</a>
+                <a class="nav-link" href="../turismo/pontos_turisticos.php">Pontos Turísticos</a>
               </li>
               <li class="dropdown-item">
-                <a class="nav-link" href="./turismo/gastronomia.php">Gastronomia</a>
+                <a class="nav-link" href="../turismo/gastronomia.php">Gastronomia</a>
               </li>
               <li class="dropdown-item">
-                <a class="nav-link" href="./turismo/eventos.php">Eventos</a>
+                <a class="nav-link" href="../turismo/eventos.php">Eventos</a>
               </li>
               <li class="dropdown-item">
-                <a class="nav-link" href="./turismo/galeria.php">Galeria</a>
+                <a class="nav-link" href="../turismo/galeria.php">Galeria</a>
               </li>
             </menu>
           </li>
