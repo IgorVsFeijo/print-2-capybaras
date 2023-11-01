@@ -4,7 +4,7 @@
       "runtime": "vercel-php@0.6.0"
     },
 
-    "api/*/*.php": {
+    "api/governo/*.php": {
       "runtime": "vercel-php@0.6.0"
     }
   },
