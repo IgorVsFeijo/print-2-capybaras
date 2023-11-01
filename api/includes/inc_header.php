@@ -96,7 +96,7 @@
           <li class="nav-item btn dropdown">
 
             <!-- Título da Área -->
-            <a class="nav-link" href="../cidade/">A Cidade</a>
+            <a class="nav-link" href="./cidade/">A Cidade</a>
             <button class="dropdown-toggle dropdown-toggle-split" type="button" data-bs-toggle="dropdown"
               aria-expanded="false" data-bs-reference="#navSecundario">
             </button>
