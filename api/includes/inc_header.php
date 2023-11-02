@@ -3,6 +3,7 @@
 $rootPath = dirname(__DIR__);
 echo $rootPath . "<br>";
 $rootPath = str_replace('C:\\xampp\\htdocs\\', '', $rootPath);
+$rootPath = str_replace('\\var\\task\\user\\', '', $rootPath);
 echo $rootPath;
 
 ?>
