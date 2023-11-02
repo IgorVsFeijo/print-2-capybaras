@@ -1,7 +1,9 @@
 <?php
 
 $rootPath = dirname(__DIR__);
+echo $rootPath . "<br>";
 $rootPath = str_replace('C:\\xampp\\htdocs\\', '', $rootPath);
+echo $rootPath;
 
 ?>
 
