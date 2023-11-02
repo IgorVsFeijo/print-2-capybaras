@@ -9,14 +9,14 @@
       integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT"
       crossorigin="anonymous"
     />
-    <link rel="stylesheet" href="/style/style.css" />
+    <link rel="stylesheet" href="../style/style.css" />
     <title>Cidadão</title>
   </head>
   <body>
     <!-- Inicio Header -->
 
     <?php
-    include '/includes/inc_header.php';
+    include '../includes/inc_header.php';
   ?>
 
 <!-- Fim Header -->
