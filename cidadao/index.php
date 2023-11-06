@@ -81,11 +81,11 @@
                 <section>
                     <h3>Mais Acessados</h3>
                     <ul>
-                        <li>Página 1</li>
-                        <li>Página 1</li>
-                        <li>Página 1</li>
-                        <li>Página 1</li>
-                        <li>Página 1</li>
+                        <li><a href="#">Página 1</a></li>
+                        <li><a href="#">Página 1</a></li>
+                        <li><a href="#">Página 1</a></li>
+                        <li><a href="#">Página 1</a></li>
+                        <li><a href="#">Página 1</a></li>
                     </ul>
                 </section>
 
@@ -101,23 +101,23 @@
                 <section class="col-12">
                     <h3>Outras áreas</h3>
                     <ul>
-                        <li>Área 1</li>
-                        <li>Área 1</li>
-                        <li>Área 1</li>
-                        <li>Área 1</li>
-                        <li>Área 1</li>
+                        <li><a href="#">Área 1</a></li>
+                        <li><a href="#">Área 1</a></li>
+                        <li><a href="#">Área 1</a></li>
+                        <li><a href="#">Área 1</a></li>
+                        <li><a href="#">Área 1</a></li>
                     </ul>
                 </section>
 
                 <section class="col-12">
                     <h3>Unidades de saúde</h3>
                     <ul class="row">
-                        <li class="col-6">Posto 1</li>
-                        <li class="col-6">Posto 1</li>
-                        <li class="col-6">Posto 1</li>
-                        <li class="col-6">Posto 1</li>
-                        <li class="col-6">Posto 1</li>
-                        <li class="col-6">Posto 1</li>
+                        <li class="col-6"><a href="#">Posto 1</a></li>
+                        <li class="col-6"><a href="#">Posto 1</a></li>
+                        <li class="col-6"><a href="#">Posto 1</a></li>
+                        <li class="col-6"><a href="#">Posto 1</a></li>
+                        <li class="col-6"><a href="#">Posto 1</a></li>
+                        <li class="col-6"><a href="#">Posto 1</a></li>
                     </ul>
                 </section>
 
