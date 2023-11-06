@@ -22,14 +22,14 @@
             </figure>
             <article>
                 <h2>Cidade de Cultura</h2>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Adipisci nam dolores cumque fuga exercitationem numquam, labore temporibus, doloremque dolor ad delectus, et expedita modi eum minus repellendus ex? Quas, harum.</p>
+                <p>Fonte de renda fundamental para a nossa cidade e um de nossos maiores orgulhos, a cidade de São Roque conta com uma série única de atividades, lugares e eventos tradicionais-culturais. Não apenas ajudando no crescimento financeiro, mas colocando a nossa cidade no mapa de São Paulo como uma das principais produtoras de vinho do estado.</p>
                 <div class="col-12">
                     <h2>Notícias</h2>
                     <div class="col-sm-12 col-md-6 col-lg-4">
                         <section class="notícia_mobile">
                             <h2 class="hide">Section - h2</h2>
                             <figure>
-                                <img src="https://placekitten.com/300/180" alt="Primeira notícia">
+                                <img src="/imgs/cultura/noticia1.jpg" alt="Primeira notícia">
                             </figure>
                             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minima facere reprehenderit non nostrum rem quos nam amet neque quisquam architecto?</p>
                         </section>
@@ -38,7 +38,7 @@
                         <section class="notícia_mobile">
                             <h2 class="hide">Section - h2</h2>
                             <figure>
-                                <img src="https://placekitten.com/300/180" alt="Segunda Notícia">
+                                <img src="/imgs/cultura/noticia2.jpeg" alt="Segunda Notícia">
                             </figure>
                             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minima facere reprehenderit non nostrum rem quos nam amet neque quisquam architecto?</p>
                         </section>

@@ -30,21 +30,21 @@
                     <section>
                         <h3>Morro do Saboó</h3>
                         <figure>
-                            <img src="https://placekitten.com/240/150" alt="foto do monumento">
+                            <img src="/imgs/cultura/morrosaboó.jpg" alt="foto do monumento">
                         </figure>
                         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Qui pariatur repellat eaque non maxime nostrum voluptate delectus! Totam, doloribus quos cumque tempore quia, eligendi ipsa, architecto impedit soluta ea vel. Lorem, ipsum dolor sit amet consectetur adipisicing elit. At possimus ad quam ipsum pariatur molestias veniam nulla hic? Vitae fugiat dicta quae id incidunt quasi suscipit similique, corrupti ipsam ad.</p>
                     </section>
                     <section>
                         <h3>Quilombo do Carmo</h3>
                         <figure>
-                            <img src="https://placekitten.com/240/150" alt="foto do monumento">
+                            <img src="/imgs/cultura/quilombocarmo2.jpg" alt="foto do monumento">
                         </figure>
                         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Qui pariatur repellat eaque non maxime nostrum voluptate delectus! Totam, doloribus quos cumque tempore quia, eligendi ipsa, architecto impedit soluta ea vel. Lorem, ipsum dolor sit amet consectetur adipisicing elit. At possimus ad quam ipsum pariatur molestias veniam nulla hic? Vitae fugiat dicta quae id incidunt quasi suscipit similique, corrupti ipsam ad.</p>
                     </section>
                     <section>
                         <h3>Capela Santo Antônio</h3>
                         <figure>
-                            <img src="https://placekitten.com/240/150" alt="foto do monumento">
+                            <img src="/imgs/cultura/capela santo antônio.jpg" alt="foto do monumento">
                         </figure>
                         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Qui pariatur repellat eaque non maxime nostrum voluptate delectus! Totam, doloribus quos cumque tempore quia, eligendi ipsa, architecto impedit soluta ea vel. Lorem, ipsum dolor sit amet consectetur adipisicing elit. At possimus ad quam ipsum pariatur molestias veniam nulla hic? Vitae fugiat dicta quae id incidunt quasi suscipit similique, corrupti ipsam ad.</p>
                     </section>
@@ -58,7 +58,7 @@
                     <section>
                         <h3>Morro do Cruzeiro</h3>
                         <figure>
-                            <img src="https://placekitten.com/240/150" alt="foto do monumento">
+                            <img src="/imgs/cultura/morrocruzeiro.jpg" alt="foto do monumento">
                         </figure>
                         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Qui pariatur repellat eaque non maxime nostrum voluptate delectus! Totam, doloribus quos cumque tempore quia, eligendi ipsa, architecto impedit soluta ea vel. Lorem, ipsum dolor sit amet consectetur adipisicing elit. At possimus ad quam ipsum pariatur molestias veniam nulla hic? Vitae fugiat dicta quae id incidunt quasi suscipit similique, corrupti ipsam ad.</p>
                     </section>
