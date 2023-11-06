@@ -143,7 +143,7 @@ div.nav-secundario{
 /*Fim Home principal*/
 
 #secoes-portais>* {
-    min-height: 420px;
+    min-height: 410px;
 }
 
 #secoes-portais a {
@@ -151,10 +151,7 @@ div.nav-secundario{
     text-decoration: none;
 }
 
-#secoes-portais>*>section,
-div.cultura-e-turismo a {
-    background-color: rgb(89, 89, 89);
-}
+
 
 #secoes-portais>*>section,
 div.cultura-e-turismo section {
@@ -185,6 +182,16 @@ div.cultura-e-turismo>* {
 #secoes-portais section div {
     background-color: rgb(184, 184, 184);
     padding: 1em;
+}
+
+#secoes-portais > div{
+    position: relative;
+}
+
+#secoes-portais .img-home-princ{
+    position: absolute;
+    width: 100%;
+    z-index: -1;
 }
 
 /* Home Cidade */

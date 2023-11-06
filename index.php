@@ -1,25 +1,9 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>São Roque</title>
-    <link
-      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
-      rel="stylesheet"
-      integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
-      crossorigin="anonymous"
-    />
-    <link rel="stylesheet" href="style/style.css" />
-  </head>
-  <body>
-    <!-- Inicio Header -->
 
-      <?php
-        include 'includes/inc_header.php';
-      ?>
-
-    <!-- Fim Header -->
+<?php
+  include 'includes/inc_head.php';
+?>
 
     <!-- Inicio Main -->
 
@@ -32,6 +16,7 @@
         <div class="col-12 col-md-7">
             <section class="prefeitura">
               <!--Inicio secao prefeitura-->
+              <picture class="img-home-princ"><img src="" alt=""></picture>
               <div>
                   <h2>Prefeitura SR</h2>
                   <p>
@@ -47,6 +32,7 @@
         <a href="cidade/index.php" class="col-12 col-md-5">
           <section class="cidade">
             <!--Inicio secao cidade-->
+            <picture class="img-home-princ"><img src="" alt=""></picture>
             <div>
                 <h2>Cidade</h2>
                 <p>
@@ -62,6 +48,7 @@
         <a href="cidadao/index.php">
           <section class="cidadao">
             <!--Inicio secao ciadadao-->
+            <picture class="img-home-princ"><img src="" alt=""></picture>
             <div>
                 <h2>Cidadão</h2>
                 <p>
@@ -77,6 +64,7 @@
           <a href="cultura/index.php">
             <section class="cultura">
               <!--Inicio secao cultura-->
+              <picture class="img-home-princ"><img src="https://placekitten.com/632/197" alt=""></picture>
               <div>
                   <h2>Cultura</h2>
                   <p class="d-none d-md-block">
@@ -89,6 +77,7 @@
           <a href="turismo/index.php">
             <section class="turismo">
               <!-- Inicio secao turismo -->
+              <picture class="img-home-princ"><img src="https://placekitten.com/632/197" alt=""></picture>
               <div>
                   <h2>Turismo</h2>
                   <p class="d-none d-md-block">
@@ -103,6 +92,7 @@
         <a href="governo/index.php">
           <section class="governo">
             <!--Inicio secao governo-->
+            <picture class="img-home-princ"><img src="" alt=""></picture>
             <div>
                 <h2>Governo</h2>
                 <p>
@@ -117,6 +107,7 @@
         <a href="empresa/index.php">
           <section class="empresa">
             <!-- inicio secao empresa -->
+            <picture class="img-home-princ"><img src="" alt=""></picture>
             <div>
                 <h2>Empresa</h2>
                 <p>
