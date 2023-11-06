@@ -23,7 +23,7 @@
                     <h2>Programe o seu espetáculo aqui!</h2>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti, a. Sequi libero magnam voluptate, consectetur accusamus perspiciatis cupiditate, accusantium optio repudiandae earum soluta asperiores ullam, non iusto! Autem, nam quibusdam?</p>
                 </section>
-                <section class="col-sm-6 ">
+                <section class="col-md-6 ">
                     <h2 class="hide">Section - h2</h2>
                     <table>
                         <tr>
@@ -65,21 +65,21 @@
                 </section>
                 <section>
                     <h2 class="hide">Section - h2</h2>
-                    <form action="GET">
-                        <h3>Nome do artista ou grupo</h3>
-                        <label>
-                            <input type="text">
-                        </label>
-                        <h3>Email</h3>
-                        <label>
-                            <input type="email">
-                        </label>
-                        <h3>Telefone para contato</h3>
-                        <label>
-                            <input type="tel">
-                        </label>
-                        <label>
-                            <button>ENVIAR</button>
+                    <form class="row g-3">
+                      <div class="col-md-6">
+                        <label for="inputName4" class="form-label">Nome do Artista/Grupo</label>
+                        <input type="text" class="form-control" id="inputName4">
+                      </div>
+                      <div class="col-md-6">
+                        <label for="inputEmail4" class="form-label">Email</label>
+                        <input type="email" class="form-control" id="inputEmail4">
+                      </div>
+                      <div class="col-md-6">
+                        <label for="inputPhone4" class="form-label">Telefone para Contato</label>
+                        <input type="tel" class="form-control" id="inputPhone4" placeholder="(00)00000-0000">
+                      </div>
+                        <label class="g-4">
+                            <button class="btn btn-secondary">ENVIAR</button>
                         </label>
                     </form>
                 </section>
