@@ -5,19 +5,19 @@
 
 $titulo = "Título da Página";
 
-include('includes/inc_head.php');
+include('../includes/inc_head.php');
 
 ?>
 
-  <body>
+<body>
     <!-- Inicio Header -->
 
-    <?php
-    include '../includes/inc_header.php';
-  ?>
+      <?php
+        include '../includes/inc_header.php';
+      ?>
 
-<!-- Fim Header -->
-
+    <!-- Fim Header -->
+    
       <!-- Inicio do Footer -->
 
       <div class="row">

@@ -5,18 +5,18 @@
 
 $titulo = "Título da Página";
 
-include('includes/inc_head.php');
+include('../includes/inc_head.php');
 
 ?>
 
 <body>
     <!-- Inicio Header -->
 
-    <?php
-    include '../includes/inc_header.php';
-  ?>
+      <?php
+        include '../includes/inc_header.php';
+      ?>
 
-<!-- Fim Header -->
+    <!-- Fim Header -->
     <div class="container text-center">
         <div class="row justify-content-start">
             <p class="col-2">lorem</p>

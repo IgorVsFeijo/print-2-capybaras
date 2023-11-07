@@ -5,7 +5,7 @@
 
 $titulo = "Título da Página";
 
-include('includes/inc_head.php');
+include('../includes/inc_head.php');
 
 ?>
 
@@ -13,7 +13,7 @@ include('includes/inc_head.php');
     <!-- Inicio Header -->
 
       <?php
-        include 'includes/inc_header.php';
+        include '../includes/inc_header.php';
       ?>
 
     <!-- Fim Header -->

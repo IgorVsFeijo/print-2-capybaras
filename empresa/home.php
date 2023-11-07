@@ -5,18 +5,18 @@
 
 $titulo = "Título da Página";
 
-include('includes/inc_head.php');
+include('../includes/inc_head.php');
 
 ?>
 
 <body>
     <!-- Inicio Header -->
 
-    <?php
-    include '../includes/inc_header.php';
-  ?>
+      <?php
+        include '../includes/inc_header.php';
+      ?>
 
-<!-- Fim Header -->
+    <!-- Fim Header -->
     <figure>
         <img src="https://placekitten.com/200/300" alt="gatinho">
     </figure> 

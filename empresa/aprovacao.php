@@ -5,18 +5,18 @@
 
 $titulo = "Título da Página";
 
-include('includes/inc_head.php');
+include('../includes/inc_head.php');
 
 ?>
 
 <body>
     <!-- Inicio Header -->
 
-    <?php
-    include '../includes/inc_header.php';
-  ?>
+      <?php
+        include '../includes/inc_header.php';
+      ?>
 
-<!-- Fim Header -->
+    <!-- Fim Header -->
 
 <h1>Aprovação de Projetos</h1>
 
