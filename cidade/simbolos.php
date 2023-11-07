@@ -9,6 +9,15 @@ $titulo = "Título da Página";
 incluirHeader($titulo);
 ?>
 
+<body>
+    <!-- Inicio Header -->
+
+      <?php
+        include 'includes/inc_header.php';
+      ?>
+
+    <!-- Fim Header -->
+
   <main id="cidade-simbolos">
     <!-- Ínicio do Artigo -->
     <article class="container-lg">

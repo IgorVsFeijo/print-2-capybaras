@@ -1,12 +1,14 @@
 <!DOCTYPE html>
 <html lang="PT-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
-    <link rel="stylesheet" href="../style/style.css">
-    <title>Iptu Digital</title>
-</head>
+
+<?php
+function incluirHeader($titulo) {
+    include('includes/inc_head.php');
+}
+$titulo = "Título da Página";
+incluirHeader($titulo);
+?>
+
 <body>
     <!-- Inicio Header -->
 

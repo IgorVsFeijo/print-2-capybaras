@@ -10,6 +10,15 @@ $titulo = "Título da Página";
 incluirHeader($titulo);
 ?>
 
+<body>
+    <!-- Inicio Header -->
+
+      <?php
+        include 'includes/inc_header.php';
+      ?>
+
+    <!-- Fim Header -->
+
     <div class="container text-center">
         <div class="row">
             <article class="col-lg-8 col-md-8 col-sm-12">

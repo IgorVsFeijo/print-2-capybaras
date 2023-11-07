@@ -17,12 +17,3 @@ $rootPath = str_replace('C:\\xampp\\htdocs\\', '', $rootPath);
     />
     <link rel="stylesheet" href="/<?php echo $rootPath; ?>/style/style.css" />
   </head>
-
-  <body>
-    <!-- Inicio Header -->
-
-      <?php
-        include 'includes/inc_header.php';
-      ?>
-
-    <!-- Fim Header -->

@@ -9,6 +9,24 @@ $titulo = "Título da Página";
 incluirHeader($titulo);
 ?>
 
+<body>
+    <!-- Inicio Header -->
+
+      <?php
+        include 'includes/inc_header.php';
+      ?>
+
+    <!-- Fim Header -->
+
+<body>
+    <!-- Inicio Header -->
+
+      <?php
+        include 'includes/inc_header.php';
+      ?>
+
+    <!-- Fim Header -->
+
     <!-- Inicio Main -->
 
     <main id="home-principal" class="container-lg p-3">

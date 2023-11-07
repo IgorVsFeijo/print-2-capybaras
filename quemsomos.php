@@ -9,6 +9,15 @@ $titulo = "Título da Página";
 incluirHeader($titulo);
 ?>
 
+<body>
+    <!-- Inicio Header -->
+
+      <?php
+        include 'includes/inc_header.php';
+      ?>
+
+    <!-- Fim Header -->
+
     <div class="container">
       <main class="row">
         <h1 class="col-12">Sobre a equipe</h1>
