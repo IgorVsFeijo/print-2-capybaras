@@ -2,11 +2,10 @@
 <html lang="pt-br">
 
 <?php
-function incluirHeader($titulo) {
-    include('includes/inc_head.php');
-}
-$titulo = "Título da Página";
-incluirHeader($titulo);
+
+$titulo = "Início";
+include('includes/inc_head.php');
+
 ?>
 
 <body>
@@ -19,13 +18,6 @@ incluirHeader($titulo);
     <!-- Fim Header -->
 
 <body>
-    <!-- Inicio Header -->
-
-      <?php
-        include 'includes/inc_header.php';
-      ?>
-
-    <!-- Fim Header -->
 
     <!-- Inicio Main -->
 

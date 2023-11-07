@@ -3,11 +3,10 @@
 
 
 <?php
-function incluirHeader($titulo) {
-    include('includes/inc_head.php');
-}
-$titulo = "Título da Página";
-incluirHeader($titulo);
+
+$titulo = "Notícias";
+include('includes/inc_head.php');
+
 ?>
 
 <body>
