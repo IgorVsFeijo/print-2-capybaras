@@ -148,9 +148,9 @@
                 
                 <form class="row" action="post">
                     <label>Para receber notícias de vagas</label>
-                    <input type="text" placeholder="Nome">
-                    <input type="password" placeholder="Senha">
-                    <button>Enviar</button>
+                    <input class="form-control" type="text" placeholder="Nome">
+                    <input class="form-control" type="password" placeholder="Senha">
+                    <button class="btn btn-primary">Enviar</button>
                 </form>
             </article>
 

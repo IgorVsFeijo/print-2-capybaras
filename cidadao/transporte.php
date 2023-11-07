@@ -24,63 +24,63 @@
         <main>
             <article class="row">
                 <h1 class="col-12">Trânsito</h1>
-                <section class="col-lg-4 col-md-12 col-sm-12">
+                <section class="card col-lg-4 col-md-12 col-sm-12">
                     <div class="row">
                         <figure class="col-lg-12 col-md-4 text-center"><img src="https://placekitten.com/150/150" alt=""></figure>
                         <div class="col-lg-12 col-md-8">
                             <h2>Notícia</h2>
                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, maxime, vero vel sed, iure quidem quaerat beatae velit deleniti praesentium voluptatum sit esse incidunt vitae nobis facere iusto architecto fugit.</p>
-                            <a href="#">Ver mais</a>
+                            <a type="button" class="btn btn-primary" href="#">Ver mais</a>
                         </div>
                     </div>
                 </section>
-                <section class="col-lg-4 col-md-12 col-sm-12">
+                <section class="card col-lg-4 col-md-12 col-sm-12">
                     <div class="row">
                         <figure class="col-lg-12 col-md-4 text-center"><img src="https://placekitten.com/150/150" alt=""></figure>
                         <div class="col-lg-12 col-md-8">
                             <h2>Notícia</h2>
                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, maxime, vero vel sed, iure quidem quaerat beatae velit deleniti praesentium voluptatum sit esse incidunt vitae nobis facere iusto architecto fugit.</p>
-                            <a href="#">Ver mais</a>
+                            <a type="button" class="btn btn-primary" href="#">Ver mais</a>
                         </div>
                     </div>
                 </section>
-                <section class="col-lg-4 col-md-12 col-sm-12">
+                <section class="card col-lg-4 col-md-12 col-sm-12">
                     <div class="row">
                         <figure class="col-lg-12 col-md-4 text-center"><img src="https://placekitten.com/150/150" alt=""></figure>
                         <div class="col-lg-12 col-md-8">
                             <h2>Notícia</h2>
                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, maxime, vero vel sed, iure quidem quaerat beatae velit deleniti praesentium voluptatum sit esse incidunt vitae nobis facere iusto architecto fugit.</p>
-                            <a href="#">Ver mais</a>
+                            <a type="button" class="btn btn-primary" href="#">Ver mais</a>
                         </div>
                     </div>
                 </section>
-                <section class="col-lg-4 col-md-12 col-sm-12">
+                <section class="card col-lg-4 col-md-12 col-sm-12">
                     <div class="row">
                         <figure class="col-lg-12 col-md-4 text-center"><img src="https://placekitten.com/150/150" alt=""></figure>
                         <div class="col-lg-12 col-md-8">
                             <h2>Notícia</h2>
                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, maxime, vero vel sed, iure quidem quaerat beatae velit deleniti praesentium voluptatum sit esse incidunt vitae nobis facere iusto architecto fugit.</p>
-                            <a href="#">Ver mais</a>
+                            <a type="button" class="btn btn-primary" href="#">Ver mais</a>
                         </div>
                     </div>
                 </section>
-                <section class="col-lg-4 col-md-12 col-sm-12">
+                <section class="card col-lg-4 col-md-12 col-sm-12">
                     <div class="row">
                         <figure class="col-lg-12 col-md-4 text-center"><img src="https://placekitten.com/150/150" alt=""></figure>
                         <div class="col-lg-12 col-md-8">
                             <h2>Notícia</h2>
                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, maxime, vero vel sed, iure quidem quaerat beatae velit deleniti praesentium voluptatum sit esse incidunt vitae nobis facere iusto architecto fugit.</p>
-                            <a href="#">Ver mais</a>
+                            <a type="button" class="btn btn-primary" href="#">Ver mais</a>
                         </div>
                     </div>
                 </section>
-                <section class="col-lg-4 col-md-12 col-sm-12">
+                <section class="card col-lg-4 col-md-12 col-sm-12">
                     <div class="row">
                         <figure class="col-lg-12 col-md-4 text-center"><img src="https://placekitten.com/150/150" alt=""></figure>
                         <div class="col-lg-12 col-md-8">
                             <h2>Notícia</h2>
                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, maxime, vero vel sed, iure quidem quaerat beatae velit deleniti praesentium voluptatum sit esse incidunt vitae nobis facere iusto architecto fugit.</p>
-                            <a href="#">Ver mais</a>
+                            <a type="button" class="btn btn-primary" href="#">Ver mais</a>
                         </div>
                     </div>
                 </section>
@@ -108,17 +108,300 @@
                 </aside>
             </section>
 
-            <section class="row text-center">
-                <h3 class="col-12">Horários</h3>
-                <a href="#" class="col-lg-3 col-md-4 col-sm-12">Bairro 1</a>
-                <a href="#" class="col-lg-3 col-md-4 col-sm-12">Bairro 1</a>
-                <a href="#" class="col-lg-3 col-md-4 col-sm-12">Bairro 1</a>
-                <a href="#" class="col-lg-3 col-md-4 col-sm-12">Bairro 1</a>
-                <a href="#" class="col-lg-3 col-md-4 col-sm-12">Bairro 1</a>
-                <a href="#" class="col-lg-3 col-md-4 col-sm-12">Bairro 1</a>
-                <a href="#" class="col-lg-3 col-md-6 col-sm-12">Bairro 1</a>
-                <a href="#" class="col-lg-3 col-md-6 col-sm-12">Bairro 1</a>
-            </section>
+            <section>
+        <h1>Horários de ônibus</h1>
+        <div class="row row-gap-1 justify-content-around">
+            <a class="btn btn-primary col-lg-3 col-md-4 col-sm-12" data-bs-toggle="collapse" href="#Paisagem" role="button" aria-expanded="false" aria-controls="Paisagem">
+                Paisagem Colonial
+            </a>
+            <a class="btn btn-primary col-lg-3 col-md-4 col-sm-12" data-bs-toggle="collapse" href="#Santo" role="button" aria-expanded="false" aria-controls="Santo">
+                Santo Antônio
+            </a>
+            <a class="btn btn-primary col-lg-3 col-md-4 col-sm-12" data-bs-toggle="collapse" href="#Canguera" role="button" aria-expanded="false" aria-controls="Canguera">
+                Canguera
+            </a>
+            <a class="btn btn-primary col-lg-3 col-md-4 col-sm-12" data-bs-toggle="collapse" href="#Mailasqui" role="button" aria-expanded="false" aria-controls="Mailasqui">
+                Mailasqui
+            </a>
+            <a class="btn btn-primary col-lg-3 col-md-4 col-sm-12" data-bs-toggle="collapse" href="#Guacu" role="button" aria-expanded="false" aria-controls="Guacu">
+                Guaçu
+            </a>
+            <a class="btn btn-primary col-lg-3 col-md-4 col-sm-12" data-bs-toggle="collapse" href="#Taboao" role="button" aria-expanded="false" aria-controls="Taboao">
+                Taboão
+            </a>
+            <a class="btn btn-primary col-lg-3 col-md-6 col-sm-12" data-bs-toggle="collapse" href="#Suica" role="button" aria-expanded="false" aria-controls="Suica">
+                Suíça
+            </a>
+            <a class="btn btn-primary col-lg-3 col-md-6 col-sm-12" data-bs-toggle="collapse" href="#Sao" role="button" aria-expanded="false" aria-controls="Sao">
+                São João Novo
+            </a>
+        </div>
+
+        <div class="collapse" id="Paisagem">
+            <div class="card card-body">
+            <table class="table">
+                            <tr>
+                                <th colspan="2">Segunda a sexta</th>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <table class="table">
+                                        <tr>
+                                            <td colspan="2">Saída Paisagem</td>
+                                        </tr>
+                                        <tr>
+                                            <td>18:30</td>
+                                            <td>Paisagem x Rodoviária</td>
+                                        </tr>
+                                    </table>
+                                </td>
+                                <td>
+                                    <table class="table">
+                                        <tr>
+                                            <td colspan="2">Saída Rodoviária</td>
+                                        </tr>
+                                        <tr>
+                                            <td>18:30</td>
+                                            <td>Paisagem x Rodoviária</td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+            </table>
+            </div>
+        </div>
+        <div class="collapse" id="Santo">
+            <div class="card card-body">
+                <table class="table">
+                    <tr>
+                        <th colspan="2">Segunda a sexta</th>
+                    </tr>
+                    <tr>
+                        <td>
+                            <table class="table">
+                                <tr>
+                                    <td colspan="2">Saída Paisagem</td>
+                                </tr>
+                                <tr>
+                                    <td>18:30</td>
+                                    <td>Paisagem x Rodoviária</td>
+                                </tr>
+                            </table>
+                        </td>
+                        <td>
+                            <table class="table">
+                                <tr>
+                                    <td colspan="2">Saída Rodoviária</td>
+                                </tr>
+                                <tr>
+                                    <td>18:30</td>
+                                    <td>Paisagem x Rodoviária</td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+          </table>
+            </div>
+        </div>
+        <div class="collapse" id="Canguera">
+            <div class="card card-body">
+                <table class="table">
+                    <tr>
+                        <th colspan="2">Segunda a sexta</th>
+                    </tr>
+                    <tr>
+                        <td>
+                            <table class="table">
+                                <tr>
+                                    <td colspan="2">Saída Paisagem</td>
+                                </tr>
+                                <tr>
+                                    <td>18:30</td>
+                                    <td>Paisagem x Rodoviária</td>
+                                </tr>
+                            </table>
+                        </td>
+                        <td>
+                            <table class="table">
+                                <tr>
+                                    <td colspan="2">Saída Rodoviária</td>
+                                </tr>
+                                <tr>
+                                    <td>18:30</td>
+                                    <td>Paisagem x Rodoviária</td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+          </table>
+            </div>
+        </div>
+        <div class="collapse" id="Mailasqui">
+            <div class="card card-body">
+                <table class="table">
+                    <tr>
+                        <th colspan="2">Segunda a sexta</th>
+                    </tr>
+                    <tr>
+                        <td>
+                            <table class="table">
+                                <tr>
+                                    <td colspan="2">Saída Paisagem</td>
+                                </tr>
+                                <tr>
+                                    <td>18:30</td>
+                                    <td>Paisagem x Rodoviária</td>
+                                </tr>
+                            </table>
+                        </td>
+                        <td>
+                            <table class="table">
+                                <tr>
+                                    <td colspan="2">Saída Rodoviária</td>
+                                </tr>
+                                <tr>
+                                    <td>18:30</td>
+                                    <td>Paisagem x Rodoviária</td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+          </table>
+            </div>
+        </div>
+        <div class="collapse" id="Guacu">
+            <div class="card card-body">
+                <table class="table">
+                    <tr>
+                        <th colspan="2">Segunda a sexta</th>
+                    </tr>
+                    <tr>
+                        <td>
+                            <table class="table">
+                                <tr>
+                                    <td colspan="2">Saída Paisagem</td>
+                                </tr>
+                                <tr>
+                                    <td>18:30</td>
+                                    <td>Paisagem x Rodoviária</td>
+                                </tr>
+                            </table>
+                        </td>
+                        <td>
+                            <table class="table">
+                                <tr>
+                                    <td colspan="2">Saída Rodoviária</td>
+                                </tr>
+                                <tr>
+                                    <td>18:30</td>
+                                    <td>Paisagem x Rodoviária</td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+          </table>
+            </div>
+        </div>
+        <div class="collapse" id="Taboao">
+            <div class="card card-body">
+                <table class="table">
+                    <tr>
+                        <th colspan="2">Segunda a sexta</th>
+                    </tr>
+                    <tr>
+                        <td>
+                            <table class="table">
+                                <tr>
+                                    <td colspan="2">Saída Paisagem</td>
+                                </tr>
+                                <tr>
+                                    <td>18:30</td>
+                                    <td>Paisagem x Rodoviária</td>
+                                </tr>
+                            </table>
+                        </td>
+                        <td>
+                            <table class="table">
+                                <tr>
+                                    <td colspan="2">Saída Rodoviária</td>
+                                </tr>
+                                <tr>
+                                    <td>18:30</td>
+                                    <td>Paisagem x Rodoviária</td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+          </table>
+            </div>
+        </div>
+        <div class="collapse" id="Suica">
+            <div class="card card-body">
+                <table class="table">
+                    <tr>
+                        <th colspan="2">Segunda a sexta</th>
+                    </tr>
+                    <tr>
+                        <td>
+                            <table class="table">
+                                <tr>
+                                    <td colspan="2">Saída Paisagem</td>
+                                </tr>
+                                <tr>
+                                    <td>18:30</td>
+                                    <td>Paisagem x Rodoviária</td>
+                                </tr>
+                            </table>
+                        </td>
+                        <td>
+                            <table class="table">
+                                <tr>
+                                    <td colspan="2">Saída Rodoviária</td>
+                                </tr>
+                                <tr>
+                                    <td>18:30</td>
+                                    <td>Paisagem x Rodoviária</td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+          </table>
+            </div>
+        </div>
+        <div class="collapse" id="Sao">
+            <div class="card card-body">
+                <table class="table">
+                    <tr>
+                        <th colspan="2">Segunda a sexta</th>
+                    </tr>
+                    <tr>
+                        <td>
+                            <table class="table">
+                                <tr>
+                                    <td colspan="2">Saída Paisagem</td>
+                                </tr>
+                                <tr>
+                                    <td>18:30</td>
+                                    <td>Paisagem x Rodoviária</td>
+                                </tr>
+                            </table>
+                        </td>
+                        <td>
+                            <table class="table">
+                                <tr>
+                                    <td colspan="2">Saída Rodoviária</td>
+                                </tr>
+                                <tr>
+                                    <td>18:30</td>
+                                    <td>Paisagem x Rodoviária</td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+          </table>
+            </div>
+        </div>
+    </section>
             
         </main>
     </div>    <!-- Inicio do Footer -->

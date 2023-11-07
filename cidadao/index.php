@@ -35,7 +35,7 @@
                             <div class="col-lg-8">
                                 <h3>Notícia</h3>
                                 <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officiis nulla eveniet laborum consequatur nesciunt.</p>
-                                <a href="#">Ver mais</a>
+                                <a type="button" class="btn btn-primary" href="#">Ver mais</a>
                             </div>
                         </div>
                         <div class="row">
@@ -45,7 +45,7 @@
                             <div class="col-lg-8">
                                 <h3>Notícia</h3>
                                 <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officiis nulla eveniet laborum consequatur nesciunt.</p>
-                                <a href="#">Ver mais</a>
+                                <a type="button" class="btn btn-primary" href="#">Ver mais</a>
                             </div>
                         </div>
                         
@@ -62,8 +62,10 @@
                             <li class="concursos"><a href="#">Processo seletivo 1</a></li>
                             <li class="concursos"><a href="#">Processo seletivo 1</a></li>
                         </ul>
+                          <a class="btn btn-primary text-right" href="#">Ver mais</a>
+                        
                     </div>
-                    <a class="text-right" href="#">Ver mais</a>
+                    
     
                 </section>
 
@@ -75,7 +77,7 @@
                             <div class="col-lg-8">
                                 <h4>Campanha 1</h4>
                                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-                                <a href="#">Ver mais</a>
+                                <a type="button" class="btn btn-primary" href="#">Ver mais</a>
                             </div>
                         </div>
                     </article>
@@ -127,9 +129,9 @@
 
                 <form class="row" action="post">
                     <label>Para receber notícias de vagas</label>
-                    <input type="text" placeholder="Nome">
-                    <input type="password" placeholder="Senha">
-                    <button>Enviar</button>
+                    <input class="form-control" type="text" placeholder="Nome">
+                    <input class="form-control" type="password" placeholder="Senha">
+                    <button class="btn btn-primary">Enviar</button>
                 </form>
 
                 <table class="table">

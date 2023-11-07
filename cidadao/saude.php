@@ -86,7 +86,7 @@
                         <div class="col-lg-8">
                             <h4>Campanha 1</h4>
                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-                            <a href="#">Ver mais</a>
+                            <a class="btn btn-primary" href="#">Ver mais</a>
                         </div>
                     </div>
                 </article>
@@ -96,7 +96,7 @@
                         <div class="col-lg-8">
                             <h4>Campanha 1</h4>
                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-                            <a href="#">Ver mais</a>
+                            <a class="btn btn-primary" href="#">Ver mais</a>
                         </div>
                     </div>
                 </article>
