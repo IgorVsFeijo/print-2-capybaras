@@ -3,7 +3,8 @@
 
 <?php
 
-$titulo = "Notícias";
+$titulo = "Título da Página";
+
 include('includes/inc_head.php');
 
 ?>
