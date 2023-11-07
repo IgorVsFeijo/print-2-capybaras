@@ -34,7 +34,7 @@
                         <section class="notícia_mobile">
                             <h2 class="hide">Section - h2</h2>
                             <figure>
-                                <img src="/imgs/cultura/noticia1.jpg" alt="Primeira notícia">
+                                <img src="/print-2-capybaras/imgs/cultura/noticia1.jpg" alt="Primeira notícia">
                             </figure>
                             <p>Entenda mais a fundo sobre a Lei Paulo Gustavo</p>
                         </section>
