@@ -2,7 +2,11 @@
 <html lang="pt-br">
 
 <?php
-  include 'includes/inc_head.php';
+function incluirHeader($titulo) {
+    include('includes/inc_head.php');
+}
+$titulo = "Título da Página";
+incluirHeader($titulo);
 ?>
 
     <!-- Inicio Main -->

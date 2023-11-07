@@ -8,7 +8,7 @@ $rootPath = str_replace('C:\\xampp\\htdocs\\', '', $rootPath);
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>São Roque</title>
+    <title>São Roque - <?php echo $titulo; ?></title>
     <link
       href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
       rel="stylesheet"
@@ -17,7 +17,7 @@ $rootPath = str_replace('C:\\xampp\\htdocs\\', '', $rootPath);
     />
     <link rel="stylesheet" href="/<?php echo $rootPath; ?>/style/style.css" />
   </head>
-  
+
   <body>
     <!-- Inicio Header -->
 
