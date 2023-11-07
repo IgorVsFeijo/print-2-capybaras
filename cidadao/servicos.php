@@ -227,7 +227,7 @@ include('../includes/inc_head.php');
     <!-- Fim do Footer  -->
 
     <?php
-      include 'includes/inc_bootstrap_js.php';
+      include '../includes/inc_bootstrap_js.php';
     ?>
 </body>
 </html>
