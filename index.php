@@ -1,12 +1,16 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 
-<?php
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>São Roque - Título da Página</title>
 
-$titulo = "Título da Página";
-include('includes/inc_head.php');
+    <?php
+        include 'includes/inc_head_links.php';
+      ?>
 
-?>
+</head>
 
 <body>
     <!-- Inicio Header -->
