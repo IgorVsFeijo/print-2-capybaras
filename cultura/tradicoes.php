@@ -29,28 +29,34 @@
                 <h2 class="hide">Aside - h2</h2>
                 <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Natus quia explicabo nemo soluta laboriosam expedita esse quisquam, mollitia tempore vitae, eveniet odio adipisci rem doloribus itaque nulla molestiae eos iusto! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Veritatis labore, error magnam porro eius accusantium eligendi sit fugiat totam dignissimos molestias nisi aut corporis eos rerum, quaerat odio beatae quos.</p>
             </aside>
-            <article>
-                <h3>Festas de Agosto</h3>
-                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iusto, sequi totam. Amet ab illum corporis nobis? Itaque iusto, placeat labore sint enim quidem, doloremque veniam nesciunt voluptatem atque id saepe?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Alias ipsum, animi odio quia quasi facere excepturi pariatur itaque. Doloremque reprehenderit temporibus cupiditate placeat sint consequuntur eius assumenda repellendus molestiae dicta.</p>
-                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iusto, sequi totam. Amet ab illum corporis nobis? Itaque iusto, placeat labore sint enim quidem, doloremque veniam nesciunt voluptatem atque id saepe?Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
-                <figure>
-                    <img src="https://placekitten.com/240/150" alt="foto da festa">
-                </figure>
-            </article>
-            <aside>
-                <h2 class="hide">Aside - h2</h2>
-                <figure>
-                    <img src="https://placekitten.com/320/160" alt="ilustração">
-                </figure>
-            </aside>
-            <article>
-                <h3>Expo São Roque</h3>
-                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iusto, sequi totam. Amet ab illum corporis nobis? Itaque iusto, placeat labore sint enim quidem, doloremque veniam nesciunt voluptatem atque id saepe?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Alias ipsum, animi odio quia quasi facere excepturi pariatur itaque. Doloremque reprehenderit temporibus cupiditate placeat sint consequuntur eius assumenda repellendus molestiae dicta.</p>
-                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iusto, sequi totam. Amet ab illum corporis nobis? Itaque iusto, placeat labore sint enim quidem, doloremque veniam nesciunt voluptatem atque id saepe?Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
-                <figure>
-                    <img src="https://placekitten.com/240/150" alt="foto da festa">
-                </figure>
-            </article>
+            <div class="row">
+              <article>
+                <section class="col-lg-6">
+                    <div class="row">
+                        <section class="col-sm-6 col-lg-12">
+                          <h3>Festas de Agosto</h3>
+                          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iusto, sequi totam. Amet ab illum corporis nobis? Itaque iusto, placeat labore sint enim quidem, doloremque veniam nesciunt voluptatem atque id saepe?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Alias ipsum, animi odio quia quasi facere excepturi pariatur itaque. Doloremque reprehenderit temporibus cupiditate placeat sint consequuntur eius assumenda repellendus molestiae dicta.</p>
+                        </section>
+                        <figure class="col-sm-6 col-md-6 col-lg-12">
+                            <img src="https://placekitten.com/240/150" alt="foto da festa">
+                        </figure>
+                    </div>
+                      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iusto, sequi totam. Amet ab illum corporis nobis? Itaque iusto, placeat labore sint enim quidem, doloremque veniam nesciunt voluptatem atque id saepe?Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+                </section>
+                <section class="row col-lg-6">
+                        <section class="col-sm-6 col-lg-12">
+                          <h3>Expo São Roque</h3>
+                          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iusto, sequi totam. Amet ab illum corporis nobis? Itaque iusto, placeat labore sint enim quidem, doloremque veniam nesciunt voluptatem atque id saepe?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Alias ipsum, animi odio quia quasi facere excepturi pariatur itaque. Doloremque reprehenderit temporibus cupiditate placeat sint consequuntur eius assumenda repellendus molestiae dicta.</p>
+                        </section>
+                        <figure class="col-sm-6 col-md-6 col-lg-12">
+                            <img src="https://placekitten.com/240/150" alt="foto da festa">
+                        </figure>
+                      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iusto, sequi totam. Amet ab illum corporis nobis? Itaque iusto, placeat labore sint enim quidem, doloremque veniam nesciunt voluptatem atque id saepe?Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+                </section>
+              
+              </article>
+            </div>
+            
         </main>
 
     </div>

@@ -24,50 +24,52 @@
         <main>
             <article class="col-12">
                 <h2 class="hide">Article - h2</h2>
-                <section class="col-sm-12 col-md-6 col-lg-6">
-                    <h2>Programe o seu espetáculo aqui!</h2>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti, a. Sequi libero magnam voluptate, consectetur accusamus perspiciatis cupiditate, accusantium optio repudiandae earum soluta asperiores ullam, non iusto! Autem, nam quibusdam?</p>
-                </section>
-                <section class="col-md-6 ">
-                    <h2 class="hide">Section - h2</h2>
-                    <table>
-                        <tr>
-                            <td>LOCAL</td>
-                            <td>DATA</td>
-                            <td>DISPONIBILIDADE</td>
-                        </tr>
-                        <tr>
-                            <td>lipsum</td>
-                            <td>lipsum</td>
-                            <td>lipsum</td>
-                        </tr>
-                        <tr>
-                            <td>lipsum</td>
-                            <td>lipsum</td>
-                            <td>lipsum</td>
-                        </tr>
-                        <tr>
-                            <td>lipsum</td>
-                            <td>lipsum</td>
-                            <td>lipsum</td>
-                        </tr>
-                        <tr>
-                            <td>lipsum</td>
-                            <td>lipsum</td>
-                            <td>lipsum</td>
-                        </tr>
-                        <tr>
-                            <td>lipsum</td>
-                            <td>lipsum</td>
-                            <td>lipsum</td>
-                        </tr>
-                        <tr>
-                            <td>lipsum</td>
-                            <td>lipsum</td>
-                            <td>lipsum</td>
-                        </tr>
-                    </table>
-                </section>
+                <div class="row">
+                  <section class="col-6">
+                      <h2>Programe o seu espetáculo aqui!</h2>
+                      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti, a. Sequi libero magnam voluptate, consectetur accusamus perspiciatis cupiditate, accusantium optio repudiandae earum soluta asperiores ullam, non iusto! Autem, nam quibusdam?</p>
+                  </section>
+                  <section class="col-6">
+                      <h2 class="hide">Section - h2</h2>
+                      <table>
+                          <tr>
+                              <td>LOCAL</td>
+                              <td>DATA</td>
+                              <td>DISPONIBILIDADE</td>
+                          </tr>
+                          <tr>
+                              <td>lipsum</td>
+                              <td>lipsum</td>
+                              <td>lipsum</td>
+                          </tr>
+                          <tr>
+                              <td>lipsum</td>
+                              <td>lipsum</td>
+                              <td>lipsum</td>
+                          </tr>
+                          <tr>
+                              <td>lipsum</td>
+                              <td>lipsum</td>
+                              <td>lipsum</td>
+                          </tr>
+                          <tr>
+                              <td>lipsum</td>
+                              <td>lipsum</td>
+                              <td>lipsum</td>
+                          </tr>
+                          <tr>
+                              <td>lipsum</td>
+                              <td>lipsum</td>
+                              <td>lipsum</td>
+                          </tr>
+                          <tr>
+                              <td>lipsum</td>
+                              <td>lipsum</td>
+                              <td>lipsum</td>
+                          </tr>
+                      </table>
+                  </section>
+                </div>
                 <section>
                     <h2 class="hide">Section - h2</h2>
                     <form class="row g-3">
