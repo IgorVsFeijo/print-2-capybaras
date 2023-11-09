@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>São Roque - Título da Página</title>
+    <title>Cultura</title>
 
     <?php
         include '../includes/inc_head_links.php';
@@ -28,13 +28,13 @@
             <article>
                 <h2>Cidade de Cultura</h2>
                 <p>Fonte de renda fundamental para a nossa cidade e um de nossos maiores orgulhos, a cidade de São Roque conta com uma série única de atividades, lugares e eventos tradicionais-culturais. Não apenas ajudando no crescimento financeiro, mas colocando a nossa cidade no mapa de São Paulo como uma das principais produtoras de vinho do estado.</p>
-                <div class=" row col-12">
+                <div class="row col-12">
                     <h2>Notícias</h2>
                     <div class="col-md-6 col-lg-4">
                         <section class="notícia_mobile">
                             <h2 class="hide">Section - h2</h2>
                             <figure>
-                                <img src="/imgs/cultura/noticia1.jpg" alt="Primeira notícia">
+                              <img src="/imgs/cultura/noticia1.jpg" alt="Primeira notícia">
                             </figure>
                             <p>Entenda mais a fundo sobre a Lei Paulo Gustavo</p>
                         </section>

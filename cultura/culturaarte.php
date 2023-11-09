@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>São Roque - Título da Página</title>
+    <title>Cultura - Cultura e Arte</title>
 
     <?php
         include '../includes/inc_head_links.php';
@@ -51,7 +51,7 @@
                       <section class= "col-md-6">
                           <h3>Capela Santo Antônio</h3>
                           <figure>
-                              <img src="/imgs/cultura/capela santo antônio.jpg" alt="foto do monumento">
+                              <img src="/imgs/cultura/capelasanto antônio.jpg" alt="foto do monumento">
                           </figure>
                           <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Qui pariatur repellat eaque non maxime nostrum voluptate delectus! Totam, doloribus quos cumque tempore quia, eligendi ipsa, architecto impedit soluta ea vel. Lorem, ipsum dolor sit amet consectetur adipisicing elit. At possimus ad quam ipsum pariatur molestias veniam nulla hic? Vitae fugiat dicta quae id incidunt quasi suscipit similique, corrupti ipsam ad.</p>
                       </section>
@@ -60,7 +60,7 @@
                       <section class= "col-md-6">
                         <h3>Brasital</h3>
                         <figure>
-                            <img src="https://placekitten.com/240/150" alt="foto do monumento">
+                            <img src="/imgs/cultura/brasital.jpg" alt="foto do monumento">
                         </figure>
                         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Qui pariatur repellat eaque non maxime nostrum voluptate delectus! Totam, doloribus quos cumque tempore quia, eligendi ipsa, architecto impedit soluta ea vel. Lorem, ipsum dolor sit amet consectetur adipisicing elit. At possimus ad quam ipsum pariatur molestias veniam nulla hic? Vitae fugiat dicta quae id incidunt quasi suscipit similique, corrupti ipsam ad.</p>
                       </section>

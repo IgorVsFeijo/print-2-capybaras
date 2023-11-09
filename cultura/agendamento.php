@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>São Roque - Título da Página</title>
+    <title>Cultura - Agendamento</title>
 
     <?php
         include '../includes/inc_head_links.php';
@@ -27,15 +27,27 @@
                 <div class="row">
                   <section class="col-6">
                       <h2>Programe o seu espetáculo aqui!</h2>
-                      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti, a. Sequi libero magnam voluptate, consectetur accusamus perspiciatis cupiditate, accusantium optio repudiandae earum soluta asperiores ullam, non iusto! Autem, nam quibusdam?</p>
+                      <p>O espaço para apresentação está localizado na Brasital. Escolha uma sala, data e cheque a disponibilidade para preparar o ambiente e agendar o seu espetáculo.</p>
+                      <div class="row g-4">
+                        <label for="inputName4" class="form-label">Nome do Artista/Grupo</label>
+                        <input type="text" class="form-control" id="inputName4">
+                      </div>
                   </section>
                   <section class="col-6">
                       <h2 class="hide">Section - h2</h2>
-                      <table>
+                      <table class="table table-bordered">
+                        <thead>
                           <tr>
-                              <td>LOCAL</td>
-                              <td>DATA</td>
-                              <td>DISPONIBILIDADE</td>
+                            <th scope="col">LOCAL</th>
+                            <th scope="col">DATA</th>
+                            <th scope="col">DISPONIBILIDADE</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                        <tr>
+                              <td>lipsum</td>
+                              <td>lipsum</td>
+                              <td>lipsum</td>
                           </tr>
                           <tr>
                               <td>lipsum</td>
@@ -62,21 +74,14 @@
                               <td>lipsum</td>
                               <td>lipsum</td>
                           </tr>
-                          <tr>
-                              <td>lipsum</td>
-                              <td>lipsum</td>
-                              <td>lipsum</td>
-                          </tr>
+                        </tbody>
                       </table>
                   </section>
                 </div>
                 <section>
                     <h2 class="hide">Section - h2</h2>
                     <form class="row g-3">
-                      <div class="col-md-6">
-                        <label for="inputName4" class="form-label">Nome do Artista/Grupo</label>
-                        <input type="text" class="form-control" id="inputName4">
-                      </div>
+                      
                       <div class="col-md-6">
                         <label for="inputEmail4" class="form-label">Email</label>
                         <input type="email" class="form-control" id="inputEmail4">
