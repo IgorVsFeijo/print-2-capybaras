@@ -34,7 +34,7 @@
                         <section class="notícia_mobile">
                             <h2 class="hide">Section - h2</h2>
                             <figure>
-                              <img src="/imgs/cultura/noticia1.jpg" alt="Primeira notícia">
+                              <img src="../imgs/cultura/noticia1.jpg" alt="Primeira notícia">
                             </figure>
                             <p>Entenda mais a fundo sobre a Lei Paulo Gustavo</p>
                         </section>
@@ -43,7 +43,7 @@
                         <section class="notícia_mobile">
                             <h2 class="hide">Section - h2</h2>
                             <figure>
-                                <img src="/imgs/cultura/noticia2.jpeg" alt="Segunda Notícia">
+                                <img src="../imgs/cultura/noticia2.jpeg" alt="Segunda Notícia">
                             </figure>
                             <p>Festival de Teatro Estudantil Vasco Barioni 2023 - Saiba mais sobre o evento!</p>
                         </section>
@@ -52,7 +52,7 @@
                         <section class="notícia_mobile">
                             <h2 class="hide">Section - h2</h2>
                             <figure>
-                                <img src="/imgs/cultura/noticia3.jpg" alt="Terceira Notícia">
+                                <img src="../imgs/cultura/noticia3.jpg" alt="Terceira Notícia">
                             </figure>
                             <p>Festival de Artes Catatau é sucesso entre as crianças na Brasital</p>
                         </section>
