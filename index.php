@@ -34,7 +34,7 @@
         <div class="col-12 col-md-7">
             <section class="prefeitura">
               <!--Inicio secao prefeitura-->
-              <picture class="img-home-princ"><img src="" alt=""></picture>
+              <picture class="img-home-princ"><img src="https://placekitten.com/741/410" alt=""></picture>
               <div>
                   <h2>Prefeitura SR</h2>
                   <p>
@@ -80,7 +80,7 @@
 
         <div class="cultura-e-turismo row mx-0 gy-3">
           <a href="cultura/index.php">
-            <section class="cultura">
+            <section class="cultura position-relative">
               <!--Inicio secao cultura-->
               <picture class="img-home-princ"><img src="https://placekitten.com/632/197" alt=""></picture>
               <div>
@@ -93,7 +93,7 @@
             </section>
           </a>
           <a href="turismo/index.php">
-            <section class="turismo">
+            <section class="turismo position-relative">
               <!-- Inicio secao turismo -->
               <picture class="img-home-princ"><img src="https://placekitten.com/632/197" alt=""></picture>
               <div>
