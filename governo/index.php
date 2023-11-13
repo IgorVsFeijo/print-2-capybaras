@@ -20,9 +20,7 @@
 
     <!-- Fim Header -->
 
-      <!-- Inicio do Footer -->
-
-      <div class="row">
+    <div class="row">
         <section class="col-lg-12 col-md-12 col-sm-12">
             <h1>GOVERNO</h1>
         </section>
@@ -70,6 +68,8 @@
         </section>
        
     </div>
+
+      <!-- Inicio do Footer -->
 
   <footer>
     <div class="container-lg">
