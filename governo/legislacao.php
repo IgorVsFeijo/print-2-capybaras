@@ -19,6 +19,8 @@
       ?>
 
     <!-- Fim Header -->
+  <div class="container text-center">
+
     <div class="row">
         <section class="col-lg-12 col-md-12 col-sm-12">
             <h1>LEGISLAÇÃO</h1>
@@ -78,7 +80,7 @@
             <a href="#">LeiaMais</a>
         </section>
     </div>
-
+  </div>
     <!-- Inicio do Footer -->
 
     <footer>
