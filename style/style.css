@@ -140,10 +140,10 @@ div.nav-secundario{
     background-color: rgba(226, 226, 226, 0.990);
 }
 
-/*Fim Home principal*/
+/*Home principal*/
 
 #secoes-portais>* {
-    min-height: 410px;
+    min-height: 610px;
 }
 
 #secoes-portais a {
@@ -191,6 +191,7 @@ div.cultura-e-turismo>* {
     width: 100%;
     z-index: -1;
 }
+
 
 /* Home Cidade */
 

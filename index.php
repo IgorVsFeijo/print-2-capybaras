@@ -32,16 +32,13 @@
         <h1 class="d-none">Áreas do Portal São Roque</h1>
 
         <div class="col-12 col-md-7">
-            <section class="prefeitura">
+            <section class="prefeitura position-relative">
               <!--Inicio secao prefeitura-->
-              <picture class="img-home-princ"><img src="https://placekitten.com/741/410" alt=""></picture>
+              <picture class="img-home-princ"><img src="https://placekitten.com/741/610" alt=""></picture>
               <div>
                   <h2>Prefeitura SR</h2>
                   <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. A, autem
-                    exercitationem ratione eum nostrum veritatis labore impedit
-                    voluptatibus, ipsam id quisquam natus repellat minus totam.
-                    Perferendis tempore esse nisi quod!
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla id vehicula dolor, a elementum elit. Nam aliquet pulvinar odio ac vulputate. Nunc eu arcu in nunc blandit dapibus non eget nisl. Mauris interdum quam a lacinia vestibulum. Quisque orci metus, rutrum ac sodales in, efficitur id est. Duis in arcu at metus egestas pretium. Donec tempor odio eget risus dictum, nec luctus elit consequat. Aliquam tincidunt bibendum malesuada.
                   </p>
               </div>
             </section>
