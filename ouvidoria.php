@@ -45,15 +45,15 @@
 
     <form class="row g-4">
       <div class="col-md-8">
-        <label for="inputName4" class="form-label">Nome do Artista/Grupo</label>
+        <label for="inputName4" class="form-label">Nome:</label>
         <input type="text" class="form-control" id="inputName4">
       </div>
       <div class="col-md-4">
-        <label for="inputName4" class="form-label">Telefone</label>
+        <label for="inputName4" class="form-label">Telefone:</label>
         <input type="text" class="form-control" id="inputName4" placeholder="(xx)xxxxx-xxxx">
       </div>
       <div class="col-12">
-        <label for="inputEmail4" class="form-label">Email</label>
+        <label for="inputEmail4" class="form-label">Email:</label>
         <input type="email" class="form-control" id="inputEmail4">
       </div>
       <div class="col-md-12">
