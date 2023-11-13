@@ -40,25 +40,30 @@
   </aside>
 </div>
 
-
-
 <div class="row">
   <section class="col-lg-12 col-md-12 col-sm-12">
 
-    <form action="/enviar" method="post">
-      <label for="nome">Nome:</label>
-      <input type="text" id="nome" name="nome" required><br><br>
+    <form class="row g-4">
+      <div class="col-md-8">
+        <label for="inputName4" class="form-label">Nome do Artista/Grupo</label>
+        <input type="text" class="form-control" id="inputName4">
+      </div>
+      <div class="col-md-4">
+        <label for="inputName4" class="form-label">Telefone</label>
+        <input type="text" class="form-control" id="inputName4" placeholder="(xx)xxxxx-xxxx">
+      </div>
+      <div class="col-12">
+        <label for="inputEmail4" class="form-label">Email</label>
+        <input type="email" class="form-control" id="inputEmail4">
+      </div>
+      <div class="col-md-12">
+        <label for="inputTextarea" class="form-label">Sugestões:</label>
+        <textarea type="text" class="form-control" id="inputTextarea" placeholder="Digite aqui os seus objetivos ou os objetivos do grupo"></textarea>
+      </div>
 
-      <label for="telefone">Telefone:</label>
-      <input type="tel" id="telefone" name="telefone" required><br><br>
-
-      <label for="email">E-mail:</label>
-      <input type="email" id="email" name="email" required><br><br>
-
-      <label for="sugestoes">Sugestões:</label><br>
-      <textarea id="sugestoes" name="sugestoes" rows="4" cols="50" required></textarea><br><br>
-
-      <input type="submit" value="Enviar">
+      <div class="col-12">
+        <button type="submit" class="btn btn-primary">ENVIAR</button>
+      </div>
     </form>
   </section>
 </div>
