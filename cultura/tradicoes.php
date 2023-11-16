@@ -23,7 +23,7 @@
 
         <main>
             <figure>
-                <img src="https://placekitten.com/320/160" alt="imagem via placeholder">
+                <img src="../imgs/cultura/festaagostoilustracao.jpg" alt="Visão Aérea da Festa de Agosto">
             </figure>
             <aside>
                 <h2 class="hide">Aside - h2</h2>
@@ -38,14 +38,14 @@
                           <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iusto, sequi totam. Amet ab illum corporis nobis? Itaque iusto, placeat labore sint enim quidem, doloremque veniam nesciunt voluptatem atque id saepe?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Alias ipsum, animi odio quia quasi facere excepturi pariatur itaque. Doloremque reprehenderit temporibus cupiditate placeat sint consequuntur eius assumenda repellendus molestiae dicta.</p>
                         </section>
                         <figure class="col-sm-6 col-md-6 col-lg-12">
-                            <img src="https://placekitten.com/240/200" alt="foto da festa">
+                            <img src="../imgs/cultura/logofestas de agosto.png" alt="Logotipo da festa">
                         </figure>
                         <p class="col-12">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iusto, sequi totam. Amet ab illum corporis nobis? Itaque iusto, placeat labore sint enim quidem, doloremque veniam nesciunt voluptatem atque id saepe?Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
                     </div> 
                 </section>
                 <section class="row col-lg-6">
                         <figure class="col-sm-6 col-md-6 col-lg-12">
-                            <img src="https://placekitten.com/240/200" alt="foto da festa">
+                            <img src="../imgs/cultura/exposaoroque.jpg" alt="foto da festa">
                         </figure>
                         <section class="col-sm-6 col-lg-12">
                           <h3>Expo São Roque</h3>
@@ -55,7 +55,9 @@
                 </section>
               </article>
             </div>
-            
+            <figure>
+              <img src="../imgs/cultura/expoilustracao.jpg" alt="Visão aérea da Expo São Roque">
+            </figure>
         </main>
 
     </div>

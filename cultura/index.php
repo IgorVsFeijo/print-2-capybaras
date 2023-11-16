@@ -23,7 +23,7 @@
     <div class="text-center">
         <main>
             <figure>
-                <img class="img-fluid" src="https://placekitten.com/500/200" alt="imagem inicial da página">
+                <img class="img-fluid" src="../imgs/cultura/saoroque.jpg" alt="imagem inicial da página">
             </figure>
             <article>
                 <h2>Cidade de Cultura</h2>

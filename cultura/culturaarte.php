@@ -28,7 +28,7 @@
                       <section class= "col-md-6">
                         <h3>Roteiro do Vinho</h3>
                           <figure>
-                              <img src="https://placekitten.com/240/150" alt="foto do monumento">
+                              <img src="../imgs/cultura/roteirovinho1.jpg" alt="foto do monumento">
                           </figure>
                           <p>Com produção desde o Século XVII, através do fundador da cidade Pedro Vaz de Barros e de famílias de imigrantes portugueses e italianos, a cultura enóloga de São Roque rapidamente se tornou a sua principal característica, nacionalmente a concedendo o título de ‘Terra do Vinho’, e não é para menos. Registros constam que o cultivo da uva é uma prática vinda desde os primeiros povoados da região, e que foi vista como potencial por Pedro Vaz, o fazendo investir na produção.</p>
                           <p>Hoje em dia, a enocultura de São Roque é reunida quase que inteiramente no Roteiro do Vinho, juntando a Estrada do Vinho, dos Venâncios e a Rodovia Quintino de Lima para formar um passeio agradável ao paladar e para todos. Com cerca de 50 estabelecimentos, o Roteiro do Vinho conta com vinícolas, churrascarias, destilarias, petiscos, restaurantes e muitas outras atrações, com acesso gratuito durante toda a semana - embora nos dias mais cheios, haja cobrança para entrada, proporcionando uma fonte de renda inestimável para a nossa cidade.</p>
@@ -47,7 +47,7 @@
                         <figure>
                             <img src="../imgs/cultura/quilombocarmo2.jpg" alt="foto do monumento">
                         </figure>
-                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Qui pariatur repellat eaque non maxime nostrum voluptate delectus! Totam, doloribus quos cumque tempore quia, eligendi ipsa, architecto impedit soluta ea vel. Lorem, ipsum dolor sit amet consectetur adipisicing elit. At possimus ad quam ipsum pariatur molestias veniam nulla hic? Vitae fugiat dicta quae id incidunt quasi suscipit similique, corrupti ipsam ad.</p>
+                        <p>Localizado no Bairro do Carmo, a 25 km do centro, o Quilombo é onde se encontram as ruínas da Senzala e do Casarão que lá existiam, abrigando cerca de 170 famílias em uma área de 6,6 alqueires. Por anos, a comunidade, formada por descendentes de escravos que viveram na região durante o período escravista, vem sendo resistente contra as pressões e avanços urbanos por parte de acordos entre a prefeitura e detentores de terra locais, ainda lutando pela titulação das terras por meio do INCRA e da UFScar, embora haja alguns impasses no momento.</p>
                       </section>
                       <section class= "col-md-6">
                           <h3>Capela Santo Antônio</h3>
@@ -79,7 +79,7 @@
                     <section class="col-md-6 col-lg-4">
                         <h3>Coletivo Entre Nós</h3>
                         <figure>
-                            <img src="https://placekitten.com/250/180" alt="foto do grupo">
+                            <img src="../imgs/cultura/coletivoentrenos.jpg" alt="foto do grupo">
                         </figure>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime expedita accusantium facere ea maiores facilis, consequatur explicabo. Enim corporis a dicta consectetur ducimus, dolorum inventore deserunt tempore esse, aspernatur consequuntur.</p>
                     </section>
