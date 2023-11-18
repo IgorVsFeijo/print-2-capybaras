@@ -24,7 +24,7 @@
         <main class="row">
             <article class="col-lg-8 col-md-6 col-sm-12">
                 <h1>Cidadão</h1>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Neque porro alias harum sed libero ipsum consectetur expedita veritatis debitis. Aliquid, unde error aut ipsum distinctio voluptatum ullam similique esse. Beatae!</p>
+                <p>A prefeitura de São Roque acredita que a ativa participação de seus cidadão é essencial para a construção de uma cidade mais inclusiva, segura e forte, por isso a área “Cidadão” é dedicada a você, cidadão de São Roque. Aqui você terá acesso a serviços, notícias e informações que possibilitem sua participação ativa no nosso município.</p>
                 <section class="row">
                     <h2>Empregabilidade</h2>
                     <section class="col-lg-12 col-md-12 col-sm-12">
@@ -33,8 +33,8 @@
                                 <img src="https://placekitten.com/150/150" alt="">
                             </figure>
                             <div class="col-lg-8">
-                                <h3>Notícia</h3>
-                                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officiis nulla eveniet laborum consequatur nesciunt.</p>
+                                <h3>Oportunidade de emprego</h3>
+                                <p>Empresa de São Roque contrata Ajudante Geral; veja como se candidatar</p>
                                 <a type="button" class="btn btn-primary" href="#">Ver mais</a>
                             </div>
                         </div>
@@ -43,8 +43,8 @@
                                 <img src="https://placekitten.com/150/150" alt="">
                             </figure>
                             <div class="col-lg-8">
-                                <h3>Notícia</h3>
-                                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officiis nulla eveniet laborum consequatur nesciunt.</p>
+                                <h3>Oportunidade de emprego</h3>
+                                <p>Fatec São Roque tem processo seletivo para uma vaga de professor no ensino superior; confira</p>
                                 <a type="button" class="btn btn-primary" href="#">Ver mais</a>
                             </div>
                         </div>
@@ -56,9 +56,9 @@
                     <h2>Concursos e Processos Seletivos</h2>
                     <div>
                         <ul>
-                            <li class="concursos"><a href="#">Processo seletivo 1</a></li>
-                            <li class="concursos"><a href="#">Processo seletivo 1</a></li>
-                            <li class="concursos"><a href="#">Processo seletivo 1</a></li>
+                            <li class="concursos"><a href="#">Processo Seletivo Simplificado Para Contratação De Auxiliar de Classe</a></li>
+                            <li class="concursos"><a href="#">Processo Seletivo Para Contratação de Dentista, Farmacêutico e Enfermeiro</a></li>
+                            <li class="concursos"><a href="#">Processo Seletivo Simplificado para Contratação por Tempo Determinado</a></li>
                             <li class="concursos"><a href="#">Processo seletivo 1</a></li>
                             <li class="concursos"><a href="#">Processo seletivo 1</a></li>
                         </ul>
@@ -75,8 +75,8 @@
                         <div class="row">
                             <figure class="col-lg-4 text-center"><img src="https://placekitten.com/150/150" alt=""></figure>
                             <div class="col-lg-8">
-                                <h4>Campanha 1</h4>
-                                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                                <h4>Campanha de vacinação contra Influenza</h4>
+                                <p>Procure a UBS mais próxima</p>
                                 <a type="button" class="btn btn-primary" href="#">Ver mais</a>
                             </div>
                         </div>
@@ -87,11 +87,11 @@
                 <section>
                     <h3>Mais Acessados</h3>
                     <ul>
-                        <li><a href="#">Página 1</a></li>
-                        <li><a href="#">Página 1</a></li>
-                        <li><a href="#">Página 1</a></li>
-                        <li><a href="#">Página 1</a></li>
-                        <li><a href="#">Página 1</a></li>
+                        <li><a href="../empresa/iptu.php">IPTU</a></li>
+                        <li><a href="../turismo/eventos.php">Eventos</a></li>
+                        <li><a href="../cidade/pessoasnotaveis.php">Pessoal notáveis</a></li>
+                        <li><a href="servicos.php">Serviços</a></li>
+                        <li><a href="../governo/legislacao.php">Legislação</a></li>
                     </ul>
                 </section>
 
@@ -107,23 +107,24 @@
                 <section class="col-12">
                     <h3>Outras áreas</h3>
                     <ul>
-                        <li><a href="#">Área 1</a></li>
-                        <li><a href="#">Área 1</a></li>
-                        <li><a href="#">Área 1</a></li>
-                        <li><a href="#">Área 1</a></li>
-                        <li><a href="#">Área 1</a></li>
+                        <li><a href="../cidade/index.php">Cidade</a></li>
+                        <li><a href="../governo/index.php">Governo</a></li>
+                        <li><a href="../empresa/home.php">Empresa</a></li>
+                        <li><a href="../turismo/index.php">Turismo</a></li>
+                        <li><a href="../cultura/index.php">Cultura</a></li>
                     </ul>
                 </section>
 
                 <section class="col-12">
                     <h3>Unidades de saúde</h3>
                     <ul class="row">
-                        <li class="col-6"><a href="#">Posto 1</a></li>
-                        <li class="col-6"><a href="#">Posto 1</a></li>
-                        <li class="col-6"><a href="#">Posto 1</a></li>
-                        <li class="col-6"><a href="#">Posto 1</a></li>
-                        <li class="col-6"><a href="#">Posto 1</a></li>
-                        <li class="col-6"><a href="#">Posto 1</a></li>
+                        <li class="col-6"><a href="https://maps.app.goo.gl/PXSkHLNZSr8ChbyEA">PS Goianã</a></li>
+                        <li class="col-6"><a href="https://maps.app.goo.gl/nDbYxSshQyaVZ3m67">UBS Central</a></li>
+                        <li class="col-6"><a href="https://maps.app.goo.gl/t734crhrBW7utfwT9">UBS Guaçu</a></li>
+                        <li class="col-6"><a href="https://maps.app.goo.gl/arwkNt6oGCdiMFzh9">UBS Taboão</a></li>
+                        <li class="col-6"><a href="https://maps.app.goo.gl/GngCUJZy2m1dpkrB6">PS Vila Nova</a></li>
+                        <li class="col-6"><a href="https://maps.app.goo.gl/Vr97ieYDFkAnLy4K6">PS Saboó</a></li>
+
                     </ul>
                 </section>
 

@@ -24,26 +24,26 @@
         <main>
             <article>
                 <h1 class="text-center"> Concursos Públicos e Processos Seletivos </h1>
-                <p>Vorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex. Suspendisse ac rhoncus nisl, eu tempor urna. Curabitur vel bibendum lorem. Morbi convallis convallis diam sit amet lacinia. Aliquam in elementum tellus.</p>
+                <p>A prefeitura de São Roque  oferece Concursos Públicos para preenchimento de cargos públicos de provimento efetivo e Processos Seletivos que atendem às necessidades temporárias do município.</p>
 
                 <section class="row text-">
                     <h2>Links</h2>
                     <div class="col-lg-6 col-md-12 col-sm-12">
                         <ul>
-                            <li class="concursos"><a href="#">Processo seletivo 1</a></li>
-                            <li class="concursos"><a href="#">Processo seletivo 1</a></li>
-                            <li class="concursos"><a href="#">Processo seletivo 1</a></li>
-                            <li class="concursos"><a href="#">Processo seletivo 1</a></li>
-                            <li class="concursos"><a href="#">Processo seletivo 1</a></li>
+                            <li class="concursos"><a href="#">Processo Seletivo Simplificado Para Contratação De Auxiliar de Classe</a></li>
+                            <li class="concursos"><a href="#">Processo Seletivo Para Contratação de Dentista, Farmacêutico e Enfermeiro</a></li>
+                            <li class="concursos"><a href="#">Processo Seletivo Simplificado para Contratação por Tempo Determinado</a></li>
+                            <li class="concursos"><a href="#">Processo Seletivo Simplificado para Contratação de Vigilante Municipal Sec. Educação</a></li>
+                            <li class="concursos"><a href="#">Processo Seletivo Simplificado para Contratação por Tempo Determinado</a></li>
                         </ul>
                     </div>
                     <div class="col-lg-6 col-md-12 col-sm-12">
                         <ul>
-                            <li class="concursos"><a href="#">Processo seletivo 1</a></li>
-                            <li class="concursos"><a href="#">Processo seletivo 1</a></li>
-                            <li class="concursos"><a href="#">Processo seletivo 1</a></li>
-                            <li class="concursos"><a href="#">Processo seletivo 1</a></li>
-                            <li class="concursos"><a href="#">Processo seletivo 1</a></li>
+                            <li class="concursos"><a href="#">Processo Seletivo Para Contratação de Terapeuta Ocupacional</a></li>
+                            <li class="concursos"><a href="#">Concurso Público Para Técnico em Farmácia</a></li>
+                            <li class="concursos"><a href="#">Processo Seletivo Para Cuidador</a></li>
+                            <li class="concursos"><a href="#">Concurso Público Para Agente Comunitário de Saúde</a></li>
+                            <li class="concursos"><a href="#">Processo Seletivo Para Professor Eventual </a></li>
                         </ul>
                     </div>
                 </section>
