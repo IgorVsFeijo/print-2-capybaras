@@ -23,33 +23,35 @@
     <div class="container">
         <main class="row text-center">
             <h1> Cartela de Serviços</h1>
-                <p>Vorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex. Suspendisse ac rhoncus nisl, eu tempor urna. Curabitur vel bibendum lorem. Morbi convallis convallis diam sit amet lacinia. Aliquam in elementum tellus.</p>
+                <p>A cartela de serviços tem como objetivo informar todos os serviços que a prefeitura de São Roque oferece aos seus cidadãos. Sendo assim, comunicar onde esses serviços são prestados e a forma de acessos a eles.</p>
 
             <article class="row">
                     <h2>Assitência social</h2>
                     <div class="col-lg-8 col-md-12">
-                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Earum beatae, illum velit id modi facilis facere rem incidunt consectetur delectus accusamus possimus. Id ratione quod minima voluptatem quis quasi laboriosam. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore incidunt nesciunt in at, voluptas odio quaerat accusamus minima corrupti repudiandae ipsum assumenda, dignissimos illum recusandae id sint iste dolorem enim? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laboriosam debitis libero, esse nisi quae fugiat, hic laborum fuga voluptas beatae animi vitae commodi perferendis ipsum recusandae architecto repellendus voluptatum voluptates.</p>
+                        <p>A assistência social é uma política pública que está organizada através Sistema Único de Assistência Social (Suas) que permeia todo o Brasil. Tem por objetivo a garantia da proteção social dos cidadãos, isto é, o apoio à comunidade por meio de serviços, benefícios, programas e projetos. As unidades da Assistência Social são:</p>
                         <ul>
-                            <li>Item</li>
-                            <li>Item</li>
-                            <li>Item</li>
+                            <li>Cras – Centro de Referência de Assistência Social;</li>
+                            <li>Creas – Centro de Referência Especializado de Assistência Social;</li>
+                            <li>Centro POP – Centros de Referência Especializados para População em Situação de Rua;</li>
+                            <li>Centro-Dia de Referência para Pessoa com Deficiência e suas Famílias;</li>
+                            <li>Unidades de Acolhimento – Casa Lar, Abrigo Institucional, República, Residência Inclusiva, Casa de Passagem</li>
                         </ul>
                     </div>
 
                 <section class="col-lg-4 col-md-12 col-md-12 text-center">
                     <h2>Programas</h2>
                     <div class="row">
-                        <a href="#" class="col-lg-6 col-md-6 col-sm-12">Programa</a>
-                        <a href="#" class="col-lg-6 col-md-6 col-sm-12">Programa</a>
-                        <a href="#" class="col-lg-6 col-md-6 col-sm-12">Programa</a>
-                        <a href="#" class="col-lg-6 col-md-6 col-sm-12">Programa</a>
+                        <a href="#" class="col-lg-6 col-md-6 col-sm-12">População em Situação de Rua;</a>
+                        <a href="#" class="col-lg-6 col-md-6 col-sm-12">Programa de Erradicação do Trabalho Infantil;</a>
+                        <a href="#" class="col-lg-6 col-md-6 col-sm-12">Proteção Especial para Pessoas com Deficiência e Idosas;</a>
+                        <a href="#" class="col-lg-6 col-md-6 col-sm-12">Serviços de Acolhimento;</a>
                     </div>
                 </section>
             </article>
 
             <article class="col-lg-4 col-md-12 col-sm-12 text-center">
                 <h2>Educação</h2>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Earum beatae, illum velit id modi facilis facere rem incidunt consectetur delectus accusamus possimus. Id ratione quod minima voluptatem quis quasi laboriosam. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore incidunt nesciunt in at, voluptas odio quaerat accusamus minima corrupti repudiandae ipsum assumenda, dignissimos illum recusandae id sint iste dolorem enim? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laboriosam debitis libero, esse nisi quae fugiat, hic laborum fuga voluptas beatae animi vitae commodi perferendis ipsum recusandae architecto repellendus voluptatum voluptates.</p>
+                <p>A cidade de São Roque está comprometida a oferecer educação de qualidade aos seus cidadãos, nesta seção você encontrará serviços a este tema.</p>
                 <ul>
                     <li>Item</li>
                     <li>Item</li>
@@ -123,23 +125,23 @@
             
             <article class="col-lg-8 col-md-12 col-sm-12 text-center">
                 <h2>Empregabilidade</h2>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum mollitia ab at fugiat unde necessitatibus nisi aliquid ullam, iusto eum assumenda id placeat nostrum tempora sit tempore repellat voluptas! Magnam!</p>
+                <p>Estamos comprometidos a fomentar o crescimento econômico do município e manter o bem-estar de nossa população. Por isso, essa seção é dedicada a divulgar e oferecer oportunidades de emprego, aqui você encontrará todas as informações referentes a esse tema.</p>
 
                 <section class="row">
                     <div class="col-lg-6 col-md-6 col-sm-12">
                         <figure>
-                            <img src="https://placekitten.com/150/150" alt="">
+                            <img src="../imgs/cidadao/cidadao_empresa_.jpg" alt="">
                         </figure>
                         <h3>Notícia</h3>
-                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officiis nulla eveniet laborum consequatur nesciunt.</p>
+                        <p>Empresa de São Roque contrata Ajudante Geral; veja como se candidatar</p>
                         <a href="#">Ver mais</a>
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-12">
                         <figure>
-                            <img src="https://placekitten.com/150/150" alt="">
+                            <img src="../imgs/cidadao/cidadao_fatec_.jpeg" alt="">
                         </figure>
                         <h3>Notícia</h3>
-                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officiis nulla eveniet laborum consequatur nesciunt.</p>
+                        <p>Fatec São Roque tem processo seletivo para uma vaga de professor no ensino superior; confira</p>
                         <a href="#">Ver mais</a>
                     </div>
                 </section>
@@ -156,8 +158,8 @@
 
             <article class="col-lg-6 col-md-12 col-sm-12">
                 <h3>Comunicados</h3>
-                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perferendis fuga provident voluptas deserunt numquam excepturi ex vel nemo hic incidunt nam est at quaerat blanditiis modi, id veritatis sapiente tempore.</p>
-                <img src="https://placekitten.com/300/150" alt="">
+                <p>A carta de serviços tem como objetivo informar todos os serviços que a prefeitura de São Roque oferece aos seus cidadãos. Sendo assim, comunicar onde esses serviços são prestados e a forma de acessos a eles.</p>
+                <img src="../imgs/cidadao/cidadao_comunicado_.jpg" alt="">
             </article>
 
             <article class="col-lg-6 col-md-12 col-sm-12">

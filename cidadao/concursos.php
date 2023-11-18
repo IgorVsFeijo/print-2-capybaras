@@ -54,15 +54,15 @@
                     <div class="row">
                         <figure class="col-lg-4 col-md-4 text-center"><img src="https://placekitten.com/150/150" alt=""></figure>
                         <div class="col-lg-8 col-md-8">
-                            <h3>Dica</h3>
-                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusantium quia aspernatur non sint nihil, architecto minus, aperiam provident saepe.</p>
+                            <h3>Leia o edital</h3>
+                            <p>Leia e preste atenção nas datas e como a prova é elaborada;</p>
                         </div>
                     </div>
                     <div class="row">
                         <figure class="col-lg-4 col-md-4 text-center"><img src="https://placekitten.com/150/150" alt=""></figure>
                         <div class="col-lg-8 col-md-8">
-                            <h3>Dica</h3>
-                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusantium quia aspernatur non sint nihil, architecto minus, aperiam provident saepe.</p>
+                            <h3>Cronograma</h3>
+                            <p>Planeje seus estudos de acordo com as matérias que aparecem no edital;</p>
                         </div>
                     </div>
                 </section>
@@ -72,16 +72,16 @@
                     <div class="col-lg-6 col-md-6">
                         <figure class="col-lg-4 text-center"><img src="https://placekitten.com/150/150" alt=""></figure>
                         <div class="col-lg-8">
-                            <h3 class="">Dica</h3>
-                            <p class="">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusantium quia aspernatur non sint nihil, architecto minus, aperiam provident saepe.</p>
+                            <h3 class="">Revisar</h3>
+                            <p class="">Revise os conteúdos vistos durante a semana;</p>
                         </div>
                     </div>
 
                     <div class="col-lg-6 col-md-6">
                         <figure class="col-lg-4 text-center"><img src="https://placekitten.com/150/150" alt=""></figure>
                         <div class="col-lg-8">
-                            <h3 class="">Dica</h3>
-                            <p class="">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusantium quia aspernatur non sint nihil, architecto minus, aperiam provident saepe.</p>
+                            <h3 class="">Cursos</h3>
+                            <p class="">Cursos: procure cursos relacionados ao concurso em que você se inscreveu.</p>
                         </div>
                     </div>
                 </div>

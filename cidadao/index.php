@@ -59,8 +59,8 @@
                             <li class="concursos"><a href="#">Processo Seletivo Simplificado Para Contratação De Auxiliar de Classe</a></li>
                             <li class="concursos"><a href="#">Processo Seletivo Para Contratação de Dentista, Farmacêutico e Enfermeiro</a></li>
                             <li class="concursos"><a href="#">Processo Seletivo Simplificado para Contratação por Tempo Determinado</a></li>
-                            <li class="concursos"><a href="#">Processo seletivo 1</a></li>
-                            <li class="concursos"><a href="#">Processo seletivo 1</a></li>
+                            <li class="concursos"><a href="#">Processo Seletivo Para Cuidador</a></li>
+                            <li class="concursos"><a href="#">Concurso Público Para Agente Comunitário de Saúde</a></li>
                         </ul>
                           <a class="btn btn-primary text-right" href="#">Ver mais</a>
                         
@@ -131,7 +131,7 @@
                 <form class="row" action="post">
                     <label>Para receber notícias de vagas</label>
                     <input class="form-control" type="text" placeholder="Nome">
-                    <input class="form-control" type="password" placeholder="Senha">
+                    <input class="form-control" type="email" placeholder="Email">
                     <button class="btn btn-primary">Enviar</button>
                 </form>
 

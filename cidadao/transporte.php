@@ -26,60 +26,60 @@
                 <h1 class="col-12">Trânsito</h1>
                 <section class="card col-lg-4 col-md-12 col-sm-12">
                     <div class="row">
-                        <figure class="col-lg-12 col-md-4 text-center"><img src="https://placekitten.com/150/150" alt=""></figure>
+                        <figure class="col-lg-12 col-md-4 text-center"><img src="../imgs/cidadao/cidadao_caminhao_.jpg" alt=""></figure>
                         <div class="col-lg-12 col-md-8">
                             <h2>Notícia</h2>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, maxime, vero vel sed, iure quidem quaerat beatae velit deleniti praesentium voluptatum sit esse incidunt vitae nobis facere iusto architecto fugit.</p>
+                            <p>Caminhão quebra eixo dianteiro ao cair em bueiro em via de São Roque;</p>
                             <a type="button" class="btn btn-primary" href="#">Ver mais</a>
                         </div>
                     </div>
                 </section>
                 <section class="card col-lg-4 col-md-12 col-sm-12">
                     <div class="row">
-                        <figure class="col-lg-12 col-md-4 text-center"><img src="https://placekitten.com/150/150" alt=""></figure>
+                        <figure class="col-lg-12 col-md-4 text-center"><img src="../imgs/cidadao/cidadao_castelo_.jpg" alt=""></figure>
                         <div class="col-lg-12 col-md-8">
                             <h2>Notícia</h2>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, maxime, vero vel sed, iure quidem quaerat beatae velit deleniti praesentium voluptatum sit esse incidunt vitae nobis facere iusto architecto fugit.</p>
+                            <p>Castello e Raposo Tavares; CCR informa cobrança de tarifa no pedágio sobre todos os eixos;</p>
                             <a type="button" class="btn btn-primary" href="#">Ver mais</a>
                         </div>
                     </div>
                 </section>
                 <section class="card col-lg-4 col-md-12 col-sm-12">
                     <div class="row">
-                        <figure class="col-lg-12 col-md-4 text-center"><img src="https://placekitten.com/150/150" alt=""></figure>
+                        <figure class="col-lg-12 col-md-4 text-center"><img src="../imgs/cidadao/cidadao_lint_.jpeg" alt=""></figure>
                         <div class="col-lg-12 col-md-8">
                             <h2>Notícia</h2>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, maxime, vero vel sed, iure quidem quaerat beatae velit deleniti praesentium voluptatum sit esse incidunt vitae nobis facere iusto architecto fugit.</p>
+                            <p>Aplicativo de transporte Liint garante economia para passageiros de São Roque e região;</p>
                             <a type="button" class="btn btn-primary" href="#">Ver mais</a>
                         </div>
                     </div>
                 </section>
                 <section class="card col-lg-4 col-md-12 col-sm-12">
                     <div class="row">
-                        <figure class="col-lg-12 col-md-4 text-center"><img src="https://placekitten.com/150/150" alt=""></figure>
+                        <figure class="col-lg-12 col-md-4 text-center"><img src="../imgs/cidadao/cidadao_carros_.jpg" alt=""></figure>
                         <div class="col-lg-12 col-md-8">
                             <h2>Notícia</h2>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, maxime, vero vel sed, iure quidem quaerat beatae velit deleniti praesentium voluptatum sit esse incidunt vitae nobis facere iusto architecto fugit.</p>
+                            <p>Prefeitura de São Roque faz alerta para população denunciar veículos abandonados nas ruas;</p>
                             <a type="button" class="btn btn-primary" href="#">Ver mais</a>
                         </div>
                     </div>
                 </section>
                 <section class="card col-lg-4 col-md-12 col-sm-12">
                     <div class="row">
-                        <figure class="col-lg-12 col-md-4 text-center"><img src="https://placekitten.com/150/150" alt=""></figure>
+                        <figure class="col-lg-12 col-md-4 text-center"><img src="../imgs/cidadao/cidadao_obras_.jpg" alt=""></figure>
                         <div class="col-lg-12 col-md-8">
                             <h2>Notícia</h2>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, maxime, vero vel sed, iure quidem quaerat beatae velit deleniti praesentium voluptatum sit esse incidunt vitae nobis facere iusto architecto fugit.</p>
+                            <p>Obras: Motoristas reclamam de desvio e falta de apoio no trecho de Alumínio na Raposo Tavares;</p>
                             <a type="button" class="btn btn-primary" href="#">Ver mais</a>
                         </div>
                     </div>
                 </section>
                 <section class="card col-lg-4 col-md-12 col-sm-12">
                     <div class="row">
-                        <figure class="col-lg-12 col-md-4 text-center"><img src="https://placekitten.com/150/150" alt=""></figure>
+                        <figure class="col-lg-12 col-md-4 text-center"><img src="../imgs/cidadao/cidadao_linha_.jpg" alt=""></figure>
                         <div class="col-lg-12 col-md-8">
                             <h2>Notícia</h2>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, maxime, vero vel sed, iure quidem quaerat beatae velit deleniti praesentium voluptatum sit esse incidunt vitae nobis facere iusto architecto fugit.</p>
+                            <p>Linha que liga Ibiúna a Piedade volta a funcionar com cinco horários de saída em cada cidade.</p>
                             <a type="button" class="btn btn-primary" href="#">Ver mais</a>
                         </div>
                     </div>
