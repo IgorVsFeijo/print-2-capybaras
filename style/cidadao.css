@@ -54,7 +54,7 @@
     background-color: #1d2f6f;
     color: white;
     border-radius: 10px;
-    padding: 20px;
+    padding: 25px;
     margin: 15px 0px;
 }
 
@@ -117,11 +117,15 @@
 
 .cidadao_calendario caption{
     background-color: #ff9a0d;
-    width: auto;
+    caption-side: top;
 }
 
 .cidadao_calendario th{
     color: #ff9a0d;
+}
+
+.cidadao_mes th{
+    color: #10246b;
 }
 /*Fim Home CIDADAO */
 
@@ -133,5 +137,38 @@
 
 /*Fim Concurso CIDADAO */
 
+/*Início Saúde CIDADAO */
+
+.cidadao_botao a{
+    background-color: #1d2f6f;
+    color: white;
+    text-decoration: none;
+    padding: 10px 10px;
+    border-radius: 10px;
+}
+
+.saude .cidadao_card{
+    background-color: #00A6A6;
+}
+
+.cidadao_cartilha{
+    padding: 20px 20px 0px 25px;
+}
+
+.cidadao_cartilha caption{
+    caption-side: top;
+}
+
+.cidadao_cartilha table, .cidadao_cartilha td, .cidadao_cartilha tr{
+    border: white solid 1px;
+    border-radius: 10px;
+    background-color: #10246b;
+    color: white;
+    padding: 10px;
+}
+
+/*Fim Saúde CIDADAO */
+
+/*Início Serviços CIDADAO */
 
 /* FIM CSS AREA CIDADAO */

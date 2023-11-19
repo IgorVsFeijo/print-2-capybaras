@@ -9,6 +9,7 @@
     <?php
         include '../includes/inc_head_links.php';
       ?>
+      <link rel="stylesheet" href="../style/cidadao.css">
 
 </head>
 <body>
@@ -22,21 +23,21 @@
 
     <!-- Fim Header -->
     <div class="container">
-        <main>
-            <h1>Saúde</h1>
+        <main class="cidadao saude">
+            <h1 class="text-center">Saúde</h1>
             <p>A prefeitura de São Roque valoriza profundamente o bem-estar de nossos cidadãos. Sendo assim estamos comprometidos em fornecer serviços de saúde de alta qualidade. Nesta seção você encontra informações sobre nossos serviços de saúde.</p>
 
-            <section class="row text-center">
-                <h2>botões</h2>
-                <a class="col-lg-3 col-md-6 col-sm-12" href="#">Políticas de Saúde</a>
-                <a class="col-lg-3 col-md-6 col-sm-12" href="#">Formulários e Documentos</a>
-                <a class="col-lg-3 col-md-6 col-sm-12" href="#">Agendamento de consultas</a>
-                <a class="col-lg-3 col-md-6 col-sm-12" href="#">Boletins de Saúde</a>
+            <section class="row text-center justify-content-between cidadao_botao">
+                <h2 class="none">botões</h2>
+                <a class="col-lg-2 col-md-6 col-sm-12 d-flex flex-column" href="#"><i class="bi bi-hospital"></i>Políticas de Saúde</a>
+                <a class="col-lg-2 col-md-6 col-sm-12 d-flex flex-column" href="#"><i class="bi bi-ui-checks"></i>Formulários e Documentos</a>
+                <a class="col-lg-2 col-md-6 col-sm-12 d-flex flex-column" href="#"><i class="bi bi-journal-bookmark"></i>Agendamento de consultas</a>
+                <a class="col-lg-2 col-md-6 col-sm-12 d-flex flex-column" href="#"><i class="bi bi-bar-chart-line"></i>Boletins de Saúde</a>
             </section>
 
-            <section class="row text-center">
-                <h2>Extras</h2>
-                <article class="col-lg-4 col-md-8 col-12">
+            <section class="row">
+                <h2 class="none">Extras</h2>
+                <article class="col-lg-4 col-md-8 col-12 cidadao_card">
                     <h3>Unidades de saúde</h3>
                     <ul>
                         <li>PS Goianã</li>
@@ -51,11 +52,12 @@
                     </ul>
                 </article>
 
-                <aside class="col-lg-8 col-md-12 col-sm-12">
-                    <h3>Cartilha do Uso Correto de Medicamentos</h3>
+                <aside class="col-lg-8 col-md-12 col-sm-12 cidadao_cartilha">
+                    <h3 class="text-center">Cartilha do Uso Correto de Medicamentos</h3>
                     <p>É relevante entender a importância do uso consciente de medicamentos. Mesmo que os medicamentos tenham um papel fundamental no seu tratamento, é essencial entender a utilização apropriada para garantir segurança e eficácia.</p>
                     
                     <table class="table">
+                        <caption class="text-center">Problemas com medicamentos</caption>
                         <tr>
                             <td>ácido acetilsalicílico</td>
                             <td>bebidas alcoólicas</td>
@@ -80,14 +82,14 @@
                 </aside>
             </section>
             <section class="row">
-                <h3>Campanhas de Vacinação</h3>
+                <h3 class="text-center">Campanhas de Vacinação</h3>
                 <article class="col-lg-6 col-md-6 col-sm-12">
                     <div class="row">
                         <figure class="col-lg-4 col-md- text-center"><img src="../imgs/cidadao/cidadao_vacinahpv_.jpg" alt=""></figure>
                         <div class="col-lg-8">
                             <h4>Campanha de vacinação contra o HPV:</h4>
                             <p>Procure a UBS mais próxima;</p>
-                            <a class="btn btn-primary" href="#">Ver mais</a>
+                            <a class="btn btn-vermais" href="#">Ver mais</a>
                         </div>
                     </div>
                 </article>
@@ -98,7 +100,7 @@
                             <h4>Campanha de vacinação contra Influenza:</h4>
                             <p>Procure a UBS mais próxima;</p>
 
-                            <a class="btn btn-primary" href="#">Ver mais</a>
+                            <a class="btn btn-vermais" href="#">Ver mais</a>
                         </div>
                     </div>
                 </article>

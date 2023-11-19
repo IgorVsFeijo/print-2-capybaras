@@ -139,7 +139,7 @@
 
                 <table class="table text-center cidadao_calendario sombra">
                     <caption class="text-center">Calendário Escolar</caption>
-                    <tr>
+                    <tr class="cidadao_mes">
                         <th class="text-center" colspan="7">NOVEMBRO</th>
                     </tr>
                     <tr>
