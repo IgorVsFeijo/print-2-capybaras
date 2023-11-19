@@ -21,31 +21,31 @@
     <!-- Fim Header -->
 
     <div class="container">
-        <main class="row">
+        <main class="row cidadao">
             <article class="col-lg-8 col-md-6 col-sm-12">
-                <h1>Cidadão</h1>
+                <h1 class="text-center">Cidadão</h1>
                 <p>A prefeitura de São Roque acredita que a ativa participação de seus cidadão é essencial para a construção de uma cidade mais inclusiva, segura e forte, por isso a área “Cidadão” é dedicada a você, cidadão de São Roque. Aqui você terá acesso a serviços, notícias e informações que possibilitem sua participação ativa no nosso município.</p>
                 <section class="row">
-                    <h2>Empregabilidade</h2>
+                    <h2 class="text-center">Empregabilidade</h2>
                     <section class="col-lg-12 col-md-12 col-sm-12">
-                        <div class="row">
+                        <div class="row cidadao_noticias">
                             <figure class="col-lg-4 text-center">
                                 <img src="https://placekitten.com/150/150" alt="">
                             </figure>
                             <div class="col-lg-8">
                                 <h3>Oportunidade de emprego</h3>
                                 <p>Empresa de São Roque contrata Ajudante Geral; veja como se candidatar</p>
-                                <a type="button" class="btn btn-primary" href="#">Ver mais</a>
+                                <a type="button" class="btn btn-vermais" href="#">Ver mais</a>
                             </div>
                         </div>
-                        <div class="row">
+                        <div class="row cidadao_noticias">
                             <figure class="col-lg-4 text-center">
                                 <img src="https://placekitten.com/150/150" alt="">
                             </figure>
                             <div class="col-lg-8">
                                 <h3>Oportunidade de emprego</h3>
                                 <p>Fatec São Roque tem processo seletivo para uma vaga de professor no ensino superior; confira</p>
-                                <a type="button" class="btn btn-primary" href="#">Ver mais</a>
+                                <a type="button" class="btn btn-vermais" href="#">Ver mais</a>
                             </div>
                         </div>
                         
@@ -53,38 +53,39 @@
                 </section>
 
                 <section class="row">
-                    <h2>Concursos e Processos Seletivos</h2>
-                    <div>
+                    <h2 class="text-center">Concursos e Processos Seletivos</h2>
+                    <div class="cidadao_concursos">
                         <ul>
-                            <li class="concursos"><a href="#">Processo Seletivo Simplificado Para Contratação De Auxiliar de Classe</a></li>
-                            <li class="concursos"><a href="#">Processo Seletivo Para Contratação de Dentista, Farmacêutico e Enfermeiro</a></li>
-                            <li class="concursos"><a href="#">Processo Seletivo Simplificado para Contratação por Tempo Determinado</a></li>
-                            <li class="concursos"><a href="#">Processo Seletivo Para Cuidador</a></li>
-                            <li class="concursos"><a href="#">Concurso Público Para Agente Comunitário de Saúde</a></li>
+                            <li><a href="#">Processo Seletivo Simplificado Para Contratação De Auxiliar de Classe</a></li>
+                            <li><a href="#">Processo Seletivo Para Contratação de Dentista, Farmacêutico e Enfermeiro</a></li>
+                            <li><a href="#">Processo Seletivo Simplificado para Contratação por Tempo Determinado</a></li>
+                            <li><a href="#">Processo Seletivo Para Cuidador</a></li>
+                            <li><a href="#">Concurso Público Para Agente Comunitário de Saúde</a></li>
                         </ul>
-                          <a class="btn btn-primary text-right" href="#">Ver mais</a>
-                        
+                        <div class="d-flex justify-content-end"">
+                            <a class="btn btn-vermais" href="#">Ver mais</a>
+                        </div>
                     </div>
                     
     
                 </section>
 
                 <section class="row">
-                    <h3>Saúde</h3>
+                    <h3 class="text-center">Saúde</h3>
                     <article class="col-lg-12 col-md-12 col-sm-12">
                         <div class="row">
                             <figure class="col-lg-4 text-center"><img src="https://placekitten.com/150/150" alt=""></figure>
                             <div class="col-lg-8">
                                 <h4>Campanha de vacinação contra Influenza</h4>
                                 <p>Procure a UBS mais próxima</p>
-                                <a type="button" class="btn btn-primary" href="#">Ver mais</a>
+                                <a type="button" class="btn btn-vermais" href="#">Ver mais</a>
                             </div>
                         </div>
                     </article>
                 </section>
             </article>
             <aside class="col-lg-4 col-md-6 col-sm-12">
-                <section>
+                <section class="cidadao_card">
                     <h3>Mais Acessados</h3>
                     <ul>
                         <li><a href="../empresa/iptu.php">IPTU</a></li>
@@ -96,15 +97,15 @@
                 </section>
 
                 <section>
-                    <h3>Botões</h3>
-                    <div class="row text-center">
-                        <a href="#"><img src="#" alt="">Multas</a>
-                        <a href="#"><img src="#" alt="">2° via CNH</a>
-                        <a href="#"><img src="#" alt="">Contatos de emergência</a>
+                    <h3 class="none">Botões</h3>
+                    <div class="row text-center justify-content-center cidadao_botoes">
+                        <a href="#" class="d-flex flex-column"><i class="bi bi-cash-stack"></i>Multas</a>
+                        <a href="#" class="d-flex flex-column"><i class="bi bi-people-fill"></i>2° via CNH</a>
+                        <a href="#" class="d-flex flex-column"><i class="bi bi-telephone-fill"></i>Contatos de emergência</a>
                     </div>
                 </section>
 
-                <section class="col-12">
+                <section class="col-12 cidadao_card">
                     <h3>Outras áreas</h3>
                     <ul>
                         <li><a href="../cidade/index.php">Cidade</a></li>
@@ -115,7 +116,7 @@
                     </ul>
                 </section>
 
-                <section class="col-12">
+                <section class="col-12 cidadao_card">
                     <h3>Unidades de saúde</h3>
                     <ul class="row">
                         <li class="col-6"><a href="https://maps.app.goo.gl/PXSkHLNZSr8ChbyEA">PS Goianã</a></li>
@@ -124,71 +125,74 @@
                         <li class="col-6"><a href="https://maps.app.goo.gl/arwkNt6oGCdiMFzh9">UBS Taboão</a></li>
                         <li class="col-6"><a href="https://maps.app.goo.gl/GngCUJZy2m1dpkrB6">PS Vila Nova</a></li>
                         <li class="col-6"><a href="https://maps.app.goo.gl/Vr97ieYDFkAnLy4K6">PS Saboó</a></li>
-
                     </ul>
                 </section>
 
-                <form class="row" action="post">
-                    <label>Para receber notícias de vagas</label>
+                <form class="row cidadao_form" action="post">
+                    <label class="text-cented">Para receber notícias de vagas</label>
                     <input class="form-control" type="text" placeholder="Nome">
                     <input class="form-control" type="email" placeholder="Email">
-                    <button class="btn btn-primary">Enviar</button>
+                    <button class="btn btn-vermais">Enviar</button>
                 </form>
 
-                <table class="table">
+                <table class="table text-center cidadao_calendario sombra">
+                    <caption class="text-center">Calendário Escolar</caption>
                     <tr>
-                        <th>dom</th>
-                        <th>seg</th>
-                        <th>ter</th>
-                        <th>qua</th>
-                        <th>qui</th>
-                        <th>sex</th>
-                        <th>sáb</th>
+                        <th class="text-center" colspan="7">NOVEMBRO</th>
                     </tr>
                     <tr>
-                        <th></th>
-                        <th></th>
-                        <th></th>
-                        <th>1</th>
-                        <th>2</th>
-                        <th>3</th>
-                        <th>4</th>
+                        <th class="text-center">dom</th>
+                        <th class="text-center">seg</th>
+                        <th class="text-center">ter</th>
+                        <th class="text-center">qua</th>
+                        <th class="text-center">qui</th>
+                        <th class="text-center">sex</th>
+                        <th class="text-center">sáb</th>
                     </tr>
                     <tr>
-                        <th>5</th>
-                        <th>6</th>
-                        <th>7</th>
-                        <th>8</th>
-                        <th>9</th>
-                        <th>10</th>
-                        <th>11</th>
+                        <td class="text-center"></td>
+                        <td class="text-center"></td>
+                        <td class="text-center"></td>
+                        <td class="text-center">1</td>
+                        <td class="text-center">2</td>
+                        <td class="text-center">3</td>
+                        <td class="text-center">4</td>
                     </tr>
                     <tr>
-                        <th>12</th>
-                        <th>13</th>
-                        <th>14</th>
-                        <th>15</th>
-                        <th>16</th>
-                        <th>17</th>
-                        <th>18</th>
+                        <td class="text-center">5</td>
+                        <td class="text-center">6</td>
+                        <td class="text-center">7</td>
+                        <td class="text-center">8</td>
+                        <td class="text-center">9</td>
+                        <td class="text-center">10</td>
+                        <td class="text-center">11</td>
                     </tr>
                     <tr>
-                        <th>19</th>
-                        <th>20</th>
-                        <th>21</th>
-                        <th>22</th>
-                        <th>23</th>
-                        <th>24</th>
-                        <th>25</th>
+                        <td class="text-center">12</td>
+                        <td class="text-center">13</td>
+                        <td class="text-center">14</td>
+                        <td class="text-center">15</td>
+                        <td class="text-center">16</td>
+                        <td class="text-center">17</td>
+                        <td class="text-center">18</td>
                     </tr>
                     <tr>
-                        <th>26</th>
-                        <th>27</th>
-                        <th>28</th>
-                        <th>29</th>
-                        <th>30</th>
-                        <th></th>
-                        <th></th>
+                        <td class="text-center">19</td>
+                        <td class="text-center">20</td>
+                        <td class="text-center">21</td>
+                        <td class="text-center">22</td>
+                        <td class="text-center">23</td>
+                        <td class="text-center">24</td>
+                        <td class="text-center">25</td>
+                    </tr>
+                    <tr>
+                        <td class="text-center">26</td>
+                        <td class="text-center">27</td>
+                        <td class="text-center">28</td>
+                        <td class="text-center">29</td>
+                        <td class="text-center">30</td>
+                        <td class="text-center"></td>
+                        <td class="text-center"></td>
                     </tr>
                 </table>
             </aside>
