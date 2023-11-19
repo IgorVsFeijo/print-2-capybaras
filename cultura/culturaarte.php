@@ -54,7 +54,7 @@
                           <figure>
                               <img src="../imgs/cultura/capelasantoantônio.jpg" alt="foto do monumento">
                           </figure>
-                          <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Qui pariatur repellat eaque non maxime nostrum voluptate delectus! Totam, doloribus quos cumque tempore quia, eligendi ipsa, architecto impedit soluta ea vel. Lorem, ipsum dolor sit amet consectetur adipisicing elit. At possimus ad quam ipsum pariatur molestias veniam nulla hic? Vitae fugiat dicta quae id incidunt quasi suscipit similique, corrupti ipsam ad.</p>
+                          <p>Construída em 1681 por Fernão Paes de Barros, o local é um dos Sítios Bandeiristas presentes no país durante o período escravista. Posteriormente, no início do século XX, em uma excursão na companhia de Mario de Andrade, Paulo Duarte notou o estado abandonado e decrépito e, através de uma coletânea de artigos, alertou o povo e o governo para o descaso com o local. Desde então, a Capela vem passando por uma restauração. O Sítio Santo Antônio serve como uma ponte para se entender os conceitos, preconceitos e hábitos da época no qual foi construído.</p>
                       </section>
                     </div>
                     <div class="row col-12">
@@ -81,7 +81,7 @@
                         <figure>
                             <img src="../imgs/cultura/coletivoentrenos.jpg" alt="foto do grupo">
                         </figure>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime expedita accusantium facere ea maiores facilis, consequatur explicabo. Enim corporis a dicta consectetur ducimus, dolorum inventore deserunt tempore esse, aspernatur consequuntur.</p>
+                        <p>Sendo um núcleo/subdivisão do Coletivo Narciso – existente desde 2010 -, o Coletivo Entre Nós é focado em abordagens sobre a memória e histórias locais e realizou inúmeras apresentações, tanto em São Roque quanto em outras cidades. Entendendo a necessidade de levar arte e fazer arte para todos, o coletivo trabalha para levar a cultura para todos os cantos.</p>
                     </section>
                     <section class="col-md-6 col-lg-4">
                         <h3>Coletivo Entre Nós</h3>

@@ -311,3 +311,9 @@ footer i.btn{
 .dúvida{
     background-color: rgb(197, 196, 195);
 }
+
+/*Home - Cultura */
+
+#cultura .noticias_cultura{
+    border: 2px solid;
+}

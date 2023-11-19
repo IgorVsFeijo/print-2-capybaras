@@ -20,15 +20,15 @@
       ?>
 
     <!-- Fim Header -->
-    <div class="text-center">
-        <main>
+    <div class="container text-center">
+        <main id="cultura">
             <figure>
                 <img class="img-fluid" src="../imgs/cultura/saoroque.jpg" alt="imagem inicial da página">
             </figure>
             <article>
                 <h2>Cidade de Cultura</h2>
                 <p>Fonte de renda fundamental para a nossa cidade e um de nossos maiores orgulhos, a cidade de São Roque conta com uma série única de atividades, lugares e eventos tradicionais-culturais. Não apenas ajudando no crescimento financeiro, mas colocando a nossa cidade no mapa de São Paulo como uma das principais produtoras de vinho do estado.</p>
-                <div class="row col-12">
+                <div class="row col-12 noticias_cultura">
                     <h2>Notícias</h2>
                     <div class="col-md-6 col-lg-4">
                         <section class="notícia_mobile">
