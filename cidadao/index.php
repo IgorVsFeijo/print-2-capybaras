@@ -37,7 +37,7 @@
                             <div class="col-lg-8">
                                 <h3>Oportunidade de emprego</h3>
                                 <p>Empresa de São Roque contrata Ajudante Geral; veja como se candidatar</p>
-                                <a type="button" class="btn btn-vermais" href="#">Ver mais</a>
+                                <a class="btn btn-vermais" href="#">Ver mais</a>
                             </div>
                         </div>
                         <div class="row cidadao_noticias">
@@ -47,7 +47,7 @@
                             <div class="col-lg-8">
                                 <h3>Oportunidade de emprego</h3>
                                 <p>Fatec São Roque tem processo seletivo para uma vaga de professor no ensino superior; confira</p>
-                                <a type="button" class="btn btn-vermais" href="#">Ver mais</a>
+                                <a class="btn btn-vermais" href="#">Ver mais</a>
                             </div>
                         </div>
                         
@@ -64,7 +64,7 @@
                             <li><a href="#">Processo Seletivo Para Cuidador</a></li>
                             <li><a href="#">Concurso Público Para Agente Comunitário de Saúde</a></li>
                         </ul>
-                        <div class="d-flex justify-content-end"">
+                        <div class="d-flex justify-content-end">
                             <a class="btn btn-vermais" href="#">Ver mais</a>
                         </div>
                     </div>
@@ -80,7 +80,7 @@
                             <div class="col-lg-8">
                                 <h4>Campanha de vacinação contra Influenza</h4>
                                 <p>Procure a UBS mais próxima</p>
-                                <a type="button" class="btn btn-vermais" href="#">Ver mais</a>
+                                <a class="btn btn-vermais" href="#">Ver mais</a>
                             </div>
                         </div>
                     </article>

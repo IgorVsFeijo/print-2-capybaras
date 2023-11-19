@@ -10,6 +10,8 @@
         include '../includes/inc_head_links.php';
       ?>
 
+    <link rel="stylesheet" href="../style/cidadao.css">
+
 </head>
 <body>
     <!-- Inicio Header -->
@@ -20,67 +22,67 @@
 
     <!-- Fim Header -->
 
-    <div class="container">
+    <div class="container ">
         <main>
-            <article class="row">
+            <article class="row gx-5 gy-5">
                 <h1 class="col-12">Trânsito</h1>
-                <section class="card col-lg-4 col-md-12 col-sm-12">
+                <section class="col-lg-4 col-md-12 col-sm-12 sombra cidadao_noticia">
                     <div class="row">
                         <figure class="col-lg-12 col-md-4 text-center"><img src="../imgs/cidadao/cidadao_caminhao_.jpg" alt=""></figure>
                         <div class="col-lg-12 col-md-8">
                             <h2>Notícia</h2>
                             <p>Caminhão quebra eixo dianteiro ao cair em bueiro em via de São Roque;</p>
-                            <a type="button" class="btn btn-primary" href="#">Ver mais</a>
+                            <a type="button" class="btn btn-vermais" href="#">Ver mais</a>
                         </div>
                     </div>
                 </section>
-                <section class="card col-lg-4 col-md-12 col-sm-12">
+                <section class="col-lg-4 col-md-12 col-sm-12 sombra cidadao_noticia">
                     <div class="row">
                         <figure class="col-lg-12 col-md-4 text-center"><img src="../imgs/cidadao/cidadao_castelo_.jpg" alt=""></figure>
                         <div class="col-lg-12 col-md-8">
                             <h2>Notícia</h2>
                             <p>Castello e Raposo Tavares; CCR informa cobrança de tarifa no pedágio sobre todos os eixos;</p>
-                            <a type="button" class="btn btn-primary" href="#">Ver mais</a>
+                            <a type="button" class="btn btn-vermais" href="#">Ver mais</a>
                         </div>
                     </div>
                 </section>
-                <section class="card col-lg-4 col-md-12 col-sm-12">
+                <section class="col-lg-4 col-md-12 col-sm-12 sombra cidadao_noticia">
                     <div class="row">
                         <figure class="col-lg-12 col-md-4 text-center"><img src="../imgs/cidadao/cidadao_lint_.jpeg" alt=""></figure>
                         <div class="col-lg-12 col-md-8">
                             <h2>Notícia</h2>
                             <p>Aplicativo de transporte Liint garante economia para passageiros de São Roque e região;</p>
-                            <a type="button" class="btn btn-primary" href="#">Ver mais</a>
+                            <a type="button" class="btn btn-vermais" href="#">Ver mais</a>
                         </div>
                     </div>
                 </section>
-                <section class="card col-lg-4 col-md-12 col-sm-12">
+                <section class="col-lg-4 col-md-12 col-sm-12 sombra cidadao_noticia">
                     <div class="row">
                         <figure class="col-lg-12 col-md-4 text-center"><img src="../imgs/cidadao/cidadao_carros_.jpg" alt=""></figure>
                         <div class="col-lg-12 col-md-8">
                             <h2>Notícia</h2>
                             <p>Prefeitura de São Roque faz alerta para população denunciar veículos abandonados nas ruas;</p>
-                            <a type="button" class="btn btn-primary" href="#">Ver mais</a>
+                            <a type="button" class="btn btn-vermais" href="#">Ver mais</a>
                         </div>
                     </div>
                 </section>
-                <section class="card col-lg-4 col-md-12 col-sm-12">
+                <section class="col-lg-4 col-md-12 col-sm-12 sombra cidadao_noticia">
                     <div class="row">
                         <figure class="col-lg-12 col-md-4 text-center"><img src="../imgs/cidadao/cidadao_obras_.jpg" alt=""></figure>
                         <div class="col-lg-12 col-md-8">
                             <h2>Notícia</h2>
                             <p>Obras: Motoristas reclamam de desvio e falta de apoio no trecho de Alumínio na Raposo Tavares;</p>
-                            <a type="button" class="btn btn-primary" href="#">Ver mais</a>
+                            <a type="button" class="btn btn-vermais" href="#">Ver mais</a>
                         </div>
                     </div>
                 </section>
-                <section class="card col-lg-4 col-md-12 col-sm-12">
+                <section class="col-lg-4 col-md-12 col-sm-12 sombra cidadao_noticia">
                     <div class="row">
                         <figure class="col-lg-12 col-md-4 text-center"><img src="../imgs/cidadao/cidadao_linha_.jpg" alt=""></figure>
                         <div class="col-lg-12 col-md-8">
                             <h2>Notícia</h2>
                             <p>Linha que liga Ibiúna a Piedade volta a funcionar com cinco horários de saída em cada cidade.</p>
-                            <a type="button" class="btn btn-primary" href="#">Ver mais</a>
+                            <a type="button" class="btn btn-vermais" href="#">Ver mais</a>
                         </div>
                     </div>
                 </section>
@@ -90,7 +92,7 @@
             <section class="row">
                 <div class="col-lg-8 col-md-6">
                     <h2>Departamento de trânsito</h2>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore voluptate veritatis alias ipsum voluptatem non quo exercitationem dicta fuga asperiores atque harum accusamus dolore vitae, beatae laboriosam error praesentium et.</p>
+                    <p>O departamento de trânsito tem como objetivo a promoção de educação no trânsito, planejar e pôr em prática ações que visem a conscientização dos motoristas e pedestres, além de fiscalizar e autuar multas. Conta com unidades de atendimento em todos os municípios do estado.</p>
                     <figure>
                         <img src="https://placekitten.com/25/25" alt="">
                     </figure>
@@ -99,11 +101,11 @@
                 
 
                 <aside class="col-lg-4 col-md-6">
-                    <h3>Botões</h3>
-                    <div class="row text-center">
-                        <a href="#"><img src="#" alt="">Multas</a>
-                        <a href="#"><img src="#" alt="">2° via CNH</a>
-                        <a href="#"><img src="#" alt="">Contatos de emergência</a>
+                    <h3 class="none">Botões</h3>
+                    <div class="row text-center justify-content-center cidadao_botoes">
+                        <a href="#" class="d-flex flex-column"><i class="bi bi-cash-stack"></i>Multas</a>
+                        <a href="#" class="d-flex flex-column"><i class="bi bi-people-fill"></i>2° via CNH</a>
+                        <a href="#" class="d-flex flex-column"><i class="bi bi-telephone-fill"></i>Contatos de emergência</a>
                     </div>
                 </aside>
             </section>
@@ -111,28 +113,28 @@
             <section>
         <h1>Horários de ônibus</h1>
         <div class="row row-gap-1 justify-content-around">
-            <a class="btn btn-primary col-lg-3 col-md-4 col-sm-12" data-bs-toggle="collapse" href="#Paisagem" role="button" aria-expanded="false" aria-controls="Paisagem">
+            <a class="btn btn-vermais col-lg-3 col-md-4 col-sm-12" data-bs-toggle="collapse" href="#Paisagem" role="button" aria-expanded="false" aria-controls="Paisagem">
                 Paisagem Colonial
             </a>
-            <a class="btn btn-primary col-lg-3 col-md-4 col-sm-12" data-bs-toggle="collapse" href="#Santo" role="button" aria-expanded="false" aria-controls="Santo">
+            <a class="btn btn-vermais col-lg-3 col-md-4 col-sm-12" data-bs-toggle="collapse" href="#Santo" role="button" aria-expanded="false" aria-controls="Santo">
                 Santo Antônio
             </a>
-            <a class="btn btn-primary col-lg-3 col-md-4 col-sm-12" data-bs-toggle="collapse" href="#Canguera" role="button" aria-expanded="false" aria-controls="Canguera">
+            <a class="btn btn-vermais col-lg-3 col-md-4 col-sm-12" data-bs-toggle="collapse" href="#Canguera" role="button" aria-expanded="false" aria-controls="Canguera">
                 Canguera
             </a>
-            <a class="btn btn-primary col-lg-3 col-md-4 col-sm-12" data-bs-toggle="collapse" href="#Mailasqui" role="button" aria-expanded="false" aria-controls="Mailasqui">
+            <a class="btn btn-vermais col-lg-3 col-md-4 col-sm-12" data-bs-toggle="collapse" href="#Mailasqui" role="button" aria-expanded="false" aria-controls="Mailasqui">
                 Mailasqui
             </a>
-            <a class="btn btn-primary col-lg-3 col-md-4 col-sm-12" data-bs-toggle="collapse" href="#Guacu" role="button" aria-expanded="false" aria-controls="Guacu">
+            <a class="btn btn-vermais col-lg-3 col-md-4 col-sm-12" data-bs-toggle="collapse" href="#Guacu" role="button" aria-expanded="false" aria-controls="Guacu">
                 Guaçu
             </a>
-            <a class="btn btn-primary col-lg-3 col-md-4 col-sm-12" data-bs-toggle="collapse" href="#Taboao" role="button" aria-expanded="false" aria-controls="Taboao">
+            <a class="btn btn-vermais col-lg-3 col-md-4 col-sm-12" data-bs-toggle="collapse" href="#Taboao" role="button" aria-expanded="false" aria-controls="Taboao">
                 Taboão
             </a>
-            <a class="btn btn-primary col-lg-3 col-md-6 col-sm-12" data-bs-toggle="collapse" href="#Suica" role="button" aria-expanded="false" aria-controls="Suica">
+            <a class="btn btn-vermais col-lg-3 col-md-6 col-sm-12" data-bs-toggle="collapse" href="#Suica" role="button" aria-expanded="false" aria-controls="Suica">
                 Suíça
             </a>
-            <a class="btn btn-primary col-lg-3 col-md-6 col-sm-12" data-bs-toggle="collapse" href="#Sao" role="button" aria-expanded="false" aria-controls="Sao">
+            <a class="btn btn-vermais col-lg-3 col-md-6 col-sm-12" data-bs-toggle="collapse" href="#Sao" role="button" aria-expanded="false" aria-controls="Sao">
                 São João Novo
             </a>
         </div>

@@ -10,6 +10,8 @@
         include '../includes/inc_head_links.php';
       ?>
 
+    <link rel="stylesheet" href="../style/cidadao.css">
+
 </head>
 <body>
     <!-- Inicio Header -->
@@ -21,14 +23,14 @@
     <!-- Fim Header -->
 
     <div class="container text-left">
-        <main>
+        <main class="cidadao">
             <article>
                 <h1 class="text-center"> Concursos Públicos e Processos Seletivos </h1>
                 <p>A prefeitura de São Roque  oferece Concursos Públicos para preenchimento de cargos públicos de provimento efetivo e Processos Seletivos que atendem às necessidades temporárias do município.</p>
 
-                <section class="row text-">
+                <section class="row">
                     <h2>Links</h2>
-                    <div class="col-lg-6 col-md-12 col-sm-12">
+                    <div class="col-lg-6 col-md-12 col-sm-12 cidadao_concursos">
                         <ul>
                             <li class="concursos"><a href="#">Processo Seletivo Simplificado Para Contratação De Auxiliar de Classe</a></li>
                             <li class="concursos"><a href="#">Processo Seletivo Para Contratação de Dentista, Farmacêutico e Enfermeiro</a></li>
@@ -37,7 +39,7 @@
                             <li class="concursos"><a href="#">Processo Seletivo Simplificado para Contratação por Tempo Determinado</a></li>
                         </ul>
                     </div>
-                    <div class="col-lg-6 col-md-12 col-sm-12">
+                    <div class="col-lg-6 col-md-12 col-sm-12 cidadao_concursos">
                         <ul>
                             <li class="concursos"><a href="#">Processo Seletivo Para Contratação de Terapeuta Ocupacional</a></li>
                             <li class="concursos"><a href="#">Concurso Público Para Técnico em Farmácia</a></li>

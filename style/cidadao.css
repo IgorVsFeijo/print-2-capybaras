@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /* INICIO CSS AREA CIDADAO */
 
-/* Home CIDADAO */
+/*Início Home CIDADAO */
 .btn-vermais{
     color: white;
     background-color: #FF9F1C;
@@ -19,7 +19,7 @@
 }
 
 .sombra{
-    box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 0px 3px 1px rgba(85, 85, 85, 0.2);
 }
 
 .cidadao section, .cidadao article, .cidadao aside{
@@ -123,5 +123,15 @@
 .cidadao_calendario th{
     color: #ff9a0d;
 }
+/*Fim Home CIDADAO */
+
+/*Início Concurso CIDADAO */
+
+.cidadao_noticia{
+    padding: 20px;
+}
+
+/*Fim Concurso CIDADAO */
+
 
 /* FIM CSS AREA CIDADAO */
