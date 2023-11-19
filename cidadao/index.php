@@ -10,6 +10,8 @@
         include '../includes/inc_head_links.php';
       ?>
 
+    <link rel="stylesheet" href="../style/cidadao.css">
+
 </head>
 <body>
     <!-- Inicio Header -->
