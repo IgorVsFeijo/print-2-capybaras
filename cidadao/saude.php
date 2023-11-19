@@ -35,7 +35,7 @@
                 <a class="col-lg-2 col-md-6 col-sm-12 d-flex flex-column" href="#"><i class="bi bi-bar-chart-line"></i>Boletins de Saúde</a>
             </section>
 
-            <section class="row">
+            <section class="row justify-content-center">
                 <h2 class="none">Extras</h2>
                 <article class="col-lg-4 col-md-8 col-12 cidadao_card">
                     <h3>Unidades de saúde</h3>
@@ -85,7 +85,7 @@
                 <h3 class="text-center">Campanhas de Vacinação</h3>
                 <article class="col-lg-6 col-md-6 col-sm-12">
                     <div class="row">
-                        <figure class="col-lg-4 col-md- text-center"><img src="../imgs/cidadao/cidadao_vacinahpv_.jpg" alt=""></figure>
+                        <figure class="col-lg-4 col-md- text-center"><img src="../imgs/cidadao/cidadao_vacinahpv_.jpg" alt="uma pessoa aplicando vacina no braço esquerdo de outra pessoa"></figure>
                         <div class="col-lg-8">
                             <h4>Campanha de vacinação contra o HPV:</h4>
                             <p>Procure a UBS mais próxima;</p>
@@ -95,7 +95,7 @@
                 </article>
                 <article class="col-lg-6 col-md-6 col-sm-12">
                     <div class="row">
-                        <figure class="col-lg-4 col-md- text-center"><img src="../imgs/cidadao/cidadao_vacina_.jpg" alt=""></figure>
+                        <figure class="col-lg-4 col-md- text-center"><img src="../imgs/cidadao/cidadao_vacina_.jpg" alt="uma pessoa de máscara aplicando vacina no braço esquerdo de outra pessoa"></figure>
                         <div class="col-lg-8">
                             <h4>Campanha de vacinação contra Influenza:</h4>
                             <p>Procure a UBS mais próxima;</p>

@@ -50,18 +50,18 @@
                     </div>
                 </section>
             </article>
-            <aside class="row">
-                <h2>Dicas para concurso</h2>
-                <section class="col-lg-6 col-md-12">
+            <aside class="row gx-5">
+                <h2 class="text-center">Dicas para concurso</h2>
+                <section class="col-lg-6 col-md-12 cidadao_dicas">
                     <div class="row">
-                        <figure class="col-lg-4 col-md-4 text-center"><img src="https://placekitten.com/150/150" alt=""></figure>
+                        <i class="bi bi-book-fill col-lg-4 text-center"></i>
                         <div class="col-lg-8 col-md-8">
                             <h3>Leia o edital</h3>
                             <p>Leia e preste atenção nas datas e como a prova é elaborada;</p>
                         </div>
                     </div>
                     <div class="row">
-                        <figure class="col-lg-4 col-md-4 text-center"><img src="https://placekitten.com/150/150" alt=""></figure>
+                        <i class="bi bi-ui-checks-grid col-lg-4 text-center"></i>
                         <div class="col-lg-8 col-md-8">
                             <h3>Cronograma</h3>
                             <p>Planeje seus estudos de acordo com as matérias que aparecem no edital;</p>
@@ -69,10 +69,10 @@
                     </div>
                 </section>
 
-                <section class="col-lg-6 col-md-12">
+                <section class="col-lg-6 col-md-12 cidadao_dicas">
                     <div class="row">
                     <div class="col-lg-6 col-md-6">
-                        <figure class="col-lg-4 text-center"><img src="https://placekitten.com/150/150" alt=""></figure>
+                        <i class="bi bi-pencil-square text-center"></i>
                         <div class="col-lg-8">
                             <h3 class="">Revisar</h3>
                             <p class="">Revise os conteúdos vistos durante a semana;</p>
@@ -80,7 +80,7 @@
                     </div>
 
                     <div class="col-lg-6 col-md-6">
-                        <figure class="col-lg-4 text-center"><img src="https://placekitten.com/150/150" alt=""></figure>
+                        <i class="bi bi-journal-bookmark text-center "></i>
                         <div class="col-lg-8">
                             <h3 class="">Cursos</h3>
                             <p class="">Cursos: procure cursos relacionados ao concurso em que você se inscreveu.</p>

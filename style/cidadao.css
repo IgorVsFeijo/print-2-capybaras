@@ -1,6 +1,10 @@
 @charset "UTF-8";
 /* INICIO CSS AREA CIDADAO */
 
+h1, h2, h3{
+    margin: 20px 0px;
+}
+
 /*Início Home CIDADAO */
 .btn-vermais{
     color: white;
@@ -20,6 +24,10 @@
 
 .sombra{
     box-shadow: 0px 0px 3px 1px rgba(85, 85, 85, 0.2);
+}
+
+.cidadao{
+    margin: 25px 0px;
 }
 
 .cidadao section, .cidadao article, .cidadao aside{
@@ -46,7 +54,7 @@
     background-color: #10246b;
 }
 
-.cidadao i{
+.cidadao_botoes i{
     font-size: 2em;
 }
 
@@ -129,11 +137,18 @@
 }
 /*Fim Home CIDADAO */
 
-/*Início Concurso CIDADAO */
-
 .cidadao_noticia{
     padding: 20px;
 }
+
+/*Início Concurso CIDADAO */
+
+.cidadao_dicas i{
+    font-size: 5em;
+    color: #10246b;
+}
+
+
 
 /*Fim Concurso CIDADAO */
 
@@ -170,5 +185,19 @@
 /*Fim Saúde CIDADAO */
 
 /*Início Serviços CIDADAO */
+.cidadao_servicos{
+    padding: 20px;
+}
+
+.cidadao_postagem{
+    margin: 20px 5px;
+}
+
+.cidadao_assistencia .cidadao_botao{
+
+    margin: 1px;
+
+}
+/* Fim Serviços CIDADAO */
 
 /* FIM CSS AREA CIDADAO */
