@@ -10,6 +10,8 @@
         include '../includes/inc_head_links.php';
       ?>
 
+      <link rel="stylesheet" href="../style/cidadao.css">
+
 </head>
 <body>
     <!-- Inicio Header -->
@@ -21,35 +23,37 @@
     <!-- Fim Header -->
 
     <div class="container">
-        <main class="row text-center">
-            <h1> Cartela de Serviços</h1>
-                <p>Vorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex. Suspendisse ac rhoncus nisl, eu tempor urna. Curabitur vel bibendum lorem. Morbi convallis convallis diam sit amet lacinia. Aliquam in elementum tellus.</p>
+        <main class="row cidadao">
+            <h1 class="text-center"> Cartela de Serviços</h1>
+                <p>A cartela de serviços tem como objetivo informar todos os serviços que a prefeitura de São Roque oferece aos seus cidadãos. Sendo assim, comunicar onde esses serviços são prestados e a forma de acessos a eles.</p>
 
-            <article class="row">
-                    <h2>Assitência social</h2>
+            <article class="row sombra">
+                    <h2 class="text-center">Assitência social</h2>
                     <div class="col-lg-8 col-md-12">
-                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Earum beatae, illum velit id modi facilis facere rem incidunt consectetur delectus accusamus possimus. Id ratione quod minima voluptatem quis quasi laboriosam. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore incidunt nesciunt in at, voluptas odio quaerat accusamus minima corrupti repudiandae ipsum assumenda, dignissimos illum recusandae id sint iste dolorem enim? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laboriosam debitis libero, esse nisi quae fugiat, hic laborum fuga voluptas beatae animi vitae commodi perferendis ipsum recusandae architecto repellendus voluptatum voluptates.</p>
+                        <p>A assistência social é uma política pública que está organizada através Sistema Único de Assistência Social (Suas) que permeia todo o Brasil. Tem por objetivo a garantia da proteção social dos cidadãos, isto é, o apoio à comunidade por meio de serviços, benefícios, programas e projetos. As unidades da Assistência Social são:</p>
                         <ul>
-                            <li>Item</li>
-                            <li>Item</li>
-                            <li>Item</li>
+                            <li>Cras – Centro de Referência de Assistência Social;</li>
+                            <li>Creas – Centro de Referência Especializado de Assistência Social;</li>
+                            <li>Centro POP – Centros de Referência Especializados para População em Situação de Rua;</li>
+                            <li>Centro-Dia de Referência para Pessoa com Deficiência e suas Famílias;</li>
+                            <li>Unidades de Acolhimento – Casa Lar, Abrigo Institucional, República, Residência Inclusiva, Casa de Passagem</li>
                         </ul>
                     </div>
 
                 <section class="col-lg-4 col-md-12 col-md-12 text-center">
                     <h2>Programas</h2>
-                    <div class="row">
-                        <a href="#" class="col-lg-6 col-md-6 col-sm-12">Programa</a>
-                        <a href="#" class="col-lg-6 col-md-6 col-sm-12">Programa</a>
-                        <a href="#" class="col-lg-6 col-md-6 col-sm-12">Programa</a>
-                        <a href="#" class="col-lg-6 col-md-6 col-sm-12">Programa</a>
+                    <div class="row cidadao_botao">
+                        <a href="#" class="col-lg-6 col-md-6 col-sm-12">População em Situação de Rua;</a>
+                        <a href="#" class="col-lg-6 col-md-6 col-sm-12">Programa de Erradicação do Trabalho Infantil;</a>
+                        <a href="#" class="col-lg-6 col-md-6 col-sm-12">Proteção Especial para Pessoas com Deficiência e Idosas;</a>
+                        <a href="#" class="col-lg-6 col-md-6 col-sm-12">Serviços de Acolhimento;</a>
                     </div>
                 </section>
             </article>
 
-            <article class="col-lg-4 col-md-12 col-sm-12 text-center">
-                <h2>Educação</h2>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Earum beatae, illum velit id modi facilis facere rem incidunt consectetur delectus accusamus possimus. Id ratione quod minima voluptatem quis quasi laboriosam. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore incidunt nesciunt in at, voluptas odio quaerat accusamus minima corrupti repudiandae ipsum assumenda, dignissimos illum recusandae id sint iste dolorem enim? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laboriosam debitis libero, esse nisi quae fugiat, hic laborum fuga voluptas beatae animi vitae commodi perferendis ipsum recusandae architecto repellendus voluptatum voluptates.</p>
+            <article class="col-lg-4 col-md-12 col-sm-12 sombra">
+                <h2 class="text-center">Educação</h2>
+                <p>A cidade de São Roque está comprometida a oferecer educação de qualidade aos seus cidadãos, nesta seção você encontrará serviços a este tema.</p>
                 <ul>
                     <li>Item</li>
                     <li>Item</li>
@@ -62,102 +66,110 @@
                 </div>
 
                 <div class="row text-center">
-                    <table class="table">
-                        <tr>
-                            <th>dom</th>
-                            <th>seg</th>
-                            <th>ter</th>
-                            <th>qua</th>
-                            <th>qui</th>
-                            <th>sex</th>
-                            <th>sáb</th>
+                    <table class="table text-center cidadao_calendario sombra">
+                        <caption class="text-center">Calendário Escolar</caption>
+                        <tr class="cidadao_mes">
+                            <th class="text-center" colspan="7">NOVEMBRO</th>
                         </tr>
                         <tr>
-                            <th></th>
-                            <th></th>
-                            <th></th>
-                            <th>1</th>
-                            <th>2</th>
-                            <th>3</th>
-                            <th>4</th>
+                            <th class="text-center">dom</th>
+                            <th class="text-center">seg</th>
+                            <th class="text-center">ter</th>
+                            <th class="text-center">qua</th>
+                            <th class="text-center">qui</th>
+                            <th class="text-center">sex</th>
+                            <th class="text-center">sáb</th>
                         </tr>
                         <tr>
-                            <th>5</th>
-                            <th>6</th>
-                            <th>7</th>
-                            <th>8</th>
-                            <th>9</th>
-                            <th>10</th>
-                            <th>11</th>
+                            <td class="text-center"></td>
+                            <td class="text-center"></td>
+                            <td class="text-center"></td>
+                            <td class="text-center">1</td>
+                            <td class="text-center">2</td>
+                            <td class="text-center">3</td>
+                            <td class="text-center">4</td>
                         </tr>
                         <tr>
-                            <th>12</th>
-                            <th>13</th>
-                            <th>14</th>
-                            <th>15</th>
-                            <th>16</th>
-                            <th>17</th>
-                            <th>18</th>
+                            <td class="text-center">5</td>
+                            <td class="text-center">6</td>
+                            <td class="text-center">7</td>
+                            <td class="text-center">8</td>
+                            <td class="text-center">9</td>
+                            <td class="text-center">10</td>
+                            <td class="text-center">11</td>
                         </tr>
                         <tr>
-                            <th>19</th>
-                            <th>20</th>
-                            <th>21</th>
-                            <th>22</th>
-                            <th>23</th>
-                            <th>24</th>
-                            <th>25</th>
+                            <td class="text-center">12</td>
+                            <td class="text-center">13</td>
+                            <td class="text-center">14</td>
+                            <td class="text-center">15</td>
+                            <td class="text-center">16</td>
+                            <td class="text-center">17</td>
+                            <td class="text-center">18</td>
                         </tr>
                         <tr>
-                            <th>26</th>
-                            <th>27</th>
-                            <th>28</th>
-                            <th>29</th>
-                            <th>30</th>
-                            <th></th>
-                            <th></th>
+                            <td class="text-center">19</td>
+                            <td class="text-center">20</td>
+                            <td class="text-center">21</td>
+                            <td class="text-center">22</td>
+                            <td class="text-center">23</td>
+                            <td class="text-center">24</td>
+                            <td class="text-center">25</td>
+                        </tr>
+                        <tr>
+                            <td class="text-center">26</td>
+                            <td class="text-center">27</td>
+                            <td class="text-center">28</td>
+                            <td class="text-center">29</td>
+                            <td class="text-center">30</td>
+                            <td class="text-center"></td>
+                            <td class="text-center"></td>
                         </tr>
                     </table>
                 </div>
             </article>
             
-            <article class="col-lg-8 col-md-12 col-sm-12 text-center">
-                <h2>Empregabilidade</h2>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum mollitia ab at fugiat unde necessitatibus nisi aliquid ullam, iusto eum assumenda id placeat nostrum tempora sit tempore repellat voluptas! Magnam!</p>
+            <article class="col-lg-8 col-md-12 col-sm-12 sombra">
+                <h2 class="text-center">Empregabilidade</h2>
+                <p>Estamos comprometidos a fomentar o crescimento econômico do município e manter o bem-estar de nossa população. Por isso, essa seção é dedicada a divulgar e oferecer oportunidades de emprego, aqui você encontrará todas as informações referentes a esse tema.</p>
 
                 <section class="row">
                     <div class="col-lg-6 col-md-6 col-sm-12">
                         <figure>
-                            <img src="https://placekitten.com/150/150" alt="">
+                            <img src="../imgs/cidadao/cidadao_empresa_.jpg" alt="">
                         </figure>
                         <h3>Notícia</h3>
-                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officiis nulla eveniet laborum consequatur nesciunt.</p>
-                        <a href="#">Ver mais</a>
+                        <p>Empresa de São Roque contrata Ajudante Geral; veja como se candidatar</p>
+                        <div class="d-flex justify-content-center">
+                            <a class="btn btn-vermais" href="#">Ver mais</a>
+                        </div>
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-12">
                         <figure>
-                            <img src="https://placekitten.com/150/150" alt="">
+                            <img src="../imgs/cidadao/cidadao_fatec_.jpeg" alt="">
                         </figure>
                         <h3>Notícia</h3>
-                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officiis nulla eveniet laborum consequatur nesciunt.</p>
-                        <a href="#">Ver mais</a>
+                        <p>Fatec São Roque tem processo seletivo para uma vaga de professor no ensino superior; confira</p>
+                        <div class="d-flex justify-content-center">
+                            <a class="btn btn-vermais" href="#">Ver mais</a>
+                        </div>
                     </div>
                 </section>
                 
                 <hr>
                 
-                <form class="row" action="post">
-                    <label>Para receber notícias de vagas</label>
+                <form class="row cidadao_form" action="post">
+                    <label class="text-cented">Para receber notícias de vagas</label>
                     <input class="form-control" type="text" placeholder="Nome">
-                    <input class="form-control" type="password" placeholder="Senha">
-                    <button class="btn btn-primary">Enviar</button>
+                    <input class="form-control" type="email" placeholder="Email">
+                    <button class="btn btn-vermais">Enviar</button>
                 </form>
             </article>
 
             <article class="col-lg-6 col-md-12 col-sm-12">
                 <h3>Comunicados</h3>
-                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perferendis fuga provident voluptas deserunt numquam excepturi ex vel nemo hic incidunt nam est at quaerat blanditiis modi, id veritatis sapiente tempore.</p>
-                <img src="https://placekitten.com/300/150" alt="">
+                <p>A carta de serviços tem como objetivo informar todos os serviços que a prefeitura de São Roque oferece aos seus cidadãos. Sendo assim, comunicar onde esses serviços são prestados e a forma de acessos a eles.</p>
+                <img src="../imgs/cidadao/cidadao_comunicado_.jpg" alt="">
             </article>
 
             <article class="col-lg-6 col-md-12 col-sm-12">

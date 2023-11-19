@@ -110,12 +110,10 @@
               <h2>Leonardo Marques</h2>
               <p>R.A.: 2650832313012</p>
               <p>
-                Gorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam
-                eu turpis molestie, dictum est a, mattis tellus. Sed dignissim,
-                consectetur adip.
+                Olá, nobre visitante do nosso site. Eu me chamo Pietro Ricardo, tenho 18 anos e sou uma pessoa hiperativa, apaixonado pelo mundo virtual. Até!!!
               </p>
-              <p>Função:</p>
-              <p>Área: <a href="#">Área</a></p>
+              <p>Função: Designer</p>
+              <p>Área: <a href="turismo/index.php">Turismo</a></p>
             </div>
           </div>
         </article>
@@ -130,8 +128,8 @@
               <p>
               Olá, nobre visitante do nosso site. Eu me chamo Pietro Ricardo, tenho 18 anos e sou uma pessoa hiperativa, apaixonado pelo mundo virtual. Até!!!
               </p>
-              <p>Função:</p>
-              <p>Área: <a href="#">Área</a></p>
+              <p>Função: Editor de fotos</p>
+              <p>Área: <a href="empresa/home.php">Empresa</a></p>
             </div>
           </div>
         </article>

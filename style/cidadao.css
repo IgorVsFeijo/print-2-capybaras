@@ -1,0 +1,174 @@
+@charset "UTF-8";
+/* INICIO CSS AREA CIDADAO */
+
+/*Início Home CIDADAO */
+.btn-vermais{
+    color: white;
+    background-color: #FF9F1C;
+    text-transform: uppercase;
+}
+
+.btn-vermais:hover{
+    background-color: #ff9a0d;
+    color: white;
+    color: rgb(223, 223, 223);
+}
+
+.none {
+    display: none;
+}
+
+.sombra{
+    box-shadow: 0px 0px 3px 1px rgba(85, 85, 85, 0.2);
+}
+
+.cidadao section, .cidadao article, .cidadao aside{
+    margin: 10px 0px;
+}
+
+.cidadao_botoes{
+    background-color: #3552B9;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 15px 0px;
+}
+
+.cidadao_botoes a{
+    background-color: #1d2f6f;
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+    margin: 5px;
+    border-radius: 10px;
+}
+
+.cidadao_botoes a:hover{
+    background-color: #10246b;
+}
+
+.cidadao i{
+    font-size: 2em;
+}
+
+.cidadao_card{
+    background-color: #1d2f6f;
+    color: white;
+    border-radius: 10px;
+    padding: 25px;
+    margin: 15px 0px;
+}
+
+.cidadao_card a{
+    text-decoration: none;
+    color: white;
+}
+
+.cidadao_card a:hover{
+    color: rgb(223, 223, 223);
+}
+
+.cidadao_concursos ul{
+    padding: 0px;
+}
+
+.cidadao_concursos ul li{
+    background-color: #00a6a6;
+    margin: 10px 0px;
+    padding: 15px;
+    list-style: none;
+}
+
+.cidadao_concursos a{
+    text-decoration: none;
+    color: white;
+    padding-left: 10px;
+    border-left: rgb(255, 255, 255) 1.5px solid;
+}
+
+.cidadao_form{
+    padding: 20px;
+}
+
+.cidadao_form input{
+    margin: 10px 0px;
+    background-color: #19cccc;
+}
+
+.cidadao_form input::placeholder{
+    color: white;
+}
+
+.cidadao_form button{
+    background-color: #00A6A6;
+    color: white;
+}
+
+.cidadao_form button:hover{
+    background-color: #038686;
+    color: white;
+}
+
+.cidadao_calendario{
+    border: transparent;
+    background-color: white;
+    padding: 20px;
+    margin: 10px 0px;
+}
+
+.cidadao_calendario caption{
+    background-color: #ff9a0d;
+    caption-side: top;
+}
+
+.cidadao_calendario th{
+    color: #ff9a0d;
+}
+
+.cidadao_mes th{
+    color: #10246b;
+}
+/*Fim Home CIDADAO */
+
+/*Início Concurso CIDADAO */
+
+.cidadao_noticia{
+    padding: 20px;
+}
+
+/*Fim Concurso CIDADAO */
+
+/*Início Saúde CIDADAO */
+
+.cidadao_botao a{
+    background-color: #1d2f6f;
+    color: white;
+    text-decoration: none;
+    padding: 10px 10px;
+    border-radius: 10px;
+}
+
+.saude .cidadao_card{
+    background-color: #00A6A6;
+}
+
+.cidadao_cartilha{
+    padding: 20px 20px 0px 25px;
+}
+
+.cidadao_cartilha caption{
+    caption-side: top;
+}
+
+.cidadao_cartilha table, .cidadao_cartilha td, .cidadao_cartilha tr{
+    border: white solid 1px;
+    border-radius: 10px;
+    background-color: #10246b;
+    color: white;
+    padding: 10px;
+}
+
+/*Fim Saúde CIDADAO */
+
+/*Início Serviços CIDADAO */
+
+/* FIM CSS AREA CIDADAO */

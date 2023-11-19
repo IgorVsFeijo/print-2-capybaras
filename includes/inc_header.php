@@ -1,7 +1,8 @@
 <?php
 
 $rootPath = dirname(__DIR__);
-$rootPath = str_replace('C:\\xampp\\htdocs\\', '', $rootPath);
+$posHtdocs = strpos($rootPath, "htdocs");
+$rootPath = substr($rootPath, $posHtdocs+7, strlen($rootPath));
 
 ?>
 
