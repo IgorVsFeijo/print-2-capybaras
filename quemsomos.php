@@ -9,6 +9,7 @@
     <?php
         include 'includes/inc_head_links.php';
       ?>
+      <link rel="stylesheet" href="/style/cultura.css">
 
 </head>
 
@@ -25,18 +26,8 @@
       <main class="row">
         <h1 class="col-12">Sobre a equipe</h1>
         <p class="col-lg-6">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab,
-          deleniti, temporibus harum fugit aspernatur animi doloribus voluptate,
-          quisquam sequi et debitis quae aperiam! Quibusdam ab consequatur
-          inventore earum fuga ex?
+        Somos um grupo de amigos que se complementa e busca sempre fazer o melhor que pudermos. Nos conhecemos na Fatec São Roque e esse site é o resultado de um trabalho de três meses voltado às matérias Práticas de Projeto de Sítio para Internet e Prática de Design. O tema do site é o portal de uma cidade, sendo assim escolhemos a cidade em que nossa faculdade é sediada, São Roque. Agradecemos por terem chego até aqui e esperamos que tenham desfrutado do nosso site. Conheça a dedicada equipe por trás deste projeto. 
         </p>
-        <p class="col-lg-6">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab,
-          deleniti, temporibus harum fugit aspernatur animi doloribus voluptate,
-          quisquam sequi et debitis quae aperiam! Quibusdam ab consequatur
-          inventore earum fuga ex?
-        </p>
-
         <article>
           <div class="row">
             <figure class="col-lg-4 col-md-4">
@@ -49,7 +40,7 @@
               Olá! Meu nome é Emanuele, tenho 20 años. Sempre tive interesse em entender como as coisas funcionam, então aqui estou. Aproveite nosso site!
               </p>
               <p>Função:</p>
-              <p>Área: <a href="/cidadao/index.php">Área</a></p>
+              <p>Área: <a href="../print-2-capybaras/cidadao/index.php">Cidadão</a></p>
             </div>
           </div>
         </article>
@@ -65,7 +56,7 @@
               Opa, e aí? Sou o Henrique, tenho 18 anos e moro nessa cidadezinha legal de São Roque. Sou uma pessoa tranquila, um pouco preguiçosa, mas te garanto que dei meu melhor para a construção desse projeto para você. Espero que goste de sua passagem por ele.
               </p>
               <p>Função:</p>
-              <p>Área: <a href="/cultura/index.php">Área</a></p>
+              <p>Área: <a href="../print-2-capybaras/cultura/index.php">Cultura</a></p>
             </div>
           </div>
         </article>
@@ -81,7 +72,7 @@
               Oi, sou Igor. Na Fatec, estudo Desenvolvimento Web de Sites e Apps. Aprendendo a programar em PHP. Espero que goste do site, foi feito com amor!
               </p>
               <p>Função:</p>
-              <p>Área: <a href="/cidade/index.php">Área</a></p>
+              <p>Área: <a href="../print-2-capybaras/cidade/index.php">Cidade</a></p>
             </div>
           </div>
         </article>
@@ -97,7 +88,7 @@
               Eu sou o João, tenho 29 anos, sou de Curitiba e estou aqui tentando uma vida "melhor" na segunda FATEC. Boa visualização do nosso site.
               </p>
               <p>Função:</p>
-              <p>Área: <a href="/governo/index.php">Área</a></p>
+              <p>Área: <a href="../print-2-capybaras/governo/index.php">Governo</a></p>
             </div>
           </div>
         </article>
@@ -110,10 +101,10 @@
               <h2>Leonardo Marques</h2>
               <p>R.A.: 2650832313012</p>
               <p>
-                Olá, nobre visitante do nosso site. Eu me chamo Pietro Ricardo, tenho 18 anos e sou uma pessoa hiperativa, apaixonado pelo mundo virtual. Até!!!
+              Oi! Eu sou o Leonardo, estudante da Fatec São Roque, sou apaixonado por jogos e estou aprendendo php, espero que gostem do site!
               </p>
               <p>Função: Designer</p>
-              <p>Área: <a href="/empresa/home.php">Turismo</a></p>
+              <p>Área: <a href="../print-2-capybaras/empresa/home.php">Empresa</a></p>
             </div>
           </div>
         </article>
@@ -129,7 +120,7 @@
               Olá, nobre visitante do nosso site. Eu me chamo Pietro Ricardo, tenho 18 anos e sou uma pessoa hiperativa, apaixonado pelo mundo virtual. Até!!!
               </p>
               <p>Função: Editor de fotos</p>
-              <p>Área: <a href="/turismo/index.php">Empresa</a></p>
+              <p>Área: <a href="../print-2-capybaras/turismo/index.php">Turismo</a></p>
             </div>
           </div>
         </article>

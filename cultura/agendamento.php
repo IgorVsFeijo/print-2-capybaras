@@ -28,9 +28,11 @@
                   <section class="col-6">
                       <h2>Programe o seu espetáculo aqui!</h2>
                       <p>O espaço para apresentação está localizado na Brasital. Escolha uma sala, data e cheque a disponibilidade para preparar o ambiente e agendar o seu espetáculo.</p>
-                      <div class="row g-4">
+                      <div class="row">
                         <label for="inputName4" class="form-label">Nome do Artista/Grupo</label>
                         <input type="text" class="form-control" id="inputName4">
+                        <label for="inputEmail4" class="form-label">Email</label>
+                        <input type="email" class="form-control" id="inputEmail4">
                       </div>
                   </section>
                   <section class="col-6">
@@ -81,12 +83,7 @@
                 <section>
                     <h2 class="hide">Section - h2</h2>
                     <form class="row g-3">
-                      
-                      <div class="col-md-6">
-                        <label for="inputEmail4" class="form-label">Email</label>
-                        <input type="email" class="form-control" id="inputEmail4">
-                      </div>
-                      <div class="col-md-6">
+                      <div class="col-12 text-center">
                         <label for="inputPhone4" class="form-label">Telefone para Contato</label>
                         <input type="tel" class="form-control" id="inputPhone4" placeholder="(00)00000-0000">
                       </div>

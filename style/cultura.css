@@ -1,5 +1,28 @@
 @charset "UTF-8";
 
 /* INICIO CSS AREA CULTURA */
-
+h2{
+    text-align: left;
+}
+.noticias_cultura{
+    box-shadow: 3px 4px 4px 1px rgba(85, 85, 85, 0.5);
+    padding: 20px;
+}
+.notícia_mobile{
+    box-shadow: 0px 3px 3px 0px rgba(85, 85, 85, 0.2);
+    padding: .5em .4em 0em .4em;
+    background-color: #00a6a659;
+}
+.notícia_mobile p{
+    font-size: 1.1em;
+    font-weight: bold;
+}
+.noticias{
+    background-color: #1d2f6f;
+    color: white;
+}
+#culturasr article{
+    text-align: justify;
+    background-color: #ffa01c8e;
+}
 /* FIM CSS AREA CULTURA */
