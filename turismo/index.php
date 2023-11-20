@@ -120,21 +120,21 @@
                 <section class="col-lg-4 col-md-4 col-sm-12">
                     <h4>Vinhos Alma Galiza</h4>
                     <figure class="text-center">
-                        <img src="../imgs/turismo/alma_galiza.jpg" alt="Imagem Via Placeholder">
+                        <img src="../imgs/turismo/alma_galiza.jpg" alt="Imagem referente ao logo do Alma Galiza">
                     </figure>
                     <p>Vinhos Alma Galiza conta com uma porção dos melhores vinhos da região, e uma gastronomia portuguesa de tirar fôlego.</p>
                 </section>
                 <section class="col-lg-4 col-md-4 col-sm-12">
                     <h4>Come Together</h4>
                     <figure class="text-center">
-                        <img src="../imgs/turismo/cct.jpg" alt="Imagem Via Placeholder">
+                        <img src="../imgs/turismo/cct.jpg" alt="Imagem referente ao logo do clube come togheter">
                     </figure>
                     <p>Desde 2015, um porão de um casarão centenário de São Roque/SP abriga um clássico pub com bons chopes, cocktails, burgers, porções e muita diversão.</p>
                 </section>
                 <section class="col-lg-4 col-md-4 col-sm-12">
                     <h4>Tia Lina</h4>
                     <figure class="text-center">
-                        <img src="../imgs/turismo/tia_lina.jpg" alt="Imagem Via Placeholder">
+                        <img src="../imgs/turismo/tia_lina.jpg" alt="Imagem referente ao logo da Tia Lina">
                     </figure>
                     <p>Você e sua família podem desfrutar de um lugar descontraído, com muito lazer e atividades, admirar belas paisagens e saborear o melhor da culinária italiana.</p>
                 </section>
