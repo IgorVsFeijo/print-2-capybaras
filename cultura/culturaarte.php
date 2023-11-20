@@ -84,14 +84,14 @@
                         <p>Sendo um núcleo/subdivisão do Coletivo Narciso – existente desde 2010 -, o Coletivo Entre Nós é focado em abordagens sobre a memória e histórias locais e realizou inúmeras apresentações, tanto em São Roque quanto em outras cidades. Entendendo a necessidade de levar arte e fazer arte para todos, o coletivo trabalha para levar a cultura para todos os cantos.</p>
                     </section>
                     <section class="col-md-6 col-lg-4">
-                        <h3>Coletivo Entre Nós</h3>
+                        <h3>Grupo 2</h3>
                         <figure>
                             <img src="https://placekitten.com/250/180" alt="foto do grupo">
                         </figure>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime expedita accusantium facere ea maiores facilis, consequatur explicabo. Enim corporis a dicta consectetur ducimus, dolorum inventore deserunt tempore esse, aspernatur consequuntur.</p>
                     </section>
                     <section class="col-lg-4">
-                        <h3>Coletivo Entre Nós</h3>
+                        <h3>Grupo 3</h3>
                         <figure>
                             <img src="https://placekitten.com/250/180" alt="foto do grupo">
                         </figure>

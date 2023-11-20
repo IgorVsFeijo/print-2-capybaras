@@ -49,7 +49,7 @@
               Olá! Meu nome é Emanuele, tenho 20 años. Sempre tive interesse em entender como as coisas funcionam, então aqui estou. Aproveite nosso site!
               </p>
               <p>Função:</p>
-              <p>Área: <a href="#">Área</a></p>
+              <p>Área: <a href="/cidadao/index.php">Área</a></p>
             </div>
           </div>
         </article>
@@ -65,7 +65,7 @@
               Opa, e aí? Sou o Henrique, tenho 18 anos e moro nessa cidadezinha legal de São Roque. Sou uma pessoa tranquila, um pouco preguiçosa, mas te garanto que dei meu melhor para a construção desse projeto para você. Espero que goste de sua passagem por ele.
               </p>
               <p>Função:</p>
-              <p>Área: <a href="#">Área</a></p>
+              <p>Área: <a href="/cultura/index.php">Área</a></p>
             </div>
           </div>
         </article>
@@ -81,7 +81,7 @@
               Oi, sou Igor. Na Fatec, estudo Desenvolvimento Web de Sites e Apps. Aprendendo a programar em PHP. Espero que goste do site, foi feito com amor!
               </p>
               <p>Função:</p>
-              <p>Área: <a href="#">Área</a></p>
+              <p>Área: <a href="/cidade/index.php">Área</a></p>
             </div>
           </div>
         </article>
@@ -97,7 +97,7 @@
               Eu sou o João, tenho 29 anos, sou de Curitiba e estou aqui tentando uma vida "melhor" na segunda FATEC. Boa visualização do nosso site.
               </p>
               <p>Função:</p>
-              <p>Área: <a href="#">Área</a></p>
+              <p>Área: <a href="/governo/index.php">Área</a></p>
             </div>
           </div>
         </article>
@@ -113,7 +113,7 @@
                 Olá, nobre visitante do nosso site. Eu me chamo Pietro Ricardo, tenho 18 anos e sou uma pessoa hiperativa, apaixonado pelo mundo virtual. Até!!!
               </p>
               <p>Função: Designer</p>
-              <p>Área: <a href="turismo/index.php">Turismo</a></p>
+              <p>Área: <a href="/empresa/home.php">Turismo</a></p>
             </div>
           </div>
         </article>
@@ -129,7 +129,7 @@
               Olá, nobre visitante do nosso site. Eu me chamo Pietro Ricardo, tenho 18 anos e sou uma pessoa hiperativa, apaixonado pelo mundo virtual. Até!!!
               </p>
               <p>Função: Editor de fotos</p>
-              <p>Área: <a href="empresa/home.php">Empresa</a></p>
+              <p>Área: <a href="/turismo/index.php">Empresa</a></p>
             </div>
           </div>
         </article>
