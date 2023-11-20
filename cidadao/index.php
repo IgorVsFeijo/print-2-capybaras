@@ -32,7 +32,7 @@
                     <section class="col-lg-12 col-md-12 col-sm-12">
                         <div class="row cidadao_noticias">
                             <figure class="col-lg-4 text-center">
-                                <img src="https://placekitten.com/150/150" alt="">
+                                <img src="../imgs/cidadao/cidadao_empresa_150.jpg" alt="uma ilustração com duas figuras humanas apontando para uma prancheta do tamanho deles">
                             </figure>
                             <div class="col-lg-8">
                                 <h3>Oportunidade de emprego</h3>
@@ -42,7 +42,7 @@
                         </div>
                         <div class="row cidadao_noticias">
                             <figure class="col-lg-4 text-center">
-                                <img src="https://placekitten.com/150/150" alt="">
+                                <img src="../imgs/cidadao/cidadao_fatec_150.jpeg" alt="a faixada da fatec são roque com um carro branco na frente">
                             </figure>
                             <div class="col-lg-8">
                                 <h3>Oportunidade de emprego</h3>
@@ -76,7 +76,7 @@
                     <h3 class="text-center">Saúde</h3>
                     <article class="col-lg-12 col-md-12 col-sm-12">
                         <div class="row">
-                            <figure class="col-lg-4 text-center"><img src="https://placekitten.com/150/150" alt=""></figure>
+                            <figure class="col-lg-4 text-center"><img src="../imgs/cidadao/cidadao_vacina_.jpg" alt="uma pessoa de máscara aplicando vacina no braço esquerdo de outra pessoa"></figure>
                             <div class="col-lg-8">
                                 <h4>Campanha de vacinação contra Influenza</h4>
                                 <p>Procure a UBS mais próxima</p>
