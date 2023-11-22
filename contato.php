@@ -9,6 +9,7 @@
     <?php
         include 'includes/inc_head_links.php';
       ?>
+    <link rel="stylesheet" href="/style/cidadao.css">
 
 </head>
 
@@ -22,10 +23,9 @@
     <!-- Fim Header -->
 
     <div class="container">
-
         <main class="row">
             <div class="col-lg-6 col-md-12 col-sm-12">
-                <div class="row text-center">
+                <div class="row text-center quemsomos_botoes">
                     <a class="col-lg-6 col-md-6 col-sm-12" href="#">Email</a>
                     <a class="col-lg-6 col-md-6 col-sm-12" href="#">Número</a>
                     <a class="col-lg-6 col-md-6 col-sm-12" href="#">Instagram</a>
