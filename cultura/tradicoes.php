@@ -9,7 +9,7 @@
     <?php
         include '../includes/inc_head_links.php';
       ?>
-      <link rel="stylesheet" href="/style/cultura.css">
+    <link rel="stylesheet" href="../style/cultura.css">
 
 </head>
 <body>
@@ -49,11 +49,9 @@
                         <p class="col-12">A festa é finalizada em seu ápice nos dias 15 e 16 de Agosto com as procissões de Nossa Senhora da Assunção e do padroeiro São Roque, respectivamente, atraindo milhares de fiéis para a belíssima conclusão. Até hoje, as Festas de Agosto se consolidam como o maior evento festivo e religioso da região.</p>
                 </section>
                 <section class="row col-lg-6">
-                        <figure class="col-sm-6 col-md-6 col-lg-12 text-center">
-                          <picture>
+                          <picture class="col-sm-6 col-md-6 col-lg-12 text-center">
                             <source media="(max-width: 992px)" srcset="../imgs/cultura/exposaoroque.jpg"><img>
                           </picture> 
-                        </figure>
                         <section class="col-sm-6 col-lg-12">
                           <h3>Expo São Roque</h3>
                           <p>Festa que celebra a tradição de São Roque como a Terra do Vinho, com stands das vinícolas mais famosas, introdução a conceitos de enologia, vendas de vinho e alcachofra e que se estende por mais de 28 anos em um clima de festa.</p>
@@ -67,7 +65,7 @@
                 </section>
               </article>
             </div>
-            <figure>
+            <figure class="text-center">
               <img src="../imgs/cultura/expoilustracao.jpg" alt="Visão aérea da Expo São Roque, da entrada do Recanto da Cascata">
             </figure>
         </main>
