@@ -21,9 +21,9 @@
       ?>
 
     <!-- Fim Header -->
-    <div class="container text-center">
+    <div class="container">
         <main id="cultura">
-            <figure>
+            <figure class="text-center">
                 <img class="img-fluid" src="../imgs/cultura/saoroque.jpg" alt="imagem aérea de São Roque, mostrando a maior parte do centro da cidade">
             </figure>
             <article>
@@ -31,7 +31,7 @@
                 <p>Fonte de renda fundamental para a nossa cidade e um de nossos maiores orgulhos, a cidade de São Roque conta com uma série única de atividades, lugares e eventos tradicionais-culturais. Não apenas ajudando no crescimento financeiro, mas colocando a nossa cidade no mapa de São Paulo como uma das principais produtoras de vinho do estado.</p>
                 <div class="row col-12 noticias_cultura">
                     <h2 class="titulo">NOTÍCIAS</h2>
-                    <div class="col-md-6 col-lg-4 noticias">
+                    <div class="col-md-6 col-lg-4 text-center">
                         <section class="notícia_mobile">
                             <h2 class="hide">Section - h2</h2>
                             <figure>
@@ -40,7 +40,7 @@
                             <p>Entenda mais a fundo sobre a Lei Paulo Gustavo e os seus editais</p>
                         </section>
                     </div>
-                    <div class="col-md-6 col-lg-4">
+                    <div class="col-md-6 col-lg-4 text-center">
                         <section class="notícia_mobile">
                             <h2 class="hide">Section - h2</h2>
                             <figure>
@@ -49,7 +49,7 @@
                             <p>Festival de Teatro Estudantil Vasco Barioni 2023 - Saiba mais sobre o evento!</p>
                         </section>
                     </div>
-                    <div class="col-lg-4">
+                    <div class="col-lg-4 text-center">
                         <section class="notícia_mobile">
                             <h2 class="hide">Section - h2</h2>
                             <figure>
@@ -63,17 +63,17 @@
             <aside>
                 <div class="row col-12">
                     <h2>CONHEÇA MAIS!</h2>
-                    <section class="col-md-6" >
+                    <section class="col-md-6 text-center" >
                         <h2 class="hide">Section - h2</h2>
                         <figure>
-                            <a href="../cultura/culturaarte.php"><img src="https://placekitten.com/260/180" alt="Imagem ilustrativa para a página detalhada da cultura de São Roque"></a>
+                            <a href="../cultura/culturaarte.php"><img src="../imgs/cultura/marcosculturais.jpg" alt="Imagem ilustrativa para a página detalhada da cultura de São Roque"></a>
                         </figure>
                         <h4>Marcos Culturais</h4>
                     </section>
-                    <section class="col-md-6">
+                    <section class="col-md-6 text-center">
                         <h2 class="hide">Section - h2</h2>
                         <figure>
-                            <a href="../cultura/tradicoes.php"><img src="https://placekitten.com/260/180" alt="Imagem ilustrativa para a página de tradições de São Roque"></a>
+                            <a href="../cultura/tradicoes.php"><img src="../imgs/cultura/festastradicionais.jpg" alt="Imagem ilustrativa para a página de tradições de São Roque"></a>
                         </figure>
                         <h4>Festas Tradicionais</h4>
                     </section>

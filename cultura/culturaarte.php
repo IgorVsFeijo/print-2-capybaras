@@ -40,14 +40,9 @@
                             <img src="../imgs/cultura/brasital.jpg" alt="foto tirada da entrada da Brasital, com os prédios e a torre capturados e um céu aberto.">
                         </figure>
                         <p>Construída em meados de 1890 pelo italiano Enrico Dell’Acqua e levando o seu nome até 1919, a Brasital serviu como o local de funcionamento de uma das primeiras indústrias de tecido do país, com a empresa de seu fundador já tendo expandido para a Argentina e a própria Itália. Assim, se tornou um dos prédios históricos mais importantes da região. A Brasital possui uma extensão de 9200 m₂, antes ocupados com galpões produzindo diferentes tipos de tecidos de algodão. Fechada em 1970, o local foi reaberto em 1989, passando a ser um Centro Educacional e Cultural, se tornando um dos maiores símbolos de cultura de São Roque, com biblioteca e oficinas estimulantes à cultura, abertas para a população participar e ingressar cada vez mais nesse ramo.</p>
-
-                        <!-- MODELO PICTURE
                         <picture>
-                          <source srcset="../imgs/cultura/saoroque.jpg" media="(min-width: 992px)"/>
-                          <img src="../imgs/cultura/brasital.jpg" alt="">
+                          <source srcset="../imgs/cultura/brasital2.jpg" media="(min-width: 992px)"/><img>
                         </picture>
-                        -->
-
                       </section>
                     </div>
                     <div class="row col-12">
