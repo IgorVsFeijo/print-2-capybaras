@@ -31,8 +31,6 @@
         <h1 class="col-12 text-center">Sobre a equipe</h1>
         <p class="col-lg-6">
 <<<<<<< Updated upstream
-        Somos um grupo de amigos que se complementa e busca sempre fazer o melhor que pudermos. Nos conhecemos na Fatec São Roque e esse site é o resultado de um trabalho de três meses voltado às matérias Práticas de Projeto de Sítio para Internet e Prática de Design. O tema do site é o portal de uma cidade, sendo assim escolhemos a cidade em que nossa faculdade é sediada, São Roque. Agradecemos por terem chego até aqui e esperamos que tenham desfrutado do nosso site. Conheça a dedicada equipe por trás deste projeto. 
-        </p>
 =======
           Somos um grupo de amigos que se complementa e busca sempre fazer o melhor que pudermos. Nos conhecemos na Fatec São Roque e esse site é o resultado de um trabalho de três meses voltado às matérias Práticas de Projeto de Sítio para Internet e Prática de Design. 
         </p>
