@@ -20,12 +20,12 @@
       ?>
 
     <!-- Fim Header -->
-    <div class="container text-center">
+    <div class="container">
         <main id="culturasr">
             <article>
                 <div class="col-12">
                     <h2>PONTOS CULTURAIS</h2>
-                    <div class="row col-12">
+                    <div class="row col-12 text-center">
                       <section class="col-md-6 monumento_cultural">
                         <h3>Roteiro do Vinho</h3>
                           <figure>
@@ -45,7 +45,7 @@
                         </picture>
                       </section>
                     </div>
-                    <div class="row col-12">
+                    <div class="row col-12 text-center">
                       <section class= "col-md-6">
                         <h3>Quilombo do Carmo</h3>
                         <figure>
@@ -61,7 +61,7 @@
                           <p>Construída em 1681 por Fernão Paes de Barros, o local é um dos Sítios Bandeiristas presentes no país durante o período escravista. Posteriormente, no início do século XX, em uma excursão na companhia de Mario de Andrade, Paulo Duarte notou o estado abandonado e decrépito e, através de uma coletânea de artigos, alertou o povo e o governo para o descaso com o local. Desde então, a Capela vem passando por uma restauração. O Sítio Santo Antônio serve como uma ponte para se entender os conceitos, preconceitos e hábitos da época no qual foi construído.</p>
                       </section>
                     </div>
-                    <div class="row col-12">
+                    <div class="row col-12 text-center">
                     <section class= "col-md-6">
                           <h3>Morro do Saboó</h3>
                           <figure>
@@ -80,21 +80,21 @@
                 </div>
                 <div class="row col-12">
                     <h2>Grupos Artísticos</h2>
-                    <section class="col-md-6 col-lg-4">
+                    <section class="col-md-6 col-lg-4 text-center">
                         <h3>Coletivo Entre Nós</h3>
                         <figure>
                             <img src="../imgs/cultura/coletivoentrenos.jpg" alt="apresentação de uma das produções de Páscoa do Coletivo Entre Nós">
                         </figure>
                         <p>Sendo um núcleo/subdivisão do Coletivo Narciso – existente desde 2010 -, o Coletivo Entre Nós é focado em abordagens sobre a memória e histórias locais e realizou inúmeras apresentações, tanto em São Roque quanto em outras cidades. Entendendo a necessidade de levar arte e fazer arte para todos, o coletivo trabalha para levar a cultura para todos os cantos.</p>
                     </section>
-                    <section class="col-md-6 col-lg-4">
+                    <section class="col-md-6 col-lg-4 text-center">
                         <h3>Companhia de Eros</h3>
                         <figure>
                             <img src="../imgs/cultura/companhiaeros.jpg" alt="logotipo oficial da Companhia de Eros">
                         </figure>
                         <p>Criada em 2010, a Companhia de Eros começou na Brasital, e por mais de 10 anos, vem trazendo produções com foco na formação do público para o teatro, com reflexões sobre a sociedade brasileira. Por tamanho tempo de trabalho, o grupo foi reconhecido como Ponto de Cultura a partir da Lei Cultura Viva (13.018/2014) e produz peças teatrais até hoje.</p>
                     </section>
-                    <section class="col-lg-4">
+                    <section class="col-lg-4 text-center">
                         <h3>Banda Jamais Vistos</h3>
                         <figure>
                             <img src="../imgs/cultura/bandajamaisvistos.jpg" alt="logotipo da Banda Jamais Vistos">
