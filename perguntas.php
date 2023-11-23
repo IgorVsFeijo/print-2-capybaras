@@ -26,7 +26,7 @@
       <main id="perguntas">
         <article>
           <h2>Encontre respostas para as dúvidas mais comuns sobre a nossa cidade</h2>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum magnam perspiciatis, eius dolores delectus excepturi repellendus ut? Ullam, iusto vitae quisquam aliquid labore libero, maxime, exercitationem tenetur harum dicta dignissimos?</p>
+          <p>Aqui estão as dúvidas mais recorrentes que as pessoas possuem sobre os diferentes aspectos da nossa cidade. Aproveite para sanar todas e tirar o máximo de proveito dos nossos serviços.</p>
           <section class="text-center">
             <h3>Dúvidas Gerais</h3>
             <div class="accordion col-12" id="accordionExample">
