@@ -312,6 +312,10 @@ footer i.btn{
     background-color: rgb(197, 196, 195);
 }
 
+.sombra{
+    box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.2);
+}
+
 /* PÁGNAS OBRGATÓRAS */
 
 /* Quem somos */
@@ -357,3 +361,45 @@ footer i.btn{
     padding: 10px;
 }
 /* Fim Quem Somos */
+
+/*Contato */
+.contato{
+    margin: 20px 0px;
+}
+
+.contato_botoes{
+    margin: 20px 0px;
+}
+
+.contato_botoes a{
+    background-color: #10246b;
+    padding: 20px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: white;
+}
+
+.contato_botoes p{
+    font-size: 0.8em;
+}
+
+.contato_botoes i{
+    font-size: 3em;
+}
+
+.contato_form{
+    background-color: #038686;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.contato_form label{
+    font-size: larger;
+    font-weight: bold;
+    color: white;
+}
+
+.contato_form input, .contato_form button{
+    margin: 5px 0px;
+}
+/* Fim Contatos */
