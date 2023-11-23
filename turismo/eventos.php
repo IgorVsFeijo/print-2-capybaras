@@ -21,7 +21,7 @@
     <!-- Fim Header -->
     <div class="container text-center">
         <div class="row text-start">
-            <p class="col-5">Home > Eventos</p>
+            <b><a href="../turismo/index.php">Home</a> <i class="bi bi-arrow-right"></i> <a href="../turismo/eventos.php">Eventos</a></b>
         </div>
 
         <article>

@@ -22,8 +22,8 @@
 
     <!-- Fim Header -->
     <div class="container text-center">
-        <div class="row justify-content-start">
-            <p class="text-start"><b>Home > Pontos turisticos > Outlet Catarina</b></p>
+    <div class="row text-start">
+            <b><a href="../turismo/index.php"> Home</a> <i class="bi bi-arrow-right"></i> <a href="../turismo/pontos_turisticos.php"> Pontos turisticos</a>  <i class="bi bi-arrow-right"></i><a href="../turismo/pontos_turisticos_catarina.php"> Outlet Catarina</a> </b>
         </div>
         <article>
             <h2>Outlet Catarina</h2>

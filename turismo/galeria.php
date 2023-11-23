@@ -20,8 +20,8 @@
 
     <!-- Fim Header -->
     <div class="container text-center">
-        <div class="row justify-content-start">
-            <p class="text-start"><b>Home > Galeria</b></p>
+    <div class="row text-start">
+            <b><a href="../turismo/index.php">Home</a> <i class="bi bi-arrow-right"></i> <a href="../turismo/Galeria.php">Galeria</a></b>
         </div>
         <article>
             <h1 class="hide">Galeria de fotos dos Pontos Turisticos de São Roque</h1>

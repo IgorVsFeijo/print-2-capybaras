@@ -20,8 +20,8 @@
 
     <!-- Fim Header -->
     <div class="container text-center">
-        <div class="row justify-content-start">
-            <p class="col-5 text-start">Home > Hospedagem</p>
+    <div class="row text-start">
+            <b><a href="../turismo/index.php">Home</a> <i class="bi bi-arrow-right"></i> <a href="../turismo/hospedagem.php">Hospedagem</a></b>
         </div>
 
         <article>

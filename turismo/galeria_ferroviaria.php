@@ -20,8 +20,8 @@
 
     <!-- Fim Header -->
     <div class="container text-center">
-        <div class="row justify-content-start">
-            <p class="text-start"><b>Home > Galeria > Estação Ferroviaria</b></p>
+    <div class="row text-start">
+            <b><a href="../turismo/index.php"> Home</a> <i class="bi bi-arrow-right"></i> <a href="../turismo/galeria.php"> Galeria</a>  <i class="bi bi-arrow-right"></i><a href="../turismo/galeria_ferroviaria.php"> Estação Ferroviaria</a> </b>
         </div>
         <article>
             <h2>Estação Ferroviaria</h2>

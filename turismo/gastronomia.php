@@ -20,8 +20,8 @@
 
     <!-- Fim Header -->
     <div class="container text-center">
-        <div class="row text-start">
-            <p class="col-5"><b>Home > Gastronomia</b></p>
+    <div class="row text-start">
+            <b><a href="../turismo/index.php">Home</a> <i class="bi bi-arrow-right"></i> <a href="../turismo/gastronomia.php">Gastronomia</a></b>
         </div>
         <article>
             <h2 class="text-start">Adegas e Vinículas</h2>
