@@ -2,4 +2,23 @@
 
 /* INICIO CSS AREA TURISMO */
 
+/* INICIO CSS PONTOS TURISTICOS*/
+
+.tur_btn-vermais{
+    color: black;
+    background-color: #FF9F1C;
+    border: 10px solid white;
+}
+
+.tur_btn-vermais:hover{
+    background-color: #ff9a0d;
+    color: white;
+    border: 10px solid #ff9a0d;
+}
+
+.tur_cor_servicos{
+    color: #FF9F1C;
+}
+/* FIM CSS PONTOS TURISTICOS */
+
 /* FIM CSS AREA TURISMO */
