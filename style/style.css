@@ -311,3 +311,49 @@ footer i.btn{
 .dúvida{
     background-color: rgb(197, 196, 195);
 }
+
+/* PÁGNAS OBRGATÓRAS */
+
+/* Quem somos */
+.quemsomos{
+    margin: 30px 0px;
+}
+
+.quemsomos article{
+    padding: 10px;
+}
+
+.quemsomos article div{
+    border-radius: 10px;
+}
+
+.quemsomos article a{
+    text-decoration: none;
+    color: #ff9a0d;
+}
+
+.quemsomos article h2{
+    text-decoration: none;
+    color: #00A6A6;
+    text-transform: uppercase;
+}
+
+.quemsomos article b{
+    text-decoration: none;
+    color: #10246b;
+}
+
+.quemsomos article figure{
+    padding: 20px;
+}
+
+.quemsomos article img{
+    border-radius: 50%;
+    border-top-left-radius: 30px;
+    border: solid 10px #00A6A6;
+}
+
+.quemsomos_conteudo{
+    padding: 10px;
+}
+/* Fim Quem Somos */
