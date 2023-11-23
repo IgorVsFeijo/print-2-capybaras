@@ -23,4 +23,8 @@ h2{
     text-align: justify;
     background-color: #ffa01c8e;
 }
+.monumento_cultural{
+    border: 3px solid;
+    border-radius: 2em;
+}
 /* FIM CSS AREA CULTURA */
