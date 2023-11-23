@@ -20,174 +20,174 @@
 
     <!-- Fim Header -->
     <div class="container text-center">
-        <div class="row justify-content-start">
-            <p class="col-2">lorem</p>
+        <div class="row text-start">
+            <p class="col-5"><b>Home > Gastronomia</b></p>
         </div>
         <article>
-            <h1>h1 - Article</h1>
+            <h2 class="text-start">Adegas e Vinículas</h2>
             <div class="row">
                 <section class="col-lg-4 col-md-4 col-sm-6">
-                    <h3>h3 - Section</h3>
+                    <h3 class="text-start">Adega Terra do Vinho</h3>
                     <figure>
-                        <img src="http://placekitten.com/287/168" alt="Imagem Via Placeholder">
+                        <img src="../imgs/turismo/vini_terra_desktop.jpg" alt="Imagem referente a logo da Adega Terra do Vinho">
                     </figure>
-                    <p>lorem</p>
-                    <p>impsum</p>
-                    <p>lorem</p>
+                    <p class="text-start"><b>Local:</b> Rua Dr. Durval Villaça, 300</p>
+                    <p class="text-start"><b>Site:</b> www.adegaterradovinho.com.br/</p>
+                    <p class="text-start"><b>Contatos:</b> (11) 4712-8831</p>
                 </section>
 
                 <section class="col-lg-4 col-md-4 col-sm-6">
-                    <h3>h3 - Section</h3>
+                    <h3 class="text-start">Vinhos Alma Galiza</h3>
                     <figure>
-                        <img src="http://placekitten.com/287/168" alt="Imagem Via Placeholder">
+                        <img src="../imgs/turismo/vini_alma_desktop.jpg" alt="Imagem referente a logo da Vinhos Alma Galiza">
                     </figure>
-                    <p>lorem</p>
-                    <p>impsum</p>
-                    <p>lorem</p>
+                    <p class="text-start"><b>Local:</b> Fazenda Bagada, Estrada do Pessegueiro, 1351</p>
+                    <p class="text-start"><b>Site:</b> https://almagaliza.com.br/</p>
+                    <p class="text-start"><b>Contatos:</b> (11) 4711-1900</p>
                 </section>
 
                 <section class="col-lg-4 col-md-4 col-sm-6">
-                    <h3>h3 - Section</h3>
+                    <h3 class="text-start">Adega Quinta do Olivardo</h3>
                     <figure>
-                        <img src="http://placekitten.com/287/168" alt="Imagem Via Placeholder">
+                        <img src="../imgs/turismo/vini_quinta_desktop.jpg" alt="Imagem referente a logo da Adega Quinta do olivardo">
                     </figure>
-                    <p>lorem</p>
-                    <p>impsum</p>
-                    <p>lorem</p>
+                    <p class="text-start"><b>Local:</b> Estrada do Vinho, KM 4</p>
+                    <p class="text-start"><b>Site:</b> https://quintadoolivardo.com.br/</p>
+                    <p class="text-start"><b>Contatos:</b> (11) 4711-1100 / (11) 98856-3222</p>
                 </section>
             </div>
 
             <div class="row">
                 <section class="col-lg-4 col-md-4 col-sm-6">
-                    <h3>h3 - Section</h3>
+                    <h3 class="text-start">Southwest Destilaria</h3>
                     <figure>
-                        <img src="http://placekitten.com/287/168" alt="Imagem Via Placeholder">
+                        <img src="../imgs/turismo/vini_south_desktop.jpg" alt="Imagem referente a logo da Southwest Destilaria">
                     </figure>
-                    <p>lorem</p>
-                    <p>impsum</p>
-                    <p>lorem</p>
+                    <p class="text-start"><b>Local:</b> Rua São Bento, 47</p>
+                    <p class="text-start"><b>Site:</b> southwestdestilaria.com.br/</p>
+                    <p class="text-start"><b>Contatos:</b> (11) 99436-7492</p>
                 </section>
 
                 <section class="col-lg-4 col-md-4 col-sm-6">
-                    <h3>h3 - Section</h3>
+                    <h3 class="text-start">Vinhos Frank</h3>
                     <figure>
-                        <img src="http://placekitten.com/287/168" alt="Imagem Via Placeholder">
+                        <img src="../imgs/turismo/vini_frank_desktop.jpg" alt="Imagem referente a logo da Vinhos Frank">
                     </figure>
-                    <p>lorem</p>
-                    <p>impsum</p>
-                    <p>lorem</p>
+                    <p class="text-start"><b>Local:</b> Estrada do Vinho, Km 1</p>
+                    <p class="text-start"><b>Site:</b> www.vinhosfrank.com.br</p>
+                    <p class="text-start"><b>Contatos:</b> (11) 4712-5939</p>
                 </section>
 
                 <section class="col-lg-4 col-md-4 col-sm-6">
-                    <h3>h3 - Section</h3>
+                    <h3 class="text-start">Vinícola Góes</h3>
                     <figure>
-                        <img src="http://placekitten.com/287/168" alt="Imagem Via Placeholder">
+                        <img src="../imgs/turismo/vini_goes_desktop.jpg" alt="Imagem referente a logo da Vinícola Góes">
                     </figure>
-                    <p>lorem</p>
-                    <p>impsum</p>
-                    <p>lorem</p>
+                    <p class="text-start"><b>Local:</b> Estrada do Vinho, Km 9</p>
+                    <p class="text-start"><b>Site:</b> www.vinicolagoes.com.br</p>
+                    <p class="text-start"><b>Contatos:</b> (11) 4711-3500</p>
                 </section>
             </div>
         </article>
 
         <aside>
-            <h2>h2 - Aside</h2>
+            <h2 class="text-start">Restaurantes, Lanchonetes, Cafeterias e Docerias</h2>
             <div class="row">
                 <section class="col-lg-4 col-md-4 col-sm-6">
-                    <h3>h3 - Section</h3>
+                    <h3 class="text-start">Brazão Food Park</h3>
                     <figure>
-                        <img src="http://placekitten.com/287/168" alt="Imagem Via Placeholder">
+                        <img src="../imgs/turismo/res_brazao_desktop.jpg" alt="Imagem referente a logo do Brazão Food Park">
                     </figure>
-                    <p>lorem</p>
-                    <p>impsum</p>
-                    <p>lorem</p>
+                    <p class="text-start"><b>Local:</b> Rua Bento Antônio Pereira, 300</p>
+                    <p class="text-start"><b>Site:</b> instagram.com/brazaofoodpark/</p>
+                    <p class="text-start"><b>Contatos:</b> (11) 99965-0065</p>
                 </section>
 
                 <section class="col-lg-4 col-md-4 col-sm-6">
-                    <h3>h3 - Section</h3>
+                    <h3 class="text-start">Cantina Tia Lina</h3>
                     <figure>
-                        <img src="http://placekitten.com/287/168" alt="Imagem Via Placeholder">
+                        <img src="../imgs/turismo/res_tia_desktop.jpg" alt="Imagem referente a logo do restaurante cantina Tia Lina">
                     </figure>
-                    <p>lorem</p>
-                    <p>impsum</p>
-                    <p>lorem</p>
+                    <p class="text-start"><b>Local:</b> Estrada do Vinho, 10400</p>
+                    <p class="text-start"><b>Site:</b>  www.cantinatialina.com.br/</p>
+                    <p class="text-start"><b>Contatos:</b> (11) 4711-2018</p>
                 </section>
 
                 <section class="col-lg-4 col-md-4 col-sm-6">
-                    <h3>h3 - Section</h3>
+                    <h3 class="text-start">Caracol Chocolates</h3>
                     <figure>
-                        <img src="http://placekitten.com/287/168" alt="Imagem Via Placeholder">
+                        <img src="../imgs/turismo/res_caracol_desktop.jpg" alt="Imagem referente a logo da Caracol Chocolates">
                     </figure>
-                    <p>lorem</p>
-                    <p>impsum</p>
-                    <p>lorem</p>
+                    <p class="text-start"><b>Local:</b> Estrada do Vinho, 400</p>
+                    <p class="text-start"><b>Site:</b> www.caracolchocolates.com.br/</p>
+                    <p class="text-start"><b>Contatos:</b> (11) 99490-0258</p>
                 </section>
             </div>
 
             <div class="row">
                 <section class="col-lg-4 col-md-4 col-sm-6">
-                    <h3>h3 - Section</h3>
+                    <h3 class="text-start">Casa Araucária</h3>
                     <figure>
-                        <img src="http://placekitten.com/287/168" alt="Imagem Via Placeholder">
+                        <img src="../imgs/turismo/res_arau_desktop.jpg" alt="Imagem referente a logo da Casa Araucária">
                     </figure>
-                    <p>lorem</p>
-                    <p>impsum</p>
-                    <p>lorem</p>
+                    <p class="text-start"><b>Local: </b>Estrada do Vinho, 400</p>
+                    <p class="text-start"><b>Site: </b>facebook.com/acasaaraucaria/</p>
+                    <p class="text-start"><b>Contatos:</b> (11) 99508-4122</p>
                 </section>
 
                 <section class="col-lg-4 col-md-4 col-sm-6">
-                    <h3>h3 - Section</h3>
+                    <h3 class="text-start">Mc Donalds</h3>
                     <figure>
-                        <img src="http://placekitten.com/287/168" alt="Imagem Via Placeholder">
+                        <img src="../imgs/turismo/res_mc_desktop.jpg" alt="Imagem referente a logo do McDonalds">
                     </figure>
-                    <p>lorem</p>
-                    <p>impsum</p>
-                    <p>lorem</p>
+                    <p class="text-start"><b>Local:</b> Rua Rafael Costa Dias, 140</p>
+                    <p class="text-start"><b>Site:</b> www.mcdonalds.com.br/</p>
+                    <p class="text-start"><b>Contatos:</b> (11) 4784-7041 </p>
                 </section>
 
                 <section class="col-lg-4 col-md-4 col-sm-6">
-                    <h3>h3 - Section</h3>
+                    <h3 class="text-start">Quinta do Olivardo</h3>
                     <figure>
-                        <img src="http://placekitten.com/287/168" alt="Imagem Via Placeholder">
+                        <img src="../imgs/turismo/res_quinta_desktop.jpg" alt="Imagem referente a logo do Quinta Do olivardo">
                     </figure>
-                    <p>lorem</p>
-                    <p>impsum</p>
-                    <p>lorem</p>
+                    <p class="text-start"><b>Local:</b> Estrada do Vinho, S/N</p>
+                    <p class="text-start"><b>Site:</b> quintadoolivardo.com.br/</p>
+                    <p class="text-start"><b>Contatos:</b> (11) 4711-1100</p>
                 </section>
             </div>
         </aside>
 
         <aside>
-            <h2>h2 - Aside</h2>
+            <h2 class="text-start">Bares</h2>
             <div class="row">
                 <section class="col-lg-4 col-md-4 col-sm-6">
-                    <h3>h3 - Section</h3>
+                    <h3 class="text-start">Come Together</h3>
                     <figure>
-                        <img src="http://placekitten.com/287/168" alt="Imagem Via Placeholder">
+                        <img src="../imgs/turismo/bar_cct_desktop.jpg" alt="Imagem referente a logo do Bar come Together">
                     </figure>
-                    <p>lorem</p>
-                    <p>impsum</p>
-                    <p>lorem</p>
+                    <p class="text-start"><b>Local:</b> Marechal Deodoro da Fonseca, 123</p>
+                    <p class="text-start"><b>Site:</b> (11) 4784-4822</p>
+                    <p class="text-start"><b>Contatos:</b> clubecometogether.com.br/</p>
                 </section>
 
                 <section class="col-lg-4 col-md-4 col-sm-6">
-                    <h3>h3 - Section</h3>
+                    <h3 class="text-start">Rústico Moto Bar</h3>
                     <figure>
-                        <img src="http://placekitten.com/287/168" alt="Imagem Via Placeholder">
+                        <img src="../imgs/turismo/bar_moto_desktop.jpg" alt="Imagem referente a logo do Rustico Moto Bar">
                     </figure>
-                    <p>lorem</p>
-                    <p>impsum</p>
-                    <p>lorem</p>
+                    <p class="text-start"><b>Local:</b> Benedito Silvino de Camargo, 253</p>
+                    <p class="text-start"><b>Site:</b> instagram.com/rusticomotobar/</p>
+                    <p class="text-start"><b>Contatos:</b> (11) 99459-7777</p>
                 </section>
 
                 <section class="col-lg-4 col-md-4 col-sm-6">
-                    <h3>h3 - Section</h3>
+                    <h3 class="text-start">Thanks Brewing Co.</h3>
                     <figure>
-                        <img src="http://placekitten.com/287/168" alt="Imagem Via Placeholder">
+                        <img src="../imgs/turismo/bar_thanks_desktop.jpg" alt="Imagem referente a logo da Thanks Brewing Co.">
                     </figure>
-                    <p>lorem</p>
-                    <p>impsum</p>
-                    <p>lorem</p>
+                    <p class="text-start"><b>Local:</b> Rua Bento Antônio Pereira, 236</p>
+                    <p class="text-start"><b>Site:</b> www.thanksbrewing.com.br/</p>
+                    <p class="text-start"><b>Contatos:</b> (11) 5199-9250</p>
                 </section>
             </div>
         </aside>

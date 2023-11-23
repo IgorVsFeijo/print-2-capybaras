@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>São Roque - Título da Página</title>
+    <title>São Roque - Galeria Brasital</title>
 
     <?php
         include '../includes/inc_head_links.php';
@@ -21,26 +21,24 @@
     <!-- Fim Header -->
     <div class="container text-center">
         <div class="row justify-content-start">
-            <p class="text-start"><b>Home > Galeria</b></p>
+            <p class="text-start"><b>Home > Galeria > Brasital</b></p>
         </div>
         <article>
-            <h1 class="hide">Galeria de fotos dos Pontos Turisticos de São Roque</h1>
+            <h2>Brasital</h2>
             <div class="row">
                 <section class="col-lg-6 col-md-6 col-sm-12">
                   <h3 class="hide">h3 - Section</h3>
-                    <p class="text-start"><b>Brasital</b></p>
                     <figure>
-                        <a href="../turismo/galeria_brasital.php"><img src="../imgs/turismo/brasital_menu_desktop.jpg" alt="Imagem referente o local brasital de são roque"></a>
+                        <img src="../imgs/turismo/brasital_1_desktop.jpg" alt="Imagem referente a uma paisagem da brasital, ponto turistico de são roque">
                     </figure>
                 </section>
 
                 <section class="col-lg-6 col-md-6 col-sm-12">
                   <h3 class="hide">h3 - Section</h3>
-                    <p class="text-start"><b>Pátio Corina</b></p>
                     <figure>
-                        <img src="../imgs/turismo/patio_menu_desktop.jpg" alt="Imagem referente o local Patio Corina de são roque">
+                    <img src="../imgs/turismo/brasital_2_desktop.jpg" alt="Imagem referente a uma paisagem da brasital, ponto turistico de são roque">
                     </figure>
-                </section>
+                  </section>
             </div>
         </article>
 
@@ -49,27 +47,25 @@
             <div class="row">
                 <section class="col-lg-6 col-md-6 col-sm-12">
                   <h3 class="hide">h3 - Section</h3>
-                    <p class="text-start"><b>Estação Ferroviaria</b></p>
                     <figure>
-                    <a href="../turismo/galeria_ferroviaria.php"> <img src="../imgs/turismo/ferro_menu_desktop.jpg" alt="Imagem referente o local estação ferroviaria de são roque"></a>
+                    <img src="../imgs/turismo/brasital_3_desktop.jpg" alt="Imagem referente a uma paisagem da brasital, ponto turistico de são roque">
                     </figure>
                 </section>
 
                 <section class="col-lg-6 col-md-6 col-sm-12">
                   <h3 class="hide">h3 - Section</h3>
-                    <p class="text-start"><b>Recanto da Cascata</b></p>
                     <figure>
-                        <img src="../imgs/turismo/cascata_menu_desktop.jpg" alt="Imagem referente o local recanto da cascata de são roque">
+                    <img src="../imgs/turismo/brasital_4_desktop.jpg" alt="Imagem referente a uma paisagem da brasital, ponto turistico de são roque">
                     </figure>
                 </section>
             </div>
 
+
             <div class="row">
                 <section class="col-lg-12 col-md-12 col-sm-12">
                   <h3 class="hide">h3 - Section</h3>
-                    <p class="text-start"><b>Outlet Catarina</b></p>
                     <figure>
-                        <img src="../imgs/turismo/catarina_menu_desktop.jpg" alt="Imagem referente o local outlet Catarina de são roque">
+                    <img src="../imgs/turismo/brasital_5_desktop.jpg" alt="Imagem referente a uma paisagem da brasital, ponto turistico de são roque">
                     </figure>
                 </section>
             </div>

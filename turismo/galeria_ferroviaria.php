@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>São Roque - Título da Página</title>
+    <title>São Roque - Galeria Estação</title>
 
     <?php
         include '../includes/inc_head_links.php';
@@ -21,24 +21,22 @@
     <!-- Fim Header -->
     <div class="container text-center">
         <div class="row justify-content-start">
-            <p class="col-2">lorem</p>
+            <p class="text-start"><b>Home > Galeria > Estação Ferroviaria</b></p>
         </div>
         <article>
-            <h1>h1 - Article</h1>
+            <h2>Estação Ferroviaria</h2>
             <div class="row">
                 <section class="col-lg-6 col-md-6 col-sm-12">
                   <h3 class="hide">h3 - Section</h3>
-                    <p>lorem</p>
                     <figure>
-                        <img src="http://placekitten.com/420/300" alt="Imagem Via Placeholder">
+                        <img src="../imgs/turismo/ferro_1_desktop.jpg" alt="Imagem referente a uma paisagem da estação ferroviaria, ponto turistico de são roque">
                     </figure>
                 </section>
 
                 <section class="col-lg-6 col-md-6 col-sm-12">
                   <h3 class="hide">h3 - Section</h3>
-                    <p>lorem</p>
                     <figure>
-                        <img src="http://placekitten.com/420/300" alt="Imagem Via Placeholder">
+                    <img src="../imgs/turismo/ferro_2_desktop.jpg" alt="Imagem referente a uma paisagem da estação ferroviaria, ponto turistico de são roque">
                     </figure>
                   </section>
             </div>
@@ -49,17 +47,15 @@
             <div class="row">
                 <section class="col-lg-6 col-md-6 col-sm-12">
                   <h3 class="hide">h3 - Section</h3>
-                    <p>lorem</p>
                     <figure>
-                        <img src="http://placekitten.com/420/300" alt="Imagem Via Placeholder">
+                    <img src="../imgs/turismo/ferro_3_desktop.jpg" alt="Imagem referente a uma paisagem da estação ferroviaria, ponto turistico de são roque">
                     </figure>
                 </section>
 
                 <section class="col-lg-6 col-md-6 col-sm-12">
                   <h3 class="hide">h3 - Section</h3>
-                    <p>lorem</p>
                     <figure>
-                        <img src="http://placekitten.com/420/300" alt="Imagem Via Placeholder">
+                    <img src="../imgs/turismo/ferro_4_desktop.jpg" alt="Imagem referente a uma paisagem da estação ferroviaria, ponto turistico de são roque">
                     </figure>
                 </section>
             </div>
@@ -68,9 +64,8 @@
             <div class="row">
                 <section class="col-lg-12 col-md-12 col-sm-12">
                   <h3 class="hide">h3 - Section</h3>
-                    <p>lorem</p>
                     <figure>
-                        <img src="http://placekitten.com/928/300" alt="Imagem Via Placeholder">
+                    <img src="../imgs/turismo/ferro_5_desktop.jpg" alt="Imagem referente a uma paisagem da estação ferroviaria, ponto turistico de são roque">
                     </figure>
                 </section>
             </div>
