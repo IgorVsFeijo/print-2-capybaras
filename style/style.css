@@ -311,3 +311,6 @@ footer i.btn{
 .dúvida{
     background-color: rgb(197, 196, 195);
 }
+main#perguntas{
+    padding: 2em 0em;
+}
