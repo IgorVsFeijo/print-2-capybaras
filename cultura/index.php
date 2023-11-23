@@ -60,7 +60,7 @@
                             </section>
                         </div>
                     </div>
-                    <div class="row col-12">
+                    <div class="row col-12 conhecamais">
                         <h2>CONHEÇA MAIS!</h2>
                         <section class="col-md-6 text-center" >
                             <h2 class="hide">Section - h2</h2>

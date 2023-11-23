@@ -45,7 +45,6 @@
                             <source srcset="../imgs/cultura/brasital2.jpg" media="(min-width: 992px)" /><img>
                           </picture>
                         </figure>
-                        
                       </section>
                     </div>
                     <div class="row col-12">
@@ -81,7 +80,7 @@
                       </section>
                     </div>
                 </div>
-                <div class="row col-12">
+                <div class="row col-12 secao_artistas">
                     <h2>GRUPOS ARTÍSTICOS</h2>
                     <div class="row grupos">
                       <section class="col-md-6 col-lg-4 grupo">

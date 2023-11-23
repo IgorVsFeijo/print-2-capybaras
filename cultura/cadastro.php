@@ -36,7 +36,7 @@
                   </div>
                   <div class="col-8">
                     <label for="inputTextarea" class="form-label">Objetivos</label>
-                    <textarea type="text" class="form-control" id="inputTextarea" placeholder="Digite aqui os seus objetivos ou os objetivos do grupo"></textarea>
+                    <textarea type="text" class="form-control" height="" id="inputTextarea" placeholder="Digite aqui os seus objetivos ou os objetivos do grupo"></textarea>
                   </div>
                   <div class="col-4">
                     <div class="col-12">

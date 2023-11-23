@@ -61,39 +61,39 @@
                         </thead>
                         <tbody>
                         <tr>
-                              <td>lipsum</td>
-                              <td>lipsum</td>
-                              <td>lipsum</td>
+                              <td>Sala 01</td>
+                              <td>25/11 - 26/11</td>
+                              <td>SIM</td>
                           </tr>
                           <tr>
-                              <td>lipsum</td>
-                              <td>lipsum</td>
-                              <td>lipsum</td>
+                              <td>Sala 02</td>
+                              <td>02/12 - 03/12</td>
+                              <td>SIM</td>
                           </tr>
                           <tr>
-                              <td>lipsum</td>
-                              <td>lipsum</td>
-                              <td>lipsum</td>
+                              <td>Sala 03</td>
+                              <td>02/12 - 03/12</td>
+                              <td>NÃO</td>
                           </tr>
                           <tr>
-                              <td>lipsum</td>
-                              <td>lipsum</td>
-                              <td>lipsum</td>
+                              <td>Sala 04</td>
+                              <td>25/11 - 26/11</td>
+                              <td>SIM</td>
                           </tr>
                           <tr>
-                              <td>lipsum</td>
-                              <td>lipsum</td>
-                              <td>lipsum</td>
+                              <td>Sala 05</td>
+                              <td>25/11 - 26/11</td>
+                              <td>NÃO</td>
                           </tr>
                           <tr>
-                              <td>lipsum</td>
-                              <td>lipsum</td>
-                              <td>lipsum</td>
+                              <td>Sala 06</td>
+                              <td>09/12 - 10/12</td>
+                              <td>SIM</td>
                           </tr>
                           <tr>
-                              <td>lipsum</td>
-                              <td>lipsum</td>
-                              <td>lipsum</td>
+                              <td>Sala 07</td>
+                              <td>02/12 - 03/12</td>
+                              <td>NÃO</td>
                           </tr>
                         </tbody>
                       </table>

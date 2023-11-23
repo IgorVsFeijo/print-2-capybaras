@@ -21,8 +21,7 @@
 
     <!-- Fim Header -->
       <div class="container">
-
-        <main>
+        <main id="tradicoes">
             <figure class="text-center">
                 <img src="../imgs/cultura/festaagostoilustracao.jpg" alt="Visão Aérea da Festa de Agosto durante a noite, no último dia da festa">
             </figure>
@@ -32,7 +31,7 @@
             </aside>
             <div>
               <article class="row col-12">
-                <section class="row col-lg-6">
+                <section class="row col-lg-6 festasagosto">
                   <h2 class="hide">section-h2</h2>
                         <div class="col-sm-6 col-lg-12">
                           <h3>Festas de Agosto</h3>
@@ -49,7 +48,7 @@
                         <p>Como um evento comemorativo e religioso, a festa se inicia em julho com a novena realizada no Morro do Cruzeiro. A partir de então, no fim do mês, a abertura das barracas marca o começo do evento festivo, que desde 2022, se desdobra entre o Centro e o Recanto da Cascata, com barracas de doces, salgados, espetos e parque de diversões para os menores. Isso tudo acompanhado por shows ao vivo diários de bandas talentosas da região.</p>
                         <p class="col-12">A festa é finalizada em seu ápice nos dias 15 e 16 de Agosto com as procissões de Nossa Senhora da Assunção e do padroeiro São Roque, respectivamente, atraindo milhares de fiéis para a belíssima conclusão. Até hoje, as Festas de Agosto se consolidam como o maior evento festivo e religioso da região.</p>
                 </section>
-                <section class="row col-lg-6">
+                <section class="row col-lg-6 exposr">
                   <h2 class="hide">section -  h2</h2>
                         <picture class="col-sm-6 col-md-6 col-lg-12 d-lg-none text-center">
                             <source media="(max-width: 992px)" srcset="../imgs/cultura/exposaoroque.jpg"><img>
