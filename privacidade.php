@@ -22,7 +22,7 @@
     <!-- Fim Header -->
 
     <div class="container">
-      <main class="row">
+      <main class="row privacidade">
         <h1>Privacidade</h1>
         <article>
           <h2>Termos de uso</h2>
@@ -32,8 +32,8 @@
           </p>
         </article>
 
-        <article>
-          <h2>Política de Privacidade</h2>
+        <article class="privacidade_politica">
+          <h2 class="text-center">Política de Privacidade</h2>
           <div class="row">
             <section class="col-lg-6">
               <h3>Coleta de dados</h3>
@@ -54,36 +54,39 @@
                 <li>A Prefeitura Municipal de São Roque não se responsabiliza pela veracidade das informações inseridas pelo usuário, tendo em vista que este é encarregado da atualização de dados pessoais e da veracidade das informações solicitadas.</li>
               </ol>
             </section>
+
             <section class="col-lg-6">
               <h3>Uso de dados</h3>
-              <ol>
-                <li>
-                Uso e Consentimento de Dados:
-                  <ol>
-                    <li>Os dados fornecidos pelo usuário são utilizados para gerenciar o sistema, prever fraudes, fornecer informações solicitadas e autenticação nos serviços. A aceitação do usuário é necessária, que é solicitada  no momento da inserção de dados.</li>
-                  </ol>
-                </li>
-                <li>
-                Compartilhamento de Dados:
-                  <ol>
-                    <li>As informações coletadas podem ser compartilhadas com autoridades competentes mediante ordem judicial e, exclusivamente para o serviço eletrônico do PAT (Posto de Atendimento ao Trabalhador), com empresas privadas para preenchimento de quadro de funcionários.</li>
-                    <li>As informações coletadas podem ser partilhadas com as autoridades competentes por meio de uma ordem judicial e, somente para o serviço de empregabilidade com empresas privadas para preencher o quadro de funcionários.</li>
-                  </ol>
-                </li>
-                <li>
-                Responsabilidade do Usuário:
-                  <ol>
-                    <li>É de responsabilidade do usuário a confidencialidade de seus dados e informações de acesso. Não é de responsabilidade da prefeitura os acessos indevidos vindos do compartilhamento de senhas. O acesso interno aos dados é limitado a funcionários autorizados.</li>
-                  </ol>
-                </li>
-              </ol>
+                <ol>
+                  <li>
+                  Uso e Consentimento de Dados:
+                    <ol>
+                      <li>Os dados fornecidos pelo usuário são utilizados para gerenciar o sistema, prever fraudes, fornecer informações solicitadas e autenticação nos serviços. A aceitação do usuário é necessária, que é solicitada  no momento da inserção de dados.</li>
+                    </ol>
+                  </li>
+                  <li>
+                  Compartilhamento de Dados:
+                    <ol>
+                      <li>As informações coletadas podem ser compartilhadas com autoridades competentes mediante ordem judicial e, exclusivamente para o serviço eletrônico do PAT (Posto de Atendimento ao Trabalhador), com empresas privadas para preenchimento de quadro de funcionários.</li>
+                      <li>As informações coletadas podem ser partilhadas com as autoridades competentes por meio de uma ordem judicial e, somente para o serviço de empregabilidade com empresas privadas para preencher o quadro de funcionários.</li>
+                    </ol>
+                  </li>
+                  <li>
+                  Responsabilidade do Usuário:
+                    <ol>
+                      <li>É de responsabilidade do usuário a confidencialidade de seus dados e informações de acesso. Não é de responsabilidade da prefeitura os acessos indevidos vindos do compartilhamento de senhas. O acesso interno aos dados é limitado a funcionários autorizados.</li>
+                    </ol>
+                  </li>
+                </ol>
             </section>
+
             <section class="col-lg-6">
               <h3>Armazenamento de dados</h3>
               <p>
               Os dados do conteúdo do site e os dados do usuário registrados no sistemas são armazenados em servidores externos com Data Centers localizados na cidade de São Paulo com monitoramento a todo momento por câmeras com detecção de movimento, gravação e armazenamento. O acesso é feito por dupla autenticação: biométrica e cartão magnético. Para garantir a constante disponibilidade das informações, os Data Centers são abastecidos por uma Subestação própria redundante Tri-bus, que conta com três linhas de energia e um sistema de geração a diesel capaz de operar autonomamente por 48 horas sem necessidade de reabastecimento.
               </p>
             </section>
+
             <section class="col-lg-6">
               <h3>Política de Cookies</h3>
               <ol>
@@ -107,6 +110,7 @@
                 </li>
               </ol>
             </section>
+
             <section>
               <h3>Disposições gerais</h3>
               <p>
