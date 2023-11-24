@@ -23,11 +23,11 @@
     <!-- Fim Header -->
 
     <div class="container ">
-        <main>
+        <main class="cidadao_transporte">
             <article class="row gx-5 gy-5">
                 <h1 class="col-12">Trânsito</h1>
-                <section class="col-lg-4 col-md-12 col-sm-12 sombra cidadao_noticia">
-                    <div class="row">
+                <section class="col-lg-4 col-md-12 col-sm-12 cidadao_noticia">
+                    <div class="row sombra cidadao_noticias_p">
                         <figure class="col-lg-12 col-md-4 text-center"><img src="../imgs/cidadao/cidadao_caminhao_.jpg" alt="a traseira de um caminhão com uma pessoa saindo dele, o caminhão está com uma roda dianteira dentor de um buraco; há um carro branco ao lado"></figure>
                         <div class="col-lg-12 col-md-8">
                             <h2>Notícia</h2>
@@ -36,8 +36,8 @@
                         </div>
                     </div>
                 </section>
-                <section class="col-lg-4 col-md-12 col-sm-12 sombra cidadao_noticia">
-                    <div class="row">
+                <section class="col-lg-4 col-md-12 col-sm-12 cidadao_noticia">
+                    <div class="row sombra cidadao_noticias_p">
                         <figure class="col-lg-12 col-md-4 text-center"><img src="../imgs/cidadao/cidadao_castelo_.jpg" alt="um ponto de pedágo com dois caminhões passando"></figure>
                         <div class="col-lg-12 col-md-8">
                             <h2>Notícia</h2>
@@ -46,8 +46,8 @@
                         </div>
                     </div>
                 </section>
-                <section class="col-lg-4 col-md-12 col-sm-12 sombra cidadao_noticia">
-                    <div class="row">
+                <section class="col-lg-4 col-md-12 col-sm-12 cidadao_noticia">
+                    <div class="row sombra cidadao_noticias_p">
                         <figure class="col-lg-12 col-md-4 text-center"><img src="../imgs/cidadao/cidadao_lint_.jpeg" alt="um print do site do app de transporte Liint"></figure>
                         <div class="col-lg-12 col-md-8">
                             <h2>Notícia</h2>
@@ -56,8 +56,8 @@
                         </div>
                     </div>
                 </section>
-                <section class="col-lg-4 col-md-12 col-sm-12 sombra cidadao_noticia">
-                    <div class="row">
+                <section class="col-lg-4 col-md-12 col-sm-12 cidadao_noticia">
+                    <div class="row sombra cidadao_noticias_p">
                         <figure class="col-lg-12 col-md-4 text-center"><img src="../imgs/cidadao/cidadao_carros_.jpg" alt="um carro antgo abandonado em um arua com outros carros"></figure>
                         <div class="col-lg-12 col-md-8">
                             <h2>Notícia</h2>
@@ -66,8 +66,8 @@
                         </div>
                     </div>
                 </section>
-                <section class="col-lg-4 col-md-12 col-sm-12 sombra cidadao_noticia">
-                    <div class="row">
+                <section class="col-lg-4 col-md-12 col-sm-12 cidadao_noticia">
+                    <div class="row sombra cidadao_noticias_p">
                         <figure class="col-lg-12 col-md-4 text-center"><img src="../imgs/cidadao/cidadao_obras_.jpg" alt="dois carros vermelhos vistos lateralmente passando em uma rodovia"></figure>
                         <div class="col-lg-12 col-md-8">
                             <h2>Notícia</h2>
@@ -76,8 +76,8 @@
                         </div>
                     </div>
                 </section>
-                <section class="col-lg-4 col-md-12 col-sm-12 sombra cidadao_noticia">
-                    <div class="row">
+                <section class="col-lg-4 col-md-12 col-sm-12 cidadao_noticia">
+                    <div class="row sombra cidadao_noticias_p">
                         <figure class="col-lg-12 col-md-4 text-center"><img src="../imgs/cidadao/cidadao_linha_.jpg" alt="a traseira de um ônibus azul"></figure>
                         <div class="col-lg-12 col-md-8">
                             <h2>Notícia</h2>
@@ -112,29 +112,29 @@
 
             <section>
         <h1>Horários de ônibus</h1>
-        <div class="row row-gap-1 justify-content-around">
-            <a class="btn btn-vermais col-lg-3 col-md-4 col-sm-12" data-bs-toggle="collapse" href="#Paisagem" role="button" aria-expanded="false" aria-controls="Paisagem">
+        <div class="row  justify-content-around">
+            <a class="btn btn-onibus col-lg-3 col-md-4 col-sm-12" data-bs-toggle="collapse" href="#Paisagem" role="button" aria-expanded="false" aria-controls="Paisagem">
                 Paisagem Colonial
             </a>
-            <a class="btn btn-vermais col-lg-3 col-md-4 col-sm-12" data-bs-toggle="collapse" href="#Santo" role="button" aria-expanded="false" aria-controls="Santo">
+            <a class="btn btn-onibus col-lg-3 col-md-4 col-sm-12" data-bs-toggle="collapse" href="#Santo" role="button" aria-expanded="false" aria-controls="Santo">
                 Santo Antônio
             </a>
-            <a class="btn btn-vermais col-lg-3 col-md-4 col-sm-12" data-bs-toggle="collapse" href="#Canguera" role="button" aria-expanded="false" aria-controls="Canguera">
+            <a class="btn btn-onibus col-lg-3 col-md-4 col-sm-12" data-bs-toggle="collapse" href="#Canguera" role="button" aria-expanded="false" aria-controls="Canguera">
                 Canguera
             </a>
-            <a class="btn btn-vermais col-lg-3 col-md-4 col-sm-12" data-bs-toggle="collapse" href="#Mailasqui" role="button" aria-expanded="false" aria-controls="Mailasqui">
+            <a class="btn btn-onibus col-lg-3 col-md-4 col-sm-12" data-bs-toggle="collapse" href="#Mailasqui" role="button" aria-expanded="false" aria-controls="Mailasqui">
                 Mailasqui
             </a>
-            <a class="btn btn-vermais col-lg-3 col-md-4 col-sm-12" data-bs-toggle="collapse" href="#Guacu" role="button" aria-expanded="false" aria-controls="Guacu">
+            <a class="btn btn-onibus col-lg-3 col-md-4 col-sm-12" data-bs-toggle="collapse" href="#Guacu" role="button" aria-expanded="false" aria-controls="Guacu">
                 Guaçu
             </a>
-            <a class="btn btn-vermais col-lg-3 col-md-4 col-sm-12" data-bs-toggle="collapse" href="#Taboao" role="button" aria-expanded="false" aria-controls="Taboao">
+            <a class="btn btn-onibus col-lg-3 col-md-4 col-sm-12" data-bs-toggle="collapse" href="#Taboao" role="button" aria-expanded="false" aria-controls="Taboao">
                 Taboão
             </a>
-            <a class="btn btn-vermais col-lg-3 col-md-6 col-sm-12" data-bs-toggle="collapse" href="#Suica" role="button" aria-expanded="false" aria-controls="Suica">
+            <a class="btn btn-onibus col-lg-3 col-md-6 col-sm-12" data-bs-toggle="collapse" href="#Suica" role="button" aria-expanded="false" aria-controls="Suica">
                 Suíça
             </a>
-            <a class="btn btn-vermais col-lg-3 col-md-6 col-sm-12" data-bs-toggle="collapse" href="#Sao" role="button" aria-expanded="false" aria-controls="Sao">
+            <a class="btn btn-onibus col-lg-3 col-md-6 col-sm-12" data-bs-toggle="collapse" href="#Sao" role="button" aria-expanded="false" aria-controls="Sao">
                 São João Novo
             </a>
         </div>

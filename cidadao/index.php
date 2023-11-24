@@ -30,7 +30,7 @@
                 <section class="row">
                     <h2 class="text-center">Empregabilidade</h2>
                     <section class="col-lg-12 col-md-12 col-sm-12">
-                        <div class="row cidadao_noticias">
+                        <div class="row cidadao_noticias align-items-center">
                             <figure class="col-lg-4 text-center">
                                 <img src="../imgs/cidadao/cidadao_empresa_150.jpg" alt="uma ilustração com duas figuras humanas apontando para uma prancheta do tamanho deles">
                             </figure>
@@ -40,7 +40,7 @@
                                 <a class="btn btn-vermais" href="#">Ver mais</a>
                             </div>
                         </div>
-                        <div class="row cidadao_noticias">
+                        <div class="row cidadao_noticias align-items-center">
                             <figure class="col-lg-4 text-center">
                                 <img src="../imgs/cidadao/cidadao_fatec_150.jpeg" alt="a faixada da fatec são roque com um carro branco na frente">
                             </figure>
