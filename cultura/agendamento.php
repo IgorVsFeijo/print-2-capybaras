@@ -45,7 +45,7 @@
                             <input type="tel" class="form-control" id="inputPhone4" placeholder="(00)00000-0000">
                           </div>
                           <label class="g-4">
-                            <button class="btn btn-secondary botao_agenda">ENVIAR</button>
+                            <button type="submit" class="btn btn-primary botao_agenda">ENVIAR</button>
                           </label>
                         </form>
                   </section>
@@ -98,12 +98,7 @@
                         </tbody>
                       </table>
                   </section>
-
                 </div>
-                <section>
-                    <h2 class="hide">Section - h2</h2>
-                    
-                </section>
             </article>
         </main>
 

@@ -5,19 +5,27 @@ main{
     padding: 2em 0em;
 }
 .noticias_cultura{
-    box-shadow: 3px 4px 4px 1px rgba(85, 85, 85, 0.5);
+    box-shadow: 3px 4px 4px 3px rgba(85, 85, 85, 0.5);
     padding: 20px;
     background-color: #1d2f6f;
     color: white;
+    border-radius: 2em;
 }
 .notícia_mobile{
     box-shadow: 0px 3px 3px 0px rgba(85, 85, 85, 0.2);
     padding: .5em .4em 0em .4em;
     background-color: #00a6a659;
+    border-radius: 1em;
 }
 .notícia_mobile p{
     font-size: 1.1em;
     font-weight: bold;
+}
+.conhecamais{
+    background-color: #00a6a6;
+    border-radius: 2em;
+    margin-top: 1em;
+    box-shadow: 0px 2px 4px 3px rgba(85, 85, 85, 0.5);
 }
 #culturasr article{
     text-align: justify;
@@ -28,6 +36,10 @@ main{
     background-color: #ff9f1c;
     box-shadow: 0px 2px 1px 3px rgba(85, 85, 85, 0.5);
     padding-top: 1em;
+    margin-bottom: 2em;
+}
+.secao_artistas{
+    margin-top: 1em;
 }
 .grupos{
     border: 3px solid;
@@ -43,10 +55,21 @@ main{
 .jamais_vistos{
     border: none;
 }
+.festasagosto, .exposr{
+    background-color: #1d2f6f;
+    color: white;
+    padding: .5em .5em;
+    border-radius: 2em;
+    margin-bottom: 1.3em;
+    box-shadow: 0px 3px 3px 3px rgba(85, 85, 85, 0.5);
+}
+.festasagosto{
+    margin-right: 2em;
+}
 .botao_cultura{
-    margin-left: 40em;
+    margin-left: 65em;
 }
 .botao_agenda{
-    margin-left: 35em;
+    margin-left: 30em;
 }
 /* FIM CSS AREA CULTURA */
