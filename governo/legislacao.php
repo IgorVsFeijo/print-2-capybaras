@@ -30,16 +30,16 @@
 
             <h2>Lei Orgânica do Município</h2>
 
-            <p>Fusce ut tellus orci. Proin tincidunt dolor quis sagittis blandit. Donec rhoncus enim vitae nunc lacinia,at aliquet tellus convallis. In maximus quis enim auctor mollis. Duis pharetra mollis urna quissagittis. Ut sagittis cursus purus in blandit. Praesent vehicula rutrum est at consectetur. Nullam acsollicitudin turpis. Cras suscipit libero quis lectus tincidunt, nec tristique dui placerat. Phasellus at massa eget libero rhoncus pellentesque.</p>
+            <p>A Lei Orgânica define os fundamentos da organização do município, como a divisão dos poderes (Executivo, Legislativo e, eventualmente, Judiciário), os direitos e deveres dos cidadãos, a organização administrativa, os processos de elaboração do orçamento e legislação municipal, além de outras disposições referentes à gestão pública local. Ela é de extrema importância, pois rege todas as atividades administrativas e políticas do município, estabelecendo os limites e as diretrizes para o exercício do poder, buscando garantir a autonomia municipal e o bem-estar da comunidade. </p>
 
         </article>
 
         <aside class="col-lg-6 col-md-6 col-sm-12">
 
             <img src="http://placekitten.com/350/200" alt="foto de gato">
-            <h2>Lei de Diretrizer Orçamentárias</h2>
+            <h2>Lei de Diretrizes Orçamentárias</h2>
 
-            <p>Fusce ut tellus orci. Proin tincidunt dolor quis sagittis blandit. Donec rhoncus enim vitae nunc lacinia,at aliquet tellus convallis. In maximus quis enim auctor mollis. Duis pharetra mollis urna quissagittis. Ut sagittis cursus purus in blandit. Praesent vehicula rutrum est at consectetur. Nullam acsollicitudin turpis. Cras suscipit libero quis lectus tincidunt, nec tristique dui placerat. Phasellus at massa eget libero rhoncus pellentesque.</p>
+            <p>A Lei de Diretrizes Orçamentárias (LDO) é um instrumento fundamental na estruturação do planejamento financeiro do país. Elaborada anualmente, a LDO estabelece as metas e prioridades do governo para o próximo exercício fiscal, orientando a elaboração da Lei Orçamentária Anual (LOA).Essa lei é essencial para garantir a transparência, a eficiência e a disciplina fiscal na gestão dos recursos públicos, proporcionando um planejamento mais sólido e alinhado com as necessidades e possibilidades do país.</p>
         </aside>
     </div>
 
@@ -50,7 +50,7 @@
 
         <section class="col-lg-6 col-md-6 col-sm-12">
 
-            <p>Fusce ut tellus orci. Proin tincidunt dolor quis sagittis blandit. Donec rhoncus enim vitae nunc lacinia,at aliquet tellus convallis. In maximus quis enim auctor mollis. Duis pharetra mollis urna quissagittis. Ut sagittis cursus purus in blandit. Praesent vehicula rutrum est at consectetur. Nullam acsollicitudin turpis. Cras suscipit libero quis lectus tincidunt, nec tristique dui placerat. Phasellus at massa eget libero rhoncus pellentesque.</p>
+            <p>Um Plano Plurianual (PPA) é um instrumento de planejamento de médio prazo adotado pelo governo, seja em nível federal, estadual ou municipal, que estabelece as diretrizes, objetivos e metas para um período de quatro anos. Ele define as prioridades, programas e ações que orientarão as políticas públicas e os investimentos do governo ao longo desse período, alinhando-se com as necessidades e demandas da sociedade. O PPA visa promover a continuidade e a consistência das ações governamentais, possibilitando uma gestão mais eficiente e transparente dos recursos públicos.</p>
 
         </section>
 
