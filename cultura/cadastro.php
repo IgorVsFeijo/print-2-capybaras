@@ -22,6 +22,9 @@
     <!-- Fim Header -->
 
     <div class="container">
+    <div class="row text-start">
+            <b><a href="../cultura/index.php">Home</a> <i class="bi bi-arrow-right"></i> <a href="../cultura/cadastro.php">Cadastro de Artistas e Grupos</a></b>
+        </div>
         <main>
             <article>
                 <h2>Faça seu cadastro!</h2>

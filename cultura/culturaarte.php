@@ -21,6 +21,9 @@
 
     <!-- Fim Header -->
     <div class="container">
+    <div class="row text-start">
+            <b><a href="../cultura/index.php">Home</a> <i class="bi bi-arrow-right"></i> <a href="../cultura/culturaarte.php">Cultura e Arte</a></b>
+        </div>
         <main id="culturasr">
             <article>
                 <div class="col-12">
