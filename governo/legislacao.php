@@ -51,7 +51,7 @@
 
         <section class="col-lg-6 col-md-6 col-sm-12">
 
-            <p>Um Plano Plurianual (PPA) é um instrumento de planejamento de médio prazo adotado pelo governo, seja em nível federal, estadual ou municipal, que estabelece as diretrizes, objetivos e metas para um período de quatro anos. Ele define as prioridades, programas e ações que orientarão as políticas públicas e os investimentos do governo ao longo desse período, alinhando-se com as necessidades e demandas da sociedade. O PPA visa promover a continuidade e a consistência das ações governamentais, possibilitando uma gestão mais eficiente e transparente dos recursos públicos.</p>
+            <p>O Plano Plurianual (PPA) é um instrumento de planejamento de médio prazo adotado pelo governo, seja em nível federal, estadual ou municipal, que estabelece as diretrizes, objetivos e metas para um período de quatro anos. Ele define as prioridades, programas e ações que orientarão as políticas públicas e os investimentos do governo ao longo desse período, alinhando-se com as necessidades e demandas da sociedade. O PPA visa promover a continuidade e a consistência das ações governamentais, possibilitando uma gestão mais eficiente e transparente dos recursos públicos.</p>
 
         </section>
 
