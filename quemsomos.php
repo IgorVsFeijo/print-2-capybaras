@@ -36,7 +36,7 @@
         <article>
           <div class="row align-items-center sombra">
             <figure class="col-lg-4 col-md-4 text-center">
-              <img src="https://placekitten.com/200/200" alt="" />
+              <img src="imgs/Emanuele.jpeg" alt="" />
             </figure>
             <div class="col-lg-8 col-md-8 quemsomos_conteudo align-items-center">
               <h2>Emanuele Cristina da Silva</h2>
@@ -53,7 +53,7 @@
         <article>
           <div class="row align-items-center sombra">
             <figure class="col-lg-4 col-md-4 text-center">
-              <img src="https://placekitten.com/200/200" alt="" />
+              <img src="imgs/Henrique.jpeg" alt="" />
             </figure>
             <div class="col-lg-8 col-md-8 quemsomos_conteudo align-items-center">
               <h2>Henrique Silva Ribeiro</h2>
@@ -70,7 +70,7 @@
         <article>
           <div class="row align-items-center sombra">
             <figure class="col-lg-4 col-md-4 text-center">
-              <img src="https://placekitten.com/200/200" alt="" />
+              <img src="imgs/Igor.jpeg" alt="" />
             </figure>
             <div class="col-lg-8 col-md-8 quemsomos_conteudo align-items-center">
               <h2>Igor Vinicius Silveira Feijó</h2>
@@ -87,7 +87,7 @@
         <article>
               <div class="row align-items-center sombra">
                 <figure class="col-lg-4 col-md-4 text-center">
-                  <img src="https://placekitten.com/200/200" alt="" />
+                  <img src="imgs/Joao.jpg" alt="" />
                 </figure>
                 <div class="col-lg-8 col-md-8 quemsomos_conteudo align-items-center">
                   <h2>João Paulo de Sousa</h2>
@@ -104,7 +104,7 @@
         <article>
           <div class="row align-items-center sombra">
             <figure class="col-lg-4 col-md-4 text-center">
-              <img src="https://placekitten.com/200/200" alt="" />
+              <img src="imgs/Leonardo.jpeg" alt="" />
             </figure>
             <div class="col-lg-8 col-md-8 quemsomos_conteudo align-items-center">
               <h2>Leonardo Marques</h2>
@@ -121,7 +121,7 @@
         <article>
           <div class="row align-items-center sombra">
             <figure class="col-lg-4 col-md-4 text-center">
-              <img src="https://placekitten.com/200/200" alt="" />
+              <img src="imgs/Pietro.jpeg" alt="" />
             </figure>
             <div class="col-lg-8 col-md-8 quemsomos_conteudo align-items-center">
               <h2>Pietro Ricardo Black Fracalanza Muzy</h2>
@@ -129,7 +129,7 @@
               <p>
               Olá, nobre visitante do nosso site. Eu me chamo Pietro Ricardo, tenho 18 anos e sou uma pessoa hiperativa, apaixonado pelo mundo virtual. Até!!!
               </p>
-              <p><b>Função:</b> Editor de fotos</p>
+              <p><b>Função:</b> Designer</p>
               <p><b>Área:</b> <a href="../print-2-capybaras/turismo/index.php">Turismo</a></p>
             </div>
           </div>
