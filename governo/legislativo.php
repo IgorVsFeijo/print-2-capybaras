@@ -34,7 +34,7 @@
     </div>
     <div class="row">
         <section class="col-lg-12 col-md-12 col-sm-12">
-            <h1>Poder Executivo</h1>
+            <h1>Poder Legislativo</h1>
         </section>
         <aside class="col-lg-6 col-md-6 col-sm-12">
             <h2>PRESIDENTE DA CÂMARA</h2>

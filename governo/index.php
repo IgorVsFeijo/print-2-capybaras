@@ -27,18 +27,22 @@
         <article class="col-lg-8 col-md-6 col-sm-12">
             <h1>Legislação Municipal</h1>
             <img src="http://placekitten.com/600/300" alt="foto de gato">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean fermentum malesuada dapibus. Praesentfacilisis rutrum sem, eget fringilla ante. Nam fringilla sagittis lacus eget gravida.</p>
-            <p>
+            <p>Saiba mais sobre os projetos que estão em pauta na prefeitura da cidade, sobre as Leis de Diretrizes Orçamentárias, a Lei orgânica do Município e o Plano Plurianual da cidade de São Roque. <a href="legislacao.php">Leia Mais</a> 
+            </p>
         </article>
-        <aside class="col-lg-4 col-md-6 col-sm-12">
 
+        <aside class="col-lg-4 col-md-6 col-sm-12 aside_home_gov">
+          <div class="container text-center">
+            <h1>Secretarias</h1>
             <figure class="col-lg-4 col-md-6 col-sm-12">
                 <img src="http://placekitten.com/400/300" alt="foto de gato">
+                <figcaption> <a href="secretarias.php">Leia mais</a></figcaption>
             </figure>
             <figure class="col-lg-4 col-md-6 col-sm-12">
                 <img src="http://placekitten.com/400/300" alt="foto de gato">
-                <figcaption> <h2>Secretarias</h2> </figcaption>
+                <figcaption> <a href="secretarias.php">Leia mais</a></figcaption>
             </figure>
+          </div>
 
         </aside>
     </div>
@@ -49,22 +53,14 @@
             <figure>
                 <img src="http://placekitten.com/300/200" alt="foto de gato">
             </figure>
-            <p>Fusce ut tellus orci. Proin tincidunt dolor quis sagittis blandit. Donec rhoncus enim vitae nunc lacinia,
-                at aliquet tellus convallis. In maximus quis enim auctor mollis. Duis pharetra mollis urna quis
-                sagittis. Ut sagittis cursus purus in blandit. Praesent vehicula rutrum est at consectetur. Nullam ac
-                sollicitudin turpis. Cras suscipit libero quis lectus tincidunt, nec tristique dui placerat. Phasellus
-                at massa eget libero rhoncus pellentesque.</p>
+            <p>Saiba mais sobre o prefeito e o vice-prefeito da cidade de São Roque, um pouco da biografia e história das pessoas que estão a frente do governo você pode encontrar na página do poder executivo. <a href="prefeitura.php">Saiba Mais</a></p>
         </section>
         <section class="col-lg-6 col-md-6 col-sm-12">
             <H2>PODER LEGISLATIVO</H2>
             <figure>
                 <img src="http://placekitten.com/300/200" alt="foto de gato">
             </figure>
-            <p>Fusce ut tellus orci. Proin tincidunt dolor quis sagittis blandit. Donec rhoncus enim vitae nunc lacinia,
-                at aliquet tellus convallis. In maximus quis enim auctor mollis. Duis pharetra mollis urna quis
-                sagittis. Ut sagittis cursus purus in blandit. Praesent vehicula rutrum est at consectetur. Nullam ac
-                sollicitudin turpis. Cras suscipit libero quis lectus tincidunt, nec tristique dui placerat. Phasellus
-                at massa eget libero rhoncus pellentesque.</p>
+            <p>Saiba mais sobre quem compõe a Câmara de Vereadores da Cidade e um pouco sobre a importância dessa instituição nas decisões tomadas para melhoria de São Roque <a href="legislativo.php">Saiba Mais</a></p>
         </section>
        
     </div>
