@@ -2,6 +2,10 @@
 
 /* INICIO CSS AREA TURISMO */
 
+.not_titulos{
+    font-weight: bold;
+}
+
 .tur_back{
     background-color: #00A6A6;
 }

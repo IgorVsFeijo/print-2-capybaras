@@ -11,6 +11,8 @@
         include 'includes/inc_head_links.php';
       ?>
 
+    <link rel="stylesheet" href="../print-2-capybaras/style/turismo.css">
+
 </head>
 
 <body>
@@ -22,67 +24,51 @@
 
     <!-- Fim Header -->
 
-    <div class="container text-center">
-        <article>
-            <h1 class="hide">h1 - Article</h1>
-            <div class="row">
-                <figure class="col-lg-6 col-md-6 col-sm-12">
-                    <img src="http://placekitten.com/553/434" alt="Imagem Via Placeholder">
-                </figure>
-                <div class="col-lg-6 col-md-6 col-sm-12">
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing eli</p>
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere nulla recusandae assumenda illo
-                        minus a dicta eos atque sint quas qui repellendus, enim magni! Vel deserunt pariatur illo
-                        debitis iste.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere nulla recusandae
-                        assumenda illo minus a dicta eos atque sint quas qui repellendus, enim magni! Vel deserunt
-                        pariatur illo debitis iste.
-                    </p>
-                </div>
-            </div>
-        </article>
+    <div class="container text-start">
 
         <aside>
+        <div class="row text-start">
+            <b><a href="../print-2-capybaras/index.php">Home</a> <i class="bi bi-arrow-right"></i> <a href="../print-2-capybaras/noticias.php">Notícias</a></b>
+        </div>
             <div class="row">
-                <h2>h2 - Aside</h2>
+                <h2>Notícias</h2>
                 <section class="col-lg-8 col-md-8 col-sm-12">
                     <h3 class="hide">h3 - Section</h3>
                     <figure>
                         <img src="http://placekitten.com/637/336" alt="Imagem Via Placeholder">
                     </figure>
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing eli</p>
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere nulla recusandae assumenda illo
-                        minus a dicta eos atque sint quas qui repellendus, enim magni! Vel deserunt pariatur illo
-                        debitis iste.</p>
+                    <p><b>Ministro Paulo Teixeira visita São Roque em encontro agroecológico</b></p>
+                    <p>O Ministro do Desenvolvimento Agrário e Agricultura Familiar do Brasil, Paulo Teixeira, visitou São Roque na última semana para a mais recente edição do Encontro Paulista de Agroecologia...</p>
                 </section>
 
                 <section class="col-lg-4 col-md-4 col-sm-12">
                     <h3 class="hide">h3 - Section</h3>
                     <div>
                         <figure>
-                            <img src="http://placekitten.com/135/102" alt="Imagem Via Placeholder">
+                            <img src="http://placekitten.com/300/102" alt="Imagem Via Placeholder">
                         </figure>
-                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
+                        <p class="not_titulos">Prefeitura promove palestra de Conscientização e Prevenção do Câncer de Próstata</p>
                     </div>
 
                     <div>
                         <figure>
-                            <img src="http://placekitten.com/135/102" alt="Imagem Via Placeholder">
+                            <img src="http://placekitten.com/300/102" alt="Imagem Via Placeholder">
                         </figure>
-                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
+                        <p class="not_titulos">Festival José Cabinda acontece neste domingo e segunda-feira</p>
                     </div>
 
                     <div>
                         <figure>
-                            <img src="http://placekitten.com/135/102" alt="Imagem Via Placeholder">
+                            <img src="http://placekitten.com/300/102" alt="Imagem Via Placeholder">
                         </figure>
-                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
+                        <p class="not_titulos">Prefeitura abre anistia para regularização de imóveis</p>
                     </div>
                 </section>
 
             </div>
         </aside>
 
-        <aside>
+        <aside class="tur_back text-center">
             <div class="row">
                 <h2>h2 - Aside</h2>
                 <section class="col-lg-6 col-md-6 col-sm-6">
@@ -90,9 +76,7 @@
                     <figure>
                         <img src="http://placekitten.com/472/262" alt="Imagem Via Placeholder">
                     </figure>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi minus consequuntur iure vel
-                        assumenda? Nemo facilis quaerat amet consequuntur suscipit, inventore a unde in laborum
-                        repudiandae doloribus quidem ullam repellendus.</p>
+                    <p class="not_titulos">Qualifica São Roque abre inscrições para formação de bartender e estratégia de negociação</p>
                 </section>
 
                 <section class="col-lg-6 col-md-6 col-sm-6">
@@ -100,9 +84,7 @@
                     <figure>
                         <img src="http://placekitten.com/472/262" alt="Imagem Via Placeholder">
                     </figure>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi minus consequuntur iure vel
-                        assumenda? Nemo facilis quaerat amet consequuntur suscipit, inventore a unde in laborum
-                        repudiandae doloribus quidem ullam repellendus.</p>
+                    <p class="not_titulos">Triunfante da Fanfarra Municipal de São Roque vence Circuito Paulista de Bandas e Fanfarras</p>
                 </section>
             </div>
 
@@ -112,9 +94,7 @@
                     <figure>
                         <img src="http://placekitten.com/472/262" alt="Imagem Via Placeholder">
                     </figure>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi minus consequuntur iure vel
-                        assumenda? Nemo facilis quaerat amet consequuntur suscipit, inventore a unde in laborum
-                        repudiandae doloribus quidem ullam repellendus.</p>
+                    <p class="not_titulos">Confira as ações de zeladoria realizadas pela Prefeitura nesta segunda-feira - 13 de novembro</p>
                 </section>
 
                 <section class="col-lg-6 col-md-6 col-sm-6">
@@ -122,9 +102,7 @@
                     <figure>
                         <img src="http://placekitten.com/472/262" alt="Imagem Via Placeholder">
                     </figure>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi minus consequuntur iure vel
-                        assumenda? Nemo facilis quaerat amet consequuntur suscipit, inventore a unde in laborum
-                        repudiandae doloribus quidem ullam repellendus.</p>
+                    <p class="not_titulos">São Roque abre inscrições para eleição do Conselho Municipal dos Direito da Juventude</p>
                 </section>
             </div>
         </aside>
@@ -134,24 +112,20 @@
             <div class="row">
                 <section class="col-lg-6 col-md-6 col-sm-6">
                     <h3 class="hide">h3 - Section</h3>
-                    <figure>
+                    <figure class="text-center">
                         <img src="http://placekitten.com/612/439" alt="Imagem Via Placeholder">
                     </figure>
-                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
-                    <p>Quasi quidem, fugit odit perspiciatis voluptatem quisquam reprehenderit repudiandae alias
-                        voluptatum, laboriosam, a deleniti commodi ea error atque unde ipsam minus aperiam consequatur.
-                        Debitis et accusamus ea sequi natus sint.</p>
+                    <p><b>Rotatória fixa será construída na região próxima à Tecama</b></p>
+                    <p>O trânsito municipal no antigo trecho da Rodovia Raposo Tavares, próximo à fábrica Tecama, terá uma novidade: a implantação de uma rotatória fixa.</p>
                 </section>
 
-                <section class="col-lg-6 col-md-6 col-sm-6">
+                <section class="col-lg-6 col-md-6 col-sm-6 text-end">
                     <h3 class="hide">h3 - Section</h3>
-                    <figure>
+                    <figure class="text-center">
                         <img src="http://placekitten.com/417/439" alt="Imagem Via Placeholder">
                     </figure>
-                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
-                    <p>Quasi quidem, fugit odit perspiciatis voluptatem quisquam reprehenderit repudiandae alias
-                        voluptatum, laboriosam, a deleniti commodi ea error atque unde ipsam minus aperiam consequatur.
-                        Debitis et accusamus ea sequi natus sint.</p>
+                    <p><b>Ginástica Rítmica encerra ano de atividades com apresentação A Magia do Circo</b></p>
+                    <p>A equipe de Ginástica Rítmica de São Roque realizará nesta semana uma apresentação especial como forma de celebrar um ano de atividades repleto de conquistas.</p>
                 </section>
             </div>
         </aside>
