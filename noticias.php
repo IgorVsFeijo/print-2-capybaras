@@ -35,7 +35,7 @@
                 <section class="col-lg-8 col-md-8 col-sm-12">
                     <h3 class="hide">h3 - Section</h3>
                     <figure>
-                        <img src="http://placekitten.com/637/336" alt="Imagem Via Placeholder">
+                    <a href="../print-2-capybaras/noticia2.php"><img src="http://placekitten.com/637/336" alt="Imagem Via Placeholder"></a>
                     </figure>
                     <p><b>Ministro Paulo Teixeira visita São Roque em encontro agroecológico</b></p>
                     <p>O Ministro do Desenvolvimento Agrário e Agricultura Familiar do Brasil, Paulo Teixeira, visitou São Roque na última semana para a mais recente edição do Encontro Paulista de Agroecologia...</p>
@@ -70,7 +70,7 @@
 
         <aside class="tur_back text-center">
             <div class="row">
-                <h2>h2 - Aside</h2>
+                <h2>Cidade</h2>
                 <section class="col-lg-6 col-md-6 col-sm-6">
                     <h3 class="hide">h3 - Section</h3>
                     <figure>
@@ -108,7 +108,7 @@
         </aside>
 
         <aside>
-            <h2>h2 - aside</h2>
+            <h2>Saúde</h2>
             <div class="row">
                 <section class="col-lg-6 col-md-6 col-sm-6">
                     <h3 class="hide">h3 - Section</h3>

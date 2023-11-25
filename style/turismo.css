@@ -6,6 +6,12 @@
     font-weight: bold;
 }
 
+.not_link{
+    text-decoration: none;
+    color: black;
+    font-style: italic;
+}
+
 .tur_back{
     background-color: #00A6A6;
 }
