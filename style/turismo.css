@@ -21,4 +21,74 @@
 }
 /* FIM CSS PONTOS TURISTICOS */
 
+/* INICIO CSS EVENTOS */
+
+.tur_h2{
+    padding: 1em;
+}
+
+.tur_border{
+    border-top: 1px black solid;
+}
+
+/* FIM CSS EVENTOS */
+
+/* INICIO CSS HOSPEDAGEM*/
+
+.tur_titulos{
+    font-weight: bold;
+    padding: 1.5em 0 0em 0;
+}
+
+.tur_hospedagem_h2{
+    padding: 1em 1em 0.5em 1em;
+}
+
+/* FIM CSS HOSPEDAGEM*/
+
+/* INICIO CSS GASTRONOMIA*/
+
+.tur_gastro_h2{
+    padding: 1.5em 0em 0em 0em;
+}
+
+.tur_h3 {
+    padding-top: 1em;
+}
+/* FIM CSS GASTRONOMIA*/
+
+/* INICIO CSS GALERIA*/
+
+.tur_btn_vermais{
+    color: black;
+    background-color: #FF9F1C;
+    border: none;
+}
+
+.tur_btn_vermais:hover{
+    background-color: #ff9a0d;
+    color: white;
+    -webkit-box-shadow: 1px 1px 10px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 1px 10px 0px rgba(0,0,0,0.75);
+    box-shadow: 1px 1px 10px 0px rgba(0,0,0,0.75);
+}
+
+.tur_link{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.tur_position_r{
+    position: relative;
+}
+
+.tur_position_a{
+    position: absolute;
+    bottom: 0;
+    right: 108px;
+}
+
+
+
 /* FIM CSS AREA TURISMO */

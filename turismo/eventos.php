@@ -4,11 +4,13 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>São Roque - Título da Página</title>
+    <title>São Roque - Eventos</title>
 
     <?php
         include '../includes/inc_head_links.php';
       ?>
+
+    <link rel="stylesheet" href="../style/turismo.css">
 
 </head>
 <body>
@@ -25,7 +27,7 @@
         </div>
 
         <article>
-            <h2>EVENTOS OCORRENDO</h2>
+            <h2 class="tur_h2">EVENTOS OCORRENDO</h2>
             <div class="row">
                 <figure class="col-lg-6 col-md-6 col-sm-12">
                     <img src="../imgs/turismo/even_nada_desktop.jpg" alt="Imagem de divulgação para inscrição de eventos no site.">
@@ -41,7 +43,7 @@
         </article>
 
         <aside>
-            <h2>FUTUROS EVENTOS</h2>
+            <h2 class="tur_h2 tur_border">FUTUROS EVENTOS</h2>
             <div class="row">
                 <section class="col-lg-6 col-md-6 col-sm-12">
                   <h3 class="hide">h3 - Section</h3>
@@ -62,7 +64,7 @@
         </aside>
 
         <aside>
-            <h2>EVENTOS ENCERRADOS</h2>
+            <h2 class="tur_h2 tur_border">EVENTOS ENCERRADOS</h2>
             <div class="row">
                 <section class="col-lg-6 col-md-6 col-sm-12">
                   <h3 class="hide">h3 - Section</h3>

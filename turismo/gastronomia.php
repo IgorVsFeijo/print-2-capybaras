@@ -10,6 +10,8 @@
         include '../includes/inc_head_links.php';
       ?>
 
+    <link rel="stylesheet" href="../style/turismo.css">
+
 </head>
 <body>
     <!-- Inicio Header -->
@@ -24,10 +26,10 @@
             <b><a href="../turismo/index.php">Home</a> <i class="bi bi-arrow-right"></i> <a href="../turismo/gastronomia.php">Gastronomia</a></b>
         </div>
         <article>
-            <h2 class="text-start">Adegas e Vinículas</h2>
+            <h2 class="text-start tur_gastro_h2">Adegas e Vinículas</h2>
             <div class="row">
                 <section class="col-lg-4 col-md-4 col-sm-6">
-                    <h3 class="text-start">Adega Terra do Vinho</h3>
+                    <h3 class="text-start tur_h3">Adega Terra do Vinho</h3>
                     <figure>
                         <img src="../imgs/turismo/vini_terra_desktop.jpg" alt="Imagem referente a logo da Adega Terra do Vinho">
                     </figure>
@@ -37,7 +39,7 @@
                 </section>
 
                 <section class="col-lg-4 col-md-4 col-sm-6">
-                    <h3 class="text-start">Vinhos Alma Galiza</h3>
+                    <h3 class="text-start tur_h3">Vinhos Alma Galiza</h3>
                     <figure>
                         <img src="../imgs/turismo/vini_alma_desktop.jpg" alt="Imagem referente a logo da Vinhos Alma Galiza">
                     </figure>
@@ -47,7 +49,7 @@
                 </section>
 
                 <section class="col-lg-4 col-md-4 col-sm-6">
-                    <h3 class="text-start">Adega Quinta do Olivardo</h3>
+                    <h3 class="text-start tur_h3">Adega Quinta do Olivardo</h3>
                     <figure>
                         <img src="../imgs/turismo/vini_quinta_desktop.jpg" alt="Imagem referente a logo da Adega Quinta do olivardo">
                     </figure>
@@ -59,7 +61,7 @@
 
             <div class="row">
                 <section class="col-lg-4 col-md-4 col-sm-6">
-                    <h3 class="text-start">Southwest Destilaria</h3>
+                    <h3 class="text-start tur_h3">Southwest Destilaria</h3>
                     <figure>
                         <img src="../imgs/turismo/vini_south_desktop.jpg" alt="Imagem referente a logo da Southwest Destilaria">
                     </figure>
@@ -69,7 +71,7 @@
                 </section>
 
                 <section class="col-lg-4 col-md-4 col-sm-6">
-                    <h3 class="text-start">Vinhos Frank</h3>
+                    <h3 class="text-start tur_h3">Vinhos Frank</h3>
                     <figure>
                         <img src="../imgs/turismo/vini_frank_desktop.jpg" alt="Imagem referente a logo da Vinhos Frank">
                     </figure>
@@ -79,7 +81,7 @@
                 </section>
 
                 <section class="col-lg-4 col-md-4 col-sm-6">
-                    <h3 class="text-start">Vinícola Góes</h3>
+                    <h3 class="text-start tur_h3">Vinícola Góes</h3>
                     <figure>
                         <img src="../imgs/turismo/vini_goes_desktop.jpg" alt="Imagem referente a logo da Vinícola Góes">
                     </figure>
@@ -91,10 +93,10 @@
         </article>
 
         <aside>
-            <h2 class="text-start">Restaurantes, Lanchonetes, Cafeterias e Docerias</h2>
+            <h2 class="text-start tur_gastro_h2 tur_border">Restaurantes, Lanchonetes, Cafeterias e Docerias</h2>
             <div class="row">
                 <section class="col-lg-4 col-md-4 col-sm-6">
-                    <h3 class="text-start">Brazão Food Park</h3>
+                    <h3 class="text-start tur_h3">Brazão Food Park</h3>
                     <figure>
                         <img src="../imgs/turismo/res_brazao_desktop.jpg" alt="Imagem referente a logo do Brazão Food Park">
                     </figure>
@@ -104,7 +106,7 @@
                 </section>
 
                 <section class="col-lg-4 col-md-4 col-sm-6">
-                    <h3 class="text-start">Cantina Tia Lina</h3>
+                    <h3 class="text-start tur_h3">Cantina Tia Lina</h3>
                     <figure>
                         <img src="../imgs/turismo/res_tia_desktop.jpg" alt="Imagem referente a logo do restaurante cantina Tia Lina">
                     </figure>
@@ -114,7 +116,7 @@
                 </section>
 
                 <section class="col-lg-4 col-md-4 col-sm-6">
-                    <h3 class="text-start">Caracol Chocolates</h3>
+                    <h3 class="text-start tur_h3">Caracol Chocolates</h3>
                     <figure>
                         <img src="../imgs/turismo/res_caracol_desktop.jpg" alt="Imagem referente a logo da Caracol Chocolates">
                     </figure>
@@ -126,7 +128,7 @@
 
             <div class="row">
                 <section class="col-lg-4 col-md-4 col-sm-6">
-                    <h3 class="text-start">Casa Araucária</h3>
+                    <h3 class="text-start tur_h3">Casa Araucária</h3>
                     <figure>
                         <img src="../imgs/turismo/res_arau_desktop.jpg" alt="Imagem referente a logo da Casa Araucária">
                     </figure>
@@ -136,7 +138,7 @@
                 </section>
 
                 <section class="col-lg-4 col-md-4 col-sm-6">
-                    <h3 class="text-start">Mc Donalds</h3>
+                    <h3 class="text-start tur_h3">Mc Donalds</h3>
                     <figure>
                         <img src="../imgs/turismo/res_mc_desktop.jpg" alt="Imagem referente a logo do McDonalds">
                     </figure>
@@ -146,7 +148,7 @@
                 </section>
 
                 <section class="col-lg-4 col-md-4 col-sm-6">
-                    <h3 class="text-start">Quinta do Olivardo</h3>
+                    <h3 class="text-start tur_h3">Quinta do Olivardo</h3>
                     <figure>
                         <img src="../imgs/turismo/res_quinta_desktop.jpg" alt="Imagem referente a logo do Quinta Do olivardo">
                     </figure>
@@ -158,10 +160,10 @@
         </aside>
 
         <aside>
-            <h2 class="text-start">Bares</h2>
+            <h2 class="text-start tur_gastro_h2 tur_border">Bares</h2>
             <div class="row">
                 <section class="col-lg-4 col-md-4 col-sm-6">
-                    <h3 class="text-start">Come Together</h3>
+                    <h3 class="text-start tur_h3">Come Together</h3>
                     <figure>
                         <img src="../imgs/turismo/bar_cct_desktop.jpg" alt="Imagem referente a logo do Bar come Together">
                     </figure>
@@ -171,7 +173,7 @@
                 </section>
 
                 <section class="col-lg-4 col-md-4 col-sm-6">
-                    <h3 class="text-start">Rústico Moto Bar</h3>
+                    <h3 class="text-start tur_h3">Rústico Moto Bar</h3>
                     <figure>
                         <img src="../imgs/turismo/bar_moto_desktop.jpg" alt="Imagem referente a logo do Rustico Moto Bar">
                     </figure>
@@ -181,7 +183,7 @@
                 </section>
 
                 <section class="col-lg-4 col-md-4 col-sm-6">
-                    <h3 class="text-start">Thanks Brewing Co.</h3>
+                    <h3 class="text-start tur_h3">Thanks Brewing Co.</h3>
                     <figure>
                         <img src="../imgs/turismo/bar_thanks_desktop.jpg" alt="Imagem referente a logo da Thanks Brewing Co.">
                     </figure>
