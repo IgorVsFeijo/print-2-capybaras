@@ -81,12 +81,18 @@
 
 .tur_position_r{
     position: relative;
+    width: fit-content;
+    margin: auto;
+}
+
+.tur_position_r figure{
+    background-color: red;
 }
 
 .tur_position_a{
     position: absolute;
     bottom: 0;
-    right: 108px;
+    right: 0;
 }
 
 
