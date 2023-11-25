@@ -28,7 +28,7 @@
         <article>
             <h2>Estação Ferroviaria</h2>
             <figure>
-                <img src="../imgs/turismo/ferro_unica_desktop.jpg" alt="Imagem Via Placeholder">
+                <img src="../imgs/turismo/ferro_unica_desktop.webp" alt="Imagem Via Placeholder">
             </figure>
             <div class="row">
                 <p class="col-lg-6 col-md-6 col-sm-6 text-start">A Estrada de Ferro Sorocabana representa um marco importante na história de São Roque, sendo um de seus acionistas Antônio Joaquim da Rosa, o Barão de Piratininga, o que marcou uma grande fase no desenvolvimento da cidade.</p>
