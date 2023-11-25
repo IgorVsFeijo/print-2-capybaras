@@ -28,7 +28,7 @@
         <article>
             <h2>Outlet Catarina</h2>
             <figure>
-                <img src="../imgs/turismo/catarina_unica_desktop.jpg" alt="Imagem Via Placeholder">
+                <img src="../imgs/turismo/catarina_unica_desktop.webp" alt="Imagem Via Placeholder">
             </figure>
             <div class="row">
                 <p class="col-lg-6 col-md-6 col-sm-6 text-start">O Catarina tem como marca registrada suas alamedas agradáveis, um ambiente sofisticado e um completo mix de lojas com as melhores marcas nacionais e internacionais, que praticam descontos de até 70% o ano todo. São mais de 300 operações.</p>

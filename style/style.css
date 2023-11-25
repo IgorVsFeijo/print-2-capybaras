@@ -312,6 +312,7 @@ footer i.btn{
     background-color: rgb(197, 196, 195);
 }
 
+
 .sombra{
     box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.2);
 }
@@ -334,6 +335,12 @@ footer i.btn{
 .quemsomos article a{
     text-decoration: none;
     color: #ff9a0d;
+    padding: 5px;
+}
+
+.quemsomos article a:hover{
+    color: #ff9a0d;
+    background-color: #10246b;
 }
 
 .quemsomos article h2{
@@ -372,11 +379,19 @@ footer i.btn{
 }
 
 .contato_botoes a{
-    background-color: #10246b;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #1d2f6f;
     padding: 20px;
-    border-radius: 10px;
+    border-radius: 15px;
     text-decoration: none;
     color: white;
+    border: white 10px solid;
+}
+.contato_botoes a:hover{
+    background-color: #10246b;
 }
 
 .contato_botoes p{
@@ -389,17 +404,54 @@ footer i.btn{
 
 .contato_form{
     background-color: #038686;
-    padding: 20px;
+    padding: 40px;
     border-radius: 10px;
 }
 
 .contato_form label{
-    font-size: larger;
-    font-weight: bold;
+    font-size: 2em;
+    
     color: white;
 }
 
-.contato_form input, .contato_form button{
+.contato_form input, .contato_form button, .contato_form textarea{
     margin: 5px 0px;
 }
+
 /* Fim Contatos */
+
+/* Início Privacidade */
+.privacidade{
+    margin: 40px 0px;
+}
+
+.privacidade_politica h1{
+    margin: 10px 0px;
+}
+
+.privacidade article{
+    padding: 20px;
+}
+
+.privacidade section{
+    padding: 20px;
+    border: 5px solid #00A6A6;
+}
+
+.privacidade_politica{
+    background-color: #00A6A6;
+    border-radius: 10px;
+}
+
+.privacidade_politica section{
+    background-color: white;
+    border-radius: 10px;
+}
+
+/* Fim Privacidade */
+
+/* Início Perguntas Frequentes */
+main#perguntas{
+    padding: 2em 0em;
+}
+/* Fim Perguntas */

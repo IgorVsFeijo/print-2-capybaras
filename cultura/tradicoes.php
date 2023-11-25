@@ -21,8 +21,10 @@
 
     <!-- Fim Header -->
       <div class="container">
-
-        <main>
+      <div class="row text-start">
+            <b><a href="../cultura/index.php">Home</a> <i class="bi bi-arrow-right"></i> <a href="../cultura/tradicoes.php">Tradições</a></b>
+        </div>
+        <main id="tradicoes">
             <figure class="text-center">
                 <img src="../imgs/cultura/festaagostoilustracao.jpg" alt="Visão Aérea da Festa de Agosto durante a noite, no último dia da festa">
             </figure>
@@ -32,35 +34,37 @@
             </aside>
             <div>
               <article class="row col-12">
-                <section class="row col-lg-6">
-                        <section class="col-sm-6 col-lg-12">
+                <section class="row col-lg-6 festasagosto">
+                  <h2 class="hide">section-h2</h2>
+                        <div class="col-sm-6 col-lg-12">
                           <h3>Festas de Agosto</h3>
                           <p>As Festas de Agosto são a principal atividade comemorativa da cidade, envolvendo todas as suas áreas em uma linda celebração e homenagem ao padroeiro, São Roque. As festividades têm ligação direta com a fundação da cidade por Pedro Vaz de Barros, mas foi somente no fim do século XIX, com a introdução dos Carros de Lenha, que elas tomaram o formato que se estende até hoje.</p>
-                        </section>
+                        </div>
                         <figure class="col-sm-6 col-md-6 col-lg-12 text-center">
                             <picture>
-                              <source srcset="../imgs/cultura/logofestas_de_agosto.jpg" media="(max-width: 992px)" aria-placeholder="logotipo oficial das festas de agosto"><img>
+                              <source srcset="../imgs/cultura/logofestas_de_agosto.webp" media="(max-width: 992px)" aria-placeholder="logotipo oficial das festas de agosto"><img>
                             </picture>
                             <picture>
-                              <source media="(min-width: 992px)" srcset="../imgs/cultura/logofestas_de_agosto.jpg"><img>
+                              <source media="(min-width: 992px)" srcset="../imgs/cultura/logofestas_de_agosto.webp"><img>
                             </picture>
                         </figure>
                         <p>Como um evento comemorativo e religioso, a festa se inicia em julho com a novena realizada no Morro do Cruzeiro. A partir de então, no fim do mês, a abertura das barracas marca o começo do evento festivo, que desde 2022, se desdobra entre o Centro e o Recanto da Cascata, com barracas de doces, salgados, espetos e parque de diversões para os menores. Isso tudo acompanhado por shows ao vivo diários de bandas talentosas da região.</p>
                         <p class="col-12">A festa é finalizada em seu ápice nos dias 15 e 16 de Agosto com as procissões de Nossa Senhora da Assunção e do padroeiro São Roque, respectivamente, atraindo milhares de fiéis para a belíssima conclusão. Até hoje, as Festas de Agosto se consolidam como o maior evento festivo e religioso da região.</p>
                 </section>
-                <section class="row col-lg-6">
-                          <picture class="col-sm-6 col-md-6 col-lg-12 text-center">
-                            <source media="(max-width: 992px)" srcset="../imgs/cultura/exposaoroque.jpg"><img>
-                          </picture> 
-                        <section class="col-sm-6 col-lg-12">
+                <section class="row col-lg-6 exposr">
+                  <h2 class="hide">section -  h2</h2>
+                        <picture class="col-sm-6 col-md-6 col-lg-12 d-lg-none text-center">
+                            <source media="(max-width: 992px)" srcset="../imgs/cultura/exposaoroque.webp"><img>
+                        </picture> 
+                        <div class="col-sm-6 col-lg-12">
                           <h3>Expo São Roque</h3>
                           <p>Festa que celebra a tradição de São Roque como a Terra do Vinho, com stands das vinícolas mais famosas, introdução a conceitos de enologia, vendas de vinho e alcachofra e que se estende por mais de 28 anos em um clima de festa.</p>
                           <figure class="text-center">
                             <picture>
-                              <source media="(min-width: 992px)" srcset="../imgs/cultura/exposaoroque.jpg"><img>
+                              <source media="(min-width: 992px)" srcset="../imgs/cultura/exposaoroque.webp"><img>
                             </picture>
                           </figure>
-                        </section>  
+                        </div>  
                           <p>Mesmo que o evento não tenha ocorrido desde 2019, ele ainda se mantém como um dos mais aguardados e prestigiados de nossa cidade, ajudando a divulgar o potencial cultural e turístico da cidade. Além dos stands a respeito do vinho, a Expo São Roque também reúne outros stands de gastronomia, compras, shows e outras manifestações artísticas.</p>
                 </section>
               </article>

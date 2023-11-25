@@ -28,7 +28,7 @@
         <article>
             <h2>Brasital</h2>
             <figure>
-                <img src="../imgs/turismo/brasital_unica_desktop.jpg" alt="Imagem Via Placeholder">
+                <img src="../imgs/turismo/brasital_unica_desktop.webp" alt="Imagem Via Placeholder">
             </figure>
             <div class="row">
                 <p class="col-lg-6 col-md-6 col-sm-6 text-start">Muito mais do que uma antiga fábrica, a Brasital é um dos patrimônios mais importantes de São Roque, porque influenciou a cultura e a economia do município. </p>

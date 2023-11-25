@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /* INICIO CSS AREA CIDADAO */
 
-h1, h2, h3{
+h1, h2{
     margin: 20px 0px;
 }
 
@@ -75,24 +75,6 @@ h1, h2, h3{
     color: rgb(223, 223, 223);
 }
 
-.cidadao_concursos ul{
-    padding: 0px;
-}
-
-.cidadao_concursos ul li{
-    background-color: #00a6a6;
-    margin: 10px 0px;
-    padding: 15px;
-    list-style: none;
-}
-
-.cidadao_concursos a{
-    text-decoration: none;
-    color: white;
-    padding-left: 10px;
-    border-left: rgb(255, 255, 255) 1.5px solid;
-}
-
 .cidadao_form{
     padding: 20px;
 }
@@ -137,29 +119,83 @@ h1, h2, h3{
 }
 /*Fim Home CIDADAO */
 
-.cidadao_noticia{
-    padding: 20px;
+/*Inicio Transporte CIDADAO */
+.cidadao_transporte{
+    margin: 40px 0px;
 }
 
+.cidadao_noticia {
+    margin: 20px 0px;
+}
+
+.cidadao_noticias_p{
+    padding: 10px;
+}
+
+.cidadao_noticia h3{
+    margin: 0px;
+}
+
+.btn-onibus{
+    color: white;
+    background-color: #00A6A6;
+    border: white 2px solid;
+}
+
+.btn-onibus:hover{
+    background-color: #009e9e;
+    color: white;
+}
+/*Fim Transporte CIDADAO */
+
 /*Início Concurso CIDADAO */
+.cidadao_concursos ul{
+    padding: 0px;
+}
+
+.cidadao_concursos ul li{
+    background-color: #00a6a6;
+    margin: 10px 0px 0px 0px;
+    padding: 15px;
+    list-style: none;
+}
+
+.cidadao_concursos a{
+    text-decoration: none;
+    color: white;
+    padding-left: 10px;
+    border-left: rgb(255, 255, 255) 1.5px solid;
+    font-size: 0.8em;
+}
 
 .cidadao_dicas i{
     font-size: 5em;
     color: #10246b;
 }
 
-
-
 /*Fim Concurso CIDADAO */
 
 /*Início Saúde CIDADAO */
 
+.saude{
+    margin: 10px 0px;
+}
+
+.cidadao_botao i{
+    font-size: 2em;
+}
+
 .cidadao_botao a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
     background-color: #1d2f6f;
     color: white;
     text-decoration: none;
     padding: 10px 10px;
+    border: solid white;
     border-radius: 10px;
+    font-size: 0.9em;
 }
 
 .saude .cidadao_card{
@@ -191,13 +227,30 @@ h1, h2, h3{
 
 .cidadao_postagem{
     margin: 20px 5px;
+    background-color: rgb(240, 240, 240);
+    padding: 5px 10px;
 }
 
 .cidadao_assistencia .cidadao_botao{
-
     margin: 1px;
 
 }
+
+.cidadao_servicos_escolar a{
+    background-color: #00A6A6;
+    text-decoration: none;
+    color: white;
+    margin: 5px 0px;
+    height: 3em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cidadao_servicos_escolar a:hover{
+    background-color: #009e9e;
+}
+
 /* Fim Serviços CIDADAO */
 
 /* FIM CSS AREA CIDADAO */
