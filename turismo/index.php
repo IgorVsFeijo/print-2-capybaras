@@ -10,6 +10,8 @@
         include '../includes/inc_head_links.php';
       ?>
 
+    <link rel="stylesheet" href="../style/turismo.css">
+
 </head>
 <body>
     <!-- Inicio Header -->
@@ -27,8 +29,8 @@
         </div>
 
         <article>
-            <div class="row text-start">
-                <h2 class="col-2">EVENTOS</h2>
+            <div class="row text-start tur_i_h2">
+                <h2>EVENTOS</h2>
             </div>
             <div class="row">
                 <figure class="col-lg-6 col-md-6 col-sm-12">
@@ -43,26 +45,26 @@
         </article>
 
         <aside>
-            <div class="row justify-content-start">
-                <h2 class="col-2">HOSPEDAGEM</h2>
+            <div class="row tur_i_h2">
+                <h2 class="text-start">HOSPEDAGEM</h2>
             </div>
             <div class="row text-start">
                 <section class="col-lg-4 col-md-4 col-sm-6">
-                    <h3>Sitio de Lazer</h3>
+                    <h3 class="tur_h3">Sitio de Lazer</h3>
                     <figure class="text-center">
                         <img src="../imgs/turismo/sitio_de_lazer.webp" alt="Imagem referente a logo do acampamento sitio de lazer">
                     </figure>
                     <p>Um delicioso lugar para passar seu final de semana, com muitas rotinas de lazer.</p>
                 </section>
                 <section class="col-lg-4 col-md-4 col-sm-6">
-                    <h3>Cordialle Hotel</h3>
+                    <h3 class="tur_h3">Cordialle Hotel</h3>
                     <figure class="text-center">
                         <img src="../imgs/turismo/cordialle.webp" alt="Imagem referente a logo do hotel cordialle.">
                     </figure>
                     <p>Uma interpretação contemporânea das tradicionais hospedarias.</p>
                 </section>
                 <section class="col-lg-4 col-md-4 col-sm-6">
-                    <h3>Chácara Putini</h3>
+                    <h3 class="tur_h3">Chácara Putini</h3>
                     <figure class="text-center">
                         <img src="../imgs/turismo/putini.webp" alt="Imagem referente a logo da chácara putini.">
                     </figure>
@@ -71,12 +73,10 @@
             </div>
         </aside>
 
-        <aside>
-            <div class="row justify-content-start">
-                <h3 class="col-2">GALERIA</h3>
-            </div>
-            <div class="row justify-content-end">
-                <a class="col-2" href="#">ver mais+</a>
+        <aside class="tur_back">
+            <div class="row">
+                <h3 class="text-start col-lg-6 col-md-6 col-sm-6">GALERIA</h3>
+                <a class="col-lg-6 col-md-6 col-sm-6 text-end tur_link" href="../turismo/galeria.php">ver mais+</a>
             </div>
             <div class="row">
                 <figure class="col-lg-6 col-md-6 col-sm-6 text-center">
@@ -89,13 +89,13 @@
         </aside>
 
         <aside>
-            <div class="row justify-content-start">
-                <h3 class="col-5 text-start"> PONTOS TURISTICOS</h3>
+            <div class="row">
+                <h3 class="text-start tur_i_h2"> PONTOS TURISTICOS</h3>
             </div>
             <div class="row text-start">
                 <section class="col-lg-6 col-md-6 col-sm-12">
                   <h3 class="hide">h3 - Section</h3>
-                    <p>Praça da republica</p>
+                    <p><b>Praça da republica</b></p>
                     <figure class="text-center">
                         <img src="../imgs/turismo/praça_republica.webp" alt="Imagem Via Placeholder">
                     </figure>
@@ -103,7 +103,7 @@
                 </section>
                 <section class="col-lg-6 col-md-6 col-sm-12">
                   <h3 class="hide">h3 - Section</h3>
-                    <p>Outlet Catarina</p>
+                    <p><b>Outlet Catarina</b></p>
                     <figure class="text-center">
                         <img src="../imgs/turismo/outlet_catarina.webp" alt="Imagem Via Placeholder">
                     </figure>
@@ -113,8 +113,8 @@
         </aside>
 
         <section>
-            <div class="row justify-content-start">
-                <h3 class="col-2">GASTRONOMIA</h3>
+            <div class="row text-start">
+                <h3 class="tur_i_h2">GASTRONOMIA</h3>
             </div>
             <div class="row text-start">
                 <section class="col-lg-4 col-md-4 col-sm-12">

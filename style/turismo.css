@@ -2,24 +2,39 @@
 
 /* INICIO CSS AREA TURISMO */
 
+.tur_back{
+    background-color: #00A6A6;
+}
+
+.tur_i_h2{
+    padding: 1em 0em 1em 0em;
+}
+
 /* INICIO CSS PONTOS TURISTICOS*/
 
 .tur_btn-vermais{
     color: black;
     background-color: #FF9F1C;
     border: 10px solid white;
+    padding: 1em;
 }
 
 .tur_btn-vermais:hover{
     background-color: #ff9a0d;
     color: white;
     border: 10px solid #ff9a0d;
+
+}
+
+.tur_btn_pad{
+    padding: 0.5em;
 }
 
 .tur_cor_servicos{
     color: #FF9F1C;
 }
 /* FIM CSS PONTOS TURISTICOS */
+
 
 /* INICIO CSS EVENTOS */
 
@@ -32,6 +47,7 @@
 }
 
 /* FIM CSS EVENTOS */
+
 
 /* INICIO CSS HOSPEDAGEM*/
 
@@ -46,6 +62,7 @@
 
 /* FIM CSS HOSPEDAGEM*/
 
+
 /* INICIO CSS GASTRONOMIA*/
 
 .tur_gastro_h2{
@@ -56,6 +73,7 @@
     padding-top: 1em;
 }
 /* FIM CSS GASTRONOMIA*/
+
 
 /* INICIO CSS GALERIA*/
 
@@ -76,6 +94,12 @@
 .tur_link{
     text-decoration: none;
     color: black;
+    font-weight: bold;
+}
+
+.tur_link:hover{
+    text-decoration: none;
+    color: white;
     font-weight: bold;
 }
 

@@ -27,7 +27,7 @@
         </div>
         <article>
             <h1 class="hide">h1 - Article</h1>
-            <div class="row">
+            <div class="row tur_btn_pad">
                 <a class="btn btn-secondary col-lg-4 col-md-4 col-sm-6 tur_btn-vermais" href="../turismo/pontos_turisticos_brasital.php" role="button">
                     Brasital <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
                         class="bi bi-arrow-right" viewBox="0 0 16 16">
@@ -53,7 +53,7 @@
                 </a>
             </div>
 
-            <div class="row">
+            <div class="row tur_btn_pad">
                 <a class="btn btn-secondary col-lg-4 col-md-4 col-sm-6 tur_btn-vermais" href="#" role="button">
                     Igreja da Matriz <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
                         class="bi bi-arrow-right" viewBox="0 0 16 16">
@@ -79,7 +79,7 @@
                 </a>
             </div>
 
-            <div class="row">
+            <div class="row tur_btn_pad">
                 <a class="btn btn-secondary col-lg-4 col-md-4 col-sm-6 tur_btn-vermais" href="#" role="button">
                     Praça Largo dos Mendes <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
                         class="bi bi-arrow-right" viewBox="0 0 16 16">

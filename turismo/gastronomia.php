@@ -21,7 +21,7 @@
       ?>
 
     <!-- Fim Header -->
-    <div class="container text-center">
+    <div class="container text-start">
     <div class="row text-start">
             <b><a href="../turismo/index.php">Home</a> <i class="bi bi-arrow-right"></i> <a href="../turismo/gastronomia.php">Gastronomia</a></b>
         </div>
