@@ -22,6 +22,9 @@
     <!-- Fim Header -->
 
     <div class="container">
+    <div class="row text-start">
+            <b><a href="../cultura/index.php">Home</a> <i class="bi bi-arrow-right"></i> <a href="../cultura/agendamento.php">Agendamento</a></b>
+        </div>
         <main>
             <article class="col-12">
                 <h2 class="hide">Article - h2</h2>
@@ -45,7 +48,7 @@
                             <input type="tel" class="form-control" id="inputPhone4" placeholder="(00)00000-0000">
                           </div>
                           <label class="g-4">
-                            <button class="btn btn-secondary botao_agenda">ENVIAR</button>
+                            <button type="submit" class="btn btn-primary botao_agenda">ENVIAR</button>
                           </label>
                         </form>
                   </section>
@@ -98,12 +101,7 @@
                         </tbody>
                       </table>
                   </section>
-
                 </div>
-                <section>
-                    <h2 class="hide">Section - h2</h2>
-                    
-                </section>
             </article>
         </main>
 

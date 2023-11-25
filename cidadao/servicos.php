@@ -43,16 +43,16 @@
                 <section class="col-lg-4 col-md-12 col-md-12 text-center">
                     <h2>Programas</h2>
                     <div class="row justify-content-around cidadao_botao ">
-                        <a href="#" class="col-lg-6 col-md-6 col-sm-12">População em Situação de Rua;</a>
-                        <a href="#" class="col-lg-6 col-md-6 col-sm-12">Programa de Erradicação do Trabalho Infantil;</a>
-                        <a href="#" class="col-lg-6 col-md-6 col-sm-12">Proteção Especial para Pessoas com Deficiência e Idosas;</a>
-                        <a href="#" class="col-lg-6 col-md-6 col-sm-12">Serviços de Acolhimento;</a>
+                        <a href="#" class="col-lg-6 col-md-6 col-sm-12 d-flex flex-column"><i class="bi bi-person-walking"></i>População em Situação de Rua;</a>
+                        <a href="#" class="col-lg-6 col-md-6 col-sm-12 d-flex flex-column"><i class="bi bi-person-circle"></i>Programa de Erradicação do Trabalho Infantil;</a>
+                        <a href="#" class="col-lg-6 col-md-6 col-sm-12 d-flex flex-column"><i class="bi bi-person-arms-up"></i>Proteção Especial para Pessoas com Deficiência e Idosas;</a>
+                        <a href="#" class="col-lg-6 col-md-6 col-sm-12 d-flex flex-column"><i class="bi bi-house-heart"></i>Serviços de Acolhimento;</a>
                     </div>
                 </section>
             </article>
         <div class="col-12">
             <div class="row justify-content-between">
-                <article class="col-lg-4 col-md-12 col-sm-12 sombra cidadao_servicos">
+                <article class="col-lg-4 col-md-12 col-sm-12 sombra cidadao_servicos cidadao_servicos_escolar">
                     <h2 class="text-center">Educação</h2>
                     <p>A cidade de São Roque está comprometida a oferecer educação de qualidade aos seus cidadãos, nesta seção você encontrará serviços a este tema.</p>
                     <ul>
@@ -183,21 +183,21 @@
                     <h3 class="text-center">Postagens recentes</h3>
                     <section class="cidadao_postagem">
                         <h4 class="none">Postagem 1</h4>
-                        <p>Edital n.11/2023 - Dispõe sobre o resultado final da eleição dos membros do Conselho Tutelar de São Roque – SP - 2023
+                        <p>Edital n.11/2023 - Dispõe sobre o resultado final da eleição dos membros do Conselho Tutelar de São Roque – SP - 2023.
                         </p>
-                        <p>30/11//2023 08:00</p>
+                        <p><i>30/11//2023 08:00</i></p>
                     </section>
                     <section class="cidadao_postagem">
                         <h4 class="none">Postagem 1</h4>
                         <p>Declara ponto facultativo do Município de São Roque, no dia 20 de novembro de 2023.
                         </p>
-                        <p>10/11/2023 16:00</p>
+                        <p><i>10/11/2023 16:00</i></p>
                     </section>
                     <section class="cidadao_postagem">
                         <h4 class="none">Postagem 1</h4>
                         <p>Criação do incentivo financeiro para os profissionais que atuam como Auxiliar de Educação.
                         </p>
-                        <p>04/12/2023 09:10</p>
+                        <p><i>04/12/2023 09:10</i></p>
                     </section>
                 </article>
             </div>

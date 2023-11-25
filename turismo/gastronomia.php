@@ -29,7 +29,7 @@
                 <section class="col-lg-4 col-md-4 col-sm-6">
                     <h3 class="text-start">Adega Terra do Vinho</h3>
                     <figure>
-                        <img src="../imgs/turismo/vini_terra_desktop.jpg" alt="Imagem referente a logo da Adega Terra do Vinho">
+                        <img src="../imgs/turismo/vini_terra_desktop.webp" alt="Imagem referente a logo da Adega Terra do Vinho">
                     </figure>
                     <p class="text-start"><b>Local:</b> Rua Dr. Durval Villaça, 300</p>
                     <p class="text-start"><b>Site:</b> www.adegaterradovinho.com.br/</p>
@@ -39,7 +39,7 @@
                 <section class="col-lg-4 col-md-4 col-sm-6">
                     <h3 class="text-start">Vinhos Alma Galiza</h3>
                     <figure>
-                        <img src="../imgs/turismo/vini_alma_desktop.jpg" alt="Imagem referente a logo da Vinhos Alma Galiza">
+                        <img src="../imgs/turismo/vini_alma_desktop.webp" alt="Imagem referente a logo da Vinhos Alma Galiza">
                     </figure>
                     <p class="text-start"><b>Local:</b> Fazenda Bagada, Estrada do Pessegueiro, 1351</p>
                     <p class="text-start"><b>Site:</b> https://almagaliza.com.br/</p>
@@ -49,7 +49,7 @@
                 <section class="col-lg-4 col-md-4 col-sm-6">
                     <h3 class="text-start">Adega Quinta do Olivardo</h3>
                     <figure>
-                        <img src="../imgs/turismo/vini_quinta_desktop.jpg" alt="Imagem referente a logo da Adega Quinta do olivardo">
+                        <img src="../imgs/turismo/vini_quinta_desktop.webp" alt="Imagem referente a logo da Adega Quinta do olivardo">
                     </figure>
                     <p class="text-start"><b>Local:</b> Estrada do Vinho, KM 4</p>
                     <p class="text-start"><b>Site:</b> https://quintadoolivardo.com.br/</p>
@@ -61,7 +61,7 @@
                 <section class="col-lg-4 col-md-4 col-sm-6">
                     <h3 class="text-start">Southwest Destilaria</h3>
                     <figure>
-                        <img src="../imgs/turismo/vini_south_desktop.jpg" alt="Imagem referente a logo da Southwest Destilaria">
+                        <img src="../imgs/turismo/vini_south_desktop.webp" alt="Imagem referente a logo da Southwest Destilaria">
                     </figure>
                     <p class="text-start"><b>Local:</b> Rua São Bento, 47</p>
                     <p class="text-start"><b>Site:</b> southwestdestilaria.com.br/</p>
@@ -71,7 +71,7 @@
                 <section class="col-lg-4 col-md-4 col-sm-6">
                     <h3 class="text-start">Vinhos Frank</h3>
                     <figure>
-                        <img src="../imgs/turismo/vini_frank_desktop.jpg" alt="Imagem referente a logo da Vinhos Frank">
+                        <img src="../imgs/turismo/vini_frank_desktop.webp" alt="Imagem referente a logo da Vinhos Frank">
                     </figure>
                     <p class="text-start"><b>Local:</b> Estrada do Vinho, Km 1</p>
                     <p class="text-start"><b>Site:</b> www.vinhosfrank.com.br</p>
@@ -81,7 +81,7 @@
                 <section class="col-lg-4 col-md-4 col-sm-6">
                     <h3 class="text-start">Vinícola Góes</h3>
                     <figure>
-                        <img src="../imgs/turismo/vini_goes_desktop.jpg" alt="Imagem referente a logo da Vinícola Góes">
+                        <img src="../imgs/turismo/vini_goes_desktop.webp" alt="Imagem referente a logo da Vinícola Góes">
                     </figure>
                     <p class="text-start"><b>Local:</b> Estrada do Vinho, Km 9</p>
                     <p class="text-start"><b>Site:</b> www.vinicolagoes.com.br</p>
@@ -96,7 +96,7 @@
                 <section class="col-lg-4 col-md-4 col-sm-6">
                     <h3 class="text-start">Brazão Food Park</h3>
                     <figure>
-                        <img src="../imgs/turismo/res_brazao_desktop.jpg" alt="Imagem referente a logo do Brazão Food Park">
+                        <img src="../imgs/turismo/res_brazao_desktop.webp" alt="Imagem referente a logo do Brazão Food Park">
                     </figure>
                     <p class="text-start"><b>Local:</b> Rua Bento Antônio Pereira, 300</p>
                     <p class="text-start"><b>Site:</b> instagram.com/brazaofoodpark/</p>
@@ -106,7 +106,7 @@
                 <section class="col-lg-4 col-md-4 col-sm-6">
                     <h3 class="text-start">Cantina Tia Lina</h3>
                     <figure>
-                        <img src="../imgs/turismo/res_tia_desktop.jpg" alt="Imagem referente a logo do restaurante cantina Tia Lina">
+                        <img src="../imgs/turismo/res_tia_desktop.webp" alt="Imagem referente a logo do restaurante cantina Tia Lina">
                     </figure>
                     <p class="text-start"><b>Local:</b> Estrada do Vinho, 10400</p>
                     <p class="text-start"><b>Site:</b>  www.cantinatialina.com.br/</p>
@@ -116,7 +116,7 @@
                 <section class="col-lg-4 col-md-4 col-sm-6">
                     <h3 class="text-start">Caracol Chocolates</h3>
                     <figure>
-                        <img src="../imgs/turismo/res_caracol_desktop.jpg" alt="Imagem referente a logo da Caracol Chocolates">
+                        <img src="../imgs/turismo/res_caracol_desktop.webp" alt="Imagem referente a logo da Caracol Chocolates">
                     </figure>
                     <p class="text-start"><b>Local:</b> Estrada do Vinho, 400</p>
                     <p class="text-start"><b>Site:</b> www.caracolchocolates.com.br/</p>
@@ -128,7 +128,7 @@
                 <section class="col-lg-4 col-md-4 col-sm-6">
                     <h3 class="text-start">Casa Araucária</h3>
                     <figure>
-                        <img src="../imgs/turismo/res_arau_desktop.jpg" alt="Imagem referente a logo da Casa Araucária">
+                        <img src="../imgs/turismo/res_arau_desktop.webp" alt="Imagem referente a logo da Casa Araucária">
                     </figure>
                     <p class="text-start"><b>Local: </b>Estrada do Vinho, 400</p>
                     <p class="text-start"><b>Site: </b>facebook.com/acasaaraucaria/</p>
@@ -138,7 +138,7 @@
                 <section class="col-lg-4 col-md-4 col-sm-6">
                     <h3 class="text-start">Mc Donalds</h3>
                     <figure>
-                        <img src="../imgs/turismo/res_mc_desktop.jpg" alt="Imagem referente a logo do McDonalds">
+                        <img src="../imgs/turismo/res_mc_desktop.webp" alt="Imagem referente a logo do McDonalds">
                     </figure>
                     <p class="text-start"><b>Local:</b> Rua Rafael Costa Dias, 140</p>
                     <p class="text-start"><b>Site:</b> www.mcdonalds.com.br/</p>
@@ -148,7 +148,7 @@
                 <section class="col-lg-4 col-md-4 col-sm-6">
                     <h3 class="text-start">Quinta do Olivardo</h3>
                     <figure>
-                        <img src="../imgs/turismo/res_quinta_desktop.jpg" alt="Imagem referente a logo do Quinta Do olivardo">
+                        <img src="../imgs/turismo/res_quinta_desktop.webp" alt="Imagem referente a logo do Quinta Do olivardo">
                     </figure>
                     <p class="text-start"><b>Local:</b> Estrada do Vinho, S/N</p>
                     <p class="text-start"><b>Site:</b> quintadoolivardo.com.br/</p>
@@ -163,7 +163,7 @@
                 <section class="col-lg-4 col-md-4 col-sm-6">
                     <h3 class="text-start">Come Together</h3>
                     <figure>
-                        <img src="../imgs/turismo/bar_cct_desktop.jpg" alt="Imagem referente a logo do Bar come Together">
+                        <img src="../imgs/turismo/bar_cct_desktop.webp" alt="Imagem referente a logo do Bar come Together">
                     </figure>
                     <p class="text-start"><b>Local:</b> Marechal Deodoro da Fonseca, 123</p>
                     <p class="text-start"><b>Site:</b> (11) 4784-4822</p>
@@ -173,7 +173,7 @@
                 <section class="col-lg-4 col-md-4 col-sm-6">
                     <h3 class="text-start">Rústico Moto Bar</h3>
                     <figure>
-                        <img src="../imgs/turismo/bar_moto_desktop.jpg" alt="Imagem referente a logo do Rustico Moto Bar">
+                        <img src="../imgs/turismo/bar_moto_desktop.webp" alt="Imagem referente a logo do Rustico Moto Bar">
                     </figure>
                     <p class="text-start"><b>Local:</b> Benedito Silvino de Camargo, 253</p>
                     <p class="text-start"><b>Site:</b> instagram.com/rusticomotobar/</p>
@@ -183,7 +183,7 @@
                 <section class="col-lg-4 col-md-4 col-sm-6">
                     <h3 class="text-start">Thanks Brewing Co.</h3>
                     <figure>
-                        <img src="../imgs/turismo/bar_thanks_desktop.jpg" alt="Imagem referente a logo da Thanks Brewing Co.">
+                        <img src="../imgs/turismo/bar_thanks_desktop.webp" alt="Imagem referente a logo da Thanks Brewing Co.">
                     </figure>
                     <p class="text-start"><b>Local:</b> Rua Bento Antônio Pereira, 236</p>
                     <p class="text-start"><b>Site:</b> www.thanksbrewing.com.br/</p>

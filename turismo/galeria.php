@@ -30,7 +30,7 @@
                   <h3 class="hide">h3 - Section</h3>
                     <p class="text-start"><b>Brasital</b></p>
                     <figure>
-                        <a href="../turismo/galeria_brasital.php"><img src="../imgs/turismo/brasital_menu_desktop.jpg" alt="Imagem referente o local brasital de são roque"></a>
+                        <a href="../turismo/galeria_brasital.php"><img src="../imgs/turismo/brasital_menu_desktop.webp" alt="Imagem referente o local brasital de são roque"></a>
                     </figure>
                 </section>
 
@@ -38,7 +38,7 @@
                   <h3 class="hide">h3 - Section</h3>
                     <p class="text-start"><b>Pátio Corina</b></p>
                     <figure>
-                        <img src="../imgs/turismo/patio_menu_desktop.jpg" alt="Imagem referente o local Patio Corina de são roque">
+                        <img src="../imgs/turismo/patio_menu_desktop.webp" alt="Imagem referente o local Patio Corina de são roque">
                     </figure>
                 </section>
             </div>
@@ -51,7 +51,7 @@
                   <h3 class="hide">h3 - Section</h3>
                     <p class="text-start"><b>Estação Ferroviaria</b></p>
                     <figure>
-                    <a href="../turismo/galeria_ferroviaria.php"> <img src="../imgs/turismo/ferro_menu_desktop.jpg" alt="Imagem referente o local estação ferroviaria de são roque"></a>
+                    <a href="../turismo/galeria_ferroviaria.php"> <img src="../imgs/turismo/ferro_menu_desktop.webp" alt="Imagem referente o local estação ferroviaria de são roque"></a>
                     </figure>
                 </section>
 
@@ -59,7 +59,7 @@
                   <h3 class="hide">h3 - Section</h3>
                     <p class="text-start"><b>Recanto da Cascata</b></p>
                     <figure>
-                        <img src="../imgs/turismo/cascata_menu_desktop.jpg" alt="Imagem referente o local recanto da cascata de são roque">
+                        <img src="../imgs/turismo/cascata_menu_desktop.webp" alt="Imagem referente o local recanto da cascata de são roque">
                     </figure>
                 </section>
             </div>
@@ -69,7 +69,7 @@
                   <h3 class="hide">h3 - Section</h3>
                     <p class="text-start"><b>Outlet Catarina</b></p>
                     <figure>
-                        <img src="../imgs/turismo/catarina_menu_desktop.jpg" alt="Imagem referente o local outlet Catarina de são roque">
+                        <img src="../imgs/turismo/catarina_menu_desktop.webp" alt="Imagem referente o local outlet Catarina de são roque">
                     </figure>
                 </section>
             </div>

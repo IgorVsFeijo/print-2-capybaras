@@ -38,7 +38,7 @@
             <div>
               <h2>Prefeitura SR</h2>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla id vehicula dolor, a elementum elit. Nam aliquet pulvinar odio ac vulputate. Nunc eu arcu in nunc blandit dapibus non eget nisl. Mauris interdum quam a lacinia vestibulum. Quisque orci metus, rutrum ac sodales in, efficitur id est. Duis in arcu at metus egestas pretium. Donec tempor odio eget risus dictum, nec luctus elit consequat. Aliquam tincidunt bibendum malesuada.
+              A Prefeitura de São Roque é o órgão de maior autoridade na cidade de São Roque e responsável pelos processos, protocolos, zelo, proteção e administração da cidade, promovendo vagas de emprego para a população e ajudando a manter a estabilidade e a segurança. Conheça mais sobre as diferentes áreas que abrangem a nossa cidade.
               </p>
             </div>
           </section>
@@ -51,7 +51,7 @@
             <div>
               <h2>Cidade</h2>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla id vehicula dolor, a elementum elit. Nam aliquet pulvinar odio ac vulputate. Nunc eu arcu in nunc blandit dapibus non eget nisl. Mauris interdum quam a lacinia vestibulum. Quisque orci metus, rutrum ac sodales in, efficitur id est.
+              Conheça a nossa história e tudo o que São Roque representa para o seu povo e para o Estado de São Paulo.
               </p>
             </div>
           </section>
@@ -64,9 +64,7 @@
             <div>
               <h2>Cidadão</h2>
               <p>
-                Numquam saepe excepturi, illum obcaecati expedita perferendis. Vel
-                ipsa blanditiis, asperiores quos magnam dicta optio officia
-                tempora voluptate quibusdam reprehenderit Vel?
+              Acesse a Área do Cidadão para conhecer e ter acesso a todos os serviços públicos e privados que podemos oferecer para você.
               </p>
             </div>
           </section>
@@ -80,8 +78,7 @@
               <div>
                 <h2>Cultura</h2>
                 <p class="d-none d-md-block">
-                  Officia dolorum quia quibusdam molestias nam nemo esse quo error
-                  commodi cumque!
+                Conheça mais sobre a rica e diversa cultura de São Roque, a Terra do Vinho!
                 </p>
               </div>
             </section>
@@ -93,8 +90,7 @@
               <div>
                 <h2>Turismo</h2>
                 <p class="d-none d-md-block">
-                  Minus, repellendus ut accusamus similique ad incidunt sunt
-                  voluptatibus quaerat laudantium, beatae ipsam veritatis.
+                Várias atrações e locais aguardam você em São Roque! Aproveite para conhecer todos e se programar para um fim de semana divertido em nossa cidade!
                 </p>
               </div>
             </section>
@@ -108,9 +104,7 @@
             <div>
               <h2>Governo</h2>
               <p>
-                Recusandae natus incidunt tempora dolore delectus odit, veniam
-                debitis illo odio similique ad iure reprehenderit, est ipsam nam
-                distinctio dolores magnam nemo quidem molestias.
+              Veja mais sobre o campo político são-roquense e todos os projetos de lei em andamento.
               </p>
             </div>
           </section>
@@ -123,9 +117,7 @@
             <div>
               <h2>Empresa</h2>
               <p>
-                Temporibus cupiditate dolorum veritatis recusandae maiores
-                accusantium, reiciendis eligendi ullam, at vero similique dolorem,
-                distinctio nesciunt.
+              Quer começar no ramo comercial? Acesse a área de empresas para entender todos os requisitos para implementar o seu negócio.
               </p>
             </div>
           </section>

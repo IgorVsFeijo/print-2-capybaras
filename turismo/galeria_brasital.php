@@ -29,14 +29,14 @@
                 <section class="col-lg-6 col-md-6 col-sm-12">
                   <h3 class="hide">h3 - Section</h3>
                     <figure>
-                        <img src="../imgs/turismo/brasital_1_desktop.jpg" alt="Imagem referente a uma paisagem da brasital, ponto turistico de são roque">
+                        <img src="../imgs/turismo/brasital_1_desktop.webp" alt="Imagem referente a uma paisagem da brasital, ponto turistico de são roque">
                     </figure>
                 </section>
 
                 <section class="col-lg-6 col-md-6 col-sm-12">
                   <h3 class="hide">h3 - Section</h3>
                     <figure>
-                    <img src="../imgs/turismo/brasital_2_desktop.jpg" alt="Imagem referente a uma paisagem da brasital, ponto turistico de são roque">
+                    <img src="../imgs/turismo/brasital_2_desktop.webp" alt="Imagem referente a uma paisagem da brasital, ponto turistico de são roque">
                     </figure>
                   </section>
             </div>
@@ -48,14 +48,14 @@
                 <section class="col-lg-6 col-md-6 col-sm-12">
                   <h3 class="hide">h3 - Section</h3>
                     <figure>
-                    <img src="../imgs/turismo/brasital_3_desktop.jpg" alt="Imagem referente a uma paisagem da brasital, ponto turistico de são roque">
+                    <img src="../imgs/turismo/brasital_3_desktop.webp" alt="Imagem referente a uma paisagem da brasital, ponto turistico de são roque">
                     </figure>
                 </section>
 
                 <section class="col-lg-6 col-md-6 col-sm-12">
                   <h3 class="hide">h3 - Section</h3>
                     <figure>
-                    <img src="../imgs/turismo/brasital_4_desktop.jpg" alt="Imagem referente a uma paisagem da brasital, ponto turistico de são roque">
+                    <img src="../imgs/turismo/brasital_4_desktop.webp" alt="Imagem referente a uma paisagem da brasital, ponto turistico de são roque">
                     </figure>
                 </section>
             </div>
@@ -65,7 +65,7 @@
                 <section class="col-lg-12 col-md-12 col-sm-12">
                   <h3 class="hide">h3 - Section</h3>
                     <figure>
-                    <img src="../imgs/turismo/brasital_5_desktop.jpg" alt="Imagem referente a uma paisagem da brasital, ponto turistico de são roque">
+                    <img src="../imgs/turismo/brasital_5_desktop.webp" alt="Imagem referente a uma paisagem da brasital, ponto turistico de são roque">
                     </figure>
                 </section>
             </div>
