@@ -10,6 +10,8 @@
         include '../includes/inc_head_links.php';
       ?>
 
+    <link rel="stylesheet" href="../style/turismo.css">
+
 </head>
 <body>
     <!-- Inicio Header -->
@@ -29,9 +31,12 @@
                 <section class="col-lg-6 col-md-6 col-sm-12">
                   <h3 class="hide">h3 - Section</h3>
                     <p class="text-start"><b>Brasital</b></p>
+                    <div class="tur_position_r">
                     <figure>
                         <a href="../turismo/galeria_brasital.php"><img src="../imgs/turismo/brasital_menu_desktop.webp" alt="Imagem referente o local brasital de são roque"></a>
                     </figure>
+                <button class="tur_btn_vermais tur_position_a"><a class="tur_link" href="../turismo/galeria_brasital.php">Ver Mais</a></button>
+                    </div>
                 </section>
 
                 <section class="col-lg-6 col-md-6 col-sm-12">
