@@ -27,10 +27,10 @@
     <div class="container text-center">
         <div class="row">
             <article class="col-lg-8 col-md-8 col-sm-12 text-start">
-                <h1 class="hide">h1-article</h1>
             <div class="row text-start">
             <b><a href="../print-2-capybaras/index.php">Home</a> <i class="bi bi-arrow-right"></i> <a href="../print-2-capybaras/noticias.php">Notícias</a></b>
             </div>
+            <h3>Cidade</h3>
                 <figure class="text-center">
                     <img src="http://placekitten.com/760/349" alt="Imagem Via Placeholder">
                 </figure>
@@ -41,8 +41,8 @@
                 <p>Ao término do encontro, a organização realizou a doação de aproximadamente 100kg de alimentos para a Casa de Passagem de São Roque. Esse evento posicionou São Roque no centro de um movimento que está ganhando cada vez mais força, não apenas na região, mas em todo o país e no cenário internacional.</p>
             </article>
 
-            <section class="col-lg-4 col-md-4 col-sm-12">
-                <h3>h3 - Section</h3>
+            <section class="col-lg-4 col-md-4 col-sm-12 not_vejamais">
+                <h4>VEJA MAIS</h4>
                 <figure>
                     <img src="http://placekitten.com/294/176" alt="Imagem Via Placeholder">
                 </figure>

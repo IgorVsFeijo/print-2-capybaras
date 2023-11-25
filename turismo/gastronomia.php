@@ -28,7 +28,7 @@
         <article>
             <h2 class="text-start tur_gastro_h2">Adegas e Vinículas</h2>
             <div class="row">
-                <section class="col-lg-4 col-md-4 col-sm-6">
+                <section class="col-lg-3 col-md-3 col-sm-6 tur_shadow">
                     <h3 class="text-start tur_h3">Adega Terra do Vinho</h3>
                     <figure>
                         <img src="../imgs/turismo/vini_terra_desktop.webp" alt="Imagem referente a logo da Adega Terra do Vinho">
@@ -38,7 +38,7 @@
                     <p class="text-start"><b>Contatos:</b> (11) 4712-8831</p>
                 </section>
 
-                <section class="col-lg-4 col-md-4 col-sm-6">
+                <section class="col-lg-3 col-md-3 col-sm-6 tur_shadow">
                     <h3 class="text-start tur_h3">Vinhos Alma Galiza</h3>
                     <figure>
                         <img src="../imgs/turismo/vini_alma_desktop.webp" alt="Imagem referente a logo da Vinhos Alma Galiza">
@@ -48,7 +48,7 @@
                     <p class="text-start"><b>Contatos:</b> (11) 4711-1900</p>
                 </section>
 
-                <section class="col-lg-4 col-md-4 col-sm-6">
+                <section class="col-lg-3 col-md-3 col-sm-6 tur_shadow">
                     <h3 class="text-start tur_h3">Adega Quinta do Olivardo</h3>
                     <figure>
                         <img src="../imgs/turismo/vini_quinta_desktop.webp" alt="Imagem referente a logo da Adega Quinta do olivardo">
@@ -60,7 +60,7 @@
             </div>
 
             <div class="row">
-                <section class="col-lg-4 col-md-4 col-sm-6">
+            <section class="col-lg-3 col-md-3 col-sm-6 tur_shadow">
                     <h3 class="text-start tur_h3">Southwest Destilaria</h3>
                     <figure>
                         <img src="../imgs/turismo/vini_south_desktop.webp" alt="Imagem referente a logo da Southwest Destilaria">
@@ -70,7 +70,7 @@
                     <p class="text-start"><b>Contatos:</b> (11) 99436-7492</p>
                 </section>
 
-                <section class="col-lg-4 col-md-4 col-sm-6">
+                <section class="col-lg-3 col-md-3 col-sm-6 tur_shadow">
                     <h3 class="text-start tur_h3">Vinhos Frank</h3>
                     <figure>
                         <img src="../imgs/turismo/vini_frank_desktop.webp" alt="Imagem referente a logo da Vinhos Frank">
@@ -80,7 +80,7 @@
                     <p class="text-start"><b>Contatos:</b> (11) 4712-5939</p>
                 </section>
 
-                <section class="col-lg-4 col-md-4 col-sm-6">
+                <section class="col-lg-3 col-md-3 col-sm-6 tur_shadow">
                     <h3 class="text-start tur_h3">Vinícola Góes</h3>
                     <figure>
                         <img src="../imgs/turismo/vini_goes_desktop.webp" alt="Imagem referente a logo da Vinícola Góes">
@@ -95,7 +95,7 @@
         <aside>
             <h2 class="text-start tur_gastro_h2 tur_border">Restaurantes, Lanchonetes, Cafeterias e Docerias</h2>
             <div class="row">
-                <section class="col-lg-4 col-md-4 col-sm-6">
+                <section class="col-lg-3 col-md-3 col-sm-6 tur_shadow">
                     <h3 class="text-start tur_h3">Brazão Food Park</h3>
                     <figure>
                         <img src="../imgs/turismo/res_brazao_desktop.webp" alt="Imagem referente a logo do Brazão Food Park">
@@ -105,7 +105,7 @@
                     <p class="text-start"><b>Contatos:</b> (11) 99965-0065</p>
                 </section>
 
-                <section class="col-lg-4 col-md-4 col-sm-6">
+                <section class="col-lg-3 col-md-3 col-sm-6 tur_shadow">
                     <h3 class="text-start tur_h3">Cantina Tia Lina</h3>
                     <figure>
                         <img src="../imgs/turismo/res_tia_desktop.webp" alt="Imagem referente a logo do restaurante cantina Tia Lina">
@@ -115,7 +115,7 @@
                     <p class="text-start"><b>Contatos:</b> (11) 4711-2018</p>
                 </section>
 
-                <section class="col-lg-4 col-md-4 col-sm-6">
+                <section class="col-lg-3 col-md-3 col-sm-6 tur_shadow">
                     <h3 class="text-start tur_h3">Caracol Chocolates</h3>
                     <figure>
                         <img src="../imgs/turismo/res_caracol_desktop.webp" alt="Imagem referente a logo da Caracol Chocolates">
@@ -127,7 +127,7 @@
             </div>
 
             <div class="row">
-                <section class="col-lg-4 col-md-4 col-sm-6">
+            <section class="col-lg-3 col-md-3 col-sm-6 tur_shadow">
                     <h3 class="text-start tur_h3">Casa Araucária</h3>
                     <figure>
                         <img src="../imgs/turismo/res_arau_desktop.webp" alt="Imagem referente a logo da Casa Araucária">
@@ -137,7 +137,7 @@
                     <p class="text-start"><b>Contatos:</b> (11) 99508-4122</p>
                 </section>
 
-                <section class="col-lg-4 col-md-4 col-sm-6">
+                <section class="col-lg-3 col-md-3 col-sm-6 tur_shadow">
                     <h3 class="text-start tur_h3">Mc Donalds</h3>
                     <figure>
                         <img src="../imgs/turismo/res_mc_desktop.webp" alt="Imagem referente a logo do McDonalds">
@@ -147,7 +147,7 @@
                     <p class="text-start"><b>Contatos:</b> (11) 4784-7041 </p>
                 </section>
 
-                <section class="col-lg-4 col-md-4 col-sm-6">
+                <section class="col-lg-3 col-md-3 col-sm-6 tur_shadow">
                     <h3 class="text-start tur_h3">Quinta do Olivardo</h3>
                     <figure>
                         <img src="../imgs/turismo/res_quinta_desktop.webp" alt="Imagem referente a logo do Quinta Do olivardo">
@@ -162,7 +162,7 @@
         <aside>
             <h2 class="text-start tur_gastro_h2 tur_border">Bares</h2>
             <div class="row">
-                <section class="col-lg-4 col-md-4 col-sm-6">
+                <section class="col-lg-3 col-md-3 col-sm-6 tur_shadow">
                     <h3 class="text-start tur_h3">Come Together</h3>
                     <figure>
                         <img src="../imgs/turismo/bar_cct_desktop.webp" alt="Imagem referente a logo do Bar come Together">
@@ -172,7 +172,7 @@
                     <p class="text-start"><b>Contatos:</b> clubecometogether.com.br/</p>
                 </section>
 
-                <section class="col-lg-4 col-md-4 col-sm-6">
+                <section class="col-lg-3 col-md-3 col-sm-6 tur_shadow">
                     <h3 class="text-start tur_h3">Rústico Moto Bar</h3>
                     <figure>
                         <img src="../imgs/turismo/bar_moto_desktop.webp" alt="Imagem referente a logo do Rustico Moto Bar">
@@ -182,7 +182,7 @@
                     <p class="text-start"><b>Contatos:</b> (11) 99459-7777</p>
                 </section>
 
-                <section class="col-lg-4 col-md-4 col-sm-6">
+                <section class="col-lg-3 col-md-3 col-sm-6 tur_shadow">
                     <h3 class="text-start tur_h3">Thanks Brewing Co.</h3>
                     <figure>
                         <img src="../imgs/turismo/bar_thanks_desktop.webp" alt="Imagem referente a logo da Thanks Brewing Co.">

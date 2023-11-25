@@ -29,7 +29,7 @@
         <article>
             <h2 class="tur_hospedagem_h2">Acampamentos</h2>
             <div class="row">
-                <section class="col-lg-6 col-md-6 col-sm-12 text-start">
+                <section class="col-lg-5 col-md-5 col-sm-12 text-start tur_shadow">
                   <h3 class="hide">h3 - Section</h3>
                     <p class="tur_titulos">Sitio de Lazer</p>
                     <figure class="text-center">
@@ -40,7 +40,7 @@
                     </p>
                 </section>
 
-                <section class="col-lg-6 col-md-6 col-sm-12 text-start">
+                <section class="col-lg-5 col-md-5 col-sm-12 text-start tur_shadow">
                   <h3 class="hide">h3 - Section</h3>
                     <p class="tur_titulos">Acampamento</p>
                     <figure class="text-center">
@@ -56,7 +56,7 @@
         <article>
             <h2 class="tur_hospedagem_h2 tur_border">Hotéis</h2>
             <div class="row">
-                <section class="col-lg-6 col-md-6 col-sm-12 text-start">
+                <section class="col-lg-5 col-md-5 col-sm-12 text-start tur_shadow">
                   <h3 class="hide">h3 - Section</h3>
                     <p class="tur_titulos">Hotel</p>
                     <figure class="text-center">
@@ -67,7 +67,7 @@
                     </p>
                 </section>
 
-                <section class="col-lg-6 col-md-6 col-sm-12 text-start">
+                <section class="col-lg-5 col-md-5 col-sm-12 text-start tur_shadow">
                   <h3 class="hide">h3 - Section</h3>
                     <p class="tur_titulos">Cordialle Hotel</p>
                     <figure class="text-center">
@@ -80,7 +80,7 @@
             </div>
 
             <div class="row">
-                <section class="col-lg-6 col-md-6 col-sm-12 text-start">
+                <section class="col-lg-5 col-md-5 col-sm-12 text-start tur_shadow">
                   <h3 class="hide">h3 - Section</h3>
                     <p class="tur_titulos">São Roque Park Hotel</p>
                     <figure class="text-center">
@@ -91,7 +91,7 @@
                     </p>
                 </section>
 
-                <section class="col-lg-6 col-md-6 col-sm-12 text-start">
+                <section class="col-lg-5 col-md-5 col-sm-12 text-start tur_shadow">
                   <h3 class="hide">h3 - Section</h3>
                     <p class="tur_titulos">Villa Rossa</p>
                     <figure class="text-center">
@@ -107,7 +107,7 @@
         <article>
             <h2 class="tur_hospedagem_h2 tur_border">Pousadas</h2>
             <div class="row">
-                <section class="col-lg-6 col-md-6 col-sm-12 text-start">
+                <section class="col-lg-5 col-md-5 col-sm-12 text-start tur_shadow">
                   <h3 class="hide">h3 - Section</h3>
                     <p class="tur_titulos">Aconchego no Campo</p>
                     <figure class="text-center">
@@ -118,7 +118,7 @@
                     </p>
                 </section>
 
-                <section class="col-lg-6 col-md-6 col-sm-12 text-start">
+                <section class="col-lg-5 col-md-5 col-sm-12 text-start tur_shadow">
                   <h3 class="hide">h3 - Section</h3>
                     <p class="tur_titulos">Pousada Juriti</p>
                     <figure class="text-center">
@@ -131,7 +131,7 @@
             </div>
 
             <div class="row">
-                <section class="col-lg-6 col-md-6 col-sm-12 text-start">
+                <section class="col-lg-5 col-md-5 col-sm-12 text-start tur_shadow">
                   <h3 class="hide">h3 - Section</h3>
                     <p class="tur_titulos">Chácara Putini</p>
                     <figure class="text-center">
@@ -142,7 +142,7 @@
                     </p>
                 </section>
 
-                <section class="col-lg-6 col-md-6 col-sm-12 text-start">
+                <section class="col-lg-5 col-md-5 col-sm-12 text-start tur_shadow">
                   <h3 class="hide">h3 - Section</h3>
                     <p class="tur_titulos">Sítio da Terra e Arte</p>
                     <figure class="text-center">
