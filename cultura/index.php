@@ -36,7 +36,7 @@
                             <section class="notícia_mobile">
                                 <h2 class="hide">Section - h2</h2>
                                 <figure>
-                                    <a href="#"><img src="../imgs/cultura/noticia1.jpg" alt="template oficial da Lei Paulo Gustavo"></a>
+                                    <a href="#"><img src="../imgs/cultura/noticia1.webp" alt="template oficial da Lei Paulo Gustavo"></a>
                                 </figure>
                                 <p>Entenda mais a fundo sobre a Lei Paulo Gustavo e os seus editais</p>
                             </section>
@@ -45,7 +45,7 @@
                             <section class="notícia_mobile">
                                 <h2 class="hide">Section - h2</h2>
                                 <figure>
-                                    <a href="#"><img src="../imgs/cultura/noticia2.jpeg" alt="Arte oficial da peça do Coletivo Entre Nós 'Semeando a Terra' para o Festival de Teatro Vasco Barioni"></a>
+                                    <a href="#"><img src="../imgs/cultura/noticia2.webp" alt="Arte oficial da peça do Coletivo Entre Nós 'Semeando a Terra' para o Festival de Teatro Vasco Barioni"></a>
                                 </figure>
                                 <p>Festival de Teatro Estudantil Vasco Barioni 2023 - Saiba mais sobre o evento!</p>
                             </section>
@@ -54,7 +54,7 @@
                             <section class="notícia_mobile">
                                 <h2 class="hide">Section - h2</h2>
                                 <figure>
-                                    <a href="#"><img src="../imgs/cultura/noticia3.jpg" alt="Logotipo oficial do Festival de Artes Catatau"></a>
+                                    <a href="#"><img src="../imgs/cultura/noticia3.webp" alt="Logotipo oficial do Festival de Artes Catatau"></a>
                                 </figure>
                                 <p>Festival de Artes Catatau é sucesso entre as crianças na Brasital</p>
                             </section>
@@ -65,14 +65,14 @@
                         <section class="col-md-6 text-center" >
                             <h2 class="hide">Section - h2</h2>
                             <figure>
-                                <a href="../cultura/culturaarte.php"><img src="../imgs/cultura/marcosculturais.jpg" alt="Imagem ilustrativa para a página detalhada da cultura de São Roque"></a>
+                                <a href="../cultura/culturaarte.php"><img src="../imgs/cultura/marcosculturais.webp" alt="Imagem ilustrativa para a página detalhada da cultura de São Roque"></a>
                             </figure>
                             <h4>Marcos Culturais</h4>
                         </section>
                         <section class="col-md-6 text-center">
                             <h2 class="hide">Section - h2</h2>
                             <figure>
-                                <a href="../cultura/tradicoes.php"><img src="../imgs/cultura/festastradicionais.jpg" alt="Imagem ilustrativa para a página de tradições de São Roque"></a>
+                                <a href="../cultura/tradicoes.php"><img src="../imgs/cultura/festastradicionais.webp" alt="Imagem ilustrativa para a página de tradições de São Roque"></a>
                             </figure>
                             <h4>Festas Tradicionais</h4>
                         </section>

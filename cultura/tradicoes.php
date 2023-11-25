@@ -39,10 +39,10 @@
                         </div>
                         <figure class="col-sm-6 col-md-6 col-lg-12 text-center">
                             <picture>
-                              <source srcset="../imgs/cultura/logofestas_de_agosto.jpg" media="(max-width: 992px)" aria-placeholder="logotipo oficial das festas de agosto"><img>
+                              <source srcset="../imgs/cultura/logofestas_de_agosto.webp" media="(max-width: 992px)" aria-placeholder="logotipo oficial das festas de agosto"><img>
                             </picture>
                             <picture>
-                              <source media="(min-width: 992px)" srcset="../imgs/cultura/logofestas_de_agosto.jpg"><img>
+                              <source media="(min-width: 992px)" srcset="../imgs/cultura/logofestas_de_agosto.webp"><img>
                             </picture>
                         </figure>
                         <p>Como um evento comemorativo e religioso, a festa se inicia em julho com a novena realizada no Morro do Cruzeiro. A partir de então, no fim do mês, a abertura das barracas marca o começo do evento festivo, que desde 2022, se desdobra entre o Centro e o Recanto da Cascata, com barracas de doces, salgados, espetos e parque de diversões para os menores. Isso tudo acompanhado por shows ao vivo diários de bandas talentosas da região.</p>
@@ -51,14 +51,14 @@
                 <section class="row col-lg-6 exposr">
                   <h2 class="hide">section -  h2</h2>
                         <picture class="col-sm-6 col-md-6 col-lg-12 d-lg-none text-center">
-                            <source media="(max-width: 992px)" srcset="../imgs/cultura/exposaoroque.jpg"><img>
+                            <source media="(max-width: 992px)" srcset="../imgs/cultura/exposaoroque.webp"><img>
                         </picture> 
                         <div class="col-sm-6 col-lg-12">
                           <h3>Expo São Roque</h3>
                           <p>Festa que celebra a tradição de São Roque como a Terra do Vinho, com stands das vinícolas mais famosas, introdução a conceitos de enologia, vendas de vinho e alcachofra e que se estende por mais de 28 anos em um clima de festa.</p>
                           <figure class="text-center">
                             <picture>
-                              <source media="(min-width: 992px)" srcset="../imgs/cultura/exposaoroque.jpg"><img>
+                              <source media="(min-width: 992px)" srcset="../imgs/cultura/exposaoroque.webp"><img>
                             </picture>
                           </figure>
                         </div>  
