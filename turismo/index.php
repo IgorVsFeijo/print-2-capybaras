@@ -49,21 +49,21 @@
                 <h2 class="text-start">HOSPEDAGEM</h2>
             </div>
             <div class="row text-start">
-                <section class="col-lg-3 col-md-3 col-sm-6 tur_i_shadow">
+                <section class="col-lg-3 col-md-3 col-sm-5 tur_i_shadow">
                     <h3 class="tur_h3">Sitio de Lazer</h3>
                     <figure class="text-center">
                         <img src="../imgs/turismo/sitio_de_lazer.webp" alt="Imagem referente a logo do acampamento sitio de lazer">
                     </figure>
                     <p>Um delicioso lugar para passar seu final de semana, com muitas rotinas de lazer.</p>
                 </section>
-                <section class="col-lg-3 col-md-3 col-sm-6 tur_i_shadow">
+                <section class="col-lg-3 col-md-3 col-sm-5 tur_i_shadow">
                     <h3 class="tur_h3">Cordialle Hotel</h3>
                     <figure class="text-center">
                         <img src="../imgs/turismo/cordialle.webp" alt="Imagem referente a logo do hotel cordialle.">
                     </figure>
                     <p>Uma interpretação contemporânea das tradicionais hospedarias.</p>
                 </section>
-                <section class="col-lg-3 col-md-3 col-sm-6 tur_i_shadow">
+                <section class="col-lg-3 col-md-3 col-sm-5 tur_i_shadow">
                     <h3 class="tur_h3">Chácara Putini</h3>
                     <figure class="text-center">
                         <img src="../imgs/turismo/putini.webp" alt="Imagem referente a logo da chácara putini.">
@@ -79,11 +79,11 @@
                 <a class="col-lg-6 col-md-6 col-sm-6 text-end tur_link" href="../turismo/galeria.php">ver mais+</a>
             </div>
             <div class="row">
-                <figure class="col-lg-6 col-md-6 col-sm-6 text-center">
-                    <img class="tur_i_shadow" src="../imgs/turismo/brasital_galeria.webp" alt="Imagem referente ao local turistico chamado brasital">
+                <figure class="col-lg-6 col-md-6 col-sm-12 text-center">
+                    <img class="tur_i_shadow img-fluid img-thumbnail rounded float-left" src="../imgs/turismo/brasital_galeria.webp" alt="Imagem referente ao local turistico chamado brasital">
                 </figure>
-                <figure class="col-lg-6 col-md-6 col-sm-6 text-start">
-                    <img class="tur_i_shadow" src="../imgs/turismo/ferro_galeria.webp" alt="Imagem referente a ferroviaria turistica de são roque">
+                <figure class="col-lg-6 col-md-6 col-sm-12 text-start">
+                    <img class="tur_i_shadow img-fluid img-thumbnail rounded float-right" src="../imgs/turismo/ferro_galeria.webp" alt="Imagem referente a ferroviaria turistica de são roque">
                 </figure>
             </div>
         </aside>
