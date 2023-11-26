@@ -2,6 +2,20 @@
 
 /* INICIO CSS AREA TURISMO */
 
+.not_back{
+    background-color: #00A6A6;
+    padding: 1em;
+    margin-top: 1em;
+}
+
+.not_i_shadow{
+    -webkit-box-shadow: 0px 0px 16px 0px rgba(0,0,0,0.29);
+    -moz-box-shadow: 0px 0px 16px 0px rgba(0,0,0,0.29);
+    box-shadow: 0px 0px 16px 0px rgba(0,0,0,0.29);
+    margin: 0em 0em 0em 5em;
+    padding: 1em 1em 1em 1em;
+}
+
 .tur_galeria_index{
     padding: 0 2.5em 0 2.5em;
 }
