@@ -25,7 +25,7 @@
             <h1>Poder Executivo</h1>
         </section>
         <article class="col-lg-6 col-md-6 col-sm-12">
-            <img src="http://placekitten.com/600/250" alt="foto de gato">
+            <img src="../imgs/governo/meuprefeito.webp" alt="foto do prefeito de São Roque Marcos Augusto Issa Henriques de Araújo ">
         </article>
 
         <aside class="col-lg-6 col-md-6 col-sm-12">
@@ -46,7 +46,7 @@
         </section>
 
         <section class="col-lg-6 col-md-6 col-sm-12">
-            <img src="http://placekitten.com/600/250" alt="foto de gato">
+            <img src="../imgs/governo/vicedevoces.webp" alt="foto do vice-prefeito de São Roque Osmar Henrique Boccato">
         </section>
 
 
