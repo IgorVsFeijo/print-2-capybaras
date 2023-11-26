@@ -27,7 +27,7 @@
               <b><a href="../empresa/home.php">Home</a> <i class="bi bi-arrow-right"></i> <a href="../empresa/iptu.php">IPTU</a></b>
         </div>
         <figure class="text-center">
-          <img src="https://placekitten.com/800/200" alt="gatinho">
+          <img src="../imgs/empresa/empresa_pagIPTU.jpg" alt="gatinho">
         </figure>
 
         <article id="pag_iptu">

@@ -25,12 +25,12 @@
             <b><a href="../empresa/home.php">Home</a></b>
         </div>
       <figure class="text-center">
-        <img src="https://placekitten.com/800/200" alt="gatinho" class="imagemcentral_empresas">
+        <img src="../imgs/empresa/empresa_topoportalsr.jpg" alt="gatinho" class="imagemcentral_empresas">
       </figure> 
 
       <div class="row text-center">
         <figure class="col-lg-4 col-md-6 col-sm-12">
-            <img src="https://placekitten.com/300/200" alt="gatinho">
+            <img src="../imgs/empresa/empresa_iptu.jpg" alt="gatinho">
         </figure>
         <aside class="col-lg-8 col-md-6 col-sm-12">
             <article>
@@ -45,7 +45,7 @@
         <h3 class="hide">H3- Section</h3>
         <div class="col-4">
           <figure>
-              <img src="https://placekitten.com/300/150" alt="gatinho">
+              <img src="../imgs/empresa/empresa_diario.jpg" alt="gatinho">
           </figure>
         </div>
         <div class="col-4">
