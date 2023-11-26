@@ -27,7 +27,7 @@
             <h1>LEGISLAÇÃO</h1>
         </section>
         <article class="col-lg-6 col-md-6 col-sm-12">
-            <img src="http://placekitten.com/350/200" alt="foto de gato">
+            <img src="../imgs/governo/leiorg.webp" alt="foto de uma tipografia dizendo Lei Orgânica do Município">
 
             <h2>Lei Orgânica do Município</h2>
 
@@ -37,7 +37,7 @@
 
         <aside class="col-lg-6 col-md-6 col-sm-12">
 
-            <img src="http://placekitten.com/350/200" alt="foto de gato">
+            <img src="../imgs/governo/leideorca.webp" alt="foto de uma tipografia dizendo Lei de Diretrizes Orçamentárias">
             <h2>Lei de Diretrizes Orçamentárias</h2>
 
             <p>A Lei de Diretrizes Orçamentárias (LDO) é um instrumento fundamental na estruturação do planejamento financeiro do país. Elaborada anualmente, a LDO estabelece as metas e prioridades do governo para o próximo exercício fiscal, orientando a elaboração da Lei Orçamentária Anual (LOA).Essa lei é essencial para garantir a transparência, a eficiência e a disciplina fiscal na gestão dos recursos públicos, proporcionando um planejamento mais sólido e alinhado com as necessidades e possibilidades do país.</p>
@@ -56,7 +56,7 @@
         </section>
 
         <section class="col-lg-6 col-md-6 col-sm-12">
-            <img src="http://placekitten.com/600/250" alt="foto de gato">
+            <img src="../imgs/governo/ppa.webp" alt="foto de uma tipografia dizendo PPA, referente ao plano plurianual">
         </section>
     </div>
 
