@@ -36,12 +36,12 @@
             <article>
                 <h2>IPTU</h2>
                 <p>Veja tudo que precisa saber para manter a sua empresa com o IPTU em dia, como cadastrar, como manter atualizado, como transferir o cadastro da IPTU, isenções e possíveis descontos, além dos locais em que você pode acessar essas informações, bem como os documentos necessários para o cadastro do endereço de correspondência.</p>
-                <a class="btn btn-vermais botao_empresa col-2" href="../empresa/diario_oficial.php">Ver mais</a>
+                <a href="../empresa/iptu.php" class="btn btn-vermais">Ver Mais</a>
             </article>
         </aside>
       </div>
       <hr>
-      <section class="row text-center col-12">
+      <section class="row text-center col-12 section_diario">
         <h3 class="hide">H3- Section</h3>
         <div class="col-4">
           <figure>
@@ -52,7 +52,7 @@
           <h2>DIÁRIO OFICIAL 2023</h2>
           <p>Confira as últimas atualizações do Diário Oficial!</p>
         </div>
-          <a class="btn btn-vermais botao_empresa col-2" href="../empresa/diario_oficial.php">Ver mais</a>
+          <a class="btn btn-vermais col-2" href="../empresa/diario_oficial.php">Ver Mais</a>
       </section>
 
       <hr>
