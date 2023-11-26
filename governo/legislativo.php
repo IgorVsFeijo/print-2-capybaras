@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>São Roque - Título da Página</title>
+    <title>São Roque - Poder Legislativo</title>
 
     <?php
         include '../includes/inc_head_links.php';
@@ -27,76 +27,51 @@
             <h1> CÂMARA MUNICIPAL</h1>
         </section>
         <article class="col-lg-12 col-md-12 col-sm-12">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer non eros sed mauris rutrum interdum. Ut nec ornare urna, sit amet dignissim risus. Cras in congue erat, at porta sem. Aenean tincidunt mi at ligula egestas, ornare iaculis dolor molestie. Maecenas eros diam, commodo ac ante aliquet, molestie ullamcorper dolor. Sed non scelerisque orci. Aenean viverra ut quam sed dictum. Mauris a vestibulum tortor. Duis consequat suscipit dolor sed tristique. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut pharetra, sapien imperdiet cursus blandit, leo arcu porttitor ante, eu maximus eros eros sit amet est. Nullam lectus libero, eleifend in suscipit fringilla, blandit at massa. Integer interdum semper nisl, id cursus ante vulputate vitae. Praesent tempus laoreet nibh at viverra. 
-            </p>
+            <p>A Câmara Municipal é um órgão fundamental na estrutura do poder legislativo em nível municipal. Suas atribuições envolvem a criação, discussão e aprovação de leis que afetam diretamente a vida dos cidadãos locais. Além disso, cabe à Câmara a fiscalização dos atos do Poder Executivo, incluindo a análise e aprovação do orçamento municipal, a autorização de despesas e a apreciação de contas públicas. Outro papel crucial é a representação dos interesses da população, por meio dos vereadores, que devem atuar como porta-vozes dos anseios e demandas dos munícipes, promovendo debates, audiências públicas e propondo soluções para questões pertinentes ao desenvolvimento e bem-estar da comunidade local. Além das atividades legislativas, a Câmara Municipal também é responsável por exercer o papel fiscalizador sobre o Poder Executivo, acompanhando a execução das políticas públicas, o cumprimento das leis e a aplicação dos recursos municipais.</p>
         </article>
 
     </div>
     <div class="row">
         <section class="col-lg-12 col-md-12 col-sm-12">
             <h1>Poder Legislativo</h1>
+            <h3>PRESIDENTE DA CÂMARA</h3>
         </section>
         <aside class="col-lg-6 col-md-6 col-sm-12">
-            <h2>PRESIDENTE DA CÂMARA</h2>
             <img src="http://placekitten.com/600/300" alt="foto de gato">
         </aside>
 
         <section class="col-lg-6 col-md-6 col-sm-12">
 
-            <p>Fusce ut tellus orci. Proin tincidunt dolor quis sagittis blandit. Donec rhoncus enim vitae nunc lacinia,at aliquet tellus convallis. In maximus quis enim auctor mollis. Duis pharetra mollis urna quissagittis. Ut sagittis cursus purus in blandit. Praesent vehicula rutrum est at consectetur. Nullam acsollicitudin turpis. Cras suscipit libero quis lectus tincidunt, nec tristique dui placerat. Phasellus at massa eget libero rhoncus pellentesque.</p>
+            <p>Atualmente o presidente da Câmara Municipal de São Roque no ano de 2023 é o vereador: Rafael Tanzi de Araújo. Ao Presidente, representante máximo da Câmara cabem inúmeras atribuições, entre elas a direção das Sessões, os trabalhos legislativos, a presidência e assuntos referentes à Mesa Diretora e relações externas. Ainda lhe cabe: superintender as atividades administrativas, fazer cumprir o Regimento Interno, promulgar as decisões e leis, manter a ordem no recinto da Câmara Municipal e declarar extinto o mandato dos vereadores, do prefeito e do vice-prefeito, quando for o caso.</p>
         </section>
     </div>
 
     <div class="row">
+        <section class="col-lg-12 col-md-12 col-sm-12">
+            <h3> VEREADORES </h3>
+        </section>
         <section class="col-lg-3 col-md-3 col-sm-12">
             <figure>
                 <img src="http://placekitten.com/300/200" alt="foto de gato">
-                <figcaption>LOREMLOREMLO</figcaption>
+                <figcaption>Antônio José Alves Miranda</figcaption>
             </figure>
         </section>
         <section class="col-lg-3 col-md-3 col-sm-12">
             <figure>
                 <img src="http://placekitten.com/300/200" alt="foto de gato">
-                <figcaption>LOREMLOREMLO</figcaption>
+                <figcaption>Claudia Rita Duarte Pedroso</figcaption>
             </figure>
         </section>
         <section class="col-lg-3 col-md-3 col-sm-12">
             <figure>
                 <img src="http://placekitten.com/300/200" alt="foto de gato">
-                <figcaption>LOREMLOREMLO</figcaption>
+                <figcaption>Clovis Antônio Ocuma</figcaption>
             </figure>
         </section>
         <section class="col-lg-3 col-md-3 col-sm-12">
             <figure>
                 <img src="http://placekitten.com/300/200" alt="foto de gato">
-                <figcaption>LOREMLOREMLO</figcaption>
-            </figure>
-        </section>
-        
-    </div>
-    <div class="row">
-        <section class="col-lg-3 col-md-3 col-sm-12">
-            <figure>
-                <img src="http://placekitten.com/300/200" alt="foto de gato">
-                <figcaption>LOREMLOREMLO</figcaption>
-            </figure>
-        </section>
-        <section class="col-lg-3 col-md-3 col-sm-12">
-            <figure>
-                <img src="http://placekitten.com/300/200" alt="foto de gato">
-                <figcaption>LOREMLOREMLO</figcaption>
-            </figure>
-        </section>
-        <section class="col-lg-3 col-md-3 col-sm-12">
-            <figure>
-                <img src="http://placekitten.com/300/200" alt="foto de gato">
-                <figcaption>LOREMLOREMLO</figcaption>
-            </figure>
-        </section>
-        <section class="col-lg-3 col-md-3 col-sm-12">
-            <figure>
-                <img src="http://placekitten.com/300/200" alt="foto de gato">
-                <figcaption>LOREMLOREMLO</figcaption>
+                <figcaption>Diego gouveia da Costa</figcaption>
             </figure>
         </section>
         
@@ -105,25 +80,25 @@
         <section class="col-lg-3 col-md-3 col-sm-12">
             <figure>
                 <img src="http://placekitten.com/300/200" alt="foto de gato">
-                <figcaption>LOREMLOREMLO</figcaption>
+                <figcaption>Guilherme Araujo Nunes</figcaption>
             </figure>
         </section>
         <section class="col-lg-3 col-md-3 col-sm-12">
             <figure>
                 <img src="http://placekitten.com/300/200" alt="foto de gato">
-                <figcaption>LOREMLOREMLO</figcaption>
+                <figcaption>Israel Francisco de Oliveira</figcaption>
             </figure>
         </section>
         <section class="col-lg-3 col-md-3 col-sm-12">
             <figure>
                 <img src="http://placekitten.com/300/200" alt="foto de gato">
-                <figcaption>LOREMLOREMLO</figcaption>
+                <figcaption>José Alexandre Perroni</figcaption>
             </figure>
         </section>
         <section class="col-lg-3 col-md-3 col-sm-12">
             <figure>
                 <img src="http://placekitten.com/300/200" alt="foto de gato">
-                <figcaption>LOREMLOREMLO</figcaption>
+                <figcaption>Julio Antonio Mariano</figcaption>
             </figure>
         </section>
         
@@ -132,13 +107,40 @@
         <section class="col-lg-3 col-md-3 col-sm-12">
             <figure>
                 <img src="http://placekitten.com/300/200" alt="foto de gato">
-                <figcaption>LOREMLOREMLO</figcaption>
+                <figcaption>Marcos Roberto Arruda</figcaption>
             </figure>
         </section>
         <section class="col-lg-3 col-md-3 col-sm-12">
             <figure>
                 <img src="http://placekitten.com/300/200" alt="foto de gato">
-                <figcaption>LOREMLOREMLO</figcaption>
+                <figcaption>Newton Dias Bastos</figcaption>
+            </figure>
+        </section>
+        <section class="col-lg-3 col-md-3 col-sm-12">
+            <figure>
+                <img src="http://placekitten.com/300/200" alt="foto de gato">
+                <figcaption>Paulo Rogério Noggerini</figcaption>
+            </figure>
+        </section>
+        <section class="col-lg-3 col-md-3 col-sm-12">
+            <figure>
+                <img src="http://placekitten.com/300/200" alt="foto de gato">
+                <figcaption>Rogério Jean da Silva</figcaption>
+            </figure>
+        </section>
+        
+    </div>
+    <div class="row">
+        <section class="col-lg-3 col-md-3 col-sm-12">
+            <figure>
+                <img src="http://placekitten.com/300/200" alt="foto de gato">
+                <figcaption>Tiago Vieira Nunes</figcaption>
+            </figure>
+        </section>
+        <section class="col-lg-3 col-md-3 col-sm-12">
+            <figure>
+                <img src="http://placekitten.com/300/200" alt="foto de gato">
+                <figcaption>William da Silva Albuquerque</figcaption>
             </figure>
         </section>
        

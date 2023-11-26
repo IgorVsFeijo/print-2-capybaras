@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>São Roque - Título da Página</title>
+    <title>São Roque - Governo</title>
 
     <?php
         include '../includes/inc_head_links.php';
@@ -35,11 +35,11 @@
           <div class="container text-center">
             <h1>Secretarias</h1>
             <figure class="col-lg-4 col-md-6 col-sm-12">
-                <img src="http://placekitten.com/400/300" alt="foto de gato">
+                <img src="http://placekitten.com/300/320" alt="foto de gato">
                 <figcaption> <a href="secretarias.php">Leia mais</a></figcaption>
             </figure>
             <figure class="col-lg-4 col-md-6 col-sm-12">
-                <img src="http://placekitten.com/400/300" alt="foto de gato">
+                <img src="http://placekitten.com/300/320" alt="foto de gato">
                 <figcaption> <a href="secretarias.php">Leia mais</a></figcaption>
             </figure>
           </div>
