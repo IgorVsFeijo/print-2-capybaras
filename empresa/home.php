@@ -30,7 +30,7 @@
 
       <div class="row text-center">
         <figure class="col-lg-4 col-md-6 col-sm-12">
-            <img src="../imgs/empresa/empresa_iptu.jpg" alt="gatinho">
+            <img src="../imgs/empresa/empresa_iptu.jpg" alt="IPTU 2023 DIGITAL">
         </figure>
         <aside class="col-lg-8 col-md-6 col-sm-12">
             <article>
@@ -45,7 +45,7 @@
         <h3 class="hide">H3- Section</h3>
         <div class="col-4">
           <figure>
-              <img src="../imgs/empresa/empresa_diario.jpg" alt="gatinho">
+              <img src="../imgs/empresa/empresa_diario.jpg" alt="Imagem de 3 folhas de papel tamanho A4 escrito sumario">
           </figure>
         </div>
         <div class="col-4">
