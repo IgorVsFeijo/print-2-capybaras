@@ -59,16 +59,16 @@
 
       <hr>
 
-      <div class="row text-center col-12">
-        <section class="col-6">
+      <section class="row text-center col-12">
+        <div class="col-sm-12 col-md-6">
             <h3 class="hide">H3- Section</h3>
             <a href="../empresa/cadastro.php" class="link_home">Cadastro de Pessoa Juridica</a>
-        </section>
-        <section class="col-5">
+        </div>
+        <div class="col-sm-12 col-md-6">
             <h3 class="hide">H3- Section</h3>
             <a href="../empresa/aprovacao.php" class="link_home">Aprovação de Projetos</a>
-        </section>
-      </div>
+        </div>
+      </section>
 
     </main>
     

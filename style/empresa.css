@@ -18,6 +18,7 @@ main.empresa{
     border-radius: 2em;
     padding: .5em 1em;
     text-decoration: none;
+    margin-bottom: 5em;
 }
 .botao_empresa{
     margin-left: 60em;
