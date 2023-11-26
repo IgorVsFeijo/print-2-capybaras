@@ -25,7 +25,7 @@
       <main>
         <div class="row text-center">
           <section class="col-lg-12 col-md-12 col-sm-12">
-            <img src="http://placekitten.com/800/250" alt="foto de gato">
+            <img src="imgs/governo/ouvidoria.webp" alt="foto de tipografia escrito ouvidoria, com ícone de mulher falando ao telefone">
           </section>
   <article class="col-lg-8 col-md-6 col-sm-12">
       <h2>Atribuições da Ouvidoria</h2>
