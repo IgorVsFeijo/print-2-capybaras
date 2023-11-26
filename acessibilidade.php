@@ -64,35 +64,35 @@
                 </button>
               </div>
 
-              <div style="min-height: 120px;">
+              <div style="min-height: 120px;" class="d-flex flex-wrap justify-content-center">
                 <div class="collapse collapse-horizontal" id="espacamento">
                   <div class="card card-body" style="width: 300px;">
-                    This is some placeholder content for a horizontal collapse. It's hidden by default and shown when triggered.
+                  O botão "espaçamento" ao ajustar o espaçamento entre letras, palavras e linhas, visa atender às necessidades de pessoas com dificuldades de leitura, dislexia ou outras condições visuais. Com isso usuários podem melhorar a legibilidade do conteúdo, tornando o texto mais claro e fácil de compreender.
                   </div>
                 </div>
                 <div class="collapse collapse-horizontal" id="modoescuro">
                   <div class="card card-body" style="width: 300px;">
-                    This is some placeholder content for a horizontal collapse. It's hidden by default and shown when triggered.
+                    O botão "modo escuro" visa melhorar a experiência para usuários com necessidades específicas, especialmente visuais. Este recurso oferece maior contraste, facilitando a leitura para aqueles com sensibilidade à luz ou baixa visão. Além de reduzir o brilho da tela e aliviar a fadiga ocular.
                   </div>
                 </div>
                 <div class="collapse collapse-horizontal" id="textomaior">
                   <div class="card card-body" style="width: 300px;">
-                    This is some placeholder content for a horizontal collapse. It's hidden by default and shown when triggered.
+                    O botão "texto maior", ao ajustar o tamanho do texto, visa atender às necessidades de usuários com dificuldades visuais ou aqueles que preferem um texto ampliado para melhor legibilidade.
                   </div>
                 </div>
                 <div class="collapse collapse-horizontal" id="altura">
                   <div class="card card-body" style="width: 300px;">
-                    This is some placeholder content for a horizontal collapse. It's hidden by default and shown when triggered.
+                    O botão "Altura da Linha" permite que os usuários personalizem a altura entre as linhas de texto. Visa melhorar a legibilidade para aqueles com dificuldades visuais ou dislexia, possibilitando um espaçamento mais adequado entre as linhas. 
                   </div>
                 </div>
                 <div class="collapse collapse-horizontal" id="fonte">
                   <div class="card card-body" style="width: 300px;">
-                    This is some placeholder content for a horizontal collapse. It's hidden by default and shown when triggered.
+                    O botão "Fonte de Dislexia" ao alterar a fonte para uma específica, incorpora características facilitadoras, como espaçamento entre letras e uma forma mais clara e distinta para cada caractere, tornando o texto mais legível para pessoas com dislexia.
                   </div>
                 </div>
                 <div class="collapse collapse-horizontal" id="cursor">
                   <div class="card card-body" style="width: 300px;">
-                    This is some placeholder content for a horizontal collapse. It's hidden by default and shown when triggered.
+                  O botão "Cursor Maior", ao aumentar o tamanho do cursor, torna mais fácil identificar e seguir o ponteiro na tela. Essa funcionalidade tem como objetivo melhorar a precisão e a usabilidade.
                   </div>
                 </div>
               </div>
