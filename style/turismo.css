@@ -2,6 +2,10 @@
 
 /* INICIO CSS AREA TURISMO */
 
+.tur_galeria_index{
+    padding: 0 2.5em 0 2.5em;
+}
+
 .not_titulos{
     font-weight: bold;
 }

@@ -73,17 +73,17 @@
             </div>
         </aside>
 
-        <aside class="tur_back">
+        <aside class="tur_back text-center">
             <div class="row">
                 <h3 class="text-start col-lg-6 col-md-6 col-sm-6">GALERIA</h3>
                 <a class="col-lg-6 col-md-6 col-sm-6 text-end tur_link" href="../turismo/galeria.php">ver mais+</a>
             </div>
             <div class="row">
-                <figure class="col-lg-6 col-md-6 col-sm-12 text-center">
-                    <img class="tur_i_shadow img-fluid img-thumbnail rounded float-left" src="../imgs/turismo/brasital_galeria.webp" alt="Imagem referente ao local turistico chamado brasital">
+                <figure class="col-lg-5 col-md-10 col-sm-5 text-center tur_galeria_index">
+                    <img class="tur_i_shadow img-fluid img-thumbnail rounded" src="../imgs/turismo/brasital_galeria.webp" alt="Imagem referente ao local turistico chamado brasital">
                 </figure>
-                <figure class="col-lg-6 col-md-6 col-sm-12 text-start">
-                    <img class="tur_i_shadow img-fluid img-thumbnail rounded float-right" src="../imgs/turismo/ferro_galeria.webp" alt="Imagem referente a ferroviaria turistica de são roque">
+                <figure class="col-lg-5 col-md-10 col-sm-5 text-start tur_galeria_index">
+                    <img class="tur_i_shadow img-fluid img-thumbnail rounded" src="../imgs/turismo/ferro_galeria.webp" alt="Imagem referente a ferroviaria turistica de são roque">
                 </figure>
             </div>
         </aside>
@@ -97,7 +97,7 @@
                   <h3 class="hide">h3 - Section</h3>
                     <p><b>Praça da republica</b></p>
                     <figure class="text-center">
-                        <img src="../imgs/turismo/praça_republica.webp" alt="Imagem Via Placeholder">
+                        <img class="img-fluid" src="../imgs/turismo/praça_republica.webp" alt="Imagem Via Placeholder">
                     </figure>
                     <p>Conhecida como “Praça da Preguiça”, por ter recebido a visita de um bicho preguiça da região.</p>
                 </section>
@@ -105,7 +105,7 @@
                   <h3 class="hide">h3 - Section</h3>
                     <p><b>Outlet Catarina</b></p>
                     <figure class="text-center">
-                        <img src="../imgs/turismo/outlet_catarina.webp" alt="Imagem Via Placeholder">
+                        <img class="img-fluid" src="../imgs/turismo/outlet_catarina.webp" alt="Imagem Via Placeholder">
                     </figure>
                     <p>Um dos melhores pontos de São Roque para fazer umas compras, sair em um final de semana com a família.</p>
                 </section>
@@ -117,24 +117,24 @@
                 <h3 class="tur_i_h2">GASTRONOMIA</h3>
             </div>
             <div class="row text-start">
-                <section class="col-lg-3 col-md-3 col-sm-12 tur_i_shadow">
+                <section class="col-lg-3 col-md-3 col-sm-5 tur_i_shadow">
                     <h4>Vinhos Alma Galiza</h4>
                     <figure class="text-center">
-                        <img src="../imgs/turismo/alma_galiza.webp" alt="Imagem referente ao logo do Alma Galiza">
+                        <img class="img-fluid" src="../imgs/turismo/alma_galiza.webp" alt="Imagem referente ao logo do Alma Galiza">
                     </figure>
                     <p>Vinhos Alma Galiza conta com uma porção dos melhores vinhos da região, e uma gastronomia portuguesa de tirar fôlego.</p>
                 </section>
-                <section class="col-lg-3 col-md-3 col-sm-12 tur_i_shadow">
+                <section class="col-lg-3 col-md-3 col-sm-5 tur_i_shadow">
                     <h4>Come Together</h4>
                     <figure class="text-center">
-                        <img src="../imgs/turismo/cct.webp" alt="Imagem referente ao logo do clube come togheter">
+                        <img class="img-fluid" src="../imgs/turismo/cct.webp" alt="Imagem referente ao logo do clube come togheter">
                     </figure>
                     <p>Desde 2015, um porão de um casarão centenário de São Roque/SP abriga um clássico pub com bons chopes, cocktails, burgers, porções e muita diversão.</p>
                 </section>
-                <section class="col-lg-3 col-md-3 col-sm-12 tur_i_shadow">
+                <section class="col-lg-3 col-md-3 col-sm-5 tur_i_shadow">
                     <h4>Tia Lina</h4>
                     <figure class="text-center">
-                        <img src="../imgs/turismo/tia_lina.webp" alt="Imagem referente ao logo da Tia Lina">
+                        <img class="img-fluid" src="../imgs/turismo/tia_lina.webp" alt="Imagem referente ao logo da Tia Lina">
                     </figure>
                     <p>Você e sua família podem desfrutar de um lugar descontraído, com muito lazer e atividades, admirar belas paisagens e saborear o melhor da culinária italiana.</p>
                 </section>
