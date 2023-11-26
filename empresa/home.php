@@ -9,9 +9,10 @@
     <?php
         include '../includes/inc_head_links.php';
       ?>
+    <link rel="stylesheet" href="../style/empresa.css">
 
 </head>
-<body class="pages-empresa">
+<body>
     <!-- Inicio Header -->
 
       <?php
@@ -19,61 +20,58 @@
       ?>
 
     <!-- Fim Header -->
+    <main class="container empresa pages-empresas">
+        <div class="row text-start">
+            <b><a href="../empresa/home.php">Home</a></b>
+        </div>
+      <figure class="text-center">
+        <img src="https://placekitten.com/800/200" alt="gatinho" class="imagemcentral_empresas">
+      </figure> 
 
-    <figure>
-        <img src="https://placekitten.com/200/300" alt="gatinho">
-    </figure> 
-
-    <div class="row text-center">
-
-    <figure class="col-lg-4 col-md-6 col-sm-12">
-        <img src="https://placekitten.com/200/300" alt="gatinho">
-    </figure>
-
-    <aside class="col-lg-8 col-md-6 col-sm-12">
-        <article>
-            <h2>Lorem Ipsum</h2>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Totam qui, nisi corporis, perferendis provident dignissimos, illum consectetur error autem amet maxime quisquam eveniet voluptatum quia temporibus hic cupiditate quas. Non.</p>
-        </article>
-    </aside>
-
-    </div>
-
-    <hr>
-
-    <section>
-        <h3 class="hide">H3- Section</h3>
-        <figure>
-            <img src="https://placekitten.com/200/300" alt="gatinho">
+      <div class="row text-center">
+        <figure class="col-lg-4 col-md-6 col-sm-12">
+            <img src="https://placekitten.com/300/300" alt="gatinho">
         </figure>
-        <h2>Lorem Ipsum</h2>
-        <h2>Lorem Ipsum</h2>
-        <h2>Lorem Ipsum</h2>
-        <h2>Lorem Ipsum</h2>
-        <h2>Lorem Ipsum</h2>
-        <p>Veja Mais</p>
-    </section>
-
-    <hr>
-
-    <div class="row text-center">
-
-    <section class="col-lg-6 col-md-6 col-sm-12">
+        <aside class="col-lg-8 col-md-6 col-sm-12">
+            <article>
+                <h2>Lorem Ipsum</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut rutrum neque non gravida egestas. In aliquam mauris non placerat hendrerit. Morbi dictum, mauris et feugiat rhoncus, urna enim bibendum magna, non posuere leo odio id libero. Nunc luctus urna ante, id maximus nisl sagittis laoreet. Morbi in nisi faucibus, iaculis felis nec, mattis nisl. Vivamus arcu augue, vestibulum et placerat et, mattis eget massa. Morbi a felis nec felis vestibulum suscipit id at diam. Aliquam pellentesque mauris in hendrerit mollis. Praesent tempus varius erat ac porttitor. Duis ornare ex nec pulvinar euismod. Nulla convallis ex metus, eget consectetur nulla lacinia in. </p>
+            </article>
+        </aside>
+      </div>
+      <hr>
+      <section class="row text-center col-12">
         <h3 class="hide">H3- Section</h3>
-        <nav>
-            <a href="">Cadastro de Pessoa Juridica -></a>
-        </nav>
-    </section>
+        <div class="col-4">
+          <figure>
+              <img src="https://placekitten.com/200/300" alt="gatinho">
+          </figure>
+        </div>
+        <div class="col-4">
+          <h2>Lorem Ipsum</h2>
+          <h2>Lorem Ipsum</h2>
+          <h2>Lorem Ipsum</h2>
+          <h2>Lorem Ipsum</h2>
+          <h2>Lorem Ipsum</h2>
+        </div>
+          <a class="btn btn-vermais botao_empresa col-2" href="#">Ver mais</a>
+      </section>
 
-    <section class="col-lg-6 col-md-6 col-sm-12">
-        <h3 class="hide">H3- Section</h3>
-        <nav>
-            <a href="">Aprovação de Projetos
-            -></a>
-        </nav>
-    </section>
+      <hr>
 
-    </div>
+      <div class="row text-center col-12">
+        <section class="col-6">
+            <h3 class="hide">H3- Section</h3>
+            <a href="../empresa/cadastro.php" class="link_home">Cadastro de Pessoa Juridica</a>
+        </section>
+        <section class="col-5">
+            <h3 class="hide">H3- Section</h3>
+            <a href="../empresa/aprovacao.php" class="link_home">Aprovação de Projetos</a>
+        </section>
+      </div>
+
+    </main>
+    
 
   <!-- Inicio do Footer -->
 

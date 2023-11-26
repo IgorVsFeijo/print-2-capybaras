@@ -9,10 +9,11 @@
   <?php
   include '../includes/inc_head_links.php';
   ?>
+  <link rel="stylesheet" href="../style/empresa.css">
 
 </head>
 
-<body class="pages-empresas">
+<body>
   <!-- Inicio Header -->
 
   <?php
@@ -21,88 +22,94 @@
 
   <!-- Fim Header -->
 
-  <div class="container text-center">
-
-    <figure class="">
-      <img src="https://placekitten.com/200/300" alt="gatinho">
+  <div class="container text-center pages-empresas">
+        <div class="row text-start">
+            <b><a href="../empresa/home.php">Home</a> <i class="bi bi-arrow-right"></i> <a href="../empresa/iptu.php">IPTU</a></b>
+        </div>
+    <figure class="text-center">
+      <img src="https://placekitten.com/800/200" alt="gatinho">
     </figure>
 
-    <div class="row">
-      <section class="col-lg-4 col-md-4 col-sm-12">
-        <h3 class="hide">H3- Section</h3>
-        <h2>Lorem ipsum dolor sit.</h2>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod dolor officiis quia iusto delectus, cum vero? Quas explicabo ex perferendis dignissimos quam necessitatibus eum! Iste non debitis quod quisquam quae.</p>
-      </section>
+    <article id="pag_iptu">
+      <div class="row">
 
-      <section class="col-lg-4 col-md-4 col-sm-12">
-        <h3 class="hide">H3- Section</h3>
-        <h2>Lorem ipsum dolor sit</h2>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod dolor officiis quia iusto delectus, cum vero? Quas explicabo ex perferendis dignissimos quam necessitatibus eum! Iste non debitis quod quisquam quae.</p>
-      </section>
-
-      <section class="col-lg-4 col-md-4 col-sm-12">
-        <h3 class="hide">H3- Section</h3>
-        <h2>Lorem ipsum dolor sit</h2>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod dolor officiis quia iusto delectus, cum vero? Quas explicabo ex perferendis dignissimos quam necessitatibus eum! Iste non debitis quod quisquam quae.</p>
-      </section>
-
-    </div>
-
-    <div class="row">
-
-      <section class="col-lg-4 col-md-4 col-sm-12">
-        <h3 class="hide">H3- Section</h3>
-        <article>
-          <h2>Lorem ipsum dolor sit</h2>
+        <section class="col-lg-4 col-md-4 col-sm-12 iptu">
+          <h3 class="hide">H3- Section</h3>
+          <h2 class="text-center">Lorem ipsum dolor sit.</h2>
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod dolor officiis quia iusto delectus, cum vero? Quas explicabo ex perferendis dignissimos quam necessitatibus eum! Iste non debitis quod quisquam quae.</p>
-        </article>
-      </section>
+        </section>
 
-      <section class="col-lg-4 col-md-4 col-sm-12">
-        <h3 class="hide">H3- Section</h3>
-        <article>
-          <h2>Lorem ipsum dolor sit</h2>
+        <section class="col-lg-4 col-md-4 col-sm-12 iptu">
+          <h3 class="hide">H3- Section</h3>
+          <h2 class="text-center">Lorem ipsum dolor sit</h2>
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod dolor officiis quia iusto delectus, cum vero? Quas explicabo ex perferendis dignissimos quam necessitatibus eum! Iste non debitis quod quisquam quae.</p>
-        </article>
-      </section>
+        </section>
 
-      <section class="col-lg-4 col-md-4 col-sm-12">
-        <h3 class="hide">H3- Section</h3>
-        <article>
-          <h2>Lorem ipsum dolor sit</h2>
+        <section class="col-lg-4 col-md-4 col-sm-12 iptu">
+          <h3 class="hide">H3- Section</h3>
+          <h2 class="text-center">Lorem ipsum dolor sit</h2>
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod dolor officiis quia iusto delectus, cum vero? Quas explicabo ex perferendis dignissimos quam necessitatibus eum! Iste non debitis quod quisquam quae.</p>
-        </article>
-      </section>
+        </section>
 
-    </div>
+      </div>
 
-    <div class="row">
+      <div class="row">
 
-      <section class="col-lg-4 col-md-4 col-sm-12">
-        <h3 class="hide">H3- Section</h3>
-        <article>
-          <h2>Lorem ipsum dolor sit</h2>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod dolor officiis quia iusto delectus, cum vero? Quas explicabo ex perferendis dignissimos quam necessitatibus eum! Iste non debitis quod quisquam quae.</p>
-        </article>
-      </section>
+        <section class="col-lg-4 col-md-4 col-sm-12 iptu">
+          <h3 class="hide">H3- Section</h3>
+          <article>
+            <h2>Lorem ipsum dolor sit</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod dolor officiis quia iusto delectus, cum vero? Quas explicabo ex perferendis dignissimos quam necessitatibus eum! Iste non debitis quod quisquam quae.</p>
+          </article>
+        </section>
 
-      <section class="col-lg-4 col-md-4 col-sm-12">
-        <h3 class="hide">H3- Section</h3>
-        <article>
-          <h2>Lorem ipsum dolor sit</h2>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod dolor officiis quia iusto delectus, cum vero? Quas explicabo ex perferendis dignissimos quam necessitatibus eum! Iste non debitis quod quisquam quae.</p>
-        </article>
-      </section>
+        <section class="col-lg-4 col-md-4 col-sm-12 iptu">
+          <h3 class="hide">H3- Section</h3>
+          <article>
+            <h2>Lorem ipsum dolor sit</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod dolor officiis quia iusto delectus, cum vero? Quas explicabo ex perferendis dignissimos quam necessitatibus eum! Iste non debitis quod quisquam quae.</p>
+          </article>
+        </section>
 
-      <section class="col-lg-4 col-md-4 col-sm-12">
-        <h3 class="hide">H3- Section</h3>
-        <article>
-          <h2>Lorem ipsum dolor sit</h2>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod dolor officiis quia iusto delectus, cum vero? Quas explicabo ex perferendis dignissimos quam necessitatibus eum! Iste non debitis quod quisquam quae.</p>
-        </article>
-      </section>
+        <section class="col-lg-4 col-md-4 col-sm-12 iptu">
+          <h3 class="hide">H3- Section</h3>
+          <article>
+            <h2>Lorem ipsum dolor sit</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod dolor officiis quia iusto delectus, cum vero? Quas explicabo ex perferendis dignissimos quam necessitatibus eum! Iste non debitis quod quisquam quae.</p>
+          </article>
+        </section>
 
-    </div>
+      </div>
+
+      <div class="row">
+
+        <section class="col-lg-4 col-md-4 col-sm-12 iptu">
+          <h3 class="hide">H3- Section</h3>
+          <article>
+            <h2>Lorem ipsum dolor sit</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod dolor officiis quia iusto delectus, cum vero? Quas explicabo ex perferendis dignissimos quam necessitatibus eum! Iste non debitis quod quisquam quae.</p>
+          </article>
+        </section>
+
+        <section class="col-lg-4 col-md-4 col-sm-12 iptu">
+          <h3 class="hide">H3- Section</h3>
+          <article>
+            <h2>Lorem ipsum dolor sit</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod dolor officiis quia iusto delectus, cum vero? Quas explicabo ex perferendis dignissimos quam necessitatibus eum! Iste non debitis quod quisquam quae.</p>
+          </article>
+        </section>
+
+        <section class="col-lg-4 col-md-4 col-sm-12 iptu">
+          <h3 class="hide">H3- Section</h3>
+          <article>
+            <h2>Lorem ipsum dolor sit</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod dolor officiis quia iusto delectus, cum vero? Quas explicabo ex perferendis dignissimos quam necessitatibus eum! Iste non debitis quod quisquam quae.</p>
+          </article>
+        </section>
+
+      </div>
+    </article>
+    
 
   </div>
 
