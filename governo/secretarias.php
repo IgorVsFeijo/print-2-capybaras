@@ -36,7 +36,7 @@
     <div class="row">
         <section class="col-lg-4 col-md-4 col-sm-12">
             <figure>
-                <img src="http://placekitten.com/300/200" alt="foto de gato">
+                <img src="../imgs/governo/defesacivil.webp" alt="foto de logotipo da defesa civil do município">
             </figure>
             <p>Defesa Civil</p>
             <p>Antônio Augusto Godinho</p>
@@ -45,7 +45,7 @@
         </section>
         <section class="col-lg-4 col-md-4 col-sm-12">
             <figure>
-                <img src="http://placekitten.com/300/200" alt="foto de gato">
+                <img src="../imgs/governo/brasao.webp" alt="foto do brasão de são roque">
             </figure>
             <p>Departamento de Administração</p>
             <p>Brian Vieira</p>
@@ -54,7 +54,7 @@
         </section>
         <section class="col-lg-4 col-md-4 col-sm-12">
             <figure>
-                <img src="http://placekitten.com/300/200" alt="foto de gato">
+                <img src="../imgs/governo/brasao.webp" alt="foto do brasão de são roque">
             </figure>
             <p>Departamento de Bem Estar Social</p>
             <p>Ana Cristina Antônio Alda</p>
@@ -66,7 +66,7 @@
     <div class="row">
         <section class="col-lg-4 col-md-4 col-sm-12">
             <figure>
-                <img src="http://placekitten.com/300/200" alt="foto de gato">
+                <img src="../imgs/governo/education.webp" alt="foto de logotipo da secretaria de educação>
             </figure>
             <p>Departamento de Educação</p>
             <p>Dircelene Segura</p>
@@ -75,7 +75,7 @@
         </section>
         <section class="col-lg-4 col-md-4 col-sm-12">
             <figure>
-                <img src="http://placekitten.com/300/200" alt="foto de gato">
+                <img src="../imgs/governo/brasao.webp" alt="foto do brasão de são roque">
             </figure>
             <p>Departamento de Finanças</p>
             <p>Marcos Adriando Cantero</p>
@@ -84,7 +84,7 @@
         </section>
         <section class="col-lg-4 col-md-4 col-sm-12">
             <figure>
-                <img src="http://placekitten.com/300/200" alt="foto de gato">
+                <img src="../imgs/governo/informat.webp" alt="foto do logotipo da divisão de informática da prefeitura">
             </figure>
             <p>Departamento de Informática</p>
             <p>Fabio Gaspar</p>
@@ -96,7 +96,7 @@
     <div class="row">
         <section class="col-lg-4 col-md-4 col-sm-12">
             <figure>
-                <img src="http://placekitten.com/300/200" alt="foto de gato">
+                <img src="../imgs/governo/brasao.webp" alt="foto do brasão de são roque">
             </figure>
             <p>Departamento de Obras</p>
             <p>Marina Magalhães</p>
@@ -105,7 +105,7 @@
         </section>
         <section class="col-lg-4 col-md-4 col-sm-12">
             <figure>
-                <img src="http://placekitten.com/300/200" alt="foto de gato">
+                <img src="../imgs/governo/brasao.webp" alt="foto do brasão de são roque">
             </figure>
             <p>Departamento de Planejamento</p>
             <p>Juliana Caldevilla</p>
@@ -114,7 +114,7 @@
         </section>
         <section class="col-lg-4 col-md-4 col-sm-12">
             <figure>
-                <img src="http://placekitten.com/300/200" alt="foto de gato">
+                <img src="../imgs/governo/saude.webp" alt="foto do logotipo da secretaria de saúde de são roque">
             </figure>
             <p>Departamento de Saúde</p>
             <p>Simoni Camargo Rocha</p>
@@ -126,7 +126,7 @@
     <div class="row">
         <section class="col-lg-4 col-md-4 col-sm-12">
             <figure>
-                <img src="http://placekitten.com/300/200" alt="foto de gato">
+                <img src="../imgs/governo/brasao.webp" alt="foto do brasão de são roque">
             </figure>
             <p>Departamento de Turismo</p>
             <p>Luiz Américo Liza Júnior</p>
@@ -135,7 +135,7 @@
         </section>
         <section class="col-lg-4 col-md-4 col-sm-12">
             <figure>
-                <img src="http://placekitten.com/300/200" alt="foto de gato">
+                <img src="../imgs/governo/brasao.webp" alt="foto do brasão de são roque">
             </figure>
             <p>Departamento Jurídico</p>
             <p>Yan Sampaio</p>
@@ -144,7 +144,7 @@
         </section>
         <section class="col-lg-4 col-md-4 col-sm-12">
             <figure>
-                <img src="http://placekitten.com/300/200" alt="foto de gato">
+                <img src="../imgs/governo/cultura.webp" alt="foto do logotipo da divisão de cultura do município de são roque">
             </figure>
             <p>Divisão de Cultura</p>
             <p>Vinicius de Medeiros Paes</p>
@@ -156,7 +156,7 @@
     <div class="row">
         <section class="col-lg-4 col-md-4 col-sm-12">
             <figure>
-                <img src="http://placekitten.com/300/200" alt="foto de gato">
+                <img src="../imgs/governo/devrural.webp" alt="foto do logotipo da secretaria de desenvolvimento rural da cidade de são roque">
             </figure>
             <p>Divisão de Densenvolvimento Rural </p>
             <p>Leonardo Scaliese do Carmo</p>
@@ -165,7 +165,7 @@
         </section>
         <section class="col-lg-4 col-md-4 col-sm-12">
             <figure>
-                <img src="http://placekitten.com/300/200" alt="foto de gato">
+                <img src="../imgs/governo/esporte.webp" alt="foto do logotipo da secretaria de esportes do município">
             </figure>
             <p>Divisão de Esporte e Lazer</p>
             <p>Leandro Santos</p>
@@ -174,7 +174,7 @@
         </section>
         <section class="col-lg-4 col-md-4 col-sm-12">
             <figure>
-                <img src="http://placekitten.com/300/200" alt="foto de gato">
+                <img src="../imgs/governo/meiambiente.webp" alt="foto do logotipo da secretaria do meio ambiente do município">
             </figure>
             <p>Divisão de Meio Ambiente</p>
             <p>Giovanna Idalgo Oliveira</p>

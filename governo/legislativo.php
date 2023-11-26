@@ -37,7 +37,7 @@
             <h3>PRESIDENTE DA CÂMARA</h3>
         </section>
         <aside class="col-lg-6 col-md-6 col-sm-12">
-            <img src="../imgs/governo/presidcamara.webp" alt="foto de gato">
+            <img src="../imgs/governo/presidcamara.webp" alt="foto do presidente  atual da câmara municipal de São Roque, Rafael Tanzi de Araújo , sentado assinando um papel">
         </aside>
 
         <section class="col-lg-6 col-md-6 col-sm-12">
@@ -52,25 +52,25 @@
         </section>
         <section class="col-lg-3 col-md-3 col-sm-12">
             <figure>
-                <img src="../imgs/governo/veri1.webp" alt="foto de gato">
+                <img src="../imgs/governo/veri1.webp" alt="foto de Antônio José Alves Miranda">
                 <figcaption>Antônio José Alves Miranda</figcaption>
             </figure>
         </section>
         <section class="col-lg-3 col-md-3 col-sm-12">
             <figure>
-                <img src="../imgs/governo/veri2.webp" alt="foto de gato">
+                <img src="../imgs/governo/veri2.webp" alt="foto de Claudia Rita Duarte Pedroso">
                 <figcaption>Claudia Rita Duarte Pedroso</figcaption>
             </figure>
         </section>
         <section class="col-lg-3 col-md-3 col-sm-12">
             <figure>
-                <img src="../imgs/governo/veri3.webp" alt="foto de gato">
+                <img src="../imgs/governo/veri3.webp" alt="foto de Clovis Antônio Ocuma">
                 <figcaption>Clovis Antônio Ocuma</figcaption>
             </figure>
         </section>
         <section class="col-lg-3 col-md-3 col-sm-12">
             <figure>
-                <img src="../imgs/governo/veri4.webp" alt="foto de gato">
+                <img src="../imgs/governo/veri4.webp" alt="foto de Diego gouveia da Costa">
                 <figcaption>Diego gouveia da Costa</figcaption>
             </figure>
         </section>
@@ -79,25 +79,25 @@
     <div class="row">
         <section class="col-lg-3 col-md-3 col-sm-12">
             <figure>
-                <img src="../imgs/governo/veri5.webp" alt="foto de gato">
+                <img src="../imgs/governo/veri5.webp" alt="foto de Guilherme Araujo Nunes">
                 <figcaption>Guilherme Araujo Nunes</figcaption>
             </figure>
         </section>
         <section class="col-lg-3 col-md-3 col-sm-12">
             <figure>
-                <img src="../imgs/governo/veri6.webp" alt="foto de gato">
+                <img src="../imgs/governo/veri6.webp" alt="foto de Israel Francisco de Oliveira">
                 <figcaption>Israel Francisco de Oliveira</figcaption>
             </figure>
         </section>
         <section class="col-lg-3 col-md-3 col-sm-12">
             <figure>
-                <img src="../imgs/governo/veri7.webp" alt="foto de gato">
+                <img src="../imgs/governo/veri7.webp" alt="foto de José Alexandre Perroni">
                 <figcaption>José Alexandre Perroni</figcaption>
             </figure>
         </section>
         <section class="col-lg-3 col-md-3 col-sm-12">
             <figure>
-                <img src="../imgs/governo/veri8.webp" alt="foto de gato">
+                <img src="../imgs/governo/veri8.webp" alt="foto de Julio Antonio Mariano">
                 <figcaption>Julio Antonio Mariano</figcaption>
             </figure>
         </section>
@@ -106,25 +106,25 @@
     <div class="row">
         <section class="col-lg-3 col-md-3 col-sm-12">
             <figure>
-                <img src="../imgs/governo/veri9.webp" alt="foto de gato">
+                <img src="../imgs/governo/veri9.webp" alt="foto de Marcos Roberto Arruda">
                 <figcaption>Marcos Roberto Arruda</figcaption>
             </figure>
         </section>
         <section class="col-lg-3 col-md-3 col-sm-12">
             <figure>
-                <img src="../imgs/governo/veri10.webp" alt="foto de gato">
+                <img src="../imgs/governo/veri10.webp" alt="foto de Newton Dias Bastos">
                 <figcaption>Newton Dias Bastos</figcaption>
             </figure>
         </section>
         <section class="col-lg-3 col-md-3 col-sm-12">
             <figure>
-                <img src="../imgs/governo/veri11.webp" alt="foto de gato">
+                <img src="../imgs/governo/veri11.webp" alt="foto de Paulo Rogério Noggerini">
                 <figcaption>Paulo Rogério Noggerini</figcaption>
             </figure>
         </section>
         <section class="col-lg-3 col-md-3 col-sm-12">
             <figure>
-                <img src="../imgs/governo/veri12.webp" alt="foto de gato">
+                <img src="../imgs/governo/veri12.webp" alt="foto de Rogério Jean da Silva">
                 <figcaption>Rogério Jean da Silva</figcaption>
             </figure>
         </section>
@@ -133,13 +133,13 @@
     <div class="row">
         <section class="col-lg-3 col-md-3 col-sm-12">
             <figure>
-                <img src="../imgs/governo/veri13.webp" alt="foto de gato">
+                <img src="../imgs/governo/veri13.webp" alt="foto de Tiago Vieira Nunes">
                 <figcaption>Tiago Vieira Nunes</figcaption>
             </figure>
         </section>
         <section class="col-lg-3 col-md-3 col-sm-12">
             <figure>
-                <img src="../imgs/governo/veri14.webp" alt="foto de gato">
+                <img src="../imgs/governo/veri14.webp" alt="foto de William da Silva Albuquerque">
                 <figcaption>William da Silva Albuquerque</figcaption>
             </figure>
         </section>
