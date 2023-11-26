@@ -28,7 +28,7 @@
                 <h1 class="col-12">Trânsito</h1>
                 <section class="col-lg-4 col-md-12 col-sm-12 cidadao_noticia">
                     <div class="row sombra cidadao_noticias_p">
-                        <figure class="col-lg-12 col-md-4 text-center"><img src="../imgs/cidadao/cidadao_caminhao_.jpg" alt="a traseira de um caminhão com uma pessoa saindo dele, o caminhão está com uma roda dianteira dentor de um buraco; há um carro branco ao lado"></figure>
+                        <figure class="col-lg-12 col-md-4 text-center"><img src="../imgs/cidadao/cidadao_caminhao_.webp" alt="a traseira de um caminhão com uma pessoa saindo dele, o caminhão está com uma roda dianteira dentor de um buraco; há um carro branco ao lado"></figure>
                         <div class="col-lg-12 col-md-8">
                             <h2>Notícia</h2>
                             <p>Caminhão quebra eixo dianteiro ao cair em bueiro em via de São Roque;</p>
@@ -38,7 +38,7 @@
                 </section>
                 <section class="col-lg-4 col-md-12 col-sm-12 cidadao_noticia">
                     <div class="row sombra cidadao_noticias_p">
-                        <figure class="col-lg-12 col-md-4 text-center"><img src="../imgs/cidadao/cidadao_castelo_.jpg" alt="um ponto de pedágo com dois caminhões passando"></figure>
+                        <figure class="col-lg-12 col-md-4 text-center"><img src="../imgs/cidadao/cidadao_castelo_.webp" alt="um ponto de pedágo com dois caminhões passando"></figure>
                         <div class="col-lg-12 col-md-8">
                             <h2>Notícia</h2>
                             <p>Castello e Raposo Tavares; CCR informa cobrança de tarifa no pedágio sobre todos os eixos;</p>
@@ -48,7 +48,7 @@
                 </section>
                 <section class="col-lg-4 col-md-12 col-sm-12 cidadao_noticia">
                     <div class="row sombra cidadao_noticias_p">
-                        <figure class="col-lg-12 col-md-4 text-center"><img src="../imgs/cidadao/cidadao_lint_.jpeg" alt="um print do site do app de transporte Liint"></figure>
+                        <figure class="col-lg-12 col-md-4 text-center"><img src="../imgs/cidadao/cidadao_lint_.webp" alt="um print do site do app de transporte Liint"></figure>
                         <div class="col-lg-12 col-md-8">
                             <h2>Notícia</h2>
                             <p>Aplicativo de transporte Liint garante economia para passageiros de São Roque e região;</p>
@@ -58,7 +58,7 @@
                 </section>
                 <section class="col-lg-4 col-md-12 col-sm-12 cidadao_noticia">
                     <div class="row sombra cidadao_noticias_p">
-                        <figure class="col-lg-12 col-md-4 text-center"><img src="../imgs/cidadao/cidadao_carros_.jpg" alt="um carro antgo abandonado em um arua com outros carros"></figure>
+                        <figure class="col-lg-12 col-md-4 text-center"><img src="../imgs/cidadao/cidadao_carros_.webp" alt="um carro antgo abandonado em um arua com outros carros"></figure>
                         <div class="col-lg-12 col-md-8">
                             <h2>Notícia</h2>
                             <p>Prefeitura de São Roque faz alerta para população denunciar veículos abandonados nas ruas;</p>
@@ -68,7 +68,7 @@
                 </section>
                 <section class="col-lg-4 col-md-12 col-sm-12 cidadao_noticia">
                     <div class="row sombra cidadao_noticias_p">
-                        <figure class="col-lg-12 col-md-4 text-center"><img src="../imgs/cidadao/cidadao_obras_.jpg" alt="dois carros vermelhos vistos lateralmente passando em uma rodovia"></figure>
+                        <figure class="col-lg-12 col-md-4 text-center"><img src="../imgs/cidadao/cidadao_obras_.webp" alt="dois carros vermelhos vistos lateralmente passando em uma rodovia"></figure>
                         <div class="col-lg-12 col-md-8">
                             <h2>Notícia</h2>
                             <p>Obras: Motoristas reclamam de desvio e falta de apoio no trecho de Alumínio na Raposo Tavares;</p>
