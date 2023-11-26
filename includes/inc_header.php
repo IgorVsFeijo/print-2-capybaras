@@ -10,22 +10,25 @@ $rootPath = substr($rootPath, $posHtdocs+7, strlen($rootPath));
 
 <!-- Barra de Acessilibidade -->
 
-<div class="text-center p-2 w-100 barra-acess fixed-top" id="barra-acessibilidade">
-  <div class="btn-group acess row justify-content-center">
+<div class="text-center w-100 barra-acess fixed-top" id="barra-acessibilidade">
+  <div class="btn-group acess row justify-content-center p-1">
     <button type="button" class="btn btn-acessibilidade col-1">
-      <img src="https://placekitten.com/30/30" alt="place kitten maneiro" />
+      <img src="https://placehold.jp/ffffff/ffffff/37x26.png?text=%0A" alt="place kitten maneiro" />
     </button>
     <button type="button" class="btn btn-acessibilidade col-1">
-      <img src="https://placekitten.com/30/30" alt="place kitten maneiro" />
+      <img src="https://placehold.jp/ffffff/ffffff/37x26.png?text=%0A" alt="place kitten maneiro" />
     </button>
     <button type="button" class="btn btn-acessibilidade col-1">
-      <img src="https://placekitten.com/30/30" alt="place kitten maneiro" />
+      <img src="https://placehold.jp/ffffff/ffffff/37x26.png?text=%0A" alt="place kitten maneiro" />
     </button>
     <button type="button" class="btn btn-acessibilidade col-1">
-      <img src="https://placekitten.com/30/30" alt="place kitten maneiro" />
+      <img src="https://placehold.jp/ffffff/ffffff/37x26.png?text=%0A" alt="place kitten maneiro" />
     </button>
     <button type="button" class="btn btn-acessibilidade col-1">
-      <img src="https://placekitten.com/30/30" alt="place kitten maneiro" />
+      <img src="https://placehold.jp/ffffff/ffffff/37x26.png?text=%0A" alt="place kitten maneiro" />
+    </button>
+    <button type="button" class="btn btn-acessibilidade col-1">
+      <img src="https://placehold.jp/ffffff/ffffff/37x26.png?text=%0A" alt="place kitten maneiro" />
     </button>
   </div>
 </div>
@@ -37,23 +40,29 @@ $rootPath = substr($rootPath, $posHtdocs+7, strlen($rootPath));
 <!-- Container Nav Principal e Nav Secundária -->
 <div class="d-flex flex-wrap align-items-center text-center h-auto">
 
-  <!-- Container Background Dark (Ocupando toda a tela)-->
+  <!-- Container Background Light (Ocupando toda a tela)-->
 
-  <div class="container-fluid bg-dark">
+  <div class="container-fluid bg-light">
 
     <!-- Navbar Principal -->
     <nav
-      class="flex-wrap-lg container-logo-nav container-lg navbar navbar-expand-xl navbar-dark w-100 w-xl-auto flex-shrink-1">
+      class="flex-wrap-lg container-logo-nav container-lg navbar navbar-expand-xl w-xl-auto navbar flex-shrink-1 navbar-light py-2 px-4">
 
       <a href="/<?php echo $rootPath ?>/index.php">
         <figure class="m-0 flex-shrink-1 ">
-          <img src="https://placekitten.com/250/120" alt="Logo Site" class="m-0">
+
+          <picture class="logo">
+            <source media="(min-width: 1200px)" srcset="/<?= $rootPath; ?>/imgs/principal/logotipo.svg">
+            <source media="(min-width: 768px)" srcset="/<?= $rootPath; ?>/imgs/principal/carnivorascap_nome.svg">
+            <img src="/<?= $rootPath; ?>/imgs/principal/logo.svg" alt="">
+          </picture>
+
         </figure>
       </a>
 
       <!-- Botao Sanduiche -->
 
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navsComprimidos"
+      <button class="navbar-toggler botao-sanduiche" type="button" data-bs-toggle="collapse" data-bs-target=".navsComprimidos"
         aria-controls="navPrincipal navSecundario" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -95,12 +104,12 @@ $rootPath = substr($rootPath, $posHtdocs+7, strlen($rootPath));
   <nav class="w-100 bg-secondary">
 
     <!-- Container Background Secundario -->
-    <div class="flex-wrap nav-secundario navbar navbar-expand-md w-100 w-xl-auto flex-shrink-1 p-0"
+    <div class="flex-wrap bg-azul-escuro nav-secundario navbar navbar-expand-md w-100 w-xl-auto flex-shrink-1 p-0"
       id="backgroundSecundario">
 
       <!-- Nav Secundário Comprimido -->
       <div class="navbar-collapse collapse navsComprimidos" id="navSecundario">
-        <menu class="navbar-nav container-lg px-3 gap-2 px-md-0 justify-content-around d-flex py-2">
+        <menu class="navbar-nav container-lg px-3 gap-2 px-md-0 justify-content-around d-flex">
           <li class="nav-item btn dropdown">
 
             <!-- Título da Área -->

@@ -2,7 +2,11 @@
       <div class="container-lg">
         <div class="d-flex align-items-center">
           <figure>
-            <picture><img src="https://placekitten.com/200/150" alt=""></picture>
+          <picture class="logo">
+            <source media="(min-width: 1200px)" srcset="/<?= $rootPath; ?>/imgs/principal/logotipo.svg">
+            <source media="(min-width: 768px)" srcset="/<?= $rootPath; ?>/imgs/principal/carnivorascap_nome.svg">
+            <img src="/<?= $rootPath; ?>/imgs/principal/logo.svg" alt="">
+          </picture>
           </figure>
           <address class="flex-grow-1">
             Av. São Paulo, Taboão, 966
@@ -21,23 +25,26 @@
           </div>
         </div>
       </div>
-      <div class="text-center p-2 w-100 barra-acess" id="barra-acessibilidade2">
-        <div class="btn-group acess row justify-content-center">
-          <button type="button" class="btn btn-acessibilidade col-1">
-            <img src="https://placekitten.com/30/30" alt="place kitten maneiro" />
-          </button>
-          <button type="button" class="btn btn-acessibilidade col-1">
-            <img src="https://placekitten.com/30/30" alt="place kitten maneiro" />
-          </button>
-          <button type="button" class="btn btn-acessibilidade col-1">
-            <img src="https://placekitten.com/30/30" alt="place kitten maneiro" />
-          </button>
-          <button type="button" class="btn btn-acessibilidade col-1">
-            <img src="https://placekitten.com/30/30" alt="place kitten maneiro" />
-          </button>
-          <button type="button" class="btn btn-acessibilidade col-1">
-            <img src="https://placekitten.com/30/30" alt="place kitten maneiro" />
-          </button>
-        </div>
-      </div>
+      <div class="text-center w-100 barra-acess" id="barra-acessibilidade2">
+  <div class="btn-group acess row justify-content-center p-1">
+    <button type="button" class="btn btn-acessibilidade col-1">
+      <img src="https://placehold.jp/ffffff/ffffff/37x26.png?text=%0A" alt="place kitten maneiro" />
+    </button>
+    <button type="button" class="btn btn-acessibilidade col-1">
+      <img src="https://placehold.jp/ffffff/ffffff/37x26.png?text=%0A" alt="place kitten maneiro" />
+    </button>
+    <button type="button" class="btn btn-acessibilidade col-1">
+      <img src="https://placehold.jp/ffffff/ffffff/37x26.png?text=%0A" alt="place kitten maneiro" />
+    </button>
+    <button type="button" class="btn btn-acessibilidade col-1">
+      <img src="https://placehold.jp/ffffff/ffffff/37x26.png?text=%0A" alt="place kitten maneiro" />
+    </button>
+    <button type="button" class="btn btn-acessibilidade col-1">
+      <img src="https://placehold.jp/ffffff/ffffff/37x26.png?text=%0A" alt="place kitten maneiro" />
+    </button>
+    <button type="button" class="btn btn-acessibilidade col-1">
+      <img src="https://placehold.jp/ffffff/ffffff/37x26.png?text=%0A" alt="place kitten maneiro" />
+    </button>
+  </div>
+</div>
 </footer>

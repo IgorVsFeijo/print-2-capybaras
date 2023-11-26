@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 
 <head>
     <meta charset="UTF-8" />
@@ -24,28 +24,30 @@
 
     <div class="container">
         <main class="row cidadao">
-            <article class="col-lg-8 col-md-6 col-sm-12">
-                <h1 class="text-center">Cidadão</h1>
-                <p>A prefeitura de São Roque acredita que a ativa participação de seus cidadão é essencial para a construção de uma cidade mais inclusiva, segura e forte, por isso a área “Cidadão” é dedicada a você, cidadão de São Roque. Aqui você terá acesso a serviços, notícias e informações que possibilitem sua participação ativa no nosso município.</p>
+            <article class="col-lg-8 col-md-6 col-sm-12 home-col-1">
+                <div>
+                    <h1 class="text-center">Cidadão</h1>
+                    <p>A prefeitura de São Roque acredita que a ativa participação de seus cidadão é essencial para a construção de uma cidade mais inclusiva, segura e forte, por isso a área “Cidadão” é dedicada a você, cidadão de São Roque. Aqui você terá acesso a serviços, notícias e informações que possibilitem sua participação ativa no nosso município.</p>
+                </div>
                 <section class="row">
-                    <h2 class="text-center">Empregabilidade</h2>
-                    <section class="col-lg-12 col-md-12 col-sm-12">
-                        <div class="row cidadao_noticias align-items-center">
-                            <figure class="col-lg-4 text-center">
-                                <img src="../imgs/cidadao/cidadao_empresa_150.webp" alt="uma ilustração com duas figuras humanas apontando para uma prancheta do tamanho deles">
+                    <h2 class="text-center font22">Empregabilidade</h2>
+                    <section class="col-12">
+                        <div class="row cidadao_noticias align-items-center justify-content-center gap-5 mb-5">
+                            <figure class="col-auto text-center">
+                                <img src="../imgs/cidadao/cidadao_empresa_150.jpg" alt="uma ilustração com duas figuras humanas apontando para uma prancheta do tamanho deles">
                             </figure>
-                            <div class="col-lg-8">
-                                <h3>Oportunidade de emprego</h3>
+                            <div class="col-lg-4">
+                                <h3 class="fs-6">Oportunidade de emprego</h3>
                                 <p>Empresa de São Roque contrata Ajudante Geral; veja como se candidatar</p>
                                 <a class="btn btn-vermais" href="#">Ver mais</a>
                             </div>
                         </div>
-                        <div class="row cidadao_noticias align-items-center">
-                            <figure class="col-lg-4 text-center">
-                                <img src="../imgs/cidadao/cidadao_fatec_150.webp" alt="a faixada da fatec são roque com um carro branco na frente">
+                        <div class="row cidadao_noticias align-items-center justify-content-center gap-5 mb-5">
+                            <figure class="col-auto text-center">
+                                <img src="../imgs/cidadao/cidadao_fatec_150.jpeg" alt="a faixada da fatec são roque com um carro branco na frente">
                             </figure>
-                            <div class="col-lg-8">
-                                <h3>Oportunidade de emprego</h3>
+                            <div class="col-lg-4">
+                                <h3 class="fs-6">Oportunidade de emprego</h3>
                                 <p>Fatec São Roque tem processo seletivo para uma vaga de professor no ensino superior; confira</p>
                                 <a class="btn btn-vermais" href="#">Ver mais</a>
                             </div>
@@ -87,7 +89,7 @@
                 </section>
             </article>
             <aside class="col-lg-4 col-md-6 col-sm-12">
-                <section class="cidadao_card">
+                <section class="cidadao_card mais-acessados">
                     <h3>Mais Acessados</h3>
                     <ul>
                         <li><a href="../empresa/iptu.php">IPTU</a></li>
