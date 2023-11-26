@@ -33,7 +33,7 @@
                 <h2>EVENTOS</h2>
             </div>
             <div class="row">
-                <figure class="col-lg-6 col-md-6 col-sm-12">
+                <figure class="col-lg-6 col-md-6 col-sm-12 ">
                     <img src="../imgs/turismo/evento_castra.webp" alt="Imagem do evento castra movel, com a data 17 de setembro no local chamado recanto">
                 </figure>
                 <section class="col-lg-6 col-md-6 col-sm-12 text-start">
@@ -49,21 +49,21 @@
                 <h2 class="text-start">HOSPEDAGEM</h2>
             </div>
             <div class="row text-start">
-                <section class="col-lg-4 col-md-4 col-sm-6">
+                <section class="col-lg-3 col-md-3 col-sm-6 tur_i_shadow">
                     <h3 class="tur_h3">Sitio de Lazer</h3>
                     <figure class="text-center">
                         <img src="../imgs/turismo/sitio_de_lazer.webp" alt="Imagem referente a logo do acampamento sitio de lazer">
                     </figure>
                     <p>Um delicioso lugar para passar seu final de semana, com muitas rotinas de lazer.</p>
                 </section>
-                <section class="col-lg-4 col-md-4 col-sm-6">
+                <section class="col-lg-3 col-md-3 col-sm-6 tur_i_shadow">
                     <h3 class="tur_h3">Cordialle Hotel</h3>
                     <figure class="text-center">
                         <img src="../imgs/turismo/cordialle.webp" alt="Imagem referente a logo do hotel cordialle.">
                     </figure>
                     <p>Uma interpretação contemporânea das tradicionais hospedarias.</p>
                 </section>
-                <section class="col-lg-4 col-md-4 col-sm-6">
+                <section class="col-lg-3 col-md-3 col-sm-6 tur_i_shadow">
                     <h3 class="tur_h3">Chácara Putini</h3>
                     <figure class="text-center">
                         <img src="../imgs/turismo/putini.webp" alt="Imagem referente a logo da chácara putini.">
@@ -80,10 +80,10 @@
             </div>
             <div class="row">
                 <figure class="col-lg-6 col-md-6 col-sm-6 text-center">
-                    <img src="../imgs/turismo/brasital_galeria.webp" alt="Imagem referente ao local turistico chamado brasital">
+                    <img class="tur_i_shadow" src="../imgs/turismo/brasital_galeria.webp" alt="Imagem referente ao local turistico chamado brasital">
                 </figure>
-                <figure class="col-lg-6 col-md-6 col-sm-6 text-center">
-                    <img src="../imgs/turismo/ferro_galeria.webp" alt="Imagem referente a ferroviaria turistica de são roque">
+                <figure class="col-lg-6 col-md-6 col-sm-6 text-start">
+                    <img class="tur_i_shadow" src="../imgs/turismo/ferro_galeria.webp" alt="Imagem referente a ferroviaria turistica de são roque">
                 </figure>
             </div>
         </aside>
@@ -93,7 +93,7 @@
                 <h3 class="text-start tur_i_h2"> PONTOS TURISTICOS</h3>
             </div>
             <div class="row text-start">
-                <section class="col-lg-6 col-md-6 col-sm-12">
+                <section class="col-lg-5 col-md-5 col-sm-12 tur_i_shadow">
                   <h3 class="hide">h3 - Section</h3>
                     <p><b>Praça da republica</b></p>
                     <figure class="text-center">
@@ -101,7 +101,7 @@
                     </figure>
                     <p>Conhecida como “Praça da Preguiça”, por ter recebido a visita de um bicho preguiça da região.</p>
                 </section>
-                <section class="col-lg-6 col-md-6 col-sm-12">
+                <section class="col-lg-5 col-md-5 col-sm-12 tur_i_shadow">
                   <h3 class="hide">h3 - Section</h3>
                     <p><b>Outlet Catarina</b></p>
                     <figure class="text-center">
@@ -117,21 +117,21 @@
                 <h3 class="tur_i_h2">GASTRONOMIA</h3>
             </div>
             <div class="row text-start">
-                <section class="col-lg-4 col-md-4 col-sm-12">
+                <section class="col-lg-3 col-md-3 col-sm-12 tur_i_shadow">
                     <h4>Vinhos Alma Galiza</h4>
                     <figure class="text-center">
                         <img src="../imgs/turismo/alma_galiza.webp" alt="Imagem referente ao logo do Alma Galiza">
                     </figure>
                     <p>Vinhos Alma Galiza conta com uma porção dos melhores vinhos da região, e uma gastronomia portuguesa de tirar fôlego.</p>
                 </section>
-                <section class="col-lg-4 col-md-4 col-sm-12">
+                <section class="col-lg-3 col-md-3 col-sm-12 tur_i_shadow">
                     <h4>Come Together</h4>
                     <figure class="text-center">
                         <img src="../imgs/turismo/cct.webp" alt="Imagem referente ao logo do clube come togheter">
                     </figure>
                     <p>Desde 2015, um porão de um casarão centenário de São Roque/SP abriga um clássico pub com bons chopes, cocktails, burgers, porções e muita diversão.</p>
                 </section>
-                <section class="col-lg-4 col-md-4 col-sm-12">
+                <section class="col-lg-3 col-md-3 col-sm-12 tur_i_shadow">
                     <h4>Tia Lina</h4>
                     <figure class="text-center">
                         <img src="../imgs/turismo/tia_lina.webp" alt="Imagem referente ao logo da Tia Lina">
