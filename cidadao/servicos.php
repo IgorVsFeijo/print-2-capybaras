@@ -137,7 +137,7 @@
                     <section class="row">
                         <div class="col-lg-6 col-md-6 col-sm-12">
                             <figure>
-                                <img src="../imgs/cidadao/cidadao_empresa_.jpg" alt="uma ilustração com duas figuras humanas apontando para uma prancheta do tamanho deles">
+                                <img src="../imgs/cidadao/cidadao_empresa_.webp" alt="uma ilustração com duas figuras humanas apontando para uma prancheta do tamanho deles">
                             </figure>
                             <h3>Notícia</h3>
                             <p>Empresa de São Roque contrata Ajudante Geral; veja como se candidatar</p>
@@ -147,7 +147,7 @@
                         </div>
                         <div class="col-lg-6 col-md-6 col-sm-12">
                             <figure>
-                                <img src="../imgs/cidadao/cidadao_fatec_.jpeg" alt="a faixada da fatec são roque com um carro branco na frente">
+                                <img src="../imgs/cidadao/cidadao_fatec_.webp" alt="a faixada da fatec são roque com um carro branco na frente">
                             </figure>
                             <h3>Notícia</h3>
                             <p>Fatec São Roque tem processo seletivo para uma vaga de professor no ensino superior; confira</p>
@@ -175,7 +175,7 @@
                     <h3 class="text-center">Comunicados</h3>
                     <p>Informamos que devido as fortes chuvas a escola “EMEF Tetsu Chinone” suspende as aulas no dia 06/11 por conta do vendaval ocorrido no dia 03/11. A prefeitura trabalha no reparo dos danos feitos à estrutura da escola.</p>
                     <figure class="text-center">
-                        <img src="../imgs/cidadao/cidadao_comunicado_.jpg" alt="frente da escola emef tetsu chinone, estrutura branca com um portão e um carro branco na frente">
+                        <img src="../imgs/cidadao/cidadao_comunicado_.webp" alt="frente da escola emef tetsu chinone, estrutura branca com um portão e um carro branco na frente">
                     </figure>
                 </article>
 
