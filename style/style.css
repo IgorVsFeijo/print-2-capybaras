@@ -2,6 +2,43 @@
 
 @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css");
 
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Noto+Sans:wght@400;500;700&display=swap');
+
+/* Estilos Universais */
+
+header .logo *{
+    max-height: 90px;
+}
+
+footer .logo *{
+    max-height: 110px;
+}
+
+header a:hover .logo *{
+    transform: scale(1.1);
+}
+
+.bg-azul-escuro{
+    background-color: #10246b!important;
+}
+
+.font22{
+    font-size: 22px;
+}
+
+/* Estilos Universais */
+
+*{
+    font-family: 'Lato', sans-serif;
+}
+
+header *{
+    font-family: 'Noto Sans', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-weight: bold;
+}
 
 body {
     overflow-x: hidden;
@@ -47,7 +84,7 @@ img {
 }
 
 .acess {
-    width: 300px;
+    width: 380px;
     margin: auto;
     background-color: #00a6a6;
     padding: 0.2em;
@@ -63,7 +100,13 @@ header>div {
 
 }
 
-header .btn {
+
+#barra-acessibilidade2 .acess{
+    position: relative;
+    bottom: 3px;
+}
+
+header nav .btn {
     padding: 0;
     background-color: #3552B9;
     color: white;
@@ -72,43 +115,85 @@ header .btn {
 .btn-acessibilidade {
     padding: 0;
     background-color: #00a6a6;
+    height: fit-content;
 }
 
 .barra-acess {
     background-color: #1d2f6f;
     color: white;
+    height: 35px;
+    padding-top: 0;
+    align-items: center;
+}
+
+.barra-acess img{
+    border-radius: 5px;
 }
 
 /* Atualização Header*/
 
 /* Navbar Principal */
 
+header .container-fluid.bg-light nav{
+    max-width: 1000px;
+    gap: 30px;
+}
+
 .placeholder-acess {
-    height: 54px;
+    height: 35px;
     width: 10px;
+}
+
+header .botao-sanduiche{
+    border: 0;
+}
+
+header .botao-sanduiche span{
+    font-size: 1.2em;
+}  
+
+header .botao-sanduiche:hover span{
+    font-size: 1.25em;
 }
 
 .nav-item {
     display: flex;
     align-items: center;
+    padding: 1em 0 1em 0;
 }
 
 .collapse:not(.show) li {
     display: flex;
 }
 
+#navPrincipal .nav-link{
+    color: black;
+}
+
+#navPrincipal .nav-link:hover{
+    font-weight: bold;
+    color: #ff9a0d;
+}
+
 /* Navbar Secundario */
 
 div.nav-secundario{
-    background-color: rgb(228, 225, 225);
+    background-color: #10246b;
 }
 
 #navSecundario > menu{
-    max-width: 1000px;
+    max-width: 800px;
+    padding: 5px;
 }
 
+#navSecundario .nav-item:hover{
+    background-color: #00A6A6;
+    font-weight: bold;
+}
+
+
 .nav-item.btn > a{
-    padding: 0;
+    padding: 3px;
     text-transform: uppercase;
 }
 
@@ -117,7 +202,7 @@ div.nav-secundario{
 }
 
 .nav-item.btn:hover > .nav-link, .nav-item.btn:hover > .dropdown-toggle{
-    color: black;
+    color: white;
 }
 
 .dropdown-toggle{
@@ -236,8 +321,12 @@ main#dados-gerais li {
 /* Footer */
 
 footer{
-    background-color: rgb(211, 211, 211);
+    background-color: rgb(248, 249, 250);
     text-align: center;
+}
+
+footer .container-lg{
+    padding: 20px 0px;
 }
 
 footer .desenvolvido-por{
@@ -245,28 +334,6 @@ footer .desenvolvido-por{
 }
 footer i.btn{
     font-size: 2em;
-}
-
-
-@media screen and (max-width: 1400px) {
-    /* Atualização Header */
-
-
-}
-
-@media screen and (max-width: 1200px) {
-    /* Atualização Header */
-
-    #navPrincipal .nav-item {
-        padding: 3px 10px;
-        background-color: rgba(128, 128, 128, 0.068);
-        margin: 2px;
-    }
-
-    #navPrincipal li a{
-        width: 100%;
-        text-align: left;  
-    }
 }
 
 /* Pessoas Notaveis Cidade  */
@@ -281,37 +348,9 @@ footer i.btn{
 
 /* Fim Pessoas Notaveis Cidade */
 
-@media screen and (max-width: 768px){
-    /* Atualização Header*/
-
-    li.dropdown{
-        padding: 2px 20px;
-        justify-content: space-between;
-        flex-wrap: wrap;
-    }
-
-    li.dropdown a, #navPrincipal li{
-        flex-grow: 1;
-        text-align: left;
-    }
-
-    li.dropdown menu{
-        width: calc(100% + 42px);
-        margin: -3px -21px;
-    }
-    .nav-item.btn{
-        border-radius: 0;
-    }
-
-    .nav-item.btn > a{
-        text-transform: capitalize;
-    }
-}
-
 .dúvida{
     background-color: rgb(197, 196, 195);
 }
-
 
 .sombra{
     box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.2);
@@ -455,3 +494,688 @@ main#perguntas{
     padding: 2em 0em;
 }
 /* Fim Perguntas */
+
+
+/* INICIO CSS AREA CIDADAO */
+
+h1, h2{
+    margin: 20px 0px;
+}
+
+/*Início Home CIDADAO */
+.btn-vermais{
+    color: white;
+    background-color: #FF9F1C;
+    text-transform: uppercase;
+}
+
+.btn-vermais:hover{
+    background-color: #ff9a0d;
+    color: white;
+    color: rgb(223, 223, 223);
+}
+
+.none {
+    display: none;
+}
+
+.sombra{
+    box-shadow: 0px 0px 3px 1px rgba(85, 85, 85, 0.2);
+}
+
+.cidadao{
+    margin: 25px 0px;
+}
+
+.cidadao section, .cidadao article, .cidadao aside{
+    margin: 10px 0px;
+}
+
+.cidadao .home-col-1{
+    padding: 30px;
+}
+
+.cidadao .home-col-1 > div{
+    margin-bottom: 60px;
+}
+
+.cidadao_botoes{
+    background-color: #3552B9;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 15px 0px;
+}
+
+.cidadao_botoes a{
+    background-color: #1d2f6f;
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+    margin: 5px;
+    border-radius: 10px;
+}
+
+.cidadao_botoes a:hover{
+    background-color: #10246b;
+}
+
+.cidadao_botoes i{
+    font-size: 2em;
+}
+
+.cidadao_card{
+    background-color: #1d2f6f;
+    color: white;
+    border-radius: 10px;
+    padding: 25px;
+    margin: 15px 0px;
+}
+
+.cidadao_card.mais-acessados h3{
+    font-size: 22px;
+}
+
+.cidadao_card.mais-acessados ul li{
+    padding: 5px;
+}
+
+.cidadao_card a{
+    text-decoration: none;
+    color: white;
+}
+
+.cidadao_card a:hover{
+    color: rgb(223, 223, 223);
+}
+
+.cidadao_form{
+    padding: 20px;
+}
+
+.cidadao_form input{
+    margin: 10px 0px;
+    background-color: #19cccc;
+}
+
+.cidadao_form input::placeholder{
+    color: white;
+}
+
+.cidadao_form button{
+    background-color: #00A6A6;
+    color: white;
+}
+
+.cidadao_form button:hover{
+    background-color: #038686;
+    color: white;
+}
+
+.cidadao_calendario{
+    border: transparent;
+    background-color: white;
+    padding: 20px;
+    margin: 10px 0px;
+}
+
+.cidadao_calendario caption{
+    background-color: #ff9a0d;
+    caption-side: top;
+}
+
+.cidadao_calendario th{
+    color: #ff9a0d;
+}
+
+.cidadao_mes th{
+    color: #10246b;
+}
+/*Fim Home CIDADAO */
+
+/*Inicio Transporte CIDADAO */
+.cidadao_transporte{
+    margin: 40px 0px;
+}
+
+.cidadao_noticia {
+    margin: 20px 0px;
+}
+
+.cidadao_noticias_p{
+    padding: 10px;
+}
+
+.cidadao_noticia h3{
+    margin: 0px;
+}
+
+.btn-onibus{
+    color: white;
+    background-color: #00A6A6;
+    border: white 2px solid;
+}
+
+.btn-onibus:hover{
+    background-color: #009e9e;
+    color: white;
+}
+/*Fim Transporte CIDADAO */
+
+/*Início Concurso CIDADAO */
+.cidadao_concursos ul{
+    padding: 0px;
+}
+
+.cidadao_concursos ul li{
+    background-color: #00a6a6;
+    margin: 10px 0px 0px 0px;
+    padding: 15px;
+    list-style: none;
+}
+
+.cidadao_concursos a{
+    text-decoration: none;
+    color: white;
+    padding-left: 10px;
+    border-left: rgb(255, 255, 255) 1.5px solid;
+    font-size: 0.8em;
+}
+
+.cidadao_dicas i{
+    font-size: 5em;
+    color: #10246b;
+}
+
+/*Fim Concurso CIDADAO */
+
+/*Início Saúde CIDADAO */
+
+.saude{
+    margin: 10px 0px;
+}
+
+.cidadao_botao i{
+    font-size: 2em;
+}
+
+.cidadao_botao a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1d2f6f;
+    color: white;
+    text-decoration: none;
+    padding: 10px 10px;
+    border: solid white;
+    border-radius: 10px;
+    font-size: 0.9em;
+}
+
+.saude .cidadao_card{
+    background-color: #00A6A6;
+}
+
+.cidadao_cartilha{
+    padding: 20px 20px 0px 25px;
+}
+
+.cidadao_cartilha caption{
+    caption-side: top;
+}
+
+.cidadao_cartilha table, .cidadao_cartilha td, .cidadao_cartilha tr{
+    border: white solid 1px;
+    border-radius: 10px;
+    background-color: #10246b;
+    color: white;
+    padding: 10px;
+}
+
+/*Fim Saúde CIDADAO */
+
+/*Início Serviços CIDADAO */
+.cidadao_servicos{
+    padding: 20px;
+}
+
+.cidadao_postagem{
+    margin: 20px 5px;
+    background-color: rgb(240, 240, 240);
+    padding: 5px 10px;
+}
+
+.cidadao_assistencia .cidadao_botao{
+    margin: 1px;
+
+}
+
+.cidadao_servicos_escolar a{
+    background-color: #00A6A6;
+    text-decoration: none;
+    color: white;
+    margin: 5px 0px;
+    height: 3em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cidadao_servicos_escolar a:hover{
+    background-color: #009e9e;
+}
+
+/* Fim Serviços CIDADAO */
+
+/* FIM CSS AREA CIDADAO */
+
+* INICIO CSS AREA CULTURA */
+main{
+    padding: 2em 0em;
+}
+.noticias_cultura{
+    box-shadow: 3px 4px 4px 3px rgba(85, 85, 85, 0.5);
+    padding: 20px;
+    background-color: #1d2f6f;
+    color: white;
+    border-radius: 2em;
+}
+.notícia_mobile{
+    box-shadow: 0px 3px 3px 0px rgba(85, 85, 85, 0.2);
+    padding: .5em .4em 0em .4em;
+    background-color: #00a6a659;
+    border-radius: 1em;
+}
+.notícia_mobile p{
+    font-size: 1.1em;
+    font-weight: bold;
+}
+.conhecamais{
+    background-color: #00a6a6;
+    border-radius: 2em;
+    margin-top: 1em;
+    box-shadow: 0px 2px 4px 3px rgba(85, 85, 85, 0.5);
+}
+#culturasr article{
+    text-align: justify;
+}
+.monumento_cultural{
+    border: 3px solid;
+    border-radius: 2em;
+    background-color: #ff9f1c;
+    box-shadow: 0px 2px 1px 3px rgba(85, 85, 85, 0.5);
+    padding-top: 1em;
+    margin-bottom: 2em;
+}
+.secao_artistas{
+    margin-top: 1em;
+}
+.grupos{
+    border: 3px solid;
+    border-radius: 1em;
+    background-color: #2d4739;
+    color: white;
+    box-shadow: 0px 3px 4px 2px rgba(85, 85, 85, 0.5);
+}
+.grupo,.jamais_vistos{
+    padding: .5em 1em;
+    border-right: 1px solid black;
+}
+.jamais_vistos{
+    border: none;
+}
+.festasagosto, .exposr{
+    background-color: #1d2f6f;
+    color: white;
+    padding: .5em .5em;
+    border-radius: 2em;
+    margin-bottom: 1.3em;
+    box-shadow: 0px 3px 3px 3px rgba(85, 85, 85, 0.5);
+}
+.festasagosto{
+    margin-right: 2em;
+}
+.botao_cultura{
+    margin-left: 65em;
+}
+.botao_agenda{
+    margin-left: 30em;
+}
+/* FIM CSS AREA CULTURA */
+
+/* INICIO CSS AREA EMPRESA */
+
+.btn-vermais{
+    color: white;
+    background-color: #FF9F1C;
+    text-transform: uppercase;
+}
+.img_diario{
+    margin-left: 1em;
+    margin-top: 1em;
+}
+
+.img_diario:hover{
+    opacity: 0.8;
+    -webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.28);
+    -moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.28);
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.28);
+    transform: scale(1.1);
+}
+
+.emp_page_link{
+    margin: 1em;
+}
+
+.emp_textos{
+    margin-top: 2em;
+    margin-left: 1em;
+}
+
+.emp_position_a{
+    position: relative;
+    width: fit-content;
+    margin: auto;
+}
+
+.emp_position_r{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.pages-empresas{
+    margin-top: 2em;
+    margin-bottom: 3em;
+}
+main.empresa{
+    padding: 1em 0em;
+}
+.imagemcentral_empresas{
+    width: 100%;
+}
+.link_home{
+    background-color: #00a6a6;
+    color: #FFFFFF;
+    font-weight: bold;
+    border-radius: 2em;
+    padding: .5em 1em;
+    text-decoration: none;
+    margin-bottom: 5em;
+}
+.section_diario a{
+    height: 10%;
+}
+.botao_empresa{
+    margin-left: 60em;
+    background-color: #1d2f6f;
+    color: white;
+    box-shadow: 2px 2px rgba(78, 78, 78, 0.2);
+}
+.iptu{
+    border: 1px solid;
+    background-color: #D9D9D9;
+    margin-top: 2em;
+    box-shadow: 0px 2px 3px 2px rgba(78, 78, 78, 0.2);
+}
+#pag_iptu{
+    margin: 2em -1em;
+}
+.head_iptu{
+    background-color: #1d2f6f;
+    color: #FFFFFF;
+}
+.edicao{
+    -webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.49);
+    -moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.49);
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.49);
+    border-radius: .6em;
+    padding: 1em 0em;
+    margin-top: 2em;
+
+}
+.botoes_diario{
+    background-color: #1d2f6f;
+    color: white;
+    padding: 0.5em 3em 0.5em 3em;
+}
+
+.botoes_diario:hover{
+    background-color: #3552B9;
+    color: white;
+}
+
+form.cadastrojuridico{
+    border: 1px solid;
+    padding: 1em 2.5em;
+    box-shadow: 3px 4px 5px 3px rgba(78, 78, 78, 0.3);
+}
+select{
+    height: 54%;
+    border-radius: .3em;
+}
+.accordion-header{
+    text-align: center;
+}
+/* FIM CSS AREA EMPRESA */
+
+/* INICIO CSS AREA TURISMO */
+
+.not_back{
+    background-color: #00A6A6;
+    padding: 1em;
+    margin-top: 1em;
+}
+
+.not_i_shadow{
+    -webkit-box-shadow: 0px 0px 16px 0px rgba(0,0,0,0.29);
+    -moz-box-shadow: 0px 0px 16px 0px rgba(0,0,0,0.29);
+    box-shadow: 0px 0px 16px 0px rgba(0,0,0,0.29);
+    margin: 0em 0em 0em 5em;
+    padding: 1em 1em 1em 1em;
+}
+
+.tur_galeria_index{
+    padding: 0 2.5em 0 2.5em;
+}
+
+.not_titulos{
+    font-weight: bold;
+}
+
+.not_link{
+    text-decoration: none;
+    color: black;
+    font-style: italic;
+}
+
+.not_vejamais{
+    padding-top: 2em;
+}
+
+.tur_back{
+    background-color: #00A6A6;
+}
+
+.tur_i_h2{
+    padding: 1em 0em 1em 0em;
+}
+
+/* INICIO CSS PONTOS TURISTICOS*/
+
+.tur_btn-vermais{
+    color: black;
+    background-color: #FF9F1C;
+    border: 10px solid white;
+    padding: 1em;
+}
+
+.tur_btn-vermais:hover{
+    background-color: #ff9a0d;
+    color: white;
+    border: 10px solid #ff9a0d;
+
+}
+
+.tur_btn_pad{
+    padding: 0.5em;
+}
+
+.tur_cor_servicos{
+    color: #FF9F1C;
+}
+/* FIM CSS PONTOS TURISTICOS */
+
+
+/* INICIO CSS EVENTOS */
+
+.tur_h2{
+    padding: 1em;
+}
+
+.tur_border{
+    border-top: 1px black solid;
+}
+
+/* FIM CSS EVENTOS */
+
+
+/* INICIO CSS HOSPEDAGEM*/
+
+.tur_titulos{
+    font-weight: bold;
+    padding: 1.5em 0 0em 0;
+}
+
+.tur_hospedagem_h2{
+    padding: 1em 1em 0.5em 1em;
+}
+
+.tur_shadow{
+    -webkit-box-shadow: 0px 0px 16px 0px rgba(0,0,0,0.63);
+    -moz-box-shadow: 0px 0px 16px 0px rgba(0,0,0,0.63);
+    box-shadow: 0px 0px 16px 0px rgba(0,0,0,0.63);
+    margin-left: 5em;
+    margin-bottom: 1em;
+}
+
+.tur_i_shadow{
+    -webkit-box-shadow: 0px 0px 16px 0px rgba(0,0,0,0.29);
+    -moz-box-shadow: 0px 0px 16px 0px rgba(0,0,0,0.29);
+    box-shadow: 0px 0px 16px 0px rgba(0,0,0,0.29);
+    margin-left: 5em;
+    margin-bottom: 1em;
+}
+
+/* FIM CSS HOSPEDAGEM*/
+
+
+/* INICIO CSS GASTRONOMIA*/
+
+.tur_gastro_h2{
+    padding: 1.5em 0em 0em 0em;
+}
+
+.tur_h3 {
+    padding-top: 1em;
+}
+/* FIM CSS GASTRONOMIA*/
+
+
+/* INICIO CSS GALERIA*/
+
+.tur_btn_vermais{
+    color: black;
+    background-color: #FF9F1C;
+    border: none;
+}
+
+.tur_btn_vermais:hover{
+    background-color: #ff9a0d;
+    color: white;
+    -webkit-box-shadow: 1px 1px 10px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 1px 10px 0px rgba(0,0,0,0.75);
+    box-shadow: 1px 1px 10px 0px rgba(0,0,0,0.75);
+}
+
+.tur_link{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.tur_link:hover{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+.tur_position_r{
+    position: relative;
+    width: fit-content;
+    margin: auto;
+}
+
+.tur_position_a{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+/* FIM CSS AREA TURISMO */
+
+
+/* Inicio Media Queries*/
+
+@media screen and (max-width: 1400px) {
+    /* Atualização Header */
+
+
+}
+
+@media screen and (max-width: 1200px) {
+    /* Atualização Header */
+
+    #navPrincipal .nav-item {
+        padding: 3px 10px;
+        background-color: rgba(128, 128, 128, 0.068);
+        margin: 2px;
+    }
+
+    #navPrincipal li a{
+        width: 100%;
+        text-align: left;  
+    }
+}
+
+@media screen and (max-width: 768px){
+    /* Atualização Header*/
+
+    header{
+        box-shadow: 1px 4px 15px rgba(0, 0, 0, 0.25);
+    }
+
+    li.dropdown{
+        padding: 2px 20px;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+
+    li.dropdown a, #navPrincipal li{
+        flex-grow: 1;
+        text-align: left;
+    }
+
+    li.dropdown menu{
+        width: calc(100% + 42px);
+        margin: -3px -21px;
+    }
+    .nav-item.btn{
+        border-radius: 0;
+    }
+
+    .nav-item.btn > a{
+        text-transform: capitalize;
+    }
+}
+
+/* Fim Media Queries*/
