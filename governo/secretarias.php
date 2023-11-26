@@ -66,13 +66,14 @@
     <div class="row">
         <section class="col-lg-4 col-md-4 col-sm-12">
             <figure>
-                <img src="../imgs/governo/education.webp" alt="foto de logotipo da secretaria de educação>
+                <img src="../imgs/governo/education.webp" alt="foto de logotipo da secretaria de educação">
             </figure>
             <p>Departamento de Educação</p>
             <p>Dircelene Segura</p>
             <p>(11) 4712-8177</p>
             <p>educacao@saoroque.sp.gov.br</p>
         </section>
+
         <section class="col-lg-4 col-md-4 col-sm-12">
             <figure>
                 <img src="../imgs/governo/brasao.webp" alt="foto do brasão de são roque">
