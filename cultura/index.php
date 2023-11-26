@@ -68,14 +68,14 @@
                         <section class="col-md-6 text-center" >
                             <h2 class="hide">Section - h2</h2>
                             <figure>
-                                <a href="../cultura/culturaarte.php"><img src="../imgs/cultura/marcosculturais.webp" alt="Imagem ilustrativa para a página detalhada da cultura de São Roque"></a>
+                                <a href="../cultura/culturaarte.php"><img src="../imgs/cultura/marcosculturais.webp" alt="Imagem ilustrativa para a página detalhada da cultura de São Roque, mostrando um vinho"></a>
                             </figure>
                             <h4>Marcos Culturais</h4>
                         </section>
                         <section class="col-md-6 text-center">
                             <h2 class="hide">Section - h2</h2>
                             <figure>
-                                <a href="../cultura/tradicoes.php"><img src="../imgs/cultura/festastradicionais.webp" alt="Imagem ilustrativa para a página de tradições de São Roque"></a>
+                                <a href="../cultura/tradicoes.php"><img src="../imgs/cultura/festastradicionais.webp" alt="Imagem ilustrativa para a página de tradições de São Roque, com uma parte da procissão de São Roque, durante a Festa de Agosto"></a>
                             </figure>
                             <h4>Festas Tradicionais</h4>
                         </section>
