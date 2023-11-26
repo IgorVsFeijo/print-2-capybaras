@@ -7,15 +7,15 @@
     <title>São Roque - Título da Página</title>
 
     <?php
-        include '../includes/inc_head_links.php';
+        include 'includes/inc_head_links.php';
       ?>
 
 </head>
 <body>
     <!-- Inicio Header -->
 
-      <?php
-        include '../includes/inc_header.php';
+    <?php
+        include 'includes/inc_header.php';
       ?>
 
     <!-- Fim Header -->
