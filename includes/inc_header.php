@@ -46,26 +46,24 @@ $rootPath = substr($rootPath, $posHtdocs+7, strlen($rootPath));
 
     <!-- Navbar Principal -->
     <nav
-      class="flex-wrap-lg container-logo-nav container-lg navbar navbar-expand-xl w-xl-auto navbar flex-shrink-1 navbar-light py-2 px-4">
+      class="flex-wrap-lg container-logo-nav container-lg navbar navbar-expand-xl w-xl-auto navbar flex-shrink-1 navbar-light py-2">
 
-      <a href="/<?php echo $rootPath ?>/index.php">
-        <figure class="m-0 flex-shrink-1 ">
-
-          <picture class="logo">
-            <source media="(min-width: 1200px)" srcset="/<?= $rootPath; ?>/imgs/principal/logotipo.svg">
-            <source media="(min-width: 768px)" srcset="/<?= $rootPath; ?>/imgs/principal/carnivorascap_nome.svg">
-            <img src="/<?= $rootPath; ?>/imgs/principal/logo.svg" alt="">
-          </picture>
-
-        </figure>
-      </a>
-
-      <!-- Botao Sanduiche -->
-
-      <button class="navbar-toggler botao-sanduiche" type="button" data-bs-toggle="collapse" data-bs-target=".navsComprimidos"
-        aria-controls="navPrincipal navSecundario" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
+      <div class="d-flex justify-content-between px-4 flex-grow-1">
+        <a href="/<?php echo $rootPath ?>/index.php">
+          <figure class="m-0 flex-shrink-1 ">
+            <picture class="logo">
+              <source media="(min-width: 1200px)" srcset="/<?= $rootPath; ?>/imgs/principal/logotipo.svg">
+              <source media="(min-width: 768px)" srcset="/<?= $rootPath; ?>/imgs/principal/carnivorascap_nome.svg">
+              <img src="/<?= $rootPath; ?>/imgs/principal/logo.svg" alt="">
+            </picture>
+          </figure>
+        </a>
+        <!-- Botao Sanduiche -->
+        <button class="navbar-toggler botao-sanduiche" type="button" data-bs-toggle="collapse" data-bs-target=".navsComprimidos"
+          aria-controls="navPrincipal navSecundario" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      </div>
 
       <!-- Navbar Comprimida -->
 

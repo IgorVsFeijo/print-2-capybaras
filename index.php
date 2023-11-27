@@ -34,7 +34,7 @@
         <div class="col-12 col-md-7">
           <section class="prefeitura position-relative">
             <!--Inicio secao prefeitura-->
-            <picture class="img-home-princ"><img src="https://placekitten.com/741/610" alt=""></picture>
+            <picture class="img-home-princ"><img src="imgs/principal/home.jpg" alt=""></picture>
             <div>
               <h2>Prefeitura SR</h2>
               <p>
@@ -45,10 +45,10 @@
         </div>
 
         <a href="cidade/index.php" class="col-12 col-md-5">
-          <section class="cidade">
+          <section class="cidade position-relative flex-row flex-md-column">
             <!--Inicio secao cidade-->
-            <picture class="img-home-princ"><img src="htpps://placekitten.com/522/610" alt=""></picture>
-            <div>
+            <picture class="img-home-princ"><img src="imgs/principal/home_cidade.png" alt=""></picture>
+            <div class="">
               <h2>Cidade</h2>
               <p>
               Conheça a nossa história e tudo o que São Roque representa para o seu povo e para o Estado de São Paulo.
@@ -58,9 +58,9 @@
         </a>
 
         <a href="cidadao/index.php">
-          <section class="cidadao">
+          <section class="sessao-cidadao position-relative">
             <!--Inicio secao ciadadao-->
-            <picture class="img-home-princ"><img src="htpps://placekitten.com/632/610" alt=""></picture>
+            <picture class="img-home-princ"><img src="imgs/principal/home_cidadao.jpg" alt=""></picture>
             <div>
               <h2>Cidadão</h2>
               <p>
@@ -74,10 +74,10 @@
           <a href="cultura/index.php">
             <section class="cultura position-relative">
               <!--Inicio secao cultura-->
-              <picture class="img-home-princ"><img src="https://placekitten.com/632/197" alt=""></picture>
+              <picture class="img-home-princ"><img src="imgs/principal/home_cultura.jpg" alt=""></picture>
               <div>
                 <h2>Cultura</h2>
-                <p class="d-none d-md-block">
+                <p class="d-none d-sm-block">
                 Conheça mais sobre a rica e diversa cultura de São Roque, a Terra do Vinho!
                 </p>
               </div>
@@ -86,10 +86,10 @@
           <a href="turismo/index.php">
             <section class="turismo position-relative">
               <!-- Inicio secao turismo -->
-              <picture class="img-home-princ"><img src="https://placekitten.com/632/197" alt=""></picture>
+              <picture class="img-home-princ"><img src="imgs/principal/home_turismo.jpg" alt=""></picture>
               <div>
                 <h2>Turismo</h2>
-                <p class="d-none d-md-block">
+                <p class="d-none d-sm-block">
                 Várias atrações e locais aguardam você em São Roque! Aproveite para conhecer todos e se programar para um fim de semana divertido em nossa cidade!
                 </p>
               </div>
@@ -98,9 +98,9 @@
         </div>
 
         <a href="governo/index.php">
-          <section class="governo">
+          <section class="governo position-relative">
             <!--Inicio secao governo-->
-            <picture class="img-home-princ"><img src="htpps://placekitten.com/632/610" alt=""></picture>
+            <picture class="img-home-princ"><img src="https://placekitten.com/632/610" alt=""></picture>
             <div>
               <h2>Governo</h2>
               <p>
@@ -111,9 +111,9 @@
         </a>
 
         <a href="empresa/index.php">
-          <section class="empresa">
+          <section class="empresa position-relative">
             <!-- inicio secao empresa -->
-            <picture class="img-home-princ"><img src="htpps://placekitten.com/632/610" alt=""></picture>
+            <picture class="img-home-princ"><img src="imgs/principal/home_empresa.jpg" alt=""></picture>
             <div>
               <h2>Empresa</h2>
               <p>
