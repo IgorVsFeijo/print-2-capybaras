@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>São Roque - Título da Página</title>
+    <title>São Roque - Notícia</title>
 
     <link rel="stylesheet" href="../print-2-capybaras/style/turismo.css">
 
