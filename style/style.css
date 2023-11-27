@@ -332,12 +332,12 @@ picture.img-home-princ{
 
 .paginas-area-cidade  > main > article > div:first-child{
     width: 100vw;
-    height: calc(100vh - 184px);
+    height: calc(100vh - 284px);
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
     align-items: flex-end;
-    padding: 300px;
+    padding: 300px 200px 100px;
 }      
 
 .paginas-area-cidade  > main > article > div:first-child h1{
@@ -347,7 +347,21 @@ picture.img-home-princ{
 
 .paginas-area-cidade  > main > article > div:first-child hgroup p{
     font-size: 2em;
+}
+
+.paginas-area-cidade  > main > article > div:first-child p{
     text-align: right;
+    max-width: 400px;
+}
+
+.paginas-area-cidade .titulo-sessao{
+    background-color: #1d2f6f;
+    color: white;
+    position: relative;
+    width: 100vw;
+    left: calc(50% - 50vw);
+    padding: 8px 150px;
+    text-transform: uppercase;
 }
 
 /* Dados Gerais Cidade */
