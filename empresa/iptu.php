@@ -27,7 +27,7 @@
               <b><a href="../empresa/home.php">Home</a> <i class="bi bi-arrow-right"></i> <a href="../empresa/iptu.php">IPTU</a></b>
         </div>
         <figure class="text-center">
-          <img src="../imgs/empresa/empresa_pagIPTU.jpg" alt="banner escrito IPTU 2023 DIGITAL com o icone de uma casa do lado direito">
+          <img src="../imgs/empresa/empresa_pagIPTU.webp" alt="banner escrito IPTU 2023 DIGITAL com o icone de uma casa do lado direito">
         </figure>
 
         <article id="pag_iptu">
