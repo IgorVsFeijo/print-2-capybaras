@@ -11,7 +11,7 @@
       ?>
 
 </head>
-<body>
+<body class="paginas-area-cidade">
     <!-- Inicio Header -->
 
       <?php
@@ -24,13 +24,14 @@
       <article class="container-lg">
 
         <!-- Título do Artigo -->
-        <hgroup>
-          <h1>A HISTÓRIA</h1>
-          <p>de São Roque</p>
-        </hgroup>
-
-        <!-- Introdução do Artigo -->
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis nulla, iste magni blanditiis non aliquam nisi. Sunt, aut provident deleniti laborum soluta consequatur debitis dolores. Aliquid architecto officiis voluptatem. Explicabo!</p>
+        <div>
+          <hgroup>
+            <h1>A HISTÓRIA</h1>
+            <p>de São Roque</p>
+          </hgroup>
+          <!-- Introdução do Artigo -->
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis nulla, iste magni blanditiis non aliquam nisi. Sunt, aut provident deleniti laborum soluta consequatur debitis dolores. Aliquid architecto officiis voluptatem. Explicabo!</p>
+        </div>
 
         <!-- Inicio Sessão Origens e Fundação -->
 

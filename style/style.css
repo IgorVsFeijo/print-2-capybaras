@@ -328,7 +328,27 @@ picture.img-home-princ{
 }
 
 
-/* Home Cidade */
+/* AREA CIDADE */
+
+.paginas-area-cidade  > main > article > div:first-child{
+    width: 100vw;
+    height: calc(100vh - 184px);
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+    padding: 300px;
+}      
+
+.paginas-area-cidade  > main > article > div:first-child h1{
+    font-size: 4em;
+    font-weight: bold;
+}
+
+.paginas-area-cidade  > main > article > div:first-child hgroup p{
+    font-size: 2em;
+    text-align: right;
+}
 
 /* Dados Gerais Cidade */
 

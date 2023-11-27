@@ -11,7 +11,7 @@
       ?>
 
 </head>
-<body>
+<body class="paginas-area-cidade">
     <!-- Inicio Header -->
 
       <?php
