@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Serviços</title>
+    <title>São Roque - Serviços</title>
 
     <?php
         include '../includes/inc_head_links.php';
