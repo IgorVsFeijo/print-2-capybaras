@@ -31,9 +31,9 @@
 
       <div class="container-lg">
         <section id="hc-sessao-historia">
-          <h2>HISTÓRIA</h2>
+          <h2 class="titulo-sessao">HISTÓRIA</h2>
           <figure>
-            <img src="https://placekitten.com/600/300" alt="">
+            <picture><img src="../imgs/cidade/home_historia.jpg" alt=""></picture>
             <figcaption>LEGENDA DA IMAGEM</figcaption>
           </figure>
           <p>São Roque, frequentemente referida como a "Cidade do Vinho", carrega uma rica tapeçaria de histórias que remonta à sua fundação em 1657. Ao mergulhar em sua trajetória, descobre-se um município que prosperou através da expansão ferroviária, da agricultura resiliente e de uma cultura vibrante, tornando-se um pilar histórico e cultural no estado de São Paulo. Ao explorar a história de São Roque, somos convidados a uma viagem no tempo, revisitando os marcos, as pessoas e os eventos que moldaram esta cidade única.
@@ -41,27 +41,27 @@
           <a href="historia.php" class="btn btn-primary btn-veja-mais">VEJA MAIS</a>
         </section>
         <section id="hc-sessao-pessoas">
-          <h2>PESSOAS NOTÁVEIS</h2>
+          <h2 class="titulo-sessao">PESSOAS NOTÁVEIS</h2>
           <section class="hc-cards-pessoas row row-cols-md-3">
             <h3 class="d-none">Cartões Pessoas Notáveis</h3>
             <section class="hc-card-pessoa">
               <h2>Darcy Penteado</h2>
               <figure>
-                <img src="https://placekitten.com/200/350" alt="">
+                <picture><img src="../imgs/cidade/home_darcy.jpg" alt=""></picture>
                 <figcaption>Artista Multifacetado</figcaption>
               </figure>
             </section>
             <section class="hc-card-pessoa">
               <h2>Emiko Takatatsu</h2>
               <figure>
-                <img src="https://placekitten.com/200/350" alt="">
+                <picture><img src="../imgs/cidade/home_emiko.jpg" alt=""></picture>
                 <figcaption>Mestra do Tênis de Mesa</figcaption>
               </figure>
             </section>
             <section class="hc-card-pessoa">
               <h2>Juca de Oliveira</h2>
               <figure>
-                <img src="https://placekitten.com/200/350" alt="">
+                <picture><img src="../imgs/cidade/" alt=""></picture>
                 <figcaption>Dramaturgo Consagrado</figcaption>
               </figure>
             </section>
