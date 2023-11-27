@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="pt-br">
 
@@ -34,7 +35,7 @@
                     <section class="col-12">
                         <div class="row cidadao_noticias align-items-center justify-content-center gap-5 mb-5">
                             <figure class="col-auto text-center">
-                                <img src="../imgs/cidadao/cidadao_empresa_150.jpg" alt="uma ilustração com duas figuras humanas apontando para uma prancheta do tamanho deles">
+                                <img src="../imgs/cidadao/cidadao_empresa_150.webp" alt="uma ilustração com duas figuras humanas apontando para uma prancheta do tamanho deles">
                             </figure>
                             <div class="col-lg-4">
                                 <h3 class="fs-6">Oportunidade de emprego</h3>
@@ -44,7 +45,7 @@
                         </div>
                         <div class="row cidadao_noticias align-items-center justify-content-center gap-5 mb-5">
                             <figure class="col-auto text-center">
-                                <img src="../imgs/cidadao/cidadao_fatec_150.jpeg" alt="a faixada da fatec são roque com um carro branco na frente">
+                                <img src="../imgs/cidadao/cidadao_fatec_150.webp" alt="a faixada da fatec são roque com um carro branco na frente">
                             </figure>
                             <div class="col-lg-4">
                                 <h3 class="fs-6">Oportunidade de emprego</h3>
