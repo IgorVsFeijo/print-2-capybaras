@@ -39,12 +39,12 @@
                   </div>
                   <div class="col-8">
                     <label for="inputTextarea" class="form-label">Objetivos</label>
-                    <textarea type="text" class="form-control" height="" id="inputTextarea" placeholder="Digite aqui os seus objetivos ou os objetivos do grupo"></textarea>
+                    <textarea class="form-control" id="inputTextarea" placeholder="Digite aqui os seus objetivos ou os objetivos do grupo"></textarea>
                   </div>
                   <div class="col-4">
                     <div class="col-12">
-                      <label for="inputState" class="form-label">Área de Atuação</label>
-                      <select id="inputState" class="form-select">
+                      <label for="inputArea" class="form-label">Área de Atuação</label>
+                      <select id="inputArea" class="form-select">
                         <option selected>...</option>
                         <option>Teatro</option>
                         <option>Bate-Papo</option>
@@ -52,7 +52,7 @@
                       </select>
                     </div>
                     <div class="col-12">
-                      <label for="inputZip" class="form-label">Nº de integrantes</label>
+                      <label for="inputState" class="form-label">Nº de integrantes</label>
                       <select id="inputState" class="form-select">
                         <option selected>0</option>
                         <option>1</option>
