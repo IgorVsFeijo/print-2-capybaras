@@ -32,7 +32,7 @@
                         <div class="col-lg-12 col-md-8">
                             <h2>Notícia</h2>
                             <p>Caminhão quebra eixo dianteiro ao cair em bueiro em via de São Roque;</p>
-                            <a type="button" class="btn btn-vermais" href="#">Ver mais</a>
+                            <a class="btn btn-vermais" href="#">Ver mais</a>
                         </div>
                     </div>
                 </section>
@@ -42,7 +42,7 @@
                         <div class="col-lg-12 col-md-8">
                             <h2>Notícia</h2>
                             <p>Castello e Raposo Tavares; CCR informa cobrança de tarifa no pedágio sobre todos os eixos;</p>
-                            <a type="button" class="btn btn-vermais" href="#">Ver mais</a>
+                            <a class="btn btn-vermais" href="#">Ver mais</a>
                         </div>
                     </div>
                 </section>
@@ -52,7 +52,7 @@
                         <div class="col-lg-12 col-md-8">
                             <h2>Notícia</h2>
                             <p>Aplicativo de transporte Liint garante economia para passageiros de São Roque e região;</p>
-                            <a type="button" class="btn btn-vermais" href="#">Ver mais</a>
+                            <a class="btn btn-vermais" href="#">Ver mais</a>
                         </div>
                     </div>
                 </section>
@@ -62,7 +62,7 @@
                         <div class="col-lg-12 col-md-8">
                             <h2>Notícia</h2>
                             <p>Prefeitura de São Roque faz alerta para população denunciar veículos abandonados nas ruas;</p>
-                            <a type="button" class="btn btn-vermais" href="#">Ver mais</a>
+                            <a class="btn btn-vermais" href="#">Ver mais</a>
                         </div>
                     </div>
                 </section>
@@ -72,7 +72,7 @@
                         <div class="col-lg-12 col-md-8">
                             <h2>Notícia</h2>
                             <p>Obras: Motoristas reclamam de desvio e falta de apoio no trecho de Alumínio na Raposo Tavares;</p>
-                            <a type="button" class="btn btn-vermais" href="#">Ver mais</a>
+                            <a class="btn btn-vermais" href="#">Ver mais</a>
                         </div>
                     </div>
                 </section>
@@ -82,7 +82,7 @@
                         <div class="col-lg-12 col-md-8">
                             <h2>Notícia</h2>
                             <p>Linha que liga Ibiúna a Piedade volta a funcionar com cinco horários de saída em cada cidade.</p>
-                            <a type="button" class="btn btn-vermais" href="#">Ver mais</a>
+                            <a class="btn btn-vermais" href="#">Ver mais</a>
                         </div>
                     </div>
                 </section>
@@ -316,9 +316,7 @@
                                     </table>
                                 </td>
                             </tr>
-                            <tr>
-                                
-                            </tr>
+                            
             </table>
             </div>
         </div>
@@ -499,9 +497,6 @@
                                         </tr>
                                     </table>
                                 </td>
-                            </tr>
-                            <tr>
-                                
                             </tr>
             </table>
             </div>
@@ -684,9 +679,6 @@
                                     </table>
                                 </td>
                             </tr>
-                            <tr>
-                                
-                            </tr>
             </table>
             </div>
         </div>
@@ -867,9 +859,6 @@
                                             </tr>
                                         </table>
                                     </td>
-                                </tr>
-                                <tr>
-                                    
                                 </tr>
                 </table>
                 </div>
@@ -1052,9 +1041,6 @@
                                         </table>
                                     </td>
                                 </tr>
-                                <tr>
-                                    
-                                </tr>
                 </table>
             </div>
         </div>
@@ -1235,9 +1221,6 @@
                                             </tr>
                                         </table>
                                     </td>
-                                </tr>
-                                <tr>
-                                    
                                 </tr>
                 </table>
                 </div>
@@ -1420,9 +1403,6 @@
                                     </table>
                                 </td>
                             </tr>
-                            <tr>
-                                
-                            </tr>
             </table>
             </div>
         </div>
@@ -1603,9 +1583,6 @@
                                         </tr>
                                     </table>
                                 </td>
-                            </tr>
-                            <tr>
-                                
                             </tr>
             </table>
             </div>
