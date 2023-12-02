@@ -40,7 +40,7 @@
                   <input class="form-control" type="text" placeholder="Nome">
                   <input class="form-control" type="email" placeholder="Email">
                   <textarea placeholder="Escreva sua mensagem..." class="form-control"></textarea>
-                  <button class="btn btn-vermais" placeholder="A sua mensagem">Enviar</button>
+                  <button class="btn btn-vermais">Enviar</button>
               </form>
           </div>
       </main> 
