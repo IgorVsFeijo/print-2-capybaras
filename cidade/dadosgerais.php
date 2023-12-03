@@ -25,11 +25,12 @@
 
       <!-- Título do Artigo -->
 
-      <div>
-        <div>
+<div class="poster">
+
+<div >
           <hgroup>
-            <h1>DADOS GERAIS</h1>
-            <p>Informações Úteis</p>
+            <h1 class="display-4">DADOS GERAIS</h1>
+            <p class="h3">Informações Úteis</p>
           </hgroup>
         </div>
       </div>

@@ -25,9 +25,9 @@
 
         <article>
             <!-- Introducao do Artigo Pessoas Notaveis -->
-            <div class="pn-introducao">
+            <div class="pn-introducao poster">
                 <div>
-                    <h1>
+                    <h1 class="display-4">
                         PESSOAS <span class="d-block h3">Notáveis</span>
                     </h1>
                     <p class="text-start">São Roque não só é reconhecida por sua história e cultura ricas, mas também

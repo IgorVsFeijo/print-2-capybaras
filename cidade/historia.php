@@ -22,14 +22,14 @@
     <!-- Fim Header -->
 
     <main class="cidade-historia">
-        <article>
+        <article class="container-lg">
 
             <!-- Título do Artigo -->
-            <div>
+            <div class="poster">
                 <div>
                     <hgroup>
-                        <h1>A HISTÓRIA</h1>
-                        <p>de São Roque</p>
+                        <h1 class="display-4">A HISTÓRIA</h1>
+                        <p class="h3">de São Roque</p>
                     </hgroup>
                     <!-- Introdução do Artigo -->
                     <p>Descubra São Roque, um destino encantador no estado de São Paulo, Brasil, repleto de histórias e

@@ -11,82 +11,94 @@
       ?>
 
 </head>
+
 <body class="paginas-area-cidade">
     <!-- Inicio Header -->
 
-      <?php
+    <?php
         include '../includes/inc_header.php';
       ?>
 
     <!-- Fim Header -->
 
-  <main id="cidade-simbolos">
-    <!-- Ínicio do Artigo -->
-    <article class="container-lg">
+    <main id="cidade-simbolos">
+        <!-- Ínicio do Artigo -->
+        <article class="container-lg">
 
-      <!-- Inicio Introdução -->
-      <div class="area-cidade-introducao">
-        <div>
-          <hgroup>
-            <h1>SÍMBOLOS</h1>
-            <p>Brasão e Bandeira</p>
-          </hgroup>
-          <p>Esta página oferece um olhar detalhado sobre o brasão e a bandeira de São Roque, destacando os elementos simbólicos e históricos que representam a identidade e a herança cultural desta notável cidade paulista.</p>
-        </div>
-      </div>
-      <!-- Fim Introdução -->
+            <!-- Inicio Introdução -->
+            <div class="area-cidade-introducao">
+                <div>
+                    <hgroup>
+                        <h1 class="display-4">SÍMBOLOS</h1>
+                        <p class="h3">Brasão e Bandeira</p>
+                    </hgroup>
+                    <p>Esta página oferece um olhar detalhado sobre o brasão e a bandeira de São Roque, destacando os
+                        elementos simbólicos e históricos que representam a identidade e a herança cultural desta
+                        notável cidade paulista.</p>
+                </div>
+            </div>
+            <!-- Fim Introdução -->
 
-      <div class="titulo-sessao"></div>
+            <div class="titulo-sessao"></div>
 
-      <section class="sessao-brasao">
-        <h3 class="titulo-sessao3">BRASÃO</h3>
-        <div class="row row-cols-2">
-          <div>
-            <h3>BRASÃO</h3>
-            <P>Bem inspirado nos escudos portugueses, redondos e cortados. Ondas de prata, o castelo e as estrelas são símbolos ligados aos nomes Barros e Paes, sobrenomes dos fundadores de São Roque, Fernão Paes de Barros e Pedro Vaz de Barros. A casa e a fazenda são referentes à Fazenda Santo Antônio, o principal conjunto arquitetônico que representa a cidade.</P>
+            <section class="sessao-brasao">
+                <h3 class="titulo-sessao3">BRASÃO</h3>
+                <div class="row row-cols-2">
+                    <div>
+                        <h3>BRASÃO</h3>
+                        <P>Bem inspirado nos escudos portugueses, redondos e cortados. Ondas de prata, o castelo e as
+                            estrelas são símbolos ligados aos nomes Barros e Paes, sobrenomes dos fundadores de São
+                            Roque, Fernão Paes de Barros e Pedro Vaz de Barros. A casa e a fazenda são referentes à
+                            Fazenda Santo Antônio, o principal conjunto arquitetônico que representa a cidade.</P>
 
-<P>
-  As figuras ao lado do brasão são um bandeirante (à esquerda), representando parte do legado deste grupo para a criação de alguns monumentos, como o Sítio Santo Antônio; e um indígena (à direita) para relembrar as grandes aldeias sob domínio dos irmãos Barros.
-  Na frente, a sigla ‘MEA PAULISTA GENS’, significando MINHA GREI É A PAULISTA
-</P>
+                        <P>
+                            As figuras ao lado do brasão são um bandeirante (à esquerda), representando parte do legado
+                            deste grupo para a criação de alguns monumentos, como o Sítio Santo Antônio; e um indígena
+                            (à direita) para relembrar as grandes aldeias sob domínio dos irmãos Barros.
+                            Na frente, a sigla ‘MEA PAULISTA GENS’, significando MINHA GREI É A PAULISTA
+                        </P>
 
-            <p>
+                        <p>
 
-            </p>
-          </div>
-          <figure>
-            <picture><img src="https://placekitten.com/500/500" alt=""></picture>
-          </figure>
-        </div>
-      </section>
+                        </p>
+                    </div>
+                    <figure>
+                        <picture><img src="https://placekitten.com/500/500" alt=""></picture>
+                    </figure>
+                </div>
+            </section>
 
-      <section class="sessao-bandeira">
-        <h3 class="titulo-sessao3">BANDEIRA</h3>
-        <div class="row row-cols-2">
-          <div class="order-1">
-            <h3>BANDEIRA</h3>
-            <P>A bandeira de São Roque é marcada pelo brasão municipal ao centro, simbolizando a herança e história da cidade. As faixas vermelha, branca e preta, cruzando diagonalmente, representam a localização e o reconhecimento de São Roque no estado de São Paulo.</P>
+            <section class="sessao-bandeira">
+                <h3 class="titulo-sessao3">BANDEIRA</h3>
+                <div class="row row-cols-2">
+                    <div class="order-1">
+                        <h3>BANDEIRA</h3>
+                        <P>A bandeira de São Roque é marcada pelo brasão municipal ao centro, simbolizando a herança e
+                            história da cidade. As faixas vermelha, branca e preta, cruzando diagonalmente, representam
+                            a localização e o reconhecimento de São Roque no estado de São Paulo.</P>
 
-<P>Este design equilibrado combina tradição e modernidade, refletindo o dinamismo e a identidade única de São Roque. A bandeira, com sua estética distintiva, é um símbolo de orgulho e pertencimento para a comunidade local.</P>
-          </div>
-          <figure>
-            <picture><img src="https://placekitten.com/500/500" alt=""></picture>
-          </figure>
-        </div>
-      </section>
+                        <P>Este design equilibrado combina tradição e modernidade, refletindo o dinamismo e a identidade
+                            única de São Roque. A bandeira, com sua estética distintiva, é um símbolo de orgulho e
+                            pertencimento para a comunidade local.</P>
+                    </div>
+                    <figure>
+                        <picture><img src="https://placekitten.com/500/500" alt=""></picture>
+                    </figure>
+                </div>
+            </section>
 
-    </article>
-    <!-- Fim do Artigo -->
-  </main>
-  <!-- Inicio do Footer -->
+        </article>
+        <!-- Fim do Artigo -->
+    </main>
+    <!-- Inicio do Footer -->
 
     <?php
       include '../includes/inc_footer.php';
     ?>
 
-  </footer>
+    </footer>
 
-  <!-- Fim do Footer  -->
+    <!-- Fim do Footer  -->
 
     <?php
       include '../includes/inc_bootstrap_js.php';

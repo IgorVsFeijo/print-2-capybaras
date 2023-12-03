@@ -22,12 +22,13 @@
   <!-- Fim Header -->
 
   <main class="home-cidade">
-    <article>
-      <div>
-        <div>
+    <article class="container-lg">
+<div class="poster">
+
+<div >
           <hgroup>
-            <h1>A CIDADE</h1>
-            <p>de São Roque</p>
+            <h1 class="display-4">A CIDADE</h1>
+            <p class="h3">de São Roque</p>
           </hgroup>
         </div>
       </div>
