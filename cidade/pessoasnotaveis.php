@@ -48,7 +48,14 @@
             <section class="sessao-cards-pessoas-notaveis">
                 <h2 class="titulo-sessao vazio">Cartões Pessoas Notáveis</h2>
                 <section class="card">
-                    <figure class="card-img"><img src="https://placekitten.com/400/500" alt=""></figure>
+                    <figure class="card-img">
+                                                    <picture>
+                                    <source media="(max-width: 576px)" srcset="../imgs/cidade/pessoas_notaveis_sm2.webp">
+                                    <source media="(max-width: 768px)" srcset="../imgs/cidade/pessoas_notaveis_md2.webp">
+                                    <img src="../imgs/cidade/pessoas_darcy.webp"
+                                        alt="">
+                                </picture>
+                    </figure>
                     <div class="card-body">
                         <hgroup>
                             <h3 class="card-title">Darcy Penteado</h3>
@@ -102,10 +109,24 @@
                             </ul>
                         </aside>
                     </div>
-                    <figure class="card-img"><img src="https://placekitten.com/400/500" alt=""></figure>
+                    <figure class="card-img">
+                                                    <picture>
+                                    <source media="(max-width: 576px)" srcset="../imgs/cidade/pessoas_notaveis_sm2.webp">
+                                    <source media="(max-width: 768px)" srcset="../imgs/cidade/pessoas_notaveis_md2.webp">
+                                    <img src="../imgs/cidade/pessoas_emiko.webp"
+                                        alt="">
+                                </picture>
+                    </figure>
                 </section>
                 <section class="card">
-                    <figure class="card-img"><img src="https://placekitten.com/400/500" alt=""></figure>
+                    <figure class="card-img">
+                                                    <picture>
+                                    <source media="(max-width: 576px)" srcset="../imgs/cidade/pessoas_notaveis_sm2.webp">
+                                    <source media="(max-width: 768px)" srcset="../imgs/cidade/pessoas_notaveis_md2.webp">
+                                    <img src="../imgs/cidade/pessoas_juca.webp"
+                                        alt="">
+                                </picture>
+                    </figure>
                     <div class="card-body">
                         <hgroup>
                             <h3 class="card-title">juca de oliveira</h3>
@@ -137,21 +158,42 @@
                             <h3 class="card-title">primeira modelo fissurada a posar para Vogue</h3>
                             <p class="card-text">Jovem, natural de São Roque, se transformou em influenciadora e ativista pelas pessoas com fissura labiopalatina.</p>
                         </div>
-                        <figure class="card-img-top"><img src="https://placekitten.com/400/350" alt=""></figure>
+                        <figure class="card-img-top">
+                                                        <picture>
+                                    <source media="(max-width: 576px)" srcset="../imgs/cidade/pessoas_notaveis_sm5.webp">
+                                    <source media="(max-width: 768px)" srcset="../imgs/cidade/pessoas_notaveis_md5.webp">
+                                    <img src="../imgs/cidade/pessoas_noticia1.webp"
+                                        alt="">
+                                </picture>
+                        </figure>
                     </section>
                     <section class="card noticia-pessoa-notavel">
                         <div class="card-body order-1">
                             <h3 class="card-title">Jovem com paralisia cerebral que se inspira em Alok encontra ídolo</h3>
                             <p class="card-text">João Prestes, tem 19 anos e é de São Roque (SP). Fotos e músicas do DJ ajudaram o jovem a evoluir e se manter feliz diante das dificuldades.</p>
                         </div>
-                        <figure class="card-img-top"><img src="https://placekitten.com/400/350" alt=""></figure>
+                        <figure class="card-img-top">
+                                                        <picture>
+                                    <source media="(max-width: 576px)" srcset="../imgs/cidade/pessoas_notaveis_sm6.webp">
+                                    <source media="(max-width: 768px)" srcset="../imgs/cidade/pessoas_notaveis_md7.webp">
+                                    <img src="../imgs/cidade/pessoas_noticia2.webp"
+                                        alt="">
+                                </picture>
+                        </figure>
                     </section>
                     <section class="card noticia-pessoa-notavel">
                         <div class="card-body order-1">
                             <h3 class="card-title">Pioneiro, artista de são roque criou jornal para público LGBT durante ditadura</h3>
                             <p class="card-text">Darcy Penteado nasceu em 1926 na cidade de São Roque (SP) e foi atuante na luta pelos direitos da comunidade gay.</p>
                         </div>
-                        <figure class="card-img-top"><img src="https://placekitten.com/400/350" alt=""></figure>
+                        <figure class="card-img-top">
+                                                        <picture>
+                                    <source media="(max-width: 576px)" srcset="../imgs/cidade/pessoas_notaveis_sm7.webp">
+                                    <source media="(max-width: 768px)" srcset="../imgs/cidade/pessoas_notaveis_md6.webp">
+                                    <img src="../imgs/cidade/pessoas_noticia3.webp"
+                                        alt="">
+                                </picture>
+                        </figure>
                     </section>
                 </div>
                 <a href="" class="btn btn-secondary btn-veja-mais">VEJA MAIS</a>
