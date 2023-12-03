@@ -29,7 +29,8 @@
 
                 <div>
                     <hgroup>
-                        <h1 class="display-4">HINO DE SÃO ROQUE</h1>
+                        <h1 class="display-1
+">HINO DE SÃO ROQUE</h1>
                         <p class="h3">Canto de Exaltação à São Roque</p>
                     </hgroup>
                 </div>

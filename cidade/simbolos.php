@@ -29,7 +29,8 @@
             <div class="area-cidade-introducao poster">
                 <div>
                     <hgroup>
-                        <h1 class="display-4">SÍMBOLOS</h1>
+                        <h1 class="display-1
+">SÍMBOLOS</h1>
                         <p class="h3">Brasão e Bandeira</p>
                     </hgroup>
                     <p>Esta página oferece um olhar detalhado sobre o brasão e a bandeira de São Roque, destacando os

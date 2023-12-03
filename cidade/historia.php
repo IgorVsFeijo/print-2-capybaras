@@ -28,7 +28,8 @@
             <div class="poster">
                 <div>
                     <hgroup>
-                        <h1 class="display-4">A HISTÓRIA</h1>
+                        <h1 class="display-1
+">A HISTÓRIA</h1>
                         <p class="h3">de São Roque</p>
                     </hgroup>
                     <!-- Introdução do Artigo -->

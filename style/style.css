@@ -1324,6 +1324,24 @@ select {
     padding-bottom: 0px;
   }
 
+  .paginas-area-cidade > main > article > div:first-child {
+    text-align: center;
+    align-items: center;
+    padding-right: 80px;
+    padding-left: 80px;
+}
+
+.paginas-area-cidade > main > article > div:first-child div > p{
+    text-align: left;
+    
+}
+
+.paginas-area-cidade > main > article > div:first-child h1,
+.paginas-area-cidade > main > article > div:first-child hgroup p
+{
+    text-align: center;
+}
+
   .paginas-area-cidade .home-cidade .poster,
   .paginas-area-cidade #dados-gerais .poster {
     background-image: url(../imgs/cidade/dados_gerais_md1.webp);
