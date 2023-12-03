@@ -64,12 +64,11 @@
                         </p>
                     </div>
                     <figure>
-                                                    <picture>
-                                    <source media="(max-width: 576px)" srcset="../imgs/cidade/simbolos_sm2.webp">
-                                    <source media="(max-width: 768px)" srcset="../imgs/cidade/simbolos_md2.webp">
-                                    <img src="../imgs/cidade/simbolos_brasao.webp"
-                                        alt="">
-                                </picture>
+                        <picture>
+                            <source media="(max-width: 576px)" srcset="../imgs/cidade/simbolos_sm2.webp">
+                            <source media="(max-width: 768px)" srcset="../imgs/cidade/simbolos_md2.webp">
+                            <img src="../imgs/cidade/simbolos_brasao.webp" alt="">
+                        </picture>
                     </figure>
                 </div>
             </section>
@@ -88,12 +87,11 @@
                             pertencimento para a comunidade local.</P>
                     </div>
                     <figure>
-                                                    <picture>
-                                    <source media="(max-width: 576px)" srcset="../imgs/cidade/simbolos_sm3.webp">
-                                    <source media="(max-width: 768px)" srcset="../imgs/cidade/simbolos_md3.webp">
-                                    <img src="../imgs/cidade/simbolos_bandeira.webp"
-                                        alt="">
-                                </picture>
+                        <picture>
+                            <source media="(max-width: 576px)" srcset="../imgs/cidade/simbolos_sm3.webp">
+                            <source media="(max-width: 768px)" srcset="../imgs/cidade/simbolos_md3.webp">
+                            <img src="../imgs/cidade/simbolos_bandeira.webp" alt="">
+                        </picture>
                     </figure>
                 </div>
             </section>
