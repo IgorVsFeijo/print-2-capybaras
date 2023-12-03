@@ -6,7 +6,7 @@ $rootPath = substr($rootPath, $posHtdocs+7, strlen($rootPath));
 
 ?>
 
-<header class="p-0">
+<header class="p-0" id="topoHeader">
 
 <!-- Barra de Acessilibidade -->
 
@@ -245,3 +245,9 @@ $rootPath = substr($rootPath, $posHtdocs+7, strlen($rootPath));
   </nav>
 </div>
 </header>
+
+<button class="btn btn-outline-dark rolarParaTopo">
+  <a class="text-decoration-none text-dark" href="#top">
+  ↑
+  </a>
+</button>

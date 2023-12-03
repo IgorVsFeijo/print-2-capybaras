@@ -103,6 +103,12 @@ header nav .btn {
     align-items: center;
 }
 
+.rolarParaTopo{
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+}
+
 
 /* Atualização Header*/
 
