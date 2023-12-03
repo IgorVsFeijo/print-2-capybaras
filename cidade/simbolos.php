@@ -26,7 +26,7 @@
         <article class="container-lg">
 
             <!-- Inicio Introdução -->
-            <div class="area-cidade-introducao">
+            <div class="area-cidade-introducao poster">
                 <div>
                     <hgroup>
                         <h1 class="display-4">SÍMBOLOS</h1>
@@ -39,7 +39,7 @@
             </div>
             <!-- Fim Introdução -->
 
-            <div class="titulo-sessao"></div>
+            <div class="titulo-sessao h3 vazio">Brasão e Bandeira</div>
 
             <section class="sessao-brasao">
                 <h3 class="titulo-sessao3">BRASÃO</h3>
