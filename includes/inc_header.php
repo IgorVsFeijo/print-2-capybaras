@@ -10,27 +10,7 @@ $rootPath = substr($rootPath, $posHtdocs+7, strlen($rootPath));
 
 <!-- Barra de Acessilibidade -->
 
-<div class="text-center w-100 barra-acess fixed-top" id="barra-acessibilidade">
-  <div class="btn-group acess row justify-content-center p-1">
-    <button type="button" class="btn btn-acessibilidade col-1">
-      <img src="https://placehold.jp/ffffff/ffffff/37x26.png?text=%0A" alt="place kitten maneiro" />
-    </button>
-    <button type="button" class="btn btn-acessibilidade col-1">
-      <img src="https://placehold.jp/ffffff/ffffff/37x26.png?text=%0A" alt="place kitten maneiro" />
-    </button>
-    <button type="button" class="btn btn-acessibilidade col-1">
-      <img src="https://placehold.jp/ffffff/ffffff/37x26.png?text=%0A" alt="place kitten maneiro" />
-    </button>
-    <button type="button" class="btn btn-acessibilidade col-1">
-      <img src="https://placehold.jp/ffffff/ffffff/37x26.png?text=%0A" alt="place kitten maneiro" />
-    </button>
-    <button type="button" class="btn btn-acessibilidade col-1">
-      <img src="https://placehold.jp/ffffff/ffffff/37x26.png?text=%0A" alt="place kitten maneiro" />
-    </button>
-    <button type="button" class="btn btn-acessibilidade col-1">
-      <img src="https://placehold.jp/ffffff/ffffff/37x26.png?text=%0A" alt="place kitten maneiro" />
-    </button>
-  </div>
+<div class="text-center w-100 barra-azulzinha fixed-top">
 </div>
 
 <!-- Essa div serve apenas para preencher o espaço referente a barra de acessibilidade, que está com position absolute -->

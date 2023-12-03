@@ -26,15 +26,13 @@
 
       <!-- Inicio Introdução -->
       <div class="area-cidade-introducao">
-        <hgroup>
-          <h1>SÍMBOLOS</h1>
-          <p>Brasão e Bandeira</p>
-        </hgroup>
-        <p>São Roque, cidade de rica história e tradições profundas, possui em seu brasão e bandeira um testemunho
-          visual desta trajetória singular. Estes símbolos, mais do que simples representações, são a materialização de
-          séculos de lutas, conquistas, misturas culturais e amores por esta terra. Ao observarmos o brasão e a
-          bandeira, somos convidados a uma viagem no tempo, onde cada elemento narrativo nos conta uma parte da vasta e
-          fascinante história de São Roque.</p>
+        <div>
+          <hgroup>
+            <h1>SÍMBOLOS</h1>
+            <p>Brasão e Bandeira</p>
+          </hgroup>
+          <p>Esta página oferece um olhar detalhado sobre o brasão e a bandeira de São Roque, destacando os elementos simbólicos e históricos que representam a identidade e a herança cultural desta notável cidade paulista.</p>
+        </div>
       </div>
       <!-- Fim Introdução -->
 
@@ -45,25 +43,13 @@
         <div class="row row-cols-2">
           <div>
             <h3>BRASÃO</h3>
-            <p>O brasão de São Roque não é apenas um símbolo; é uma narrativa visual que mergulha profundamente na rica
-              tapeçaria da nossa história. Cada detalhe foi pensado para homenagear aqueles que moldaram a cidade e para
-              refletir nossos valores e tradições.</p>
-            <p>Começando pelo destaque aos fundadores, Pedro Vaz de Barros e Fernão Paes de Barros, elementos como as
-              ondas e o castelo retratam a influência destes sobrenomes e a firmeza de suas fundações. Esses desenhos
-              nos levam a uma viagem ao passado, recordando os primeiros passos da nossa cidade.</p>
-            <p>As estrelas, brilhando com dignidade, e outros símbolos circundantes, como desenhos ao redor, fazem
-              alusão aos sobrenomes Barros e Paes, ligando o presente ao passado e honrando as gerações que vieram antes
-              de nós.
+            <P>Bem inspirado nos escudos portugueses, redondos e cortados. Ondas de prata, o castelo e as estrelas são símbolos ligados aos nomes Barros e Paes, sobrenomes dos fundadores de São Roque, Fernão Paes de Barros e Pedro Vaz de Barros. A casa e a fazenda são referentes à Fazenda Santo Antônio, o principal conjunto arquitetônico que representa a cidade.</P>
 
-              Dominando o centro do brasão, a serena imagem de São Roque age como um farol de fé, iluminando o caminho
-              da cidade e de seus habitantes. A Fazenda Santo Antônio, esculpida abaixo, é um testemunho da rica herança
-              arquitetônica da cidade, lembrando-nos das raízes profundas que ancoram São Roque na história brasileira.
+<P>
+  As figuras ao lado do brasão são um bandeirante (à esquerda), representando parte do legado deste grupo para a criação de alguns monumentos, como o Sítio Santo Antônio; e um indígena (à direita) para relembrar as grandes aldeias sob domínio dos irmãos Barros.
+  Na frente, a sigla ‘MEA PAULISTA GENS’, significando MINHA GREI É A PAULISTA
+</P>
 
-              E o que seria de São Roque sem o rio Carambeí? Retratado no brasão, ele simboliza a vida e o movimento, a fonte de muitas atividades que mantêm a cidade pulsante.
-            </p>
-            <p>
-              Finalizando este esplêndido símbolo, um homem, em sua vestimenta tradicional, e um índio representam a mistura das culturas, a colaboração e a coexistência que deram forma a São Roque. Os ramos de oliveira e os cipós que os cercam falam da vitalidade da terra e da paixão agrícola que alimenta a cidade.
-            </p>
             <p>
 
             </p>
@@ -79,16 +65,9 @@
         <div class="row row-cols-2">
           <div class="order-1">
             <h3>BANDEIRA</h3>
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta, ea? Aut, ut ab repellat ducimus
-              laudantium accusamus atque veniam, quia repellendus blanditiis minima ipsam nulla deserunt totam
-              cupiditate, qui asperiores!Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempora animi,
-              distinctio similique corrupti necessitatibus ratione minima eligendi repudiandae consequuntur provident
-              sint, autem hic suscipit nemo debitis deleniti aspernatur. Temporibus, veniam.</p>
-            <p>Atque, sunt dignissimos ipsum dolores aliquid veniam debitis earum repudiandae tenetur temporibus. Iste
-              perspiciatis eligendi obcaecati aliquid qui quaerat vitae error optio maxime. Libero illum ab ipsam.
-              Blanditiis, beatae numquam?Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempora animi,
-              distinctio similique corrupti necessitatibus ratione minima eligendi repudiandae consequuntur provident
-              sint, autem hic suscipit nemo debitis deleniti aspernatur. Temporibus, veniam.</p>
+            <P>A bandeira de São Roque é marcada pelo brasão municipal ao centro, simbolizando a herança e história da cidade. As faixas vermelha, branca e preta, cruzando diagonalmente, representam a localização e o reconhecimento de São Roque no estado de São Paulo.</P>
+
+<P>Este design equilibrado combina tradição e modernidade, refletindo o dinamismo e a identidade única de São Roque. A bandeira, com sua estética distintiva, é um símbolo de orgulho e pertencimento para a comunidade local.</P>
           </div>
           <figure>
             <picture><img src="https://placekitten.com/500/500" alt=""></picture>

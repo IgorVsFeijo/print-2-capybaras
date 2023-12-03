@@ -24,10 +24,14 @@
     <!-- Inicio do Artigo -->
     <article class="container-lg">
 
-      <hgroup>
-        <h1>HINO DE SÃO ROQUE</h1>
-        <p>Canto de Exaltação à São Roque</p>
-      </hgroup>
+      <div>
+        <div>
+          <hgroup>
+            <h1>HINO DE SÃO ROQUE</h1>
+            <p>Canto de Exaltação à São Roque</p>
+          </hgroup>
+        </div>
+      </div>
 
       <div class="titulo-sessao3"></div>
 

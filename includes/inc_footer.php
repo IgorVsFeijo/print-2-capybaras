@@ -25,26 +25,5 @@
           </div>
         </div>
       </div>
-      <div class="text-center w-100 barra-acess" id="barra-acessibilidade2">
-  <div class="btn-group acess row justify-content-center p-1">
-    <button type="button" class="btn btn-acessibilidade col-1">
-      <img src="https://placehold.jp/ffffff/ffffff/37x26.png?text=%0A" alt="place kitten maneiro" />
-    </button>
-    <button type="button" class="btn btn-acessibilidade col-1">
-      <img src="https://placehold.jp/ffffff/ffffff/37x26.png?text=%0A" alt="place kitten maneiro" />
-    </button>
-    <button type="button" class="btn btn-acessibilidade col-1">
-      <img src="https://placehold.jp/ffffff/ffffff/37x26.png?text=%0A" alt="place kitten maneiro" />
-    </button>
-    <button type="button" class="btn btn-acessibilidade col-1">
-      <img src="https://placehold.jp/ffffff/ffffff/37x26.png?text=%0A" alt="place kitten maneiro" />
-    </button>
-    <button type="button" class="btn btn-acessibilidade col-1">
-      <img src="https://placehold.jp/ffffff/ffffff/37x26.png?text=%0A" alt="place kitten maneiro" />
-    </button>
-    <button type="button" class="btn btn-acessibilidade col-1">
-      <img src="https://placehold.jp/ffffff/ffffff/37x26.png?text=%0A" alt="place kitten maneiro" />
-    </button>
-  </div>
 </div>
 </footer>

@@ -84,42 +84,18 @@ img {
     max-width: 100%;
 }
 
-.acess {
-    width: 380px;
-    margin: auto;
-    background-color: #00a6a6;
-    padding: 0.2em;
-}
-
 header,
 header>div {
     max-width: 100%;
 }
-
-#barra-acessibilidade img, #barra-acessibilidade2 img {
-    margin: 0;
-
-}
-
-
-#barra-acessibilidade2 .acess{
-    position: relative;
-    bottom: 3px;
-}
-
 header nav .btn {
     padding: 0;
     background-color: #3552B9;
     color: white;
 }
 
-.btn-acessibilidade {
-    padding: 0;
-    background-color: #00a6a6;
-    height: fit-content;
-}
 
-.barra-acess {
+.barra-azulzinha {
     background-color: #1d2f6f;
     color: white;
     height: 35px;
@@ -127,9 +103,6 @@ header nav .btn {
     align-items: center;
 }
 
-.barra-acess img{
-    border-radius: 5px;
-}
 
 /* Atualização Header*/
 
@@ -332,13 +305,23 @@ picture.img-home-princ{
 
 .paginas-area-cidade  > main > article > div:first-child{
     width: 100vw;
-    height: calc(100vh - 284px);
+    max-width: none;
+    min-height: calc(100vh - 284px);
     display: flex;
     flex-direction: column;
-    justify-content: flex-end;
     align-items: flex-end;
-    padding: 300px 200px 100px;
-}      
+    padding: 120px 100px 0px;
+    position: relative;
+    right: calc(50vw - 50%);
+}
+
+.paginas-area-cidade  > main > article > div:first-child div{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: right;
+}
 
 .paginas-area-cidade  > main > article > div:first-child h1{
     font-size: 4em;
@@ -349,8 +332,7 @@ picture.img-home-princ{
     font-size: 2em;
 }
 
-.paginas-area-cidade  > main > article > div:first-child p{
-    text-align: right;
+.paginas-area-cidade  > main > article > div:first-child div > p{
     max-width: 400px;
 }
 
@@ -358,10 +340,15 @@ picture.img-home-princ{
     background-color: #1d2f6f;
     color: white;
     position: relative;
+    max-width: none;
     width: 100vw;
     left: calc(50% - 50vw);
-    padding: 8px 150px;
+    padding: 8px calc(50vw - 50%);
     text-transform: uppercase;
+}
+
+.titulo-sessao.vazio{
+    color: #1d2f6f;
 }
 
 /* Dados Gerais Cidade */
@@ -405,8 +392,9 @@ main#dados-gerais li {
 /* Footer */
 
 footer{
-    background-color: rgb(248, 249, 250);
+    background-color: #10246b;
     text-align: center;
+    color: white;
 }
 
 footer .container-lg{
@@ -1242,7 +1230,7 @@ select{
         box-shadow: 1px 4px 15px rgba(0, 0, 0, 0.25);
     }
 
-    .barra-acess{
+    .barra-azulzinha{
         height: auto;
     }
 
@@ -1283,10 +1271,6 @@ select{
 
     .nav-item.btn > a{
         text-transform: capitalize;
-    }
-
-    .row.acess{
-        transform: scale(0.8);
     }
 
     footer{

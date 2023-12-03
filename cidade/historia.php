@@ -11,103 +11,143 @@
       ?>
 
 </head>
+
 <body class="paginas-area-cidade">
     <!-- Inicio Header -->
 
-      <?php
+    <?php
         include '../includes/inc_header.php';
       ?>
 
     <!-- Fim Header -->
 
     <main class="cidade-historia">
-      <article>
+        <article>
 
-        <!-- Título do Artigo -->
-        <div>
-          <hgroup>
-            <h1>A HISTÓRIA</h1>
-            <p>de São Roque</p>
-          </hgroup>
-          <!-- Introdução do Artigo -->
-          <p>Descubra São Roque, um destino encantador no estado de São Paulo, Brasil, repleto de histórias e tradições vinícolas. Esta cidade, abraçada pela influência de seus fundadores e pela rica herança dos imigrantes, se destaca como um centro cultural vibrante. Suas famosas vinícolas e adegas não são apenas celebrações do vinho, mas também encontros de tradições. A arquitetura da cidade, entre paisagens naturais deslumbrantes e relíquias históricas, oferece uma experiência única de exploração e tranquilidade.</p>
-        </div>
+            <!-- Título do Artigo -->
+            <div>
+                <div>
+                    <hgroup>
+                        <h1>A HISTÓRIA</h1>
+                        <p>de São Roque</p>
+                    </hgroup>
+                    <!-- Introdução do Artigo -->
+                    <p>Descubra São Roque, um destino encantador no estado de São Paulo, Brasil, repleto de histórias e
+                        tradições vinícolas. Esta cidade, abraçada pela influência de seus fundadores e pela rica
+                        herança dos imigrantes, se destaca como um centro cultural vibrante. Suas famosas vinícolas e
+                        adegas não são apenas celebrações do vinho, mas também encontros de tradições. A arquitetura da
+                        cidade, entre paisagens naturais deslumbrantes e relíquias históricas, oferece uma experiência
+                        única de exploração e tranquilidade.</p>
+                </div>
+            </div>
 
-        <!-- Inicio Sessão Origens e Fundação -->
+            <!-- Inicio Sessão Origens e Fundação -->
 
-        <div class="container-lg">
-          <section class="origens">
-            <h2 class="titulo-sessao">Origens e Fundação</h2>
-            <div class="row row-cols-2">
-              <picture><img src="https://placekitten.com/400/450" alt=""></picture>
-              <div>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut hic obcaecati quaerat consectetur quibusdam mollitia dignissimos repudiandae doloremque dolorem aliquam, cum fugiat, beatae saepe reprehenderit debitis ea commodi eaque deserunt.</p>
-                <p>Fugit nemo itaque enim qui ratione magnam veniam tempore soluta? Aut laborum at fuga ratione labore quasi, hic praesentium cumque cum veniam cupiditate consequuntur vero, error aliquid itaque omnis magni.</p>
-                <p>Aspernatur, cupiditate magni sed autem nulla officia exercitationem rerum natus ut ipsum iste eos, libero officiis ipsa, veniam eaque corrupti laudantium ratione excepturi possimus fugiat voluptatum repellendus reprehenderit accusamus. Reprehenderit.</p>
-              </div>
+            <div class="container-lg">
+                <section class="origens">
+                    <h2 class="titulo-sessao">Origens e Fundação</h2>
+                    <div class="row row-cols-2">
+                        <picture><img src="https://placekitten.com/400/450" alt=""></picture>
+                        <div>
+                            <p>São Roque, uma cidade histórica no estado de São Paulo, Brasil, foi fundada em 16 de
+                                agosto de 1657 por Pedro Vaz de Barros, conhecido como Vaz Guaçu. Ele nomeou a cidade em
+                                homenagem ao santo São Roque. Inicialmente, a cidade prosperou com fazendas de trigo e
+                                vinho, usando mão-de-obra indígena. Capelas foram construídas por Vaz Guaçu e seu irmão
+                                Fernão Paes de Barros, atendendo as expedições em busca de ouro e esmeraldas.</p>
+
+                            <p>O crescimento da lavoura e economia de São Roque foi marcado por um período sombrio da
+                                história, com a introdução de escravos africanos, refletindo uma realidade difícil e
+                                injusta da época. São Roque evoluiu de uma freguesia em 1768 para uma vila em 1832,
+                                tornando-se cidade em 1864, período que incluiu o desenvolvimento de infraestrutura como
+                                a Estrada de Ferro Sorocabana e a Santa Casa de Misericórdia.</p>
+
+                            <p>A chegada dos imigrantes italianos e portugueses no século XIX teve um impacto
+                                significativo, especialmente na revitalização da vitivinicultura. Com o apoio do governo
+                                em 1936, a cidade se estabeleceu como a 'Terra do Vinho'. Hoje, São Roque é uma Estância
+                                Turística, destacando-se por sua história, cultura, natureza exuberante e economia
+                                diversificada, incluindo o maior parque de esqui artificial da América Latina.</p>
+                        </div>
+                    </div>
+                </section>
+                <!-- Fim da Sessão Origens e Fundação -->
+
+                <!-- Inicio da Sessão Riqueza Agricola -->
+                <section class="riqueza-agricola">
+                    <h2 class="titulo-sessao">Riqueza Agrícola</h2>
+                    <div class="card">
+                        <picture class="card-img-top"><img src="https://placekitten.com/900/500" alt=""></picture>
+                        <p class="card-body">A riqueza agrícola de São Roque é marcada pelo cultivo de uvas e produção
+                            de vinhos, beneficiada pelo clima e solos férteis. A região é reconhecida por suas vinícolas
+                            de alta qualidade. Além da viticultura, São Roque cultivou milho, cana e café,
+                            diversificando sua economia agrícola. Essa herança agrícola moldou a cultura e o turismo da
+                            cidade.</p>
+                    </div>
+                </section>
+                <!-- Fim de Sessao Riqueza Agricola -->
+                <!-- Inicio da sessão Cultura e Patrimonio -->
+                <section class="cultura-e-patrimonio">
+                    <h2 class="titulo-sessao">Cultura e Patrimônio</h2>
+                    <div class="row row-cols-2">
+                        <p class="col-12">A cultura de São Roque é um mosaico vibrante, fortemente influenciado pelos
+                            imigrantes portugueses e italianos. As tradições locais, celebradas em festas como a Festa
+                            do Vinho, destacam a rica herança enológica da cidade. A arquitetura colonial é um
+                            testemunho do passado histórico de São Roque, com igrejas e construções preservadas que
+                            contam a história da cidade desde os tempos coloniais.</p>
+                        <div>
+                            <p>Além da arquitetura, São Roque é famosa por suas vinícolas, que são mais do que apenas
+                                centros de produção de vinho; elas representam a identidade cultural e a história da
+                                região. Festivais culturais e exposições de arte são eventos regulares, refletindo a
+                                diversidade e a riqueza cultural da cidade, atraindo visitantes de todas as partes.</p>
+
+                            <p>O patrimônio de São Roque é celebrado não só pelos seus moradores, mas também é um
+                                atrativo para turistas. Eventos comunitários e celebrações mantêm vivas as tradições,
+                                fortalecendo o senso de comunidade e identidade local. São Roque, com sua combinação
+                                única de história, cultura e beleza natural, é um lugar onde o passado e o presente se
+                                encontram de maneira harmoniosa.</p>
+
+                        </div>
+                        <picture><img src="https://placekitten.com/" alt=""></picture>
+                    </div>
+                    <section class="historia-pts-turisticos">
+                        <h3 class="titulo-sessao2">CONHEÇA NOSSOS TESOUROS</h3>
+                        <div class="row row-cols-sm-3">
+                            <figure>
+                                <img src="https://placekitten.com/200/300" alt="">
+                                <figcaption>morro do saboó</figcaption>
+                            </figure>
+                            <figure>
+                                <img src="https://placekitten.com/200/300" alt="">
+                                <figcaption>quilombo do carmo</figcaption>
+                            </figure>
+                            <figure>
+                                <img src="https://placekitten.com/200/300" alt="">
+                                <figcaption>brasital</figcaption>
+                            </figure>
+                            <a href="" class="btn btn-primary btn-veja-mais">VEJA MAIS</a>
+                        </div>
+                    </section>
+                </section>
+                <!-- Fim da sessão cultura e Patrimonio -->
+                <section class="saoroque-atual">
+                    <h2 class="titulo-sessao">SÃO ROQUE ATUAL</h2>
+                    <div class="row row-cols-sm-2">
+                        <picture class="cols-sm-7"><img src="https://placekitten.com/300/200" alt=""></picture>
+                        <div>
+                        <p>São Roque, em sua fase atual, é notável por sua forte indústria de vinicultura, atraindo turistas para as suas renomadas vinícolas. A economia da cidade se diversificou, com um foco particular no setor de serviços e hospitalidade, refletindo a crescente indústria turística.</p>
+
+<p>A cidade realiza um equilíbrio cuidadoso entre a preservação de seu rico patrimônio histórico e a adoção de modernizações. Isso se reflete em seus investimentos contínuos em infraestrutura e espaços públicos, visando melhorar a qualidade de vida dos residentes e enriquecer a experiência turística.</p>
+                        </div>
+                    </div>
+                    <div class="row row-cols-sm-2">
+                        <div class="flex-grow-1">
+                            <p>São Roque é palco de diversos eventos culturais e festivais que celebram e mantêm vivas suas tradições locais. A cidade não é apenas um destino turístico por sua beleza natural e tranquilidade, mas também um lar para os moradores que valorizam a forte sensação de comunidade e o legado cultural.</p>
+                            <a href="" class="btn btn-saiba-mais">CONHEÇA NOSSOS PONTOS TURISTICOS</a>
+                        </div>
+                        <picture class="w-auto"><img src="https://placekitten.com/150/150" alt=""></picture>
+                    </div>
+                </section>
             </div>
-          </section>
-          <!-- Fim da Sessão Origens e Fundação -->
-          
-          <!-- Inicio da Sessão Riqueza Agricola -->
-          <section class="riqueza-agricola">
-            <h2 class="titulo-sessao">Riqueza Agrícola</h2>
-            <div class="card">
-              <picture class="card-img-top"><img src="https://placekitten.com/900/500" alt=""></picture>
-              <p class="card-body">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit placeat tempora itaque assumenda inventore, suscipit fugit cupiditate iusto nesciunt, corporis culpa blanditiis aperiam expedita, eveniet dolor voluptatum repellendus laudantium. Porro.</p>
-            </div>
-          </section>
-          <!-- Fim de Sessao Riqueza Agricola -->
-          <!-- Inicio da sessão Cultura e Patrimonio -->
-          <section class="cultura-e-patrimonio">
-              <h2 class="titulo-sessao">Cultura e Patrimônio</h2>
-              <div class="row row-cols-2">
-              <p class="col-12">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorum qui obcaecati assumenda facilis temporibus in perspiciatis vero aperiam, ipsam architecto accusantium nobis, neque voluptas nemo libero? Esse ex cupiditate consequatur.</p>
-              <div>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum id, enim at ad nobis in voluptatem! Ipsa, blanditiis. Amet expedita ad quidem facere quibusdam asperiores possimus dolorum ex atque debitis.</p>
-                <p>Vero delectus, vel quaerat deleniti culpa deserunt dolore. Quibusdam possimus aliquid odit! Enim, cupiditate beatae consequatur molestias odio culpa quibusdam aliquid non ab repudiandae deserunt earum, aspernatur numquam. Corporis, quis.</p>
-              </div>
-              <picture><img src="https://placekitten.com/" alt=""></picture>
-            </div>
-            <section class="historia-pts-turisticos">
-              <h3 class="titulo-sessao2">CONHEÇA NOSSOS TESOUROS</h3>
-              <div class="row row-cols-sm-3">
-                <figure>
-                  <img src="https://placekitten.com/200/300" alt="">
-                  <figcaption>Ponto 1</figcaption>
-                </figure>
-                <figure>
-                  <img src="https://placekitten.com/200/300" alt="">
-                  <figcaption>Ponto 2</figcaption>
-                </figure>
-                <figure>
-                  <img src="https://placekitten.com/200/300" alt="">
-                  <figcaption>Ponto 3</figcaption>
-                </figure>
-                <a href="" class="btn btn-primary btn-veja-mais">VEJA MAIS</a>
-              </div>
-            </section>
-          </section>
-          <!-- Fim da sessão cultura e Patrimonio -->
-          <section class="saoroque-atual">
-            <h2 class="titulo-sessao">SÃO ROQUE ATUAL</h2>
-            <div class="row row-cols-sm-2">
-              <picture class="cols-sm-7"><img src="https://placekitten.com/300/200" alt=""></picture>
-              <div>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam temporibus est illum mollitia repellat earum iusto corrupti incidunt sint nesciunt, debitis similique non optio recusandae ea dolor quibusdam ratione facere?</p>
-                <p>Maiores atque culpa quibusdam inventore esse. Recusandae laborum officia repellendus necessitatibus odit fuga in ab porro obcaecati laboriosam magnam, at tempore nulla maiores architecto non esse nobis distinctio unde quas!</p>
-              </div>
-            </div>
-            <div class="row row-cols-sm-2">
-              <div class="flex-grow-1">
-                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eaque cum deserunt provident eligendi rem atque illum omnis laudantium! Quae delectus pariatur unde quidem vel architecto dolorem atque incidunt, aut eaque.</p>
-                <a href="" class="btn btn-saiba-mais">CONHEÇA NOSSOS PONTOS TURISTICOS</a>
-              </div>
-              <picture class="w-auto"><img src="https://placekitten.com/150/150" alt=""></picture>
-            </div>
-          </section>
-        </div>
-      </article>
+        </article>
     </main>
     <!-- Inicio do Footer -->
 
@@ -122,4 +162,5 @@
     ?>
 
 </body>
+
 </html>

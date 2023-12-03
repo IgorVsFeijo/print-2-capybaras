@@ -25,14 +25,18 @@
 
       <!-- Título do Artigo -->
 
-      <hgroup>
-        <h1>DADOS GERAIS</h1>
-        <p>Informações Úteis</p>
-      </hgroup>
+      <div>
+        <div>
+          <hgroup>
+            <h1>DADOS GERAIS</h1>
+            <p>Informações Úteis</p>
+          </hgroup>
+        </div>
+      </div>
 
       <!-- Inicio da sessão de informações em formato Dashboard -->
       <section class="dashboard-dadosgerais row row-cols-md-2">
-        <h2 class="d-none">Sessão de Informações</h2>
+        <h2 class="titulo-sessao vazio">Sessão de Informações</h2>
         <!-- Informações Gerais -->
         <section class="dashboard-informacoes-gerais col-md-4">
           <h3>Informações Gerais</h3>

@@ -138,7 +138,7 @@
         </div>
       </div>
     </div>
-    <div class="text-center p-2 w-100 barra-acess" id="barra-acessibilidade2">
+    <div class="text-center p-2 w-100 barra-azulzinha" id="barra-azulzinhaibilidade2">
       <div class="btn-group acess row justify-content-center">
         <button type="button" class="btn btn-acessibilidade col-1">
           <img src="https://placekitten.com/30/30" alt="place kitten maneiro" />
