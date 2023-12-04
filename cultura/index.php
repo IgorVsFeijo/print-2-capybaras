@@ -22,10 +22,10 @@
 
     <!-- Fim Header -->
     <div class="container">
-    <div class="row text-start">
-            <b><a href="../cultura/index.php">Home</a></b>
-        </div>
-        <main id="cultura">
+        <main id="cultura" class="pages_cultura">
+            <div class="row text-start">
+                <b><a href="../cultura/index.php">Home</a></b>
+            </div>
             <figure class="text-center">
                 <img class="img-fluid" src="../imgs/cultura/saoroque.jpg" alt="imagem aérea de São Roque, mostrando a maior parte do centro da cidade">
             </figure>

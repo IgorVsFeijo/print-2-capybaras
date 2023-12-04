@@ -21,10 +21,11 @@
 
     <!-- Fim Header -->
       <div class="container">
-      <div class="row text-start">
+      
+        <main id="tradicoes" class="pages_cultura">
+          <div class="row text-start">
             <b><a href="../cultura/index.php">Home</a> <i class="bi bi-arrow-right"></i> <a href="../cultura/tradicoes.php">Tradições</a></b>
-        </div>
-        <main id="tradicoes">
+          </div>
             <figure class="text-center">
                 <img src="../imgs/cultura/festaagostoilustracao.jpg" alt="Visão Aérea da Festa de Agosto durante a noite, no último dia da festa">
             </figure>

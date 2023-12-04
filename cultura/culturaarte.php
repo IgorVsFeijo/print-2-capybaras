@@ -21,10 +21,11 @@
 
     <!-- Fim Header -->
     <div class="container">
-    <div class="row text-start">
+    
+        <main id="culturasr" class="pages_cultura">
+          <div class="row text-start">
             <b><a href="../cultura/index.php">Home</a> <i class="bi bi-arrow-right"></i> <a href="../cultura/culturaarte.php">Cultura e Arte</a></b>
-        </div>
-        <main id="culturasr">
+          </div>
             <article>
                 <div class="col-12">
                     <h2>PONTOS CULTURAIS</h2>
