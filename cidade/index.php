@@ -27,8 +27,7 @@
 
                 <div>
                     <hgroup>
-                        <h1 class="display-2
-">A CIDADE</h1>
+                        <h1 class="display-2">A CIDADE</h1>
                         <p class="h3">de São Roque</p>
                     </hgroup>
                 </div>
@@ -57,10 +56,10 @@
                 </section>
                 <section id="hc-sessao-pessoas">
                     <h2 class="titulo-sessao">PESSOAS NOTÁVEIS</h2>
-                    <section class="hc-cards-pessoas row row-cols-md-3">
+                    <section class="hc-cards-pessoas">
                         <h3 class="d-none">Cartões Pessoas Notáveis</h3>
                         <section class="hc-card-pessoa">
-                            <h2>Darcy Penteado</h2>
+                            <h2 class="titulo-verde-agua">Darcy Penteado</h2>
                             <figure>
                                 <picture>
                                     <source media="(max-width: 576px)" srcset="../imgs/cidade/home_darcy_sm.webp">
@@ -68,11 +67,11 @@
                                     <img src="../imgs/cidade/home_darcy.webp"
                                         alt="Imagem em preto e branco de Darcy Penteado, homem branco, de cabelos lisos penteados, de roupas sociais e um bigode, sorrindo para foto.">
                                 </picture>
-                                <figcaption>Artista Multifacetado</figcaption>
+                                <figcaption class="titulo-retangulo-cinza">Artista Multifacetado</figcaption>
                             </figure>
                         </section>
                         <section class="hc-card-pessoa">
-                            <h2>Emiko Takatatsu</h2>
+                            <h2 class="titulo-verde-agua">Emiko Takatatsu</h2>
                             <figure>
                                 <picture>
                                     <source media="(max-width: 576px)" srcset="../imgs/cidade/home_emiko_sm.webp">
@@ -80,19 +79,18 @@
                                     <img src="../imgs/cidade/home_emiko.webp"
                                         alt="Foto de Emiko Takatatsu, segurando um prêmio, mulher, aparenta ter por volta de 40 anos, cabelos lisos, pele bronzeada e traços asiáticos">
                                 </picture>
-                                <figcaption>Mestra do Tênis de Mesa</figcaption>
+                                <figcaption class="titulo-retangulo-cinza">Mestra do Tênis de Mesa</figcaption>
                             </figure>
                         </section>
                         <section class="hc-card-pessoa">
-                            <h2>Juca de Oliveira</h2>
+                            <h2 class="titulo-verde-agua">Juca de Oliveira</h2>
                             <figure>
                                 <picture>
                                     <source media="(max-width: 576px)" srcset="../imgs/cidade/home_juca_sm.webp">
                                     <source media="(max-width: 768px)" srcset="../imgs/cidade/home_juca_md.webp">
-                                    <img src="../imgs/cidade/home_juca.webp"
-                                        alt="">
+                                    <img src="../imgs/cidade/home_juca.webp" alt="">
                                 </picture>
-                                <figcaption>Dramaturgo Consagrado</figcaption>
+                                <figcaption class="titulo-retangulo-cinza">Dramaturgo Consagrado</figcaption>
                             </figure>
                         </section>
                     </section>
@@ -108,11 +106,12 @@
                     <div class="row row-cols-md-2">
                         <div>
                             <figure>
-                            <picture>
-                                    <source media="(max-width: 576px)" srcset="../imgs/cidade/home_dados_gerais_sm.webp">
-                                    <source media="(max-width: 768px)" srcset="../imgs/cidade/home_dados_gerais_md.webp">
-                                    <img src="../imgs/cidade/home_dados_gerais.webp"
-                                        alt="">
+                                <picture>
+                                    <source media="(max-width: 576px)"
+                                        srcset="../imgs/cidade/home_dados_gerais_sm.webp">
+                                    <source media="(max-width: 768px)"
+                                        srcset="../imgs/cidade/home_dados_gerais_md.webp">
+                                    <img src="../imgs/cidade/home_dados_gerais.webp" alt="">
                                 </picture>
                             </figure>
                             </figure>
@@ -139,22 +138,20 @@
                         <section>
                             <h3>BRASÃO</h3>
                             <picture>
-                                    <source media="(max-width: 576px)" srcset="../imgs/cidade/home_brasao_sm.webp">
-                                    <source media="(max-width: 768px)" srcset="../imgs/cidade/home_brasao_md.webp">
-                                    <img src="../imgs/cidade/home_brasao.webp"
-                                        alt="">
-                                </picture>
+                                <source media="(max-width: 576px)" srcset="../imgs/cidade/home_brasao_sm.webp">
+                                <source media="(max-width: 768px)" srcset="../imgs/cidade/home_brasao_md.webp">
+                                <img src="../imgs/cidade/home_brasao.webp" alt="">
+                            </picture>
                             <p>Baseado nos escudos portugueses, o brasão de São Roque sintetiza a história da cidade,
                                 desde seus fundadores até alguns de seus principais elementos.</p>
                         </section>
                         <section>
                             <h3>BANDEIRA</h3>
                             <picture>
-                                    <source media="(max-width: 576px)" srcset="../imgs/cidade/home_bandeira_sm.webp">
-                                    <source media="(max-width: 768px)" srcset="../imgs/cidade/home_bandeira_md.webp">
-                                    <img src="../imgs/cidade/home_bandeira.webp"
-                                        alt="">
-                                </picture>
+                                <source media="(max-width: 576px)" srcset="../imgs/cidade/home_bandeira_sm.webp">
+                                <source media="(max-width: 768px)" srcset="../imgs/cidade/home_bandeira_md.webp">
+                                <img src="../imgs/cidade/home_bandeira.webp" alt="">
+                            </picture>
                             <p>Com o mesmo brasão em seu centro, a bandeira de São Roque simboliza o união do município
                                 com o Estado de São Paulo</p>
                         </section>

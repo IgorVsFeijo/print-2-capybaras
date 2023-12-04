@@ -6,6 +6,7 @@
 
 /* Estilos Universais */
 
+
 header .logo * {
   max-height: 90px;
 }
@@ -309,6 +310,10 @@ picture.img-home-princ {
 
 /* AREA CIDADE */
 
+.paginas-area-cidade article.container-lg{
+  padding: 0px 25px;
+}
+
 .paginas-area-cidade > main > article > div:first-child {
   width: 100vw;
   max-width: none;
@@ -386,31 +391,56 @@ picture.img-home-princ {
   color: #1d2f6f;
 }
 
-.titulo-verde-agua{
+.titulo-verde-agua, .titulo-retangulo-cinza{
   width: 100%;
   background-color: #00a6a6;
   color: white;
-  height: 3em;
+  line-height: 2em;
   display: flex;
-  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 5px 6em;
+  font-size: 1rem;
+  text-transform: uppercase;
 }
 
-#hc-sessao-historia .img-grande{
-  width: 100vw;
+.titulo-retangulo-cinza{
+  background-color: #f2f2f2;
+  color: black;
+  padding: 0;
+}
+
+
+.btn-veja-mais{
   position: relative;
-  right: calc(50vw - 50%);
+  padding: 7px 40px;
+  left: calc(100% - 160px);
+  margin-top: 30px;
+  margin-bottom: 80px;
+}
+
+.img-grande .titulo-verde-agua{
+  justify-content: flex-start;
+}
+
+.hc-cards-pessoas{
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding: 15px 50px;
+  gap: 8px;
 }
 
-#hc-sessao-historia .img-grande *{
-  max-width: 1340px;
+.hc-card-pessoa{
+  padding: 0;
+  flex-shrink: 1;
+  max-width: 33%;
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.10);
 }
 
-#hc-sessao-historia .img-grande picture img{
-  width: 100%;
+.hc-card-pessoa figure{
+  margin: 0;
+}
+
+.hc-card-pessoa h2{
+  margin: 0px;
 }
 
 /* Dados Gerais Cidade */
@@ -635,13 +665,14 @@ h2 {
 }
 
 /*Início Home CIDADAO */
-.btn-vermais {
+.btn-vermais, .btn-veja-mais{
   color: white;
   background-color: #ff9f1c;
   text-transform: uppercase;
+  border: none;
 }
 
-.btn-vermais:hover {
+.btn-vermais:hover, .btn-veja-mais:hover {
   background-color: #ff9a0d;
   color: white;
   color: rgb(223, 223, 223);
