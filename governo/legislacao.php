@@ -144,6 +144,9 @@
                 </div>
               </div>
             </div>
+            <?php 
+          include '../includes/inc_referencias.php';
+          ?>
     </div>
   </div>
     <!-- Inicio do Footer -->

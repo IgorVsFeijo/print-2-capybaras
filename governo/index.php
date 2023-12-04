@@ -34,6 +34,7 @@
         </article>
 
         <aside class="col-lg-4 col-md-6 col-sm-12 aside_home_gov">
+          <h2 class="hide">Aside - h2</h2>
           <div class="container text-center">
             <h1>Secretarias</h1>
             <figure class="col-lg-12 col-md-12 col-sm-12">
@@ -64,7 +65,9 @@
             </figure>
             <p>Saiba mais sobre quem compõe a Câmara de Vereadores da Cidade e um pouco sobre a importância dessa instituição nas decisões tomadas para melhoria de São Roque <a href="legislativo.php">Saiba Mais</a></p>
         </section>
-       
+        <?php 
+          include '../includes/inc_referencias.php';
+          ?>
     </div>
   </div>
 

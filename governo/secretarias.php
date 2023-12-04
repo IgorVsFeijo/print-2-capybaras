@@ -26,6 +26,7 @@
             <h1>SECRETARIAS MUNICIPAIS</h1>
         </section>
         <article class="col-lg-12 col-md-12 col-sm-12">
+        <h2 class="hide">Article - h2</h2>
             <p>As secretarias municipais possuem um papel crucial na administração e progresso das cidades. Seu propósito principal é coordenar e implementar políticas públicas em áreas como saúde, educação, transporte, cultura e meio ambiente. Com o intuito de suprir as necessidades da população local, estas secretarias planejam, organizam e executam ações, assegurando serviços de excelência e promovendo o bem-estar dos cidadãos. Adicionalmente, têm a responsabilidade de gerir os recursos públicos destinados a cada setor, buscando sua utilização eficiente e aprimorando os serviços oferecidos à comunidade. 
             Ao articular diferentes órgãos e áreas da administração pública, as secretarias municipais têm o papel de alinhar as estratégias e diretrizes determinadas pelo poder executivo local. Essa articulação visa promover a integração e um desenvolvimento coeso das políticas públicas, desempenhando um papel central na governança municipal. Assim, contribuem como pilares essenciais na construção de cidades mais inclusivas, sustentáveis e eficientes, atendendo às demandas e buscando aprimorar a qualidade de vida dos cidadãos que residem em São Roque.
             </p>
@@ -35,6 +36,7 @@
 
     <div class="row">
         <section class="col-lg-4 col-md-4 col-sm-12">
+        <h2 class="hide">Section - h2</h2>
             <figure>
                 <img src="../imgs/governo/defesacivil.webp" alt="foto de logotipo da defesa civil do município">
             </figure>
@@ -44,6 +46,7 @@
             <p>defesacivil@saoroque.sp.gov.br</p>
         </section>
         <section class="col-lg-4 col-md-4 col-sm-12">
+        <h2 class="hide">Section - h2</h2>
             <figure>
                 <img src="../imgs/governo/brasao.webp" alt="foto do brasão de são roque">
             </figure>
@@ -53,6 +56,7 @@
             <p>administraacao@saoroque.sp.gov.br</p>
         </section>
         <section class="col-lg-4 col-md-4 col-sm-12">
+        <h2 class="hide">Section - h2</h2>
             <figure>
                 <img src="../imgs/governo/brasao.webp" alt="foto do brasão de são roque">
             </figure>
@@ -65,6 +69,7 @@
     </div>
     <div class="row">
         <section class="col-lg-4 col-md-4 col-sm-12">
+        <h2 class="hide">Section - h2</h2>
             <figure>
                 <img src="../imgs/governo/education.webp" alt="foto de logotipo da secretaria de educação">
             </figure>
@@ -75,6 +80,7 @@
         </section>
 
         <section class="col-lg-4 col-md-4 col-sm-12">
+        <h2 class="hide">Section - h2</h2>
             <figure>
                 <img src="../imgs/governo/brasao.webp" alt="foto do brasão de são roque">
             </figure>
@@ -84,6 +90,7 @@
             <p>financas@saoroque.sp.gov.br</p>
         </section>
         <section class="col-lg-4 col-md-4 col-sm-12">
+        <h2 class="hide">Section - h2</h2>
             <figure>
                 <img src="../imgs/governo/informat.webp" alt="foto do logotipo da divisão de informática da prefeitura">
             </figure>
@@ -96,6 +103,7 @@
     </div>
     <div class="row">
         <section class="col-lg-4 col-md-4 col-sm-12">
+        <h2 class="hide">Section - h2</h2>
             <figure>
                 <img src="../imgs/governo/brasao.webp" alt="foto do brasão de são roque">
             </figure>
@@ -105,6 +113,7 @@
             <p>obras@saoroque.sp.gov.br</p>
         </section>
         <section class="col-lg-4 col-md-4 col-sm-12">
+        <h2 class="hide">Section - h2</h2>
             <figure>
                 <img src="../imgs/governo/brasao.webp" alt="foto do brasão de são roque">
             </figure>
@@ -114,6 +123,7 @@
             <p>planejamento@saoroque.sp.gov.br</p>
         </section>
         <section class="col-lg-4 col-md-4 col-sm-12">
+        <h2 class="hide">Section - h2</h2>
             <figure>
                 <img src="../imgs/governo/saude.webp" alt="foto do logotipo da secretaria de saúde de são roque">
             </figure>
@@ -126,6 +136,7 @@
     </div>
     <div class="row">
         <section class="col-lg-4 col-md-4 col-sm-12">
+        <h2 class="hide">Section - h2</h2>
             <figure>
                 <img src="../imgs/governo/brasao.webp" alt="foto do brasão de são roque">
             </figure>
@@ -135,6 +146,7 @@
             <p>turismo@saoroque.sp.gov.br</p>
         </section>
         <section class="col-lg-4 col-md-4 col-sm-12">
+        <h2 class="hide">Section - h2</h2>
             <figure>
                 <img src="../imgs/governo/brasao.webp" alt="foto do brasão de são roque">
             </figure>
@@ -144,6 +156,7 @@
             <p>juridico@saoroque.sp.gov.br</p>
         </section>
         <section class="col-lg-4 col-md-4 col-sm-12">
+        <h2 class="hide">Section - h2</h2>
             <figure>
                 <img src="../imgs/governo/cultura.webp" alt="foto do logotipo da divisão de cultura do município de são roque">
             </figure>
@@ -156,6 +169,7 @@
     </div>
     <div class="row">
         <section class="col-lg-4 col-md-4 col-sm-12">
+        <h2 class="hide">Section - h2</h2>
             <figure>
                 <img src="../imgs/governo/devrural.webp" alt="foto do logotipo da secretaria de desenvolvimento rural da cidade de são roque">
             </figure>
@@ -165,6 +179,7 @@
             <p>desenvolvimentorural@saoroque.sp.gov.br</p>
         </section>
         <section class="col-lg-4 col-md-4 col-sm-12">
+        <h2 class="hide">Section - h2</h2>
             <figure>
                 <img src="../imgs/governo/esporte.webp" alt="foto do logotipo da secretaria de esportes do município">
             </figure>
@@ -174,6 +189,7 @@
             <p>esporte@saoroque.sp.gov.br</p>
         </section>
         <section class="col-lg-4 col-md-4 col-sm-12">
+            <h2 class="hide">Section - h2</h2>
             <figure>
                 <img src="../imgs/governo/meiambiente.webp" alt="foto do logotipo da secretaria do meio ambiente do município">
             </figure>
@@ -182,7 +198,9 @@
             <p>(11) 99623-1769</p>
             <p>meioambiente@saoroque.sp.gov.br</p>
         </section>
-        
+        <?php 
+          include '../includes/inc_referencias.php';
+          ?>
     </div>
   </div>
   <!-- Inicio do Footer -->
