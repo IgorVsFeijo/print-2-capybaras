@@ -11,9 +11,7 @@ html{
 
 .bg-white{
   background-color: #f2f2f2!important;
-  color: #1d2f6f!important;
-  padding: 20px 35px!important;
-  margin: 0!important;
+  color: black!important;
 }
 
 header .logo * {
@@ -328,7 +326,10 @@ picture.img-home-princ {
 .grupodelinks{
   text-indent: 4em;
 }
-
+.espaço_noticia{
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
 /* AREA CIDADE */
 
 .paginas-area-cidade .h1-cidade{
@@ -389,12 +390,12 @@ picture.img-home-princ {
   left: calc(50% - 50vw);
   padding: 8px calc(50vw - 50%);
   text-transform: uppercase;
-  margin: 40px 0;
+  margin: 20px 0;
 }
 
-.titulo-sessao.primeiro
-{
-  margin: 0 0 40px;
+.paginas-area-cidade article > div > section > .titulo-sessao:only-child{
+  margin: 0 0 20px;
+
 }
 
 .paginas-area-cidade .poster {
@@ -533,16 +534,6 @@ picture.img-home-princ {
   right: 0;
   left: auto;
   max-width: 160px;
-}
-
-.riqueza-agricola .card{
-  border: 0;
-  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.22);
-}
-
-.dashboard-dadosgerais section{
-  background-color: #009e9e;
-  border: 5px solid rgb(255, 255, 255);
 }
 
 /* Dados Gerais Cidade */
@@ -1039,18 +1030,21 @@ h2 {
 /* INICIO CSS AREA CULTURA */ #culturasr main {
   padding: 2em 0em;
 }
+.pages_cultura{
+  margin: 2em 0em;
+}
 .noticias_cultura {
   box-shadow: 3px 4px 4px 3px rgba(85, 85, 85, 0.5);
   padding: 20px;
   background-color: #1d2f6f;
   color: white;
-  border-radius: 2em;
+  border-radius: 10px;
 }
 .notícia_mobile {
   box-shadow: 0px 3px 3px 0px rgba(85, 85, 85, 0.2);
   padding: 0.5em 0.4em 0em 0.4em;
   background-color: #00a6a659;
-  border-radius: 1em;
+  border-radius: 10px;
 }
 .notícia_mobile p {
   font-size: 1.1em;
@@ -1058,7 +1052,7 @@ h2 {
 }
 .conhecamais {
   background-color: #00a6a6;
-  border-radius: 2em;
+  border-radius: 10px;
   margin-top: 1em;
   box-shadow: 0px 2px 4px 3px rgba(85, 85, 85, 0.5);
 }
@@ -1067,7 +1061,7 @@ h2 {
 }
 .monumento_cultural {
   border: 3px solid;
-  border-radius: 2em;
+  border-radius: 10px;
   background-color: #ff9f1c;
   box-shadow: 0px 2px 1px 3px rgba(85, 85, 85, 0.5);
   padding-top: 1em;
@@ -1096,7 +1090,7 @@ h2 {
   background-color: #1d2f6f;
   color: white;
   padding: 0.5em 0.5em;
-  border-radius: 2em;
+  border-radius: 10px;
   margin-bottom: 1.3em;
   box-shadow: 0px 3px 3px 3px rgba(85, 85, 85, 0.5);
 }
@@ -1158,6 +1152,9 @@ h2 {
 }
 main.empresa {
   padding: 1em 0em;
+}
+.projetos{
+  margin-bottom: 2em;
 }
 .imagemcentral_empresas {
   width: 100%;
@@ -1579,3 +1576,13 @@ select {
 }
 
 /* Fim Media Queries*/
+/* REFERENCIAS */
+
+.referencias_link{
+  text-transform: uppercase;
+  text-align: center;
+  background-color: #ff9a0d;
+  color: white;
+  border-radius: 10px;
+  padding: 5px;
+}
