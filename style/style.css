@@ -386,6 +386,33 @@ picture.img-home-princ {
   color: #1d2f6f;
 }
 
+.titulo-verde-agua{
+  width: 100%;
+  background-color: #00a6a6;
+  color: white;
+  height: 3em;
+  display: flex;
+  align-items: center;
+}
+
+#hc-sessao-historia .img-grande{
+  width: 100vw;
+  position: relative;
+  right: calc(50vw - 50%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 15px 50px;
+}
+
+#hc-sessao-historia .img-grande *{
+  max-width: 1340px;
+}
+
+#hc-sessao-historia .img-grande picture img{
+  width: 100%;
+}
+
 /* Dados Gerais Cidade */
 
 main#dados-gerais li {
@@ -1361,6 +1388,10 @@ select {
 
   .paginas-area-cidade #cidade-simbolos .poster {
     background-image: url(../imgs/cidade/simbolos_md1.webp);
+  }
+
+  #hc-sessao-historia .img-grande{
+    padding: 0px;
   }
 }
 
