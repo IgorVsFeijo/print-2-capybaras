@@ -22,6 +22,10 @@ footer .logo * {
   max-height: 110px;
 }
 
+footer .desenvolvido-por i{
+  color: white;
+}
+
 header a:hover .logo * {
   transform: scale(1.1);
 }
@@ -560,6 +564,11 @@ main#dados-gerais li {
 
 #page-acessibilidade .icon {
   font-size: 4em;
+  color: white;
+}
+
+#page-acessibilidade button{
+  background-color: #10246b;
 }
 
 #page-acessibilidade span.m-auto {
@@ -1585,4 +1594,5 @@ select {
   color: white;
   border-radius: 10px;
   padding: 5px;
+  margin-bottom: 1em;
 }
