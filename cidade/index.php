@@ -27,7 +27,7 @@
 
                 <div>
                     <hgroup>
-                        <h1 class="display-2">A CIDADE</h1>
+                        <h1 class="h1-cidade">A CIDADE</h1>
                         <p class="h3">de São Roque</p>
                     </hgroup>
                 </div>

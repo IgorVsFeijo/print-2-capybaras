@@ -30,7 +30,7 @@
 
                 <div>
                     <hgroup>
-                        <h1 class="display-2
+                        <h1 class="h1-cidade
 
 ">DADOS GERAIS</h1>
                         <p class="h3">Informações Úteis</p>

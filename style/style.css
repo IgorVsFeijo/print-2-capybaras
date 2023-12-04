@@ -5,7 +5,14 @@
 @import url("https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Noto+Sans:wght@400;500;700&display=swap");
 
 /* Estilos Universais */
+html{
+ box-sizing: initial;
+}
 
+.bg-white{
+  background-color: #f2f2f2!important;
+  color: black!important;
+}
 
 header .logo * {
   max-height: 90px;
@@ -322,9 +329,14 @@ picture.img-home-princ {
 
 /* AREA CIDADE */
 
+.paginas-area-cidade .h1-cidade{
+  font-size: 8vh;
+}
+
 .paginas-area-cidade article.container-lg{
   padding: 0px 25px;
 }
+
 
 .paginas-area-cidade figure img,
 .paginas-area-cidade picture img
@@ -375,7 +387,12 @@ picture.img-home-princ {
   left: calc(50% - 50vw);
   padding: 8px calc(50vw - 50%);
   text-transform: uppercase;
-  margin: 0 0 10px;
+  margin: 20px 0;
+}
+
+.paginas-area-cidade article > div > section > .titulo-sessao:only-child{
+  margin: 0 0 20px;
+
 }
 
 .paginas-area-cidade .poster {
@@ -432,7 +449,7 @@ picture.img-home-princ {
 .btn-veja-mais{
   position: relative;
   padding: 7px 40px;
-  left: calc(100% - 160px);
+  left: calc(100% - 200px);
   margin-top: 30px;
   margin-bottom: 80px;
 }
@@ -501,6 +518,19 @@ picture.img-home-princ {
 .legenda-bonitinha-cidade *{
   padding: 0;
   margin: 2px;
+}
+
+.historia-pts-turisticos{
+  position: relative;
+  padding-bottom: 130px;
+}
+
+.historia-pts-turisticos .btn-veja-mais{
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  left: auto;
+  max-width: 160px;
 }
 
 /* Dados Gerais Cidade */
@@ -1453,9 +1483,6 @@ select {
     padding-left: 80px;
 }
 
-.paginas-area-cidade > main > article > div:first-child{
-  padding-bottom: 100px;
-}
 
 .paginas-area-cidade > main > article > div:first-child div > p{
     text-align: left;

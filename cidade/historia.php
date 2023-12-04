@@ -28,9 +28,7 @@
             <div class="poster">
                 <div>
                     <hgroup>
-                        <h1 class="display-2
-
-">A HISTÓRIA</h1>
+                        <h1 class="h1-cidade">A HISTÓRIA</h1>
                         <p class="h3">de São Roque</p>
                     </hgroup>
                     <!-- Introdução do Artigo -->
@@ -45,16 +43,15 @@
 
             <!-- Inicio Sessão Origens e Fundação -->
 
-            <div class="container-lg">
+            <div>
                 <section class="origens">
                     <h2 class="titulo-sessao">Origens e Fundação</h2>
                     <div class="row row-cols-2">
-                    <picture>
-                                    <source media="(max-width: 576px)" srcset="../imgs/cidade/historia_origens_sm.webp">
-                                    <source media="(max-width: 768px)" srcset="../imgs/cidade/historia_origens_md.webp">
-                                    <img src="../imgs/cidade/historia_origens.webp"
-                                        alt="">
-                                </picture>
+                        <picture>
+                            <source media="(max-width: 576px)" srcset="../imgs/cidade/historia_origens_sm.webp">
+                            <source media="(max-width: 768px)" srcset="../imgs/cidade/historia_origens_md.webp">
+                            <img src="../imgs/cidade/historia_origens.webp" alt="">
+                        </picture>
                         <div>
                             <p>São Roque, uma cidade histórica no estado de São Paulo, Brasil, foi fundada em 16 de
                                 agosto de 1657 por Pedro Vaz de Barros, conhecido como Vaz Guaçu. Ele nomeou a cidade em
@@ -82,13 +79,12 @@
                 <section class="riqueza-agricola">
                     <h2 class="titulo-sessao">Riqueza Agrícola</h2>
                     <div class="card">
-                            <picture>
-                                    <source media="(max-width: 576px)" srcset="../imgs/cidade/historia_agricultura_sm.webp">
-                                    <source media="(max-width: 768px)" srcset="../imgs/cidade/historia_agricultura_md.webp">
-                                    <img src="../imgs/cidade/historia_agricultura.webp"
-                                        alt="">
-                                </picture>
-                        <p class="card-body">A riqueza agrícola de São Roque é marcada pelo cultivo de uvas e produção
+                        <picture>
+                            <source media="(max-width: 576px)" srcset="../imgs/cidade/historia_agricultura_sm.webp">
+                            <source media="(max-width: 768px)" srcset="../imgs/cidade/historia_agricultura_md.webp">
+                            <img src="../imgs/cidade/historia_agricultura.webp" alt="">
+                        </picture>
+                        <p class="card-body legenda-bonitinha-cidade bg-white">A riqueza agrícola de São Roque é marcada pelo cultivo de uvas e produção
                             de vinhos, beneficiada pelo clima e solos férteis. A região é reconhecida por suas vinícolas
                             de alta qualidade. Além da viticultura, São Roque cultivou milho, cana e café,
                             diversificando sua economia agrícola. Essa herança agrícola moldou a cultura e o turismo da
@@ -118,40 +114,40 @@
                                 encontram de maneira harmoniosa.</p>
 
                         </div>
-                            <picture>
-                                    <source media="(max-width: 576px)" srcset="../imgs/cidade/historia_tapetes_sm.webp">
-                                    <source media="(max-width: 768px)" srcset="../imgs/cidade/historia_tapetes_md.webp">
-                                    <img src="../imgs/cidade/historia_tapetes.webp"
-                                        alt="">
-                                </picture>
+                        <picture>
+                            <source media="(max-width: 576px)" srcset="../imgs/cidade/historia_tapetes_sm.webp">
+                            <source media="(max-width: 768px)" srcset="../imgs/cidade/historia_tapetes_md.webp">
+                            <img src="../imgs/cidade/historia_tapetes.webp" alt="">
+                        </picture>
                     </div>
                     <section class="historia-pts-turisticos">
                         <h3 class="titulo-sessao2">CONHEÇA NOSSOS TESOUROS</h3>
                         <div class="row row-cols-sm-3">
                             <figure>
-                            <picture>
+                                <picture>
                                     <source media="(max-width: 576px)" srcset="../imgs/cidade/historia_saboo_sm.webp">
                                     <source media="(max-width: 768px)" srcset="../imgs/cidade/historia_saboo_md.webp">
-                                    <img src="../imgs/cidade/historia_saboo.webp"
-                                        alt="">
+                                    <img src="../imgs/cidade/historia_saboo.webp" alt="">
                                 </picture>
                                 <figcaption>morro do saboó</figcaption>
                             </figure>
                             <figure>
-                            <picture>
-                                    <source media="(max-width: 576px)" srcset="../imgs/cidade/historia_quilombo_sm.webp">
-                                    <source media="(max-width: 768px)" srcset="../imgs/cidade/historia_quilombo_md.webp">
-                                    <img src="../imgs/cidade/historia_quilombo.webp"
-                                        alt="">
+                                <picture>
+                                    <source media="(max-width: 576px)"
+                                        srcset="../imgs/cidade/historia_quilombo_sm.webp">
+                                    <source media="(max-width: 768px)"
+                                        srcset="../imgs/cidade/historia_quilombo_md.webp">
+                                    <img src="../imgs/cidade/historia_quilombo.webp" alt="">
                                 </picture>
                                 <figcaption>quilombo do carmo</figcaption>
                             </figure>
                             <figure>
-                            <picture>
-                                    <source media="(max-width: 576px)" srcset="../imgs/cidade/historia_brasital_sm.webp">
-                                    <source media="(max-width: 768px)" srcset="../imgs/cidade/historia_brasital_md.webp">
-                                    <img src="../imgs/cidade/historia_brasital.webp"
-                                        alt="">
+                                <picture>
+                                    <source media="(max-width: 576px)"
+                                        srcset="../imgs/cidade/historia_brasital_sm.webp">
+                                    <source media="(max-width: 768px)"
+                                        srcset="../imgs/cidade/historia_brasital_md.webp">
+                                    <img src="../imgs/cidade/historia_brasital.webp" alt="">
                                 </picture>
                                 <figcaption>brasital</figcaption>
                             </figure>
@@ -163,29 +159,36 @@
                 <section class="saoroque-atual">
                     <h2 class="titulo-sessao">SÃO ROQUE ATUAL</h2>
                     <div class="row row-cols-sm-2">
-                            <picture>
-                                    <source media="(max-width: 576px)" srcset="../imgs/cidade/historia_saoroque_atual_sm.webp">
-                                    <source media="(max-width: 768px)" srcset="../imgs/cidade/historia_saoroque_atual_md.webp">
-                                    <img src="../imgs/cidade/historia_saoroque_atual.webp"
-                                        alt="">
-                                </picture>
+                        <picture>
+                            <source media="(max-width: 576px)" srcset="../imgs/cidade/historia_saoroque_atual_sm.webp">
+                            <source media="(max-width: 768px)" srcset="../imgs/cidade/historia_saoroque_atual_md.webp">
+                            <img src="../imgs/cidade/historia_saoroque_atual.webp" alt="">
+                        </picture>
                         <div>
-                        <p>São Roque, em sua fase atual, é notável por sua forte indústria de vinicultura, atraindo turistas para as suas renomadas vinícolas. A economia da cidade se diversificou, com um foco particular no setor de serviços e hospitalidade, refletindo a crescente indústria turística.</p>
+                            <p>São Roque, em sua fase atual, é notável por sua forte indústria de vinicultura, atraindo
+                                turistas para as suas renomadas vinícolas. A economia da cidade se diversificou, com um
+                                foco particular no setor de serviços e hospitalidade, refletindo a crescente indústria
+                                turística.</p>
 
-<p>A cidade realiza um equilíbrio cuidadoso entre a preservação de seu rico patrimônio histórico e a adoção de modernizações. Isso se reflete em seus investimentos contínuos em infraestrutura e espaços públicos, visando melhorar a qualidade de vida dos residentes e enriquecer a experiência turística.</p>
+                            <p>A cidade realiza um equilíbrio cuidadoso entre a preservação de seu rico patrimônio
+                                histórico e a adoção de modernizações. Isso se reflete em seus investimentos contínuos
+                                em infraestrutura e espaços públicos, visando melhorar a qualidade de vida dos
+                                residentes e enriquecer a experiência turística.</p>
                         </div>
                     </div>
                     <div class="row row-cols-sm-2">
                         <div class="flex-grow-1">
-                            <p>São Roque é palco de diversos eventos culturais e festivais que celebram e mantêm vivas suas tradições locais. A cidade não é apenas um destino turístico por sua beleza natural e tranquilidade, mas também um lar para os moradores que valorizam a forte sensação de comunidade e o legado cultural.</p>
+                            <p>São Roque é palco de diversos eventos culturais e festivais que celebram e mantêm vivas
+                                suas tradições locais. A cidade não é apenas um destino turístico por sua beleza natural
+                                e tranquilidade, mas também um lar para os moradores que valorizam a forte sensação de
+                                comunidade e o legado cultural.</p>
                             <a href="" class="btn btn-saiba-mais">CONHEÇA NOSSOS PONTOS TURISTICOS</a>
                         </div>
-                                                    <picture>
-                                    <source media="(max-width: 576px)" srcset="../imgs/cidade/historia_saoroque_atual2_sm.webp">
-                                    <source media="(max-width: 768px)" srcset="../imgs/cidade/historia_saoroque_atual2_md.webp">
-                                    <img src="../imgs/cidade/historia_saoroque_atual2.webp"
-                                        alt="">
-                                </picture>
+                        <picture>
+                            <source media="(max-width: 576px)" srcset="../imgs/cidade/historia_saoroque_atual2_sm.webp">
+                            <source media="(max-width: 768px)" srcset="../imgs/cidade/historia_saoroque_atual2_md.webp">
+                            <img src="../imgs/cidade/historia_saoroque_atual2.webp" alt="">
+                        </picture>
                     </div>
                 </section>
             </div>

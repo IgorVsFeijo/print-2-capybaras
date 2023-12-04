@@ -29,7 +29,7 @@
             <div class="area-cidade-introducao poster">
                 <div>
                     <hgroup>
-                        <h1 class="display-2
+                        <h1 class="h1-cidade
 
 ">SÍMBOLOS</h1>
                         <p class="h3">Brasão e Bandeira</p>

@@ -246,8 +246,6 @@ $rootPath = substr($rootPath, $posHtdocs+7, strlen($rootPath));
 </div>
 </header>
 
-<button class="btn btn-outline-dark rolarParaTopo">
-  <a class="text-decoration-none text-dark" href="#top">
+<a class="text-decoration-none text-dark btn btn-outline-dark rolarParaTopo" href="#top">
   ↑
   </a>
-</button>

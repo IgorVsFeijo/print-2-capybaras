@@ -27,7 +27,7 @@
             <!-- Introducao do Artigo Pessoas Notaveis -->
             <div class="pn-introducao poster">
                 <div>
-                    <h1 class="display-2
+                    <h1 class="h1-cidade
 ">
                         PESSOAS <span class="d-block h3">Notáveis</span>
                     </h1>
