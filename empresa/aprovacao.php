@@ -22,11 +22,12 @@
 
   <!-- Fim Header -->
 
-  <div class="pages-empresas">
-    <div class="row text-start container">
+  <div class="pages-empresas ">
+    
+    <div class="container projetos">
+      <div class="row text-start container">
       <b><a href="../empresa/home.php">Home</a> <i class="bi bi-arrow-right"></i> <a href="../empresa/aprovacao.php">Aprovação de Projetos</a></b>
-    </div>
-    <div class="container">
+      </div>
         <h1 class="text-center">Aprovação de Projetos</h1>
         <div class="accordion col-12" id="accordionExample">
                 <div class="row">
@@ -140,7 +141,7 @@
                       </div>
                     </div>
           </div>
-    </div>
+      </div>
     
   </div>
 
