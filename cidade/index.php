@@ -103,7 +103,7 @@
                 </section>
                 <section id="hc-sessao-dados">
                     <h2 class="titulo-sessao">DADOS GERAIS</h2>
-                    <div class="row row-cols-md-2">
+                    <div class="row row-cols-md-2 mt-5">
                         <div>
                             <figure>
                                 <picture>
@@ -121,7 +121,7 @@
                                 visitando São Roque, aqui estão todos os dados essenciais que você precisa saber a
                                 respeito da nossa cidade e se guiar na sua viagem, aproveitando tudo que
                                 podemos oferecer.</p>
-                            <ul>
+                            <ul class="home-dadosgerais-list">
                                 <li>População Total: 156.342;</li>
                                 <li>Altitude: 625m acima do nível do mar;</li>
                                 <li>Aniversário: 16 de Agosto;</li>
@@ -134,55 +134,55 @@
                 </section>
                 <section id="hc-sessao-simbolos">
                     <h2 class="titulo-sessao">BRASÃO E BANDEIRA</h2>
-                    <div class="row row-cols-2">
-                        <section>
-                            <h3>BRASÃO</h3>
-                            <picture>
+                    <div class="row row-cols-lg-2">
+                        <section class="d-flex flex-column">
+                            <h3 class="titulo-verde-agua order-1 sombra">BRASÃO</h3>
+                            <picture class="order-0 sombra">
                                 <source media="(max-width: 576px)" srcset="../imgs/cidade/home_brasao_sm.webp">
                                 <source media="(max-width: 768px)" srcset="../imgs/cidade/home_brasao_md.webp">
                                 <img src="../imgs/cidade/home_brasao.webp" alt="">
                             </picture>
-                            <p>Baseado nos escudos portugueses, o brasão de São Roque sintetiza a história da cidade,
+                            <p class="order-2">Baseado nos escudos portugueses, o brasão de São Roque sintetiza a história da cidade,
                                 desde seus fundadores até alguns de seus principais elementos.</p>
                         </section>
-                        <section>
-                            <h3>BANDEIRA</h3>
-                            <picture>
+                        <section class="d-flex flex-column">
+                            <h3 class="titulo-verde-agua order-1 sombra">BANDEIRA</h3>
+                            <picture class="order-0 sombra">
                                 <source media="(max-width: 576px)" srcset="../imgs/cidade/home_bandeira_sm.webp">
                                 <source media="(max-width: 768px)" srcset="../imgs/cidade/home_bandeira_md.webp">
                                 <img src="../imgs/cidade/home_bandeira.webp" alt="">
                             </picture>
-                            <p>Com o mesmo brasão em seu centro, a bandeira de São Roque simboliza o união do município
+                            <p class="order-2">Com o mesmo brasão em seu centro, a bandeira de São Roque simboliza o união do município
                                 com o Estado de São Paulo</p>
                         </section>
                     </div>
                     <a href="simbolos.php" class="btn btn-primary btn-veja-mais">VEJA MAIS</a>
                 </section>
                 <section id="hc-sessao-hino">
-                    <h2>HINO DA CIDADE</h2>
-                    <div class="row row-cols-md-2">
-                        <figure>
+                    <h2 class="titulo-sessao">HINO DA CIDADE</h2>
+                    <div class="row ">
+                        <figure class="col-md-8 d-flex flex-column">
                             <iframe src="https://www.youtube.com/embed/DrYRJNrCN3U?si=0TtCDzLd1wE_-WGR"
-                                title="YouTube video player" class="flex-grow-1"
+                                title="YouTube video player" class="flex-grow-1 w-100"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                                 allowfullscreen></iframe>
-                            <figcaption>
+                            <figcaption class="legenda-bonitinha-cidade">
                                 <p>Música: Cândido Francisco de Camargo (Neto)</p>
                                 <p>Letra: Edson João Gonçalves (Edson D’aisa)</p>
                             </figcaption>
                         </figure>
-                        <div class="col-md-4">
-                            <p>Surge estância altaneira
-                                Um sol ardente por ti
-                                Do verde das tuas matas
+                        <div class="col-md-4 trecho-hino">
+                            <p>Surge estância altaneira<br>
+                                Um sol ardente por ti<br>
+                                Do verde das tuas matas<br>
                                 Brotam, águas do Aracaí</p>
-                            <p>Embala um sono sereno
-                                Berço de colo moreno
-                                Poetas da natureza são índios
+                            <p>Embala um sono sereno<br>
+                                Berço de colo moreno<br>
+                                Poetas da natureza são índios<br>
                                 Do Vale Carambeí</p>
-                            <p>O grande eleva teu nome
-                                O forte luta até o fim
-                                Rio de sangue nas veias
+                            <p>O grande eleva teu nome<br>
+                                O forte luta até o fim<br>
+                                Rio de sangue nas veias<br>
                                 Da terra onde nasci....</p>
                         </div>
                     </div>
