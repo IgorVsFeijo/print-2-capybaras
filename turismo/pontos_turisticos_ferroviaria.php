@@ -63,10 +63,9 @@
             </div>
         </section>
 
-
-
-
-
+        <?php 
+          include '../includes/inc_referencias.php';
+          ?>
 
     </div>
 
