@@ -116,6 +116,9 @@
             </div>
           </section>
         </article>
+        <?php 
+          include 'includes/inc_referencias.php';
+          ?>
       </main>
     </div>
     <?php

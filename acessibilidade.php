@@ -97,6 +97,9 @@
                 </div>
               </div>
               
+              <?php 
+              include 'includes/inc_referencias.php';
+              ?>
               
             </section>
         </main>

@@ -79,6 +79,9 @@
                 </a>
             </section>
         </div>
+        <?php 
+          include 'includes/inc_referencias.php';
+          ?>
     </div>
     
       <!-- Inicio do Footer -->

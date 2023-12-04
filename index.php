@@ -133,8 +133,14 @@
           <li><a href="../print-2-capybaras/perguntas.php">Perguntas Frequentes</a></li>
           <li><a href="../print-2-capybaras/noticias.php">Notícias</a></li>
           <li><a href="../print-2-capybaras/contato.php">Contato</a></li>
+          <?php 
+          include 'includes/inc_referencias.php';
+          ?>
         </ul>
       </section>
+      
+      
+
     </main>
 
     <!-- Fim da secao veja mais -->

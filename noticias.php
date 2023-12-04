@@ -130,6 +130,10 @@
             </div>
         </aside>
 
+        <?php 
+          include 'includes/inc_referencias.php';
+          ?>
+
     </div>
         <!-- Inicio do Footer  -->
     <?php

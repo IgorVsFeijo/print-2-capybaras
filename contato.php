@@ -43,6 +43,9 @@
                   <button class="btn btn-vermais">Enviar</button>
               </form>
           </div>
+          <?php 
+          include 'includes/inc_referencias.php';
+          ?>
       </main> 
   </div>
 

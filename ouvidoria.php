@@ -67,6 +67,9 @@
     </form>
   </section>
 </div>
+          <?php 
+          include 'includes/inc_referencias.php';
+          ?>
 </main>
     </div>
 
