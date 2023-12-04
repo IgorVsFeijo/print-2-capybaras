@@ -35,7 +35,7 @@
                     <figure>
                         <a href="../turismo/galeria_brasital.php"><img src="../imgs/turismo/brasital_menu_desktop.webp" alt="Imagem referente o local brasital de são roque"></a>
                     </figure>
-                <button class="tur_btn_vermais tur_position_a"><a class="tur_link" href="../turismo/galeria_brasital.php">Ver Mais</a></button>
+                <a class="tur_btn_vermais tur_position_a tur_link" href="../turismo/galeria_brasital.php">Ver Mais</a>
                     </div>
                 </section>
 
@@ -46,7 +46,7 @@
                     <figure>
                         <img src="../imgs/turismo/patio_menu_desktop.webp" alt="Imagem referente o local Patio Corina de são roque">
                     </figure>
-                    <button class="tur_btn_vermais tur_position_a"><a class="tur_link" href="#">Ver Mais</a></button>
+                    <a class="tur_btn_vermais tur_position_a tur_link" href="#">Ver Mais</a>
                     </div>
                 </section>
             </div>
@@ -62,7 +62,7 @@
                     <figure>
                     <a href="../turismo/galeria_ferroviaria.php"> <img src="../imgs/turismo/ferro_menu_desktop.webp" alt="Imagem referente o local estação ferroviaria de são roque"></a>
                     </figure>
-                    <button class="tur_btn_vermais tur_position_a"><a class="tur_link" href="../turismo/galeria_ferroviaria.php">Ver Mais</a></button>
+                   <a class=" tur_btn_vermais tur_position_a tur_link" href="../turismo/galeria_ferroviaria.php">Ver Mais</a>
                     </div>
                 </section>
 
@@ -73,7 +73,7 @@
                     <figure>
                         <img src="../imgs/turismo/cascata_menu_desktop.webp" alt="Imagem referente o local recanto da cascata de são roque">
                     </figure>
-                    <button class="tur_btn_vermais tur_position_a"><a class="tur_link" href="#">Ver Mais</a></button>
+                    <a class="tur_btn_vermais tur_position_a tur_link" href="#">Ver Mais</a>
                     </div>
                 </section>
             </div>
@@ -86,7 +86,7 @@
                     <figure>
                         <img src="../imgs/turismo/catarina_menu_desktop.webp" alt="Imagem referente o local outlet Catarina de são roque">
                     </figure>
-                    <button class="tur_btn_vermais tur_position_a"><a class="tur_link" href="#">Ver Mais</a></button>
+                   <a class="tur_btn_vermais tur_position_a tur_link" href="#">Ver Mais</a>
                     </div>
                 </section>
             </div>
