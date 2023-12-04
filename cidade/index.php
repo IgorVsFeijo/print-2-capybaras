@@ -27,7 +27,7 @@
 
                 <div>
                     <hgroup>
-                        <h1 class="display-1
+                        <h1 class="display-2
 ">A CIDADE</h1>
                         <p class="h3">de São Roque</p>
                     </hgroup>
@@ -37,14 +37,14 @@
             <div class="container-lg">
                 <section id="hc-sessao-historia">
                     <h2 class="titulo-sessao">HISTÓRIA</h2>
-                    <figure>
-                        <picture>
+                    <figure class="img-grande">
+                        <picture class="img-fluid">
                             <source media="(max-width: 576px)" srcset="../imgs/cidade/home_historia_sm.webp">
                             <source media="(max-width: 768px)" srcset="../imgs/cidade/home_historia_md.webp">
                             <img src="../imgs/cidade/home_historia.webp"
                                 alt="Imagem em preto e branco da cidade de São Roque, nela podemos ver a rua XV de Novembro, poucas pessoas na rua, e uma arquitetura típica das casas brasileiras antigas">
                         </picture>
-                        <figcaption class="text-uppercase">rua xv de novembro</figcaption>
+                        <figcaption class="text-uppercase titulo-verde-agua">rua xv de novembro</figcaption>
                     </figure>
                     <p>São Roque, frequentemente referida como a "Cidade do Vinho", carrega uma rica tapeçaria de
                         histórias que remonta à sua fundação em 1657. Ao mergulhar em sua trajetória, descobre-se um

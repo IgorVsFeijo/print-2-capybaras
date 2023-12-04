@@ -28,7 +28,8 @@
             <div class="poster">
                 <div>
                     <hgroup>
-                        <h1 class="display-1
+                        <h1 class="display-2
+
 ">A HISTÓRIA</h1>
                         <p class="h3">de São Roque</p>
                     </hgroup>
@@ -48,7 +49,12 @@
                 <section class="origens">
                     <h2 class="titulo-sessao">Origens e Fundação</h2>
                     <div class="row row-cols-2">
-                        <picture><img src="https://placekitten.com/400/450" alt=""></picture>
+                    <picture>
+                                    <source media="(max-width: 576px)" srcset="../imgs/cidade/historia_origens.webp">
+                                    <source media="(max-width: 768px)" srcset="../imgs/cidade/historia_origens.webp">
+                                    <img src="../imgs/cidadehistoria_origens.webp/historia_origens.webp"
+                                        alt="">
+                                </picture>
                         <div>
                             <p>São Roque, uma cidade histórica no estado de São Paulo, Brasil, foi fundada em 16 de
                                 agosto de 1657 por Pedro Vaz de Barros, conhecido como Vaz Guaçu. Ele nomeou a cidade em
