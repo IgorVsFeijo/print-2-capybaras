@@ -47,7 +47,7 @@
             <!-- Inicio Sessão Cards Pessoas Notaveis -->
 
             <section class="sessao-cards-pessoas-notaveis">
-                <h2 class="titulo-sessao vazio">Cartões Pessoas Notáveis</h2>
+                <h2 class="titulo-sessao primeiro vazio">Cartões Pessoas Notáveis</h2>
                 <section class="card">
                     <figure class="card-img">
                                                     <picture>

@@ -40,10 +40,10 @@
 
             <!-- Inicio da sessão de informações em formato Dashboard -->
             <section class="dashboard-dadosgerais row row-cols-md-2">
-                <h2 class="titulo-sessao vazio">Sessão de Informações</h2>
+                <h2 class="titulo-sessao primeiro vazio">Sessão de Informações</h2>
                 <!-- Informações Gerais -->
                 <section class="dashboard-informacoes-gerais col-md-4">
-                    <h3>Informações Gerais</h3>
+                    <h3 class="hide">Informações Gerais</h3>
                     <ul class="list-unstyled">
                         <li><strong>Tipologia:</strong> Mista (atividade turística, agrícola e vinícola)</li>
                         <li><strong>Gentílico:</strong> São-roquense</li>

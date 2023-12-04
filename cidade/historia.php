@@ -45,8 +45,8 @@
 
             <div>
                 <section class="origens">
-                    <h2 class="titulo-sessao">Origens e Fundação</h2>
-                    <div class="row row-cols-2">
+                    <h2 class="titulo-sessao primeiro">Origens e Fundação</h2>
+                    <div class="row row-cols-md-2">
                         <picture>
                             <source media="(max-width: 576px)" srcset="../imgs/cidade/historia_origens_sm.webp">
                             <source media="(max-width: 768px)" srcset="../imgs/cidade/historia_origens_md.webp">
@@ -121,7 +121,7 @@
                         </picture>
                     </div>
                     <section class="historia-pts-turisticos">
-                        <h3 class="titulo-sessao2">CONHEÇA NOSSOS TESOUROS</h3>
+                        <h3 class="titulo-sessao w-100 position-static text-center">CONHEÇA NOSSOS TESOUROS</h3>
                         <div class="row row-cols-sm-3">
                             <figure>
                                 <picture>
@@ -129,7 +129,7 @@
                                     <source media="(max-width: 768px)" srcset="../imgs/cidade/historia_saboo_md.webp">
                                     <img src="../imgs/cidade/historia_saboo.webp" alt="">
                                 </picture>
-                                <figcaption>morro do saboó</figcaption>
+                                <figcaption class="titulo-verde-agua">morro do saboó</figcaption>
                             </figure>
                             <figure>
                                 <picture>
@@ -139,7 +139,7 @@
                                         srcset="../imgs/cidade/historia_quilombo_md.webp">
                                     <img src="../imgs/cidade/historia_quilombo.webp" alt="">
                                 </picture>
-                                <figcaption>quilombo do carmo</figcaption>
+                                <figcaption class="titulo-verde-agua">quilombo do carmo</figcaption>
                             </figure>
                             <figure>
                                 <picture>
@@ -149,7 +149,7 @@
                                         srcset="../imgs/cidade/historia_brasital_md.webp">
                                     <img src="../imgs/cidade/historia_brasital.webp" alt="">
                                 </picture>
-                                <figcaption>brasital</figcaption>
+                                <figcaption class="titulo-verde-agua">brasital</figcaption>
                             </figure>
                             <a href="" class="btn btn-primary btn-veja-mais">VEJA MAIS</a>
                         </div>
