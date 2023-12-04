@@ -1588,7 +1588,9 @@
             </div>
         </div>
     </section>
-            
+    <?php 
+          include '../includes/inc_referencias.php';
+          ?>
         </main>
     </div>    <!-- Inicio do Footer -->
 
