@@ -74,6 +74,9 @@
             <figure class="text-center">
               <img src="../imgs/cultura/expoilustracao.jpg" alt="Visão aérea da Expo São Roque, da entrada do Recanto da Cascata">
             </figure>
+            <?php 
+          include '../includes/inc_referencias.php';
+          ?>
         </main>
 
     </div>
