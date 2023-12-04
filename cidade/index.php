@@ -103,7 +103,7 @@
                 </section>
                 <section id="hc-sessao-dados">
                     <h2 class="titulo-sessao">DADOS GERAIS</h2>
-                    <div class="row row-cols-md-2 mt-5">
+                    <div class="row row-cols-sm-2 mt-5">
                         <div>
                             <figure>
                                 <picture>
@@ -134,7 +134,7 @@
                 </section>
                 <section id="hc-sessao-simbolos">
                     <h2 class="titulo-sessao">BRASÃO E BANDEIRA</h2>
-                    <div class="row row-cols-lg-2">
+                    <div class="row row-cols-md-2">
                         <section class="d-flex flex-column">
                             <h3 class="titulo-verde-agua order-1 sombra">BRASÃO</h3>
                             <picture class="order-0 sombra">
@@ -186,7 +186,7 @@
                                 Da terra onde nasci....</p>
                         </div>
                     </div>
-                    <a href="hino.php" class="btn btn-primary btn-veja-mais">VEJA MAIS</a>
+                    <a href="hino.php" class="btn btn-primary btn-veja-mais my-2">VEJA MAIS</a>
                 </section>
             </div>
 
