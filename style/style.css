@@ -308,6 +308,18 @@ picture.img-home-princ {
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
 }
 
+.area_site{
+  border-bottom: 2px solid;
+  margin-top: 2em;
+  margin-left: 2em;
+}
+.pagina{
+  margin-left: 2em;
+}
+.grupodelinks{
+  text-indent: 4em;
+}
+
 /* AREA CIDADE */
 
 .paginas-area-cidade article.container-lg{
