@@ -99,25 +99,8 @@
                   <p><b>Área:</b> <a href="../print-2-capybaras/governo/index.php">Governo</a></p>
                 </div>
               </div>
-        </article> 
-
-        <article>
-          <div class="row align-items-center sombra">
-            <figure class="col-lg-4 col-md-4 text-center">
-              <img src="imgs/Leonardo.jpeg" alt="Foto do Leonardo, o Editor de Imagens do site e responsável pela área de Empresa">
-            </figure>
-            <div class="col-lg-8 col-md-8 quemsomos_conteudo align-items-center">
-              <h2>Leonardo Marques</h2>
-              <p><b>R.A.:</b> 2650832313012</p>
-              <p>
-              Oi! Eu sou o Leonardo, estudante da Fatec São Roque, sou apaixonado por jogos e estou aprendendo php, espero que gostem do site!
-              </p>
-              <p><b>Função:</b> Editor de imagens</p>
-              <p><b>Área:</b> <a href="../print-2-capybaras/empresa/home.php">Empresa</a></p>
-            </div>
-          </div>
         </article>
-
+        
         <article>
           <div class="row align-items-center sombra">
             <figure class="col-lg-4 col-md-4 text-center">
