@@ -67,6 +67,9 @@ $rootPath = substr($rootPath, $posHtdocs+7, strlen($rootPath));
           <li class="nav-item">
             <a class="nav-link" href="/<?php echo $rootPath ?>/privacidade.php">Privacidade</a>
           </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/<?php echo $rootPath ?>/acessibilidade.php">Acessibilidade</a>
+          </li>
         </menu>
       </div>
       <!-- Fim Navbar Comprimida -->
