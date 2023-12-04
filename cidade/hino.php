@@ -37,8 +37,10 @@
                 </div>
             </div>
 
+            <div class="titulo-sessao3"></div>
+
             <section class="cidade-sessao-retangulares">
-                <h3 class="titulo-sessao primeiro">VÍDEO</h3>
+                <h3 class="titulo-sessao">VÍDEO</h3>
                 <figure>
                     <iframe src="https://www.youtube.com/embed/DrYRJNrCN3U?si=0TtCDzLd1wE_-WGR"
                         title="YouTube video player" class="flex-grow-1"
@@ -113,6 +115,9 @@
                 </div>
             </section>
         </article>
+        <?php 
+          include '../includes/inc_referencias.php';
+          ?>
         <!-- Fim do Artigo -->
     </main>
 

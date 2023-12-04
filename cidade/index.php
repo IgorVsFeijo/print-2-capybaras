@@ -35,7 +35,7 @@
 
             <div class="container-lg">
                 <section id="hc-sessao-historia">
-                    <h2 class="titulo-sessao primeiro">HISTÓRIA</h2>
+                    <h2 class="titulo-sessao">HISTÓRIA</h2>
                     <figure class="img-grande">
                         <picture class="img-fluid">
                             <source media="(max-width: 576px)" srcset="../imgs/cidade/home_historia_sm.webp">
@@ -189,8 +189,10 @@
                     <a href="hino.php" class="btn btn-primary btn-veja-mais my-2">VEJA MAIS</a>
                 </section>
             </div>
-
         </article>
+        <?php 
+          include '../includes/inc_referencias.php';
+          ?>
     </main>
 
     <!-- Inicio do Footer -->

@@ -41,7 +41,7 @@
             </div>
             <!-- Fim Introdução -->
 
-            <div class="titulo-sessao primeiro h3 vazio">Brasão e Bandeira</div>
+            <div class="titulo-sessao h3 vazio">Brasão e Bandeira</div>
 
             <section class="sessao-brasao">
                 <h3 class="titulo-sessao3">BRASÃO</h3>
@@ -98,6 +98,9 @@
             </section>
 
         </article>
+        <?php 
+          include '../includes/inc_referencias.php';
+          ?>
         <!-- Fim do Artigo -->
     </main>
     <!-- Inicio do Footer -->
