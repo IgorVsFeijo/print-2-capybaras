@@ -21,8 +21,6 @@
 
   <!-- Fim Header -->
 
-  <body>
-
     <!-- Inicio Main -->
 
     <main id="home-principal" class="container-lg p-3">
@@ -34,7 +32,7 @@
         <div class="col-12 col-md-7">
           <section class="prefeitura position-relative">
             <!--Inicio secao prefeitura-->
-            <picture class="img-home-princ"><img src="imgs/principal/home.jpg" alt=""></picture>
+            <picture class="img-home-princ"><img src="imgs/principal/home.jpg" alt="imagem da frente da prefeitura de São Roque, detalhando mais sobre ela"></picture>
             <div>
               <h2>Prefeitura SR</h2>
               <p>
@@ -47,8 +45,8 @@
         <a href="cidade/index.php" class="col-12 col-md-5">
           <section class="cidade position-relative flex-row flex-md-column">
             <!--Inicio secao cidade-->
-            <picture class="img-home-princ"><img src="imgs/principal/home_cidade.png" alt=""></picture>
-            <div class="">
+            <picture class="img-home-princ"><img src="imgs/principal/home_cidade.png" alt="imagem da entrada do Portal de São Roque"></picture>
+            <div>
               <h2>Cidade</h2>
               <p>
               Conheça a nossa história e tudo o que São Roque representa para o seu povo e para o Estado de São Paulo.
@@ -60,7 +58,7 @@
         <a href="cidadao/index.php">
           <section class="sessao-cidadao position-relative">
             <!--Inicio secao ciadadao-->
-            <picture class="img-home-princ"><img src="imgs/principal/home_cidadao.jpg" alt=""></picture>
+            <picture class="img-home-princ"><img src="imgs/principal/home_cidadao.jpg" alt="foto ilustrativa mostrando algumas pessoas caminhando ao ônibus da empresa Jundiá, responsável pelos ônibus circulando em São Roque"></picture>
             <div>
               <h2>Cidadão</h2>
               <p>
@@ -74,7 +72,7 @@
           <a href="cultura/index.php">
             <section class="cultura position-relative">
               <!--Inicio secao cultura-->
-              <picture class="img-home-princ"><img src="imgs/principal/home_cultura.jpg" alt=""></picture>
+              <picture class="img-home-princ"><img src="imgs/principal/home_cultura.jpg" alt="Imagem da Brasital, um dos pontos culturais mais importantes de São Roque"></picture>
               <div>
                 <h2>Cultura</h2>
                 <p class="d-none d-sm-block">
@@ -86,7 +84,7 @@
           <a href="turismo/index.php">
             <section class="turismo position-relative">
               <!-- Inicio secao turismo -->
-              <picture class="img-home-princ"><img src="imgs/principal/home_turismo.jpg" alt=""></picture>
+              <picture class="img-home-princ"><img src="imgs/principal/home_turismo.jpg" alt="plantação de uvas em São Roque, simbolizando sua tradição com o vinho"></picture>
               <div>
                 <h2>Turismo</h2>
                 <p class="d-none d-sm-block">
@@ -100,7 +98,7 @@
         <a href="governo/index.php">
           <section class="governo position-relative">
             <!--Inicio secao governo-->
-            <picture class="img-home-princ"><img src="https://placekitten.com/632/610" alt=""></picture>
+            <picture class="img-home-princ"><img src="imgs/governo/camaramunicipal.webp" alt="Imagem da Câmara Municipal de São Roque"></picture>
             <div>
               <h2>Governo</h2>
               <p>
@@ -113,7 +111,7 @@
         <a href="empresa/index.php">
           <section class="empresa position-relative">
             <!-- inicio secao empresa -->
-            <picture class="img-home-princ"><img src="imgs/principal/home_empresa.jpg" alt=""></picture>
+            <picture class="img-home-princ"><img src="imgs/principal/home_empresa.jpg" alt="Imagem ilustrativa de empresas em São Roque"></picture>
             <div>
               <h2>Empresa</h2>
               <p>
@@ -131,10 +129,10 @@
       <section class="veja-mais">
         <h3>Veja Mais</h3>
         <ul>
-          <li>Item 1</li>
-          <li>Item 2</li>
-          <li>Item 3</li>
-          <li>Item 4</li>
+          <li><a href="../print-2-capybaras/ouvidoria.php">Ouvidoria</a></li>
+          <li><a href="../print-2-capybaras/perguntas.php">Perguntas Frequentes</a></li>
+          <li><a href="../print-2-capybaras/noticias.php">Notícias</a></li>
+          <li><a href="../print-2-capybaras/contato.php">Contato</a></li>
         </ul>
       </section>
     </main>
