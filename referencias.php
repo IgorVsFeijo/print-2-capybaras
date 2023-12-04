@@ -21,8 +21,6 @@
 
   <!-- Fim Header -->
 
-  <body>
-
     <!-- Inicio Main -->
 
     <main class="container-lg p-3">
