@@ -161,6 +161,9 @@
               </ul>
               </nav>
         </div>
+        <?php 
+          include '../includes/inc_referencias.php';
+          ?>
   </div>
   
 

@@ -26,7 +26,7 @@
     
     <div class="container projetos">
       <div class="row text-start container">
-      <b><a href="../empresa/home.php">Home</a> <i class="bi bi-arrow-right"></i> <a href="../empresa/aprovacao.php">Aprovação de Projetos</a></b>
+        <b><a href="../empresa/home.php">Home</a> <i class="bi bi-arrow-right"></i> <a href="../empresa/aprovacao.php">Aprovação de Projetos</a></b>
       </div>
         <h1 class="text-center">Aprovação de Projetos</h1>
         <div class="accordion col-12" id="accordionExample">
@@ -141,6 +141,9 @@
                       </div>
                     </div>
           </div>
+          <?php 
+          include '../includes/inc_referencias.php';
+          ?>
       </div>
     
   </div>

@@ -66,7 +66,9 @@
             <a href="../empresa/aprovacao.php" class="link_home">Aprovação de Projetos</a>
         </div>
       </section>
-
+      <?php 
+          include '../includes/inc_referencias.php';
+          ?>
     </main>
     
 
