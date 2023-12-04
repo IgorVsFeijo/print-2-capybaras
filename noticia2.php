@@ -24,7 +24,7 @@
 
     <!-- Fim Header -->
 
-    <div class="container text-center">
+    <div class="container text-center espaço_noticia">
         <div class="row">
             <article class="col-lg-8 col-md-8 col-sm-12 text-start">
             <div class="row text-start">

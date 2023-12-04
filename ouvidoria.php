@@ -21,7 +21,7 @@
 
     <!-- Fim Header -->
 
-    <div class="container">
+    <div class="container espaço_noticia">
       <main>
         <div class="row text-center">
           <section class="col-lg-12 col-md-12 col-sm-12">

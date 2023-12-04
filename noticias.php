@@ -24,7 +24,7 @@
 
     <!-- Fim Header -->
 
-    <div class="container text-start">
+    <div class="container text-start espaço_noticia">
 
         <aside>
         <div class="row text-start">
