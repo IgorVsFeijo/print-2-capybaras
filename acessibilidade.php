@@ -2,8 +2,8 @@
 <html lang="zxx">
 
 <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="UTF-8" >
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" >
     <title>Sobre Acessibilidade</title>
 
     <?php
@@ -27,7 +27,7 @@
               <div class="row row-cols-3 row-cols-md-4 gap-5 justify-content-between p-5">
                 <button class="col-12 btn btn-secondary p-2 col-sm-4 col-md-3 order-sm-1 order-md-3" type="button" data-bs-toggle="collapse" data-bs-target="#espacamento" aria-expanded="false" aria-controls="collapseWidthExample">
                   <svg xmlns="http://www.w3.org/2000/svg" width="95" height="75" viewBox="0 0 95 75" fill="none">
-                    <path d="M23.7501 68.75L7.91675 56.25L23.7501 43.75L29.3907 48.125L23.0574 53.125H71.9428L65.7084 48.125L71.2501 43.75L87.0834 56.25L71.2501 68.75L65.6095 64.375L71.9428 59.375H23.0574L29.2917 64.375L23.7501 68.75ZM27.3126 40.625L43.5417 6.25H51.4584L67.6876 40.625H60.1667L56.4063 31.875H38.7917L34.8334 40.625H27.3126ZM40.9688 26.875H54.0313L47.698 12.6562H47.3022L40.9688 26.875Z"/>
+                    <path d="M23.7501 68.75L7.91675 56.25L23.7501 43.75L29.3907 48.125L23.0574 53.125H71.9428L65.7084 48.125L71.2501 43.75L87.0834 56.25L71.2501 68.75L65.6095 64.375L71.9428 59.375H23.0574L29.2917 64.375L23.7501 68.75ZM27.3126 40.625L43.5417 6.25H51.4584L67.6876 40.625H60.1667L56.4063 31.875H38.7917L34.8334 40.625H27.3126ZM40.9688 26.875H54.0313L47.698 12.6562H47.3022L40.9688 26.875Z">
                   </svg>
                   <span class="maldito-wrap m-auto">Espaçamento de Texto</span>
                 </button>

@@ -2,8 +2,8 @@
 <html lang="pt-br">
 
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta charset="UTF-8" >
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" >
   <title>São Roque - Home</title>
 
   <?php
@@ -129,10 +129,10 @@
       <section class="veja-mais">
         <h3>Veja Mais</h3>
         <ul>
-          <li><a href="../print-2-capybaras/ouvidoria.php">Ouvidoria</a></li>
-          <li><a href="../print-2-capybaras/perguntas.php">Perguntas Frequentes</a></li>
-          <li><a href="../print-2-capybaras/noticias.php">Notícias</a></li>
-          <li><a href="../print-2-capybaras/contato.php">Contato</a></li>
+          <li><a href="ouvidoria.php">Ouvidoria</a></li>
+          <li><a href="perguntas.php">Perguntas Frequentes</a></li>
+          <li><a href="noticias.php">Notícias</a></li>
+          <li><a href="contato.php">Contato</a></li>
           <?php 
           include 'includes/inc_referencias.php';
           ?>

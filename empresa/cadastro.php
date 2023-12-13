@@ -2,8 +2,8 @@
 <html lang="PT-BR">
 
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta charset="UTF-8" >
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" >
   <title>São Roque - Cadastro</title>
 
   <?php
@@ -30,73 +30,73 @@
           <div class="row">
             <div class="my-3 col-md-4 col-sm-12">
               <label class="form-label">Número de Inscrição: </label>
-              <input class="form-control" type="text" name="inscricao" />
+              <input class="form-control" type="text" name="inscricao" >
             </div>
             <div class="my-3 col-md-4 col-sm-12">
               <h4>COMPROVANTE DE INSCRIÇÃO E SITUAÇÃO CADASTRAL</h4>
             </div>
             <div class="my-3 col-md-4 col-sm-12">
               <label class="form-label">Data de Abertura: </label>
-              <input class="form-control" type="date" name="data" />
+              <input class="form-control" type="date" name="data" >
             </div>
           </div>
 
           <div class="row">
             <div class="my-3 col-md-6 col-sm-12">
               <label class="form-label">Nome Empresarial: </label>
-              <input class="form-control" type="text" name="nome_empresa" />
+              <input class="form-control" type="text" name="nome_empresa" >
             </div>
             <div class="my-3 col-md-6 col-sm-12">
               <label class="form-label">Título do Estabelecimento: </label>
-              <input class="form-control" type="password" name="titulo" />
+              <input class="form-control" type="password" name="titulo" >
             </div>
           </div>
           
           <div class="row">
             <div class="my-3 col-md-6 col-sm-12">
               <label class="form-label">Código da Atividade Econômica Principal:</label>
-              <input class="form-control" type="password" name="principal" />
+              <input class="form-control" type="password" name="principal" >
             </div>
             <div class="my-3 col-md-6 col-sm-12">
               <label class="form-label">Código da Atividade Econômica Secundária:</label>
-              <input class="form-control" type="password" name="secundaria" />
+              <input class="form-control" type="password" name="secundaria" >
             </div>
           </div>
           
           <div class="row">
             <div class="my-3 col-12">
               <label class="form-label">Código e Descrição da Natureza Jurídica: </label>
-              <input class="form-control" type="text" name="natureza_juridica" />
+              <input class="form-control" type="text" name="natureza_juridica" >
             </div>
           </div>
           
           <div class="row">
             <div class="my-3 col-md-6 col-sm-10">
               <label class="form-label">Logradouro:</label>
-              <input class="form-control" type="text" name="rua" />
+              <input class="form-control" type="text" name="rua" >
             </div>
             <div class="my-3 col-2">
               <label class="form-label">Número:</label>
-              <input class="form-control" type="number" name="numero_rua" />
+              <input class="form-control" type="number" name="numero_rua" >
             </div>
             <div class="my-3 col-md-4 col-sm-12">
               <label class="form-label">Complemento:</label>
-              <input class="form-control" type="number" name="numero_rua" />
+              <input class="form-control" type="number" name="numero_rua" >
             </div>
           </div>
           
           <div class="row">
             <div class="my-3 col-md-2 col-sm-12">
               <label class="form-label">CEP:</label>
-              <input class="form-control" type="text" name="CEP" />
+              <input class="form-control" type="text" name="CEP" >
             </div>
             <div class="my-3 col-md-4 col-sm-12">
               <label class="form-label">Bairro/Distrito:</label>
-              <input class="form-control" type="text" name="bairro" />
+              <input class="form-control" type="text" name="bairro" >
             </div>
             <div class="my-3 col-md-5 col-sm-12">
               <label class="form-label">Município:</label>
-              <input class="form-control" type="text" name="cidade" />
+              <input class="form-control" type="text" name="cidade" >
             </div>
             <div class="my-3 col-md-1 col-sm-12">
               <label class="form-label">UF:</label>
@@ -142,25 +142,25 @@
             </div>
             <div class="my-3 col-md-4 col-sm-12">
               <label class="form-label">Data da Situação Cadastral:</label>
-              <input class="form-control" type="date" name="data_cadastral" />
+              <input class="form-control" type="date" name="data_cadastral" >
             </div>
           </div>
           
           <div class="row">
             <div class="my-3 col-12">
               <label class="form-label">Motivação da Situação Cadastral:</label>
-              <input class="form-control" type="text" name="motivacao" />
+              <input class="form-control" type="text" name="motivacao" >
             </div>
           </div>
 
           <div class="row">
             <div class="my-3 col-md-8 col-sm-12">
               <label class="form-label">Situação Especial:</label>
-              <input class="form-control" type="text" name="especial" />
+              <input class="form-control" type="text" name="especial" >
             </div>
             <div class="my-3 col-12">
               <label class="form-label">Data da Situação Especial:</label>
-              <input class="form-control" type="text" name="data_especial" />
+              <input class="form-control" type="text" name="data_especial" >
             </div>
           </div>
 

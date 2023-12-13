@@ -2,8 +2,8 @@
 <html lang="pt-BR">
 
 <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="UTF-8" >
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" >
     <title>São Roque - Cultura e Arte</title>
 
     <?php
@@ -45,7 +45,7 @@
                         <p>Construída em meados de 1890 pelo italiano Enrico Dell’Acqua e levando o seu nome até 1919, a Brasital serviu como o local de funcionamento de uma das primeiras indústrias de tecido do país, com a empresa de seu fundador já tendo expandido para a Argentina e a própria Itália. Assim, se tornou um dos prédios históricos mais importantes da região. A Brasital possui uma extensão de 9200 m₂, antes ocupados com galpões produzindo diferentes tipos de tecidos de algodão. Fechada em 1970, o local foi reaberto em 1989, passando a ser um Centro Educacional e Cultural, se tornando um dos maiores símbolos de cultura de São Roque, com biblioteca e oficinas estimulantes à cultura, abertas para a população participar e ingressar cada vez mais nesse ramo.</p>
                         <figure class="text-center">
                           <picture >
-                            <source srcset="../imgs/cultura/brasital2.webp" media="(min-width: 992px)"/><img src=".." alt="">
+                            <source srcset="../imgs/cultura/brasital2.webp" media="(min-width: 992px)"><img src=".." alt="">
                     </picture>
                         </figure>
                       </section>
@@ -141,19 +141,19 @@
     <div class="text-center p-2 w-100 barra-azulzinha" id="barra-azulzinhaibilidade2">
       <div class="btn-group acess row justify-content-center">
         <button type="button" class="btn btn-acessibilidade col-1">
-          <img src="https://placekitten.com/30/30" alt="place kitten maneiro" />
+          <img src="https://placekitten.com/30/30" alt="place kitten maneiro" >
         </button>
         <button type="button" class="btn btn-acessibilidade col-1">
-          <img src="https://placekitten.com/30/30" alt="place kitten maneiro" />
+          <img src="https://placekitten.com/30/30" alt="place kitten maneiro" >
         </button>
         <button type="button" class="btn btn-acessibilidade col-1">
-          <img src="https://placekitten.com/30/30" alt="place kitten maneiro" />
+          <img src="https://placekitten.com/30/30" alt="place kitten maneiro" >
         </button>
         <button type="button" class="btn btn-acessibilidade col-1">
-          <img src="https://placekitten.com/30/30" alt="place kitten maneiro" />
+          <img src="https://placekitten.com/30/30" alt="place kitten maneiro" >
         </button>
         <button type="button" class="btn btn-acessibilidade col-1">
-          <img src="https://placekitten.com/30/30" alt="place kitten maneiro" />
+          <img src="https://placekitten.com/30/30" alt="place kitten maneiro" >
         </button>
       </div>
     </div>

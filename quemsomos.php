@@ -2,8 +2,8 @@
 <html lang="zxx">
 
 <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="UTF-8" >
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" >
     <title>Quem somos</title>
 
     <?php
@@ -42,10 +42,10 @@
               <h2>Emanuele Cristina da Silva</h2>
               <p><b>R.A.:</b> 2650832313017</p>
               <p>
-              Olá! Meu nome é Emanuele, tenho 20 años. Sempre tive interesse em entender como as coisas funcionam, então aqui estou. Aproveite nosso site!
+              Olá! Meu nome é Emanuele, tenho 20 anos. Sempre tive interesse em entender como as coisas funcionam, então aqui estou. Aproveite nosso site!
               </p>
               <p><b>Função:</b> Gerente</p>
-              <p><b>Área:</b> <a href="../print-2-capybaras/cidadao/index.php">Cidadão</a></p>
+              <p><b>Área:</b> <a href="cidadao/index.php">Cidadão</a></p>
             </div>
           </div>
         </article>
@@ -62,7 +62,7 @@
               Opa, e aí? Sou o Henrique, tenho 18 anos e moro nessa cidadezinha legal de São Roque. Sou uma pessoa tranquila, um pouco preguiçosa, mas te garanto que dei meu melhor para a construção desse projeto para você. Espero que goste de sua passagem por ele.
               </p>
               <p><b>Função:</b> Web Writer</p>
-              <p><b>Área:</b> <a href="../print-2-capybaras/cultura/index.php">Cultura</a></p>
+              <p><b>Área:</b> <a href="cultura/index.php">Cultura</a></p>
             </div>
           </div>
         </article>
@@ -79,7 +79,7 @@
               Oi, sou Igor. Na Fatec, estudo Desenvolvimento Web de Sites e Apps. Aprendendo a programar em PHP. Espero que goste do site, foi feito com amor!
               </p>
               <p><b>Função:</b> Coder</p>
-              <p><b>Área:</b> <a href="../print-2-capybaras/cidade/index.php">Cidade</a></p>
+              <p><b>Área:</b> <a href="cidade/index.php">Cidade</a></p>
             </div>
           </div>
         </article>
@@ -96,7 +96,7 @@
                   Eu sou o João, tenho 29 anos, sou de Curitiba e estou aqui tentando uma vida "melhor" na segunda FATEC. Boa visualização do nosso site.
                   </p>
                   <p><b>Função:</b> Subgerente</p>
-                  <p><b>Área:</b> <a href="../print-2-capybaras/governo/index.php">Governo</a></p>
+                  <p><b>Área:</b> <a href="governo/index.php">Governo</a></p>
                 </div>
               </div>
         </article>
@@ -113,7 +113,7 @@
               Olá, nobre visitante do nosso site. Eu me chamo Pietro Ricardo, tenho 18 anos e sou uma pessoa hiperativa, apaixonado pelo mundo virtual. Até!!!
               </p>
               <p><b>Função:</b> Designer</p>
-              <p><b>Área:</b> <a href="../print-2-capybaras/turismo/index.php">Turismo</a></p>
+              <p><b>Área:</b> <a href="turismo/index.php">Turismo</a></p>
             </div>
           </div>
         </article>

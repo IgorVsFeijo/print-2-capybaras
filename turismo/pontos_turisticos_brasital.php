@@ -2,8 +2,8 @@
 <html lang="pt-br">
 
 <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="UTF-8" >
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" >
     <title>São Roque - Título da Página</title>
 
     <?php
@@ -43,22 +43,22 @@
             <div class="text-start">
                 <p class="col-7"><svg  xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
                         class="bi bi-circle-fill tur_cor_servicos" viewBox="0 0 16 16">
-                        <circle cx="8" cy="8" r="8" />
+                        <circle cx="8" cy="8" r="8" >
                     </svg> Av. Araçaí, 250 - Vila Aguiar, São Roque - SP, 18130-235</p>
 
                 <p class="col-7"><svg  xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
                         class="bi bi-circle-fill tur_cor_servicos" viewBox="0 0 16 16">
-                        <circle cx="8" cy="8" r="8" />
+                        <circle cx="8" cy="8" r="8" >
                     </svg> Visita gratuita</p>
 
                 <p class="col-7"><svg  xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
                         class="bi bi-circle-fill tur_cor_servicos" viewBox="0 0 16 16">
-                        <circle cx="8" cy="8" r="8" />
+                        <circle cx="8" cy="8" r="8" >
                     </svg> Diariamente</p>
 
                 <p class="col-7"><svg  xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
                         class="bi bi-circle-fill tur_cor_servicos" viewBox="0 0 16 16">
-                        <circle cx="8" cy="8" r="8" />
+                        <circle cx="8" cy="8" r="8" >
                     </svg> Trilhas e passeios calmos.</p>
             </div>
         </section>

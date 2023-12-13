@@ -2,14 +2,14 @@
 <html lang="zxx">
 
 <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="UTF-8" >
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" >
     <title>São Roque - Perguntas Frequentes</title>
 
     <?php
         include 'includes/inc_head_links.php';
       ?>
-    <link rel="stylesheet" href="../print-2-capybaras/style/style.css">
+    <link rel="stylesheet" href="style/style.css">
 
 </head>
 
